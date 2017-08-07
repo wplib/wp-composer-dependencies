@@ -1,0 +1,161 @@
+{
+    "packages": {
+        "wpackagist-plugin/sumome": {
+            "1.22": {
+                "name": "wpackagist-plugin/sumome",
+                "version": "1.22",
+                "version_normalized": "1.22.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/sumome/",
+                    "reference": "tags/1.22"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "http://github.com/newclarity/wordpress-dependencies/downloads/wpackagist-plugin/sumome/wpackagist-plugin-sumome-1.22-ac3fb5.zip",
+                    "reference": "tags/1.22",
+                    "shasum": "40da1b71f8c57ec04ba014e419bf8ac5df793a3a"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/sumome/",
+                "uid": 130
+            },
+            "1.23": {
+                "name": "wpackagist-plugin/sumome",
+                "version": "1.23",
+                "version_normalized": "1.23.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/sumome/",
+                    "reference": "tags/1.23"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "http://github.com/newclarity/wordpress-dependencies/downloads/wpackagist-plugin/sumome/wpackagist-plugin-sumome-1.23-16bd5c.zip",
+                    "reference": "tags/1.23",
+                    "shasum": "612a97a3611e4b3c75fd0694d32d92ab1535fce0"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/sumome/",
+                "uid": 131
+            },
+            "1.24": {
+                "name": "wpackagist-plugin/sumome",
+                "version": "1.24",
+                "version_normalized": "1.24.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/sumome/",
+                    "reference": "tags/1.24"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "http://github.com/newclarity/wordpress-dependencies/downloads/wpackagist-plugin/sumome/wpackagist-plugin-sumome-1.24-d010a4.zip",
+                    "reference": "tags/1.24",
+                    "shasum": "cf75d5a95a70cc57f97a2900fb58cbac39ca55a4"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/sumome/",
+                "uid": 132
+            },
+            "1.25": {
+                "name": "wpackagist-plugin/sumome",
+                "version": "1.25",
+                "version_normalized": "1.25.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/sumome/",
+                    "reference": "tags/1.25"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "http://github.com/newclarity/wordpress-dependencies/downloads/wpackagist-plugin/sumome/wpackagist-plugin-sumome-1.25-debca0.zip",
+                    "reference": "tags/1.25",
+                    "shasum": "adfd635113cf051416d44f940d3e5df1d5cf4c9d"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/sumome/",
+                "uid": 133
+            },
+            "1.26": {
+                "name": "wpackagist-plugin/sumome",
+                "version": "1.26",
+                "version_normalized": "1.26.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/sumome/",
+                    "reference": "tags/1.26"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "http://github.com/newclarity/wordpress-dependencies/downloads/wpackagist-plugin/sumome/wpackagist-plugin-sumome-1.26-08773c.zip",
+                    "reference": "tags/1.26",
+                    "shasum": "4d66e9363d52066cba7d6952beabf547fcb7788a"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/sumome/",
+                "uid": 134
+            },
+            "1.27": {
+                "name": "wpackagist-plugin/sumome",
+                "version": "1.27",
+                "version_normalized": "1.27.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/sumome/",
+                    "reference": "tags/1.27"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "http://github.com/newclarity/wordpress-dependencies/downloads/wpackagist-plugin/sumome/wpackagist-plugin-sumome-1.27-cad0db.zip",
+                    "reference": "tags/1.27",
+                    "shasum": "f558fe5b008289cfdb7badd9bcf006c260986c24"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/sumome/",
+                "uid": 135
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/sumome",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/sumome/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "http://github.com/newclarity/wordpress-dependencies/downloads/wpackagist-plugin/sumome/wpackagist-plugin-sumome-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "1b80ba36301aa456636d0c557f40735ec6391fa7"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2017-06-07T17:06:40+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/sumome/",
+                "uid": 136
+            }
+        }
+    }
+}

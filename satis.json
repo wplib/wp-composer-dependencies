@@ -1,0 +1,74 @@
+{
+    "name": "RentPath WordPress Dependencies",
+    "homepage": "http://github.com/newclarity/wordpress-dependencies",
+    "providers": true,
+    "output-dir": ".",
+    "output-html": false,
+    "archive": {
+        "directory": "downloads",
+        "absolute-directory": "downloads",
+        "format": "zip",
+        "prefix-url": "http://github.com/newclarity/wordpress-dependencies"
+    },
+    "repositories": [
+        {
+            "type": "artifact",
+            "url": "artifacts/"
+        },
+        {
+            "type": "composer",
+            "url": "https://wpackagist.org"
+        },
+        {
+            "type": "git",
+            "url": "https://github.com/composer/installers"
+        },
+        {
+            "type": "git",
+            "url": "https://github.com/johnpbloch/wordpress-core"
+        },
+        {
+            "type": "git",
+            "url": "https://github.com/johnpbloch/wordpress-core-installer"
+        }
+    ],
+    "require": {
+        "artifacts/envato-wordpress-toolkit": ">=1.7.3",
+        "artifacts/themepixels-shortcodes": ">=1.0",
+        "artifacts/ml-slider-pro": ">=2.6.6",
+        "artifacts/spam-free-wordpress": ">=2.2.6",
+        "composer/installers": ">=1.3.0",
+        "johnpbloch/wordpress-core-installer": ">=1.0.0",
+        "wpackagist-plugin/query-monitor": "*",
+        "wpackagist-plugin/helpful-information": "*",
+        "johnpbloch/wordpress-core": ">=4.6",
+        "wpackagist-theme/twentyseventeen": "*",
+        "wpackagist-plugin/301-redirects": "0.3",
+        "wpackagist-plugin/akismet": ">=3.3.3",
+        "wpackagist-plugin/category-rss-widget-menu": ">=1.0",
+        "wpackagist-plugin/contact-form-7": ">=4.6",
+        "wpackagist-plugin/embed-code-generator": "dev-trunk",
+        "wpackagist-plugin/facebook-comments-plugin": ">=2.3.6",
+        "wpackagist-plugin/faq-concertina": ">=1.4.2",
+        "wpackagist-plugin/google-sitemap-generator": ">=4.0.8",
+        "wpackagist-plugin/googleanalytics": ">=2.1.3",
+        "wpackagist-plugin/mini-twitter-feed": ">=2.0.1",
+        "wpackagist-plugin/ml-slider": ">=3.3.7",
+        "wpackagist-plugin/post-types-order": ">=1.9.3.3",
+        "wpackagist-plugin/real-time-find-and-replace": ">=3.9",
+        "wpackagist-plugin/recent-tweets-widget": ">=1.6.7",
+        "wpackagist-plugin/regenerate-thumbnails": ">=2.2.6",
+        "wpackagist-plugin/scripts-n-styles": ">=3.3.1",
+        "wpackagist-plugin/social-media-auto-publish": ">=1.7",
+        "wpackagist-plugin/spostarbust": ">=1.2.04.20",
+        "wpackagist-plugin/sumome": ">=1.22",
+        "wpackagist-plugin/tablepress": ">=1.7",
+        "wpackagist-plugin/tealium": ">=2.1.6",
+        "wpackagist-plugin/twenty-eleven-theme-extensions": ">=1.2",
+        "wpackagist-plugin/use-google-libraries": ">=1.6.2.3",
+        "wpackagist-plugin/woosidebars": ">=1.4.3",
+        "wpackagist-plugin/wordpress-importer": ">=0.6.3",
+        "wpackagist-plugin/wordpress-seo": ">=5.0.2",
+        "wpackagist-plugin/wp-statistics": ">=12.0.9"
+    }
+}
