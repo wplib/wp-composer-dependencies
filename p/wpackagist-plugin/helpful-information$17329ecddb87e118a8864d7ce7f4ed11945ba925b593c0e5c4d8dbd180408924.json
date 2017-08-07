@@ -1,0 +1,95 @@
+{
+    "packages": {
+        "wpackagist-plugin/helpful-information": {
+            "1.0.0": {
+                "name": "wpackagist-plugin/helpful-information",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/helpful-information/",
+                    "reference": "tags/1.0.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://raw.githubusercontent.com/newclarity/wordpress-dependencies/master/downloads/wpackagist-plugin/helpful-information/wpackagist-plugin-helpful-information-1.0.0-dde0e5.zip",
+                    "reference": "tags/1.0.0",
+                    "shasum": "8bfc9820d632bdb48c87a958d044dec9917dc553"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/helpful-information/",
+                "uid": 57
+            },
+            "1.0.1": {
+                "name": "wpackagist-plugin/helpful-information",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/helpful-information/",
+                    "reference": "tags/1.0.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://raw.githubusercontent.com/newclarity/wordpress-dependencies/master/downloads/wpackagist-plugin/helpful-information/wpackagist-plugin-helpful-information-1.0.1-b30dd7.zip",
+                    "reference": "tags/1.0.1",
+                    "shasum": "bbcf6d81ad225034bbd321d841e5e399018434c6"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/helpful-information/",
+                "uid": 58
+            },
+            "1.0.2": {
+                "name": "wpackagist-plugin/helpful-information",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/helpful-information/",
+                    "reference": "tags/1.0.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://raw.githubusercontent.com/newclarity/wordpress-dependencies/master/downloads/wpackagist-plugin/helpful-information/wpackagist-plugin-helpful-information-1.0.2-8aae4d.zip",
+                    "reference": "tags/1.0.2",
+                    "shasum": "7176ed881ee32d8c4ac1fd1f0d4df70254744e80"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/helpful-information/",
+                "uid": 59
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/helpful-information",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/helpful-information/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://raw.githubusercontent.com/newclarity/wordpress-dependencies/master/downloads/wpackagist-plugin/helpful-information/wpackagist-plugin-helpful-information-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "342a9cd785a1e7aabe04cfeed8e685a33eea6f98"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2014-04-18T20:29:31+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/helpful-information/",
+                "uid": 60
+            }
+        }
+    }
+}
