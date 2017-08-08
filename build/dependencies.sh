@@ -12,6 +12,9 @@ declare=${REPO_ROOT:=}
 declare=${SATIS_DIR:=}
 declare=${SATIS_SYMLINK:=}
 declare=${SATIS_EXEC:=}
+declare=${JQ_FILENAME:=}
+declare=${USR_BIN:=}
+declare=${JQ_FILEPATH:=}
 
 #
 # Set artifacts file for this script
@@ -37,8 +40,10 @@ sudo sed -i '1s/^/LogLevel ERROR\n\n/' ~/.ssh/config
 # Installing jq 1.5 so we can updates packages.json from command line
 #
 announce "Installing jq"
-announce "...Moving ${REPO_ROOT}/files/jq-linux64-1.5.bin to /usr/local/bin/jq"
-sudo mv "${REPO_ROOT}/files/jq-linux64-1.5.bin" to /usr/local/bin/jq
+announce "...Moving ${JQ_FILEPATH} to ${USR_BIN}"
+sudo mv "${JQ_FILEPATH}" to "${USR_BIN}"
+announce "...Renaming ${USR_BIN}/{JQ_FILEPATH} to ${USR_BIN}/jq"
+sudo mv "${USR_BIN}/${JQ_FILENAME}" to "${USR_BIN}/jq"
 
 #
 # Change to home directory to cloning Satis does not screw up source repo
