@@ -15,6 +15,8 @@ declare=${SATIS_EXEC:=}
 declare=${JQ_FILENAME:=}
 declare=${USR_BIN:=}
 declare=${JQ_FILEPATH:=}
+declare=${FILES_ROOT:=}
+declare=${SATIS_LOADER:=}
 
 #
 # Set artifacts file for this script
@@ -61,8 +63,15 @@ else
 fi
 
 #
+# Install Satis Loader
+#
+announce "Installing Satis Loader"
+announce "...Moving ${FILES_ROOT}/${SATIS_LOADER} to ${USR_BIN}"
+sudo mv "${FILES_ROOT}/${SATIS_LOADER}" "${USR_BIN}"
+
+#
 # Symlinking Satis at /usr/local/bin/satis
 #
-announce "Symlinking Satis executable (${SATIS_EXEC}) to ${SATIS_SYMLINK}"
-sudo ln -sf "${SATIS_EXEC}" "${SATIS_SYMLINK}"
+announce "Symlinking Satis loader (${SATIS_LOADER}) to ${SATIS_SYMLINK}"
+sudo ln -sf "${SATIS_LOADER}" "${SATIS_SYMLINK}"
 

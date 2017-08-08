@@ -38,16 +38,20 @@ machine:
     BUILD_TAG:      "build-${CIRCLE_BUILD_NUM}"
 
     #
-    # Satis-related variables
+    # File-related variables
     #
-    SATIS_SYMLINK:  "/usr/local/bin/satis"
-    SATIS_DIR:      "${SATIS_SYMLINK}.dir"
-    SATIS_EXEC:     "${SATIS_DIR}/bin/satis"
-
     FILES_ROOT:     "${REPO_ROOT}/files"
     JQ_FILENAME:    "jq-linux64-1.5.bin"
     JQ_FILEPATH:    "${REPO_ROOT}/files/${JQ_FILENAME}"
     USR_BIN:        "/usr/local/bin"
+
+    #
+    # Satis-related variables
+    #
+    SATIS_SYMLINK:  "${USR_BIN}/satis"
+    SATIS_LOADER:   "${USR_BIN}/satis-loader"
+    SATIS_DIR:      "${SATIS_SYMLINK}.dir"
+    SATIS_EXEC:     "${SATIS_DIR}/bin/satis"
 
 #checkout:
 
