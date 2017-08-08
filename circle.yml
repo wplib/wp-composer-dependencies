@@ -49,10 +49,11 @@ machine:
 dependencies:
   cache_directories:
     #
-    # Cache the Composer cache.
+    # Cache the Composer cache and the Satis install directory
     # @see: https://discuss.circleci.com/t/caching-composer-dependencies/1215
     #
     - ~/.composer/cache
+    - /usr/local/bin/satis.dir
 
   override:
     #

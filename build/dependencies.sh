@@ -51,14 +51,12 @@ cd ~/
 #
 # Install Satis using Composer
 #
-announce "Installing Satis using Composer"
-composer create-project composer/satis --stability=dev --keep-vcs
-
-#
-# Moving Satis to /usr/local/bin/satis.dir
-#
-announce "Moving Satis to ${SATIS_DIR}"
-sudo mv satis "${SATIS_DIR}"
+if [ -d "${SATIS_DIR}" ] ; then
+    announce "Satis already installed from cache"
+else
+    announce "Installing Satis using Composer"
+    sudo composer create-project composer/satis "${SATIS_DIR}" --stability=dev --keep-vcs
+fi
 
 #
 # Symlinking Satis at /usr/local/bin/satis
