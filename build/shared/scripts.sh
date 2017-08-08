@@ -15,13 +15,14 @@ ARTIFACTS_FILE="${ARTIFACTS_FILE:="${CIRCLE_ARTIFACTS}/shared-scripts.log"}"
 #
 ACTION=""
 announce() {
+
     ACTION="$1"
+
     #
-    # Escape slashes
+    # @see https://unix.stackexchange.com/a/22768/144192
     #
-    ACTION="${ACTION/\//\\/}"
-    echo -e "${ACTION}\n"
-    echo -e "${ACTION}\n" >> $ARTIFACTS_FILE
+    printf "%s\n" "${ACTION}"
+    printf "%s\n" "${ACTION}" >> $ARTIFACTS_FILE
 }
 onError() {
     if [ $? -ne 0 ] ; then
