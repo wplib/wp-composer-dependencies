@@ -55,7 +55,7 @@ composer create-project composer/satis --stability=dev --keep-vcs
 # Moving Satis to /usr/local/bin/satis.dir
 #
 announce "Moving Satis to ${SATIS_DIR}"
-sudo mv satis /usr/local/bin/satis-php
+sudo mv satis "${SATIS_DIR}"
 
 #
 # Symlinking Satis at /usr/local/bin/satis
