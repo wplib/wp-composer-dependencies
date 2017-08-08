@@ -71,8 +71,8 @@ fi
 # Install Satis Loader
 #
 announce "Installing Satis Loader"
-announce "...Moving ${FILES_ROOT}/${SATIS_LOADER} to ${USR_BIN}"
-sudo mv "${FILES_ROOT}/${SATIS_LOADER}" "${USR_BIN}"
+announce "...Moving ${SATIS_LOADER} to ${USR_BIN}"
+sudo mv "${SATIS_LOADER}" "${USR_BIN}"
 
 #
 # Symlinking Satis at /usr/local/bin/satis
