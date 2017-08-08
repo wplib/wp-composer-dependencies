@@ -9,4 +9,4 @@ ini_set( 'memory_limit', '-1' );
 /**
  * Open the Satis exec file
  */
-require $_ENV[ 'SATIS_EXEC' ];
+require getenv( 'SATIS_EXEC' );
