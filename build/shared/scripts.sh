@@ -14,7 +14,7 @@ ARTIFACTS_FILE="${ARTIFACTS_FILE:="${CIRCLE_ARTIFACTS}/shared-scripts.log"}"
 # Set an error trap. Uses an $ACTION variable.
 #
 ACTION=""
-announce () {
+announce() {
     ACTION="$1"
     #
     # Escape slashes
