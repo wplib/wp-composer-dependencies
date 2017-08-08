@@ -20,8 +20,8 @@ announce() {
     # Escape slashes
     #
     ACTION="${ACTION/\//\\/}"
-    printf "${ACTION}\n"
-    printf "${ACTION}\n" >> $ARTIFACTS_FILE
+    echo -e "${ACTION}\n"
+    echo -e "${ACTION}\n" >> $ARTIFACTS_FILE
 }
 onError() {
     if [ $? -ne 0 ] ; then
