@@ -1,5 +1,5 @@
 {
-    "name": "RentPath WordPress Dependencies",
+    "name": "WordPress Dependencies",
     "homepage": "http://github.com/newclarity/wordpress-dependencies",
     "providers": true,
     "output-dir": ".",
