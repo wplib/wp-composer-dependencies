@@ -1,6 +1,7 @@
 {
     "packages": [],
-    "providers-url": "/newclarity/wordpress-dependencies/master/p/%package%$%hash%.json",
+    "test": "",
+    "providers-url": "/newclarity/wordpress-dependencies/p/%package%$%hash%.json",
     "providers": {
         "artifacts/envato-wordpress-toolkit": {
             "sha256": "af0995c7ec8e26605fe96c4aff642cc768321fdb0c5fcfbb7f6d48e84e30cb96"

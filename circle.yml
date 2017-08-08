@@ -1,0 +1,83 @@
+#
+# circle.yaml
+#
+#   For https://github.com/newclarity/wordpress-dependencies
+#
+machine:
+  timezone:
+    America/New_York
+
+  php:
+    #
+    # Latest 7.0.20 version when writing [2017-08-07]
+    #
+    version: 7.0.20
+
+  environment:
+
+    #
+    # The version of PHP defined above
+    #
+    PHP_VERSION:    "$(phpenv global)"
+
+    #
+    # The root for this repo in CircleCI
+    #
+    REPO_ROOT:   "${HOME}/${CIRCLE_PROJECT_REPONAME}"
+
+    #
+    # The build directory and the shared scripts
+    #
+    BUILD_ROOT:     "${REPO_ROOT}/build"
+    SHARED_SCRIPTS: "${BUILD_ROOT}/shared/scripts.sh"
+
+    #
+    # Git user email and build tag
+    #
+    GIT_USER_EMAIL: "wordpress@rentpath.com"
+    BUILD_TAG:      "build-${CIRCLE_BUILD_NUM}"
+
+    #
+    # Satis-related variables
+    #
+    SATIS_DIR:      "/usr/local/bin/satis.dir"
+    SATIS_SYMLINK:  "/usr/local/bin/satis"
+
+
+#checkout:
+
+dependencies:
+  cache_directories:
+    #
+    # Cache the Composer cache.
+    # @see: https://discuss.circleci.com/t/caching-composer-dependencies/1215
+    #
+    - ~/.composer/cache
+
+  override:
+    #
+    # Install Satis and other dependencies
+    #
+    - build/dependencies.sh
+
+compile:
+  override:
+    #
+    # Compile using Satis
+    #
+    - build/compile.sh
+
+
+test:
+  override:
+    #
+    # Compile using Satis
+    #
+    - build/tests.sh
+
+deployment:
+
+  master:
+    branch: master
+    commands:
+      - build/deployment.sh
