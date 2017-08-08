@@ -38,7 +38,12 @@ sudo sed -i '1s/^/LogLevel ERROR\n\n/' ~/.ssh/config
 # Installing jq so we can updates packages.json from command line
 #
 announce "Installing jq"
-sudo apt-get install jq
+announce "...Running apt-get update"
+sudo apt-get update
+announce "...Running apt-get autoremove"
+sudo apt-get autoremove
+announce "...Running apt-get install jq 1.5"
+sudo apt-get install jq=1.5
 
 #
 # Change to home directory to cloning Satis does not screw up source repo
