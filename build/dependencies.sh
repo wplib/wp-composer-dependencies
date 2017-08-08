@@ -13,10 +13,13 @@ declare=${SATIS_DIR:=}
 declare=${SATIS_SYMLINK:=}
 declare=${SATIS_EXEC:=}
 declare=${JQ_FILENAME:=}
-declare=${USR_BIN:=}
 declare=${JQ_FILEPATH:=}
+declare=${REPO_JQ:=}
+declare=${USR_BIN:=}
 declare=${FILES_ROOT:=}
-declare=${SATIS_LOADER:=}
+declare=${LOADER_FILEPATH:=}
+declare=${LOADER_FILENAME:=}
+declare=${REPO_LOADER:=}
 
 #
 # Set artifacts file for this script
@@ -42,10 +45,10 @@ sudo sed -i '1s/^/LogLevel ERROR\n\n/' ~/.ssh/config
 # Installing jq 1.5 so we can updates packages.json from command line
 #
 announce "Installing jq"
-announce "...Moving ${JQ_FILEPATH} to ${USR_BIN}"
-sudo mv "${JQ_FILEPATH}" "${USR_BIN}"
-announce "...Renaming ${USR_BIN}/${JQ_FILENAME} to ${USR_BIN}/jq"
-sudo mv "${USR_BIN}/${JQ_FILENAME}" "${USR_BIN}/jq"
+announce "...Copying ${REPO_JQ} to ${USR_BIN}"
+sudo cp "${REPO_JQ}" "${USR_BIN}"
+announce "...Renaming ${JQ_FILEPATH} to ${USR_BIN}/jq"
+sudo mv "${JQ_FILEPATH}" "${USR_BIN}/jq"
 
 #
 # Change to home directory to cloning Satis does not screw up source repo
@@ -71,12 +74,12 @@ fi
 # Install Satis Loader
 #
 announce "Installing Satis Loader"
-announce "...Moving ${SATIS_LOADER} to ${USR_BIN}"
-sudo mv "${SATIS_LOADER}" "${USR_BIN}"
+announce "...Copying ${REPO_LOADER} to ${USR_BIN}"
+sudo cp "${REPO_LOADER}" "${USR_BIN}"
 
 #
 # Symlinking Satis at /usr/local/bin/satis
 #
-announce "Symlinking Satis loader (${SATIS_LOADER}) to ${SATIS_SYMLINK}"
-sudo ln -sf "${SATIS_LOADER}" "${SATIS_SYMLINK}"
+announce "Symlinking Satis loader (${LOADER_FILEPATH}) to ${SATIS_SYMLINK}"
+sudo ln -sf "${LOADER_FILEPATH}" "${SATIS_SYMLINK}"
 
