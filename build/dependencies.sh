@@ -11,6 +11,7 @@ declare=${SHARED_SCRIPTS:=}
 declare=${REPO_ROOT:=}
 declare=${SATIS_DIR:=}
 declare=${SATIS_SYMLINK:=}
+declare=${SATIS_EXEC:=}
 
 #
 # Set artifacts file for this script
@@ -33,15 +34,11 @@ announce "Disabling annoying SSH warnings"
 sudo sed -i '1s/^/LogLevel ERROR\n\n/' ~/.ssh/config
 
 #
-# Installing jq so we can updates packages.json from command line
+# Installing jq 1.5 so we can updates packages.json from command line
 #
 announce "Installing jq"
-announce "...Running apt-get update"
-sudo apt-get update
-announce "...Running apt-get autoremove"
-sudo apt-get autoremove
-announce "...Running apt-get install jq 1.5"
-sudo apt-get install jq=1.5
+announce "...Moving ${REPO_ROOT}/files/jq-linux64-1.5.bin to /usr/local/bin/jq"
+sudo mv "${REPO_ROOT}/files/jq-linux64-1.5.bin" to /usr/local/bin/jq
 
 #
 # Change to home directory to cloning Satis does not screw up source repo
