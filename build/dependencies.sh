@@ -61,6 +61,6 @@ fi
 #
 # Symlinking Satis at /usr/local/bin/satis
 #
-announce "Symlinking Satis at ${SATIS_SYMLINK}"
-sudo ln -sf "${SATIS_DIR}/bin/satis" "${SATIS_SYMLINK}"
+announce "Symlinking Satis executable (${SATIS_EXEC}) to ${SATIS_SYMLINK}"
+sudo ln -sf "${SATIS_EXEC}" "${SATIS_SYMLINK}"
 

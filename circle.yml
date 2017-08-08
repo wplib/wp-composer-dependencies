@@ -40,9 +40,9 @@ machine:
     #
     # Satis-related variables
     #
-    SATIS_DIR:      "/usr/local/bin/satis.dir"
     SATIS_SYMLINK:  "/usr/local/bin/satis"
-
+    SATIS_DIR:      "${SATIS_SYMLINK}.dir"
+    SATIS_EXEC:     "${SATIS_DIR}/bin/satis"
 
 #checkout:
 
