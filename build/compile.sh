@@ -52,6 +52,7 @@ announce "New PROVIDERS_URL: ${PROVIDERS_URL}"
 # This is needed to support GitHub repos as a Composer repository
 #
 announce "Updated ['providers-url'] in ${PACKAGES_JSON} to ${PROVIDERS_URL}"
+PROVIDERS_URL="${PROVIDERS_URL/%/\%}"
 TEMP_FILE="$(mktemp jq-tmp.XXXX)" && \
     jq ".[\"providers-url\"] = \"${PROVIDERS_URL}\"" "${PACKAGES_JSON}" > $TEMP_FILE && \
     mv "${TEMP_FILE}" "${PACKAGES_JSON}"
