@@ -44,7 +44,7 @@ sudo sed -i '1s/^/LogLevel ERROR\n\n/' ~/.ssh/config
 announce "Installing jq"
 announce "...Moving ${JQ_FILEPATH} to ${USR_BIN}"
 sudo mv "${JQ_FILEPATH}" "${USR_BIN}"
-announce "...Renaming ${USR_BIN}/{JQ_FILEPATH} to ${USR_BIN}/jq"
+announce "...Renaming ${USR_BIN}/${JQ_FILENAME} to ${USR_BIN}/jq"
 sudo mv "${USR_BIN}/${JQ_FILENAME}" "${USR_BIN}/jq"
 
 #
@@ -58,8 +58,13 @@ cd ~/
 if [ -d "${SATIS_DIR}" ] ; then
     announce "Satis already installed from cache"
 else
-    announce "Installing Satis using Composer"
-    sudo composer create-project composer/satis "${SATIS_DIR}" --stability=dev --keep-vcs
+    announce "Installing Satis"
+    announce "...Creating directory ${SATIS_DIR} with 777 permissions"
+    mkdir -p "${SATIS_DIR}" -m 777
+    announce "...Chowning directory ${SATIS_DIR} to ubuntu:ubuntu"
+    sudo chown ubuntu:ubuntu "${SATIS_DIR}"
+    announce "...Creating Satis project using Composer"
+    composer create-project composer/satis "${SATIS_DIR}" --stability=dev --keep-vcs
 fi
 
 #
