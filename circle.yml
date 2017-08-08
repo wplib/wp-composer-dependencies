@@ -40,11 +40,11 @@ machine:
     #
     # File-related variables
     #
+    USR_BIN:        "/usr/local/bin"
     FILES_ROOT:     "${REPO_ROOT}/files"
     JQ_FILENAME:    "jq-linux64-1.5.bin"
     REPO_JQ:        "${REPO_ROOT}/files/${JQ_FILENAME}"
-    JQ_FILEPATH:    "jq-linux64-1.5.bin"
-    USR_BIN:        "/usr/local/bin"
+    JQ_FILEPATH:    "${USR_BIN}/${JQ_FILENAME}"
 
     #
     # Satis-related variables
