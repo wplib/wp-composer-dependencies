@@ -41,9 +41,9 @@ sudo sed -i '1s/^/LogLevel ERROR\n\n/' ~/.ssh/config
 #
 announce "Installing jq"
 announce "...Moving ${JQ_FILEPATH} to ${USR_BIN}"
-sudo mv "${JQ_FILEPATH}" to "${USR_BIN}"
+sudo mv "${JQ_FILEPATH}" "${USR_BIN}"
 announce "...Renaming ${USR_BIN}/{JQ_FILEPATH} to ${USR_BIN}/jq"
-sudo mv "${USR_BIN}/${JQ_FILENAME}" to "${USR_BIN}/jq"
+sudo mv "${USR_BIN}/${JQ_FILENAME}" "${USR_BIN}/jq"
 
 #
 # Change to home directory to cloning Satis does not screw up source repo
