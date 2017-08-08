@@ -23,6 +23,18 @@ ARTIFACTS_FILE="${CIRCLE_ARTIFACTS}/dependencies.log"
 source "${SHARED_SCRIPTS}"
 
 #
+# Disabling this annoying SSH warning:
+#
+#       "Warning: Permanently added to the list of known hosts"
+#
+# @see https://stackoverflow.com/a/19733924/102699
+#
+announce "Disabling annoying SSH warnings"
+sudo sed -i '1s/^/LogLevel ERROR\n\n/' ~/.ssh/config
+
+
+
+#
 # Installing jq so we can updates packages.json from command line
 #
 announce "Installing jq"
