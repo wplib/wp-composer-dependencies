@@ -60,7 +60,7 @@ if [ -d "${SATIS_DIR}" ] ; then
 else
     announce "Installing Satis"
     announce "...Creating directory ${SATIS_DIR} with 777 permissions"
-    mkdir -p "${SATIS_DIR}" -m 777
+    sudo mkdir -p "${SATIS_DIR}" -m 777
     announce "...Chowning directory ${SATIS_DIR} to ubuntu:ubuntu"
     sudo chown ubuntu:ubuntu "${SATIS_DIR}"
     announce "...Creating Satis project using Composer"
