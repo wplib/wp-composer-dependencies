@@ -32,8 +32,6 @@ source "${SHARED_SCRIPTS}"
 announce "Disabling annoying SSH warnings"
 sudo sed -i '1s/^/LogLevel ERROR\n\n/' ~/.ssh/config
 
-
-
 #
 # Installing jq so we can updates packages.json from command line
 #
