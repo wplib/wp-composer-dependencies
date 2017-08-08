@@ -20,6 +20,8 @@ declare=${FILES_ROOT:=}
 declare=${LOADER_FILEPATH:=}
 declare=${LOADER_FILENAME:=}
 declare=${REPO_LOADER:=}
+declare=${GIT_USER_EMAIL:=}
+declare=${CIRCLE_USERNAME:=}
 
 #
 # Set artifacts file for this script
@@ -40,6 +42,21 @@ source "${SHARED_SCRIPTS}"
 #
 announce "Disabling annoying SSH warnings"
 sudo sed -i '1s/^/LogLevel ERROR\n\n/' ~/.ssh/config
+
+#
+# Setting git user.email
+#
+announce "Setting global Git user.email to ${GIT_USER_EMAIL}"
+git config --global user.email "${GIT_USER_EMAIL}"
+onError
+
+#
+# Setting git user.email
+#
+announce "Setting global Git user.name to ${CIRCLE_USERNAME}"
+git config --global user.name "${CIRCLE_USERNAME}"
+onError
+
 
 #
 # Installing jq 1.5 so we can updates packages.json from command line
