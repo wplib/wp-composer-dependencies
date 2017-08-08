@@ -16,6 +16,10 @@ ARTIFACTS_FILE="${ARTIFACTS_FILE:="${CIRCLE_ARTIFACTS}/shared-scripts.log"}"
 ACTION=""
 announce () {
     ACTION="$1"
+    #
+    # Escape slashes
+    #
+    ACTION="${ACTION/\//\\/}"
     printf "${ACTION}\n"
     printf "${ACTION}\n" >> $ARTIFACTS_FILE
 }
@@ -33,4 +37,5 @@ trap onError ERR
 announce "Creating artifact file ${ARTIFACTS_FILE}"
 echo . > $ARTIFACTS_FILE
 onError
+
 
