@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-#  build/dependencies.sh
+#  scripts/dependencies.sh
 #
 
 #
@@ -87,12 +87,12 @@ fi
 # Install Satis using Composer
 #
 announce "Moving Satis"
-announce "...Creating directory ${SATIS_DIR} with 777 permissions"
-sudo mkdir -p "${SATIS_DIR}" -m 777
+announce "...Creating directory ${SATIS_DIR}"
+sudo mkdir -p "${SATIS_DIR}"
+announce "...Copying Satis from ${SATIS_REPO} to ${SATIS_DIR}"
+sudo cp "${SATIS_REPO}/*" "${SATIS_DIR}"
 announce "...Chowning directory ${SATIS_DIR} to ubuntu:ubuntu"
 sudo chown ubuntu:ubuntu "${SATIS_DIR}"
-announce "... Copying Satis from ${SATIS_REPO} to ${SATIS_DIR}"
-sudo cp "${SATIS_REPO}" "${SATIS_DIR}"
 
 #
 # Install Satis Loader

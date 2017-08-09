@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# build/deployment.sh
+# scripts/deployment.sh
 #
 
 #

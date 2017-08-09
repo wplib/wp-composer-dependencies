@@ -76,14 +76,14 @@ dependencies:
     #
     # Install Satis and other dependencies
     #
-    - build/dependencies.sh
+    - scripts/dependencies.sh
 
 compile:
   override:
     #
     # Compile using Satis
     #
-    - build/compile.sh
+    - scripts/compile.sh
 
 
 test:
@@ -91,11 +91,11 @@ test:
     #
     # Runs tests
     #
-    - build/tests.sh
+    - scripts/tests.sh
 
 deployment:
 
   master:
     branch: master
     commands:
-      - build/deployment.sh
+      - scripts/deployment.sh
