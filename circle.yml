@@ -26,10 +26,10 @@ machine:
     REPO_ROOT:   "${HOME}/${CIRCLE_PROJECT_REPONAME}"
 
     #
-    # The build directory and the shared scripts
+    # The scripts directory and the shared scripts
     #
-    BUILD_ROOT:     "${REPO_ROOT}/build"
-    SHARED_SCRIPTS: "${BUILD_ROOT}/shared/scripts.sh"
+    SCRIPTS_ROOT:   "${REPO_ROOT}/scripts"
+    SHARED_SCRIPTS: "${SCRIPTS_ROOT}/shared/scripts.sh"
 
     #
     # Git user email and build tag
