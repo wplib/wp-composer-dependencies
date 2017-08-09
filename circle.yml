@@ -43,7 +43,7 @@ machine:
     USR_BIN:        "/usr/local/bin"
     FILES_ROOT:     "${REPO_ROOT}/files"
     JQ_FILENAME:    "jq-linux64-1.5.bin"
-    REPO_JQ:        "${REPO_ROOT}/files/${JQ_FILENAME}"
+    JQ_SOURCE:      "${REPO_ROOT}/files/${JQ_FILENAME}"
     JQ_FILEPATH:    "${USR_BIN}/${JQ_FILENAME}"
 
     #
@@ -57,9 +57,9 @@ machine:
     #
     # Satis Loader-related variables
     #
-    SATIS_LOADER:     "satis-loader"
-    REPO_LOADER:      "${FILES_ROOT}/${LOADER_FILENAME}"
-    LOADER_FILEPATH:  "${USR_BIN}/${LOADER_FILENAME}"
+    SATIS_LOADER_FILENAME:  "satis-loader"
+    SATIS_LOADER_SOURCE:    "${FILES_ROOT}/${SATIS_LOADER_FILENAME}"
+    SATIS_LOADER_FILEPATH:  "${USR_BIN}/${SATIS_LOADER_FILENAME}"
 
 #checkout:
 

@@ -8,21 +8,18 @@
 #
 declare=${CIRCLE_ARTIFACTS:=}
 declare=${SHARED_SCRIPTS:=}
-declare=${REPO_ROOT:=}
+declare=${GIT_USER_EMAIL:=}
+declare=${CIRCLE_USERNAME:=}
+declare=${USR_BIN:=}
+declare=${JQ_FILEPATH:=}
+declare=${JQ_SOURCE:=}
+
 declare=${SATIS_DIR:=}
 declare=${SATIS_REPO:=}
 declare=${SATIS_SYMLINK:=}
-declare=${SATIS_EXEC:=}
-declare=${JQ_FILENAME:=}
-declare=${JQ_FILEPATH:=}
-declare=${REPO_JQ:=}
-declare=${USR_BIN:=}
-declare=${FILES_ROOT:=}
-declare=${LOADER_FILEPATH:=}
-declare=${LOADER_FILENAME:=}
-declare=${SATIS_LOADER:=}
-declare=${GIT_USER_EMAIL:=}
-declare=${CIRCLE_USERNAME:=}
+declare=${SATIS_LOADER_FILENAME:=}
+declare=${SATIS_LOADER_SOURCE:=}
+declare=${SATIS_LOADER_FILEPATH:=}
 
 #
 # Set artifacts file for this script
@@ -63,8 +60,8 @@ onError
 # Installing jq 1.5 so we can updates packages.json from command line
 #
 announce "Installing jq"
-announce "...Copying ${REPO_JQ} to ${USR_BIN}"
-sudo cp "${REPO_JQ}" "${USR_BIN}"
+announce "...Copying ${JQ_SOURCE} to ${USR_BIN}"
+sudo cp "${JQ_SOURCE}" "${USR_BIN}"
 announce "...Renaming ${JQ_FILEPATH} to ${USR_BIN}/jq"
 sudo mv "${JQ_FILEPATH}" "${USR_BIN}/jq"
 
@@ -100,12 +97,14 @@ sudo chown ubuntu:ubuntu "${SATIS_DIR}"
 # Install Satis Loader
 #
 announce "Installing Satis Loader"
-announce "...Copying ${SATIS_LOADER} to ${USR_BIN}"
-sudo cp "${SATIS_LOADER}" "${USR_BIN}"
+announce "...Copying ${SATIS_LOADER_SOURCE} to ${USR_BIN}"
+sudo cp "${SATIS_LOADER_SOURCE}" "${USR_BIN}"
 
 #
 # Symlinking Satis at /usr/local/bin/satis
 #
-announce "Symlinking Satis loader (${LOADER_FILEPATH}) to ${SATIS_SYMLINK}"
-sudo ln -sf "${LOADER_FILEPATH}" "${SATIS_SYMLINK}"
+announce "Symlinking Satis loader (${SATIS_LOADER_FILEPATH}) to ${SATIS_SYMLINK}"
+sudo ln -sf "${SATIS_LOADER_FILEPATH}" "${SATIS_SYMLINK}"
+
+
 
