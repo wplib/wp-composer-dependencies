@@ -58,7 +58,7 @@ git push origin ${CIRCLE_BRANCH} --quiet >> $ARTIFACTS_FILE
 # Adding build tag
 #
 announce "Tagging build with '${BUILD_TAG}'"
-git tag -a "${BUILD_TAG}" -m "Build #${CIRCLE_BUILD_NUM}" --quiet >> $ARTIFACTS_FILE
+git tag -a "${BUILD_TAG}" -m "Build #${CIRCLE_BUILD_NUM}" 2>&1 >> $ARTIFACTS_FILE
 onError
 
 #
