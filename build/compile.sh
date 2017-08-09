@@ -30,7 +30,7 @@ cd "${REPO_ROOT}"
 # Running Satis to build packages.json
 #
 announce "Running Satis to build packages.json"
-satis build satis.json 2>&1 > $ARTIFACTS_FILE
+satis build satis.json --quiet 2>&1 > $ARTIFACTS_FILE
 
 #
 # Capture .providers-url from packages.json

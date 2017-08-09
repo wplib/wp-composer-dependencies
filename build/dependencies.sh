@@ -84,7 +84,7 @@ else
     announce "...Chowning directory ${SATIS_DIR} to ubuntu:ubuntu"
     sudo chown ubuntu:ubuntu "${SATIS_DIR}"
     announce "...Creating Satis project using Composer"
-    composer create-project composer/satis "${SATIS_DIR}" --stability=dev --keep-vcs 2>&1 > $ARTIFACTS_FILE
+    composer create-project composer/satis "${SATIS_DIR}" --stability=dev --keep-vcs --quiet 2>&1 > $ARTIFACTS_FILE
 fi
 
 #
