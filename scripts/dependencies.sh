@@ -86,11 +86,13 @@ fi
 #
 # Install Satis using Composer
 #
+# @see https://askubuntu.com/a/86891/486620 for 'cp -a ...'
+#
 announce "Moving Satis"
 announce "...Creating directory ${SATIS_DIR}"
 sudo mkdir -p "${SATIS_DIR}"
 announce "...Copying Satis from ${SATIS_REPO} to ${SATIS_DIR}"
-sudo cp "${SATIS_REPO}/*" "${SATIS_DIR}"
+sudo cp -a "${SATIS_REPO}/." "${SATIS_DIR}"
 announce "...Chowning directory ${SATIS_DIR} to ubuntu:ubuntu"
 sudo chown ubuntu:ubuntu "${SATIS_DIR}"
 
