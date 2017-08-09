@@ -10,6 +10,7 @@ declare=${CIRCLE_ARTIFACTS:=}
 declare=${SHARED_SCRIPTS:=}
 declare=${REPO_ROOT:=}
 declare=${SATIS_DIR:=}
+declare=${SATIS_REPO:=}
 declare=${SATIS_SYMLINK:=}
 declare=${SATIS_EXEC:=}
 declare=${JQ_FILENAME:=}
@@ -19,7 +20,7 @@ declare=${USR_BIN:=}
 declare=${FILES_ROOT:=}
 declare=${LOADER_FILEPATH:=}
 declare=${LOADER_FILENAME:=}
-declare=${REPO_LOADER:=}
+declare=${SATIS_LOADER:=}
 declare=${GIT_USER_EMAIL:=}
 declare=${CIRCLE_USERNAME:=}
 
@@ -75,24 +76,30 @@ cd ~/
 #
 # Install Satis using Composer
 #
-if [ -d "${SATIS_DIR}" ] ; then
+if [ -d "${SATIS_REPO}" ] ; then
     announce "Satis already installed from cache"
 else
-    announce "Installing Satis"
-    announce "...Creating directory ${SATIS_DIR} with 777 permissions"
-    sudo mkdir -p "${SATIS_DIR}" -m 777
-    announce "...Chowning directory ${SATIS_DIR} to ubuntu:ubuntu"
-    sudo chown ubuntu:ubuntu "${SATIS_DIR}"
-    announce "...Creating Satis project using Composer"
-    composer create-project composer/satis "${SATIS_DIR}" --stability=dev --keep-vcs --quiet 2>&1 > $ARTIFACTS_FILE
+    announce "Installing Satis project using Composer"
+    composer create-project composer/satis "${SATIS_REPO}" --stability=dev --keep-vcs --quiet 2>&1 > $ARTIFACTS_FILE
 fi
+
+#
+# Install Satis using Composer
+#
+announce "Moving Satis"
+announce "...Creating directory ${SATIS_DIR} with 777 permissions"
+sudo mkdir -p "${SATIS_DIR}" -m 777
+announce "...Chowning directory ${SATIS_DIR} to ubuntu:ubuntu"
+sudo chown ubuntu:ubuntu "${SATIS_DIR}"
+announce "... Copying Satis from ${SATIS_REPO} to ${SATIS_DIR}"
+sudo cp "${SATIS_REPO}" "${SATIS_DIR}"
 
 #
 # Install Satis Loader
 #
 announce "Installing Satis Loader"
-announce "...Copying ${REPO_LOADER} to ${USR_BIN}"
-sudo cp "${REPO_LOADER}" "${USR_BIN}"
+announce "...Copying ${SATIS_LOADER} to ${USR_BIN}"
+sudo cp "${SATIS_LOADER}" "${USR_BIN}"
 
 #
 # Symlinking Satis at /usr/local/bin/satis

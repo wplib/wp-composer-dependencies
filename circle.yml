@@ -49,6 +49,7 @@ machine:
     #
     # Satis-related variables
     #
+    SATIS_REPO:     "${HOME}/satis"
     SATIS_SYMLINK:  "${USR_BIN}/satis"
     SATIS_DIR:      "${SATIS_SYMLINK}.dir"
     SATIS_EXEC:     "${SATIS_DIR}/bin/satis"
@@ -56,7 +57,7 @@ machine:
     #
     # Satis Loader-related variables
     #
-    LOADER_FILENAME:  "satis-loader"
+    SATIS_LOADER:     "satis-loader"
     REPO_LOADER:      "${FILES_ROOT}/${LOADER_FILENAME}"
     LOADER_FILEPATH:  "${USR_BIN}/${LOADER_FILENAME}"
 
@@ -69,7 +70,7 @@ dependencies:
     # @see: https://discuss.circleci.com/t/caching-composer-dependencies/1215
     #
     - ~/.composer/cache
-    - /usr/local/bin/satis.dir
+    - ~/satis
 
   override:
     #
