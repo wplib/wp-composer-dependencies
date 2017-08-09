@@ -10,7 +10,7 @@ declare=${CIRCLE_ARTIFACTS:=}
 declare=${SHARED_SCRIPTS:=}
 declare=${GIT_USER_EMAIL:=}
 declare=${CIRCLE_USERNAME:=}
-declare=${USR_BIN:=}
+declare=${USER_BIN_ROOT:=}
 declare=${JQ_FILEPATH:=}
 declare=${JQ_SOURCE:=}
 
@@ -60,10 +60,10 @@ onError
 # Installing jq 1.5 so we can updates packages.json from command line
 #
 announce "Installing jq"
-announce "...Copying ${JQ_SOURCE} to ${USR_BIN}"
-sudo cp "${JQ_SOURCE}" "${USR_BIN}"
-announce "...Renaming ${JQ_FILEPATH} to ${USR_BIN}/jq"
-sudo mv "${JQ_FILEPATH}" "${USR_BIN}/jq"
+announce "...Copying ${JQ_SOURCE} to ${USER_BIN_ROOT}"
+sudo cp "${JQ_SOURCE}" "${USER_BIN_ROOT}"
+announce "...Renaming ${JQ_FILEPATH} to ${USER_BIN_ROOT}/jq"
+sudo mv "${JQ_FILEPATH}" "${USER_BIN_ROOT}/jq"
 
 #
 # Change to home directory to cloning Satis does not screw up source repo
@@ -97,8 +97,8 @@ sudo chown ubuntu:ubuntu "${SATIS_DIR}"
 # Install Satis Loader
 #
 announce "Installing Satis Loader"
-announce "...Copying ${SATIS_LOADER_SOURCE} to ${USR_BIN}"
-sudo cp "${SATIS_LOADER_SOURCE}" "${USR_BIN}"
+announce "...Copying ${SATIS_LOADER_SOURCE} to ${USER_BIN_ROOT}"
+sudo cp "${SATIS_LOADER_SOURCE}" "${USER_BIN_ROOT}"
 
 #
 # Symlinking Satis at /usr/local/bin/satis
