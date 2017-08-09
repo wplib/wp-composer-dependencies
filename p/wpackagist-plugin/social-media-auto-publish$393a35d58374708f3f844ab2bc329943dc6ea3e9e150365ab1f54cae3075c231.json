@@ -1,0 +1,139 @@
+{
+    "packages": {
+        "wpackagist-plugin/social-media-auto-publish": {
+            "1.7": {
+                "name": "wpackagist-plugin/social-media-auto-publish",
+                "version": "1.7",
+                "version_normalized": "1.7.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/social-media-auto-publish/",
+                    "reference": "tags/1.7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://raw.githubusercontent.com/newclarity/wordpress-dependencies/master/downloads/wpackagist-plugin/social-media-auto-publish/wpackagist-plugin-social-media-auto-publish-1.7-9a7f10.zip",
+                    "reference": "tags/1.7",
+                    "shasum": "09662ab27c37274324705408de2e3a26e29dc074"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/social-media-auto-publish/",
+                "uid": 123
+            },
+            "1.7.1": {
+                "name": "wpackagist-plugin/social-media-auto-publish",
+                "version": "1.7.1",
+                "version_normalized": "1.7.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/social-media-auto-publish/",
+                    "reference": "tags/1.7.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://raw.githubusercontent.com/newclarity/wordpress-dependencies/master/downloads/wpackagist-plugin/social-media-auto-publish/wpackagist-plugin-social-media-auto-publish-1.7.1-58eca0.zip",
+                    "reference": "tags/1.7.1",
+                    "shasum": "0daa291979dd17f3886df1aa24ffc5c81b4cd757"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/social-media-auto-publish/",
+                "uid": 124
+            },
+            "1.7.2": {
+                "name": "wpackagist-plugin/social-media-auto-publish",
+                "version": "1.7.2",
+                "version_normalized": "1.7.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/social-media-auto-publish/",
+                    "reference": "tags/1.7.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://raw.githubusercontent.com/newclarity/wordpress-dependencies/master/downloads/wpackagist-plugin/social-media-auto-publish/wpackagist-plugin-social-media-auto-publish-1.7.2-7fc27b.zip",
+                    "reference": "tags/1.7.2",
+                    "shasum": "53d5ff1db8f9e0a820ffb0043122b6370f81b4bb"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/social-media-auto-publish/",
+                "uid": 125
+            },
+            "1.7.3": {
+                "name": "wpackagist-plugin/social-media-auto-publish",
+                "version": "1.7.3",
+                "version_normalized": "1.7.3.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/social-media-auto-publish/",
+                    "reference": "tags/1.7.3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://raw.githubusercontent.com/newclarity/wordpress-dependencies/master/downloads/wpackagist-plugin/social-media-auto-publish/wpackagist-plugin-social-media-auto-publish-1.7.3-51c58a.zip",
+                    "reference": "tags/1.7.3",
+                    "shasum": "f6044410d531cf00d2bbb6a9f58bec0f392d9f80"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/social-media-auto-publish/",
+                "uid": 126
+            },
+            "1.7.4": {
+                "name": "wpackagist-plugin/social-media-auto-publish",
+                "version": "1.7.4",
+                "version_normalized": "1.7.4.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/social-media-auto-publish/",
+                    "reference": "tags/1.7.4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://raw.githubusercontent.com/newclarity/wordpress-dependencies/master/downloads/wpackagist-plugin/social-media-auto-publish/wpackagist-plugin-social-media-auto-publish-1.7.4-b071e0.zip",
+                    "reference": "tags/1.7.4",
+                    "shasum": "b06568f133e0e3f4e2670de130792c1df69d9e30"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/social-media-auto-publish/",
+                "uid": 127
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/social-media-auto-publish",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/social-media-auto-publish/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://raw.githubusercontent.com/newclarity/wordpress-dependencies/master/downloads/wpackagist-plugin/social-media-auto-publish/wpackagist-plugin-social-media-auto-publish-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "e4019e9d18ecc2e5d3431773307612aed42770ae"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2017-08-05T14:01:41+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/social-media-auto-publish/",
+                "uid": 128
+            }
+        }
+    }
+}
