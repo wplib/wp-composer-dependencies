@@ -52,13 +52,13 @@ sudo git commit -m "Commit ${commitMsg}" >> $ARTIFACTS_FILE
 # Pushing to origin
 #
 announce "Pushing to origin/${CIRCLE_BRANCH}"
-git push origin ${CIRCLE_BRANCH}
+git push origin ${CIRCLE_BRANCH} --quiet >> $ARTIFACTS_FILE
 
 #
 # Adding build tag
 #
 announce "Tagging build with '${BUILD_TAG}'"
-git tag -a "${BUILD_TAG}" -m "Build #${CIRCLE_BUILD_NUM}" >> $ARTIFACTS_FILE
+git tag -a "${BUILD_TAG}" -m "Build #${CIRCLE_BUILD_NUM}" --quiet >> $ARTIFACTS_FILE
 onError
 
 #
@@ -67,7 +67,7 @@ onError
 # @see https://stackoverflow.com/a/3745250/102699
 #
 announce "Pushing tag ${BUILD_TAG}"
-git push --tags >> $ARTIFACTS_FILE
+git push --tags --quiet >> $ARTIFACTS_FILE
 
 
 announce "Deployment complete."
