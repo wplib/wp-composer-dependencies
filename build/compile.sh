@@ -37,7 +37,7 @@ satis build satis.json 2>&1 > $ARTIFACTS_FILE
 #
 PACKAGES_JSON="${REPO_ROOT}/packages.json"
 announce "Capture ['providers-url'] from ${PACKAGES_JSON}"
-PROVIDERS_URL="$(jq '.["providers-url"]' "${PACKAGES_JSON}")"
+PROVIDERS_URL="$(jq -r '.["providers-url"]' "${PACKAGES_JSON}")"
 
 
 #
