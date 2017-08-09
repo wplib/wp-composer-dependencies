@@ -1,6 +1,5 @@
 {
     "packages": [],
-    "test": "",
     "providers-url": "/newclarity/wordpress-dependencies/p/%package%$%hash%.json",
     "providers": {
         "artifacts/envato-wordpress-toolkit": {
