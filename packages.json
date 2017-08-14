@@ -1,6 +1,6 @@
 {
   "packages": [],
-  "providers-url": "/newclarity/wordpress-dependencies/master/p/%package%$%hash%.json%",
+  "providers-url": "/newclarity/wordpress-dependencies/master/p/%package%$%hash%.json",
   "providers": {
     "algolia/algoliasearch-wordpress": {
       "sha256": "0f465e075bea6bb30636399db8491ad8ab0ada14f77ec098f4193cb1b1c5ccf8"
