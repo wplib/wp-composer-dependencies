@@ -30,6 +30,18 @@
         {
             "type": "git",
             "url": "https://github.com/johnpbloch/wordpress-core-installer"
+        },
+        {
+            "type": "git",
+            "url": "https://github.com/newclarity/nprapi-wordpress.git"
+        },
+        {
+            "type": "git",
+            "url": "https://github.com/wplib/wplib.git"
+        },
+        {
+            "type": "git",
+            "url": "https://github.com/algolia/algoliasearch-wordpress.git"
         }
     ],
     "require": {
@@ -71,6 +83,9 @@
         "wpackagist-plugin/woosidebars": ">=1.4.3",
         "wpackagist-plugin/wordpress-importer": ">=0.6.3",
         "wpackagist-plugin/wordpress-seo": ">=5.0.2",
-        "wpackagist-plugin/wp-statistics": ">=12.0.9"
+        "wpackagist-plugin/wp-statistics": ">=12.0.9",
+        "nprds/nprapi-wordpress": "dev-master",
+        "algolia/algoliasearch-wordpress": ">=2.6.0",
+        "wplib/wplib": ">=0.14.0"
     }
 }
