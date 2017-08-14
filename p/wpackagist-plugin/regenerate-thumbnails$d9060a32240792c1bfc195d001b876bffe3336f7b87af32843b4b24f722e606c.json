@@ -1,0 +1,51 @@
+{
+    "packages": {
+        "wpackagist-plugin/regenerate-thumbnails": {
+            "2.2.6": {
+                "name": "wpackagist-plugin/regenerate-thumbnails",
+                "version": "2.2.6",
+                "version_normalized": "2.2.6.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/regenerate-thumbnails/",
+                    "reference": "tags/2.2.6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/regenerate-thumbnails/wpackagist-plugin-regenerate-thumbnails-2.2.6-b4f2c7.zip",
+                    "reference": "tags/2.2.6",
+                    "shasum": "f8f5597f12535811479693ffcb4fcdd8851e2885"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/regenerate-thumbnails/",
+                "uid": 139
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/regenerate-thumbnails",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/regenerate-thumbnails/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/regenerate-thumbnails/wpackagist-plugin-regenerate-thumbnails-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "74f78bbe54326fefe6eb7ea59b60d9116d515e0c"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2016-07-29T01:41:13+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/regenerate-thumbnails/",
+                "uid": 140
+            }
+        }
+    }
+}
