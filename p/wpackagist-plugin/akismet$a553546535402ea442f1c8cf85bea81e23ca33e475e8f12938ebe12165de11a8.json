@@ -1,0 +1,73 @@
+{
+    "packages": {
+        "wpackagist-plugin/akismet": {
+            "3.3.3": {
+                "name": "wpackagist-plugin/akismet",
+                "version": "3.3.3",
+                "version_normalized": "3.3.3.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/akismet/",
+                    "reference": "tags/3.3.3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://raw.githubusercontent.com/newclarity/wordpress-dependencies/master/downloads/wpackagist-plugin/akismet/wpackagist-plugin-akismet-3.3.3-62fe76.zip",
+                    "reference": "tags/3.3.3",
+                    "shasum": "e26345241700f9c2971c060475fc53fd6ad1fa11"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/akismet/",
+                "uid": 38
+            },
+            "3.3.4": {
+                "name": "wpackagist-plugin/akismet",
+                "version": "3.3.4",
+                "version_normalized": "3.3.4.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/akismet/",
+                    "reference": "tags/3.3.4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://raw.githubusercontent.com/newclarity/wordpress-dependencies/master/downloads/wpackagist-plugin/akismet/wpackagist-plugin-akismet-3.3.4-b4f0ac.zip",
+                    "reference": "tags/3.3.4",
+                    "shasum": "173bc2f073cafc7d567ee5d7ec985f2ffacddb63"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/akismet/",
+                "uid": 39
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/akismet",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/akismet/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://raw.githubusercontent.com/newclarity/wordpress-dependencies/master/downloads/wpackagist-plugin/akismet/wpackagist-plugin-akismet-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "78247c0176f0a42a3ef48e534c4969d78eddca32"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2017-08-11T05:13:05+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/akismet/",
+                "uid": 40
+            }
+        }
+    }
+}
