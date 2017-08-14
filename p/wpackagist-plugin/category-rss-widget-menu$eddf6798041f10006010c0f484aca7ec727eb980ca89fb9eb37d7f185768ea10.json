@@ -1,0 +1,51 @@
+{
+    "packages": {
+        "wpackagist-plugin/category-rss-widget-menu": {
+            "v1.0": {
+                "name": "wpackagist-plugin/category-rss-widget-menu",
+                "version": "v1.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/category-rss-widget-menu/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/category-rss-widget-menu/wpackagist-plugin-category-rss-widget-menu-v1.0-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "804364d02afe1c559dd022c3dde412ed2bd9d68c"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/category-rss-widget-menu/",
+                "uid": 45
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/category-rss-widget-menu",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/category-rss-widget-menu/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/category-rss-widget-menu/wpackagist-plugin-category-rss-widget-menu-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "68fdc1ee1f5ad71ea9da3b1b8fa45d2c7ac5d9d6"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2014-01-12T19:14:19+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/category-rss-widget-menu/",
+                "uid": 46
+            }
+        }
+    }
+}

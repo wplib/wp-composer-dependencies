@@ -1,0 +1,51 @@
+{
+    "packages": {
+        "wpackagist-plugin/tealium": {
+            "2.1.6": {
+                "name": "wpackagist-plugin/tealium",
+                "version": "2.1.6",
+                "version_normalized": "2.1.6.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/tealium/",
+                    "reference": "tags/2.1.6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/tealium/wpackagist-plugin-tealium-2.1.6-c9f879.zip",
+                    "reference": "tags/2.1.6",
+                    "shasum": "fd950be86e18bcd9a8e73b55b6f865e25e8615d8"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/tealium/",
+                "uid": 168
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/tealium",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/tealium/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/tealium/wpackagist-plugin-tealium-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "73942fd3384eb76f0c1170f9c38a1efb59fe2b7a"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2016-12-12T08:07:51+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/tealium/",
+                "uid": 169
+            }
+        }
+    }
+}
