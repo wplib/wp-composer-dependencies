@@ -1,0 +1,139 @@
+{
+    "packages": {
+        "wpackagist-plugin/scripts-n-styles": {
+            "3.3.1": {
+                "name": "wpackagist-plugin/scripts-n-styles",
+                "version": "3.3.1",
+                "version_normalized": "3.3.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/scripts-n-styles/",
+                    "reference": "tags/3.3.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://raw.githubusercontent.com/newclarity/wordpress-dependencies/master/downloads/wpackagist-plugin/scripts-n-styles/wpackagist-plugin-scripts-n-styles-3.3.1-1fd770.zip",
+                    "reference": "tags/3.3.1",
+                    "shasum": "afaba2ea2424536c645340330f64eb5d359db16a"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/scripts-n-styles/",
+                "uid": 140
+            },
+            "3.3.2": {
+                "name": "wpackagist-plugin/scripts-n-styles",
+                "version": "3.3.2",
+                "version_normalized": "3.3.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/scripts-n-styles/",
+                    "reference": "tags/3.3.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://raw.githubusercontent.com/newclarity/wordpress-dependencies/master/downloads/wpackagist-plugin/scripts-n-styles/wpackagist-plugin-scripts-n-styles-3.3.2-9fb9d6.zip",
+                    "reference": "tags/3.3.2",
+                    "shasum": "f87988767ab823e8297929d53e8dcaa9ab79d288"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/scripts-n-styles/",
+                "uid": 141
+            },
+            "3.4.0": {
+                "name": "wpackagist-plugin/scripts-n-styles",
+                "version": "3.4.0",
+                "version_normalized": "3.4.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/scripts-n-styles/",
+                    "reference": "tags/3.4.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://raw.githubusercontent.com/newclarity/wordpress-dependencies/master/downloads/wpackagist-plugin/scripts-n-styles/wpackagist-plugin-scripts-n-styles-3.4.0-9f8d69.zip",
+                    "reference": "tags/3.4.0",
+                    "shasum": "349cdca9b80b165664e0aba66628cc3a95b2dc74"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/scripts-n-styles/",
+                "uid": 142
+            },
+            "3.4.1": {
+                "name": "wpackagist-plugin/scripts-n-styles",
+                "version": "3.4.1",
+                "version_normalized": "3.4.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/scripts-n-styles/",
+                    "reference": "tags/3.4.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://raw.githubusercontent.com/newclarity/wordpress-dependencies/master/downloads/wpackagist-plugin/scripts-n-styles/wpackagist-plugin-scripts-n-styles-3.4.1-5e413f.zip",
+                    "reference": "tags/3.4.1",
+                    "shasum": "7eb30a45a34ecd6030455387dbd4e2b886fddfc0"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/scripts-n-styles/",
+                "uid": 143
+            },
+            "3.4.2": {
+                "name": "wpackagist-plugin/scripts-n-styles",
+                "version": "3.4.2",
+                "version_normalized": "3.4.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/scripts-n-styles/",
+                    "reference": "tags/3.4.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://raw.githubusercontent.com/newclarity/wordpress-dependencies/master/downloads/wpackagist-plugin/scripts-n-styles/wpackagist-plugin-scripts-n-styles-3.4.2-fa05c8.zip",
+                    "reference": "tags/3.4.2",
+                    "shasum": "97cec31864c0f397ffcea0612f70aa1083960338"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/scripts-n-styles/",
+                "uid": 144
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/scripts-n-styles",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/scripts-n-styles/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://raw.githubusercontent.com/newclarity/wordpress-dependencies/master/downloads/wpackagist-plugin/scripts-n-styles/wpackagist-plugin-scripts-n-styles-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "a5430ad193fe808ce10c2787b7f0326342481523"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2017-08-07T18:16:48+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/scripts-n-styles/",
+                "uid": 145
+            }
+        }
+    }
+}

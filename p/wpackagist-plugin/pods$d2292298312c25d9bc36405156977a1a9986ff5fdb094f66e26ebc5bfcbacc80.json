@@ -1,0 +1,53 @@
+{
+    "packages": {
+        "wpackagist-plugin/pods": {
+            "2.6.10": {
+                "name": "wpackagist-plugin/pods",
+                "version": "2.6.10",
+                "version_normalized": "2.6.10.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/pods/",
+                    "reference": "tags/2.6.10"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://raw.githubusercontent.com/newclarity/wordpress-dependencies/master/downloads/wpackagist-plugin/pods/wpackagist-plugin-pods-2.6.10-0cfe73.zip",
+                    "reference": "tags/2.6.10",
+                    "shasum": "3b50571315b355049c3a6705e1b2147f0da7db24"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "homepage": "https://wordpress.org/plugins/pods/",
+                "uid": 89
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/pods",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/pods/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://raw.githubusercontent.com/newclarity/wordpress-dependencies/master/downloads/wpackagist-plugin/pods/wpackagist-plugin-pods-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "3b50571315b355049c3a6705e1b2147f0da7db24"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2017-07-14T20:10:09+00:00",
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "homepage": "https://wordpress.org/plugins/pods/",
+                "uid": 90
+            }
+        }
+    }
+}
