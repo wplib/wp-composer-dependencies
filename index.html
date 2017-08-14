@@ -58,7 +58,7 @@
             <div class="collapse navbar-collapse in">
                 <p class="navbar-text navbar-right">
                     <small class="text-muted">
-                        Last updated: <time datetime="2017-08-14T08:45:34+00:00">Monday, 14 Aug 2017 08:45:34 UTC</time>
+                        Last updated: <time datetime="2017-08-14T09:04:15+00:00">Monday, 14 Aug 2017 09:04:15 UTC</time>
                     </small>
                 </p>
             </div>
@@ -2532,55 +2532,31 @@ $(function () {
     var input = $('input#search');
     var list = $('div#package-list');
     var packages = list.find('h3');
-    var timeElements = $('time');
-    var inputTimeout;
-
-    var updateTimeElements = function () {
-        momentize(timeElements);
-    };
-
-    var readHash = function () {
-        var hash = window.decodeURIComponent(window.location.hash.substr(1));
-        if (hash.length > 0) {
-            input.val(hash);
-            filterPackages();
-        }
-    };
-
-    var updateHash = function () {
-        window.location.hash = window.encodeURIComponent(input.val());
-    };
-
-    var filterPackages = function () {
-        var needle = input.val().toLowerCase();
-
-        list.hide();
-
-        packages.each(function () {
-            $(this).closest('div.panel').toggle(
-                $(this).text().toLowerCase().indexOf(needle) !== -1
-            );
-        });
-
-        list.show();
-    };
+    var timer;
 
     input.keyup(function () {
-        updateHash();
-        window.clearTimeout(inputTimeout);
-        inputTimeout = window.setTimeout(filterPackages, 350);
+        clearTimeout(timer);
+        var needle = $(this).val().toLowerCase();
+        timer = setTimeout(function () {
+            list.hide();
+            packages.each(function () {
+                $(this).closest('div.panel').toggle(
+                    $(this).text().toLowerCase().indexOf(needle) !== -1
+                );
+            });
+            list.show();
+        }, 350);
     });
 
     $(window).keyup(function (event) {
         if (event.keyCode === 27) { // "ESC" keyCode
-            input.val('');
-            filterPackages();
+            input.val('').trigger('keyup');
         }
     });
 
-    readHash();
-    updateTimeElements();
-    window.setInterval(updateTimeElements, 5000);
+    var timeElements = $('time');
+    momentize(timeElements);
+    setInterval(function () { momentize(timeElements); }, 5000);
 });
 </script>
 <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">

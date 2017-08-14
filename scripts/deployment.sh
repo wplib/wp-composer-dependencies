@@ -49,6 +49,12 @@ announce "Committing ${commitMsg}"
 sudo git commit -m "Commit ${commitMsg}" >> $ARTIFACTS_FILE
 
 #
+# Pulling to origin
+#
+announce "Pulling from to origin/${CIRCLE_BRANCH}"
+git pull origin ${CIRCLE_BRANCH} --quiet >> $ARTIFACTS_FILE
+
+#
 # Pushing to origin
 #
 announce "Pushing to origin/${CIRCLE_BRANCH}"
