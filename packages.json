@@ -1,6 +1,6 @@
 {
   "packages": [],
-  "providers-url": "/newclarity/wordpress-dependencies/master/p/%package%$%hash%.json%",
+  "providers-url": "/newclarity/wordpress-dependencies/master/p/%package%$%hash%.json",
   "providers": {
     "algolia/algoliasearch-wordpress": {
       "sha256": "0f465e075bea6bb30636399db8491ad8ab0ada14f77ec098f4193cb1b1c5ccf8"
@@ -21,7 +21,7 @@
       "sha256": "bab47abb503455c912db19308d0a38efd497bedb3c45b719e673cdde7b0647b2"
     },
     "facetwp/facetwp": {
-      "sha256": "917c8e93d8cc4169f65033cf928f785a2937d4b3d257bb502db7dc5c91331f72"
+      "sha256": "2e3a8659be2911206d0e009b70c470d6382817b2466ac2a1241fab90a885f486"
     },
     "johnpbloch/wordpress-core": {
       "sha256": "9513bfd2b9fa7696ef319773b342f70af570281f435154083d9ce4fd035ce8b2"
