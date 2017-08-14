@@ -32,7 +32,6 @@ cd "${REPO_ROOT}"
 announce "Running Satis to build packages.json"
 satis build satis.json --quiet 2>&1 > $ARTIFACTS_FILE
 
-exit 1
 #
 # Capture .providers-url from packages.json
 #
@@ -53,7 +52,6 @@ announce "New PROVIDERS_URL: ${PROVIDERS_URL}"
 # This is needed to support GitHub repos as a Composer repository
 #
 announce "Updating ['providers-url'] in ${PACKAGES_JSON} to ${PROVIDERS_URL}"
-PROVIDERS_URL="${PROVIDERS_URL/%/\%}"
 TEMP_FILE="$(mktemp jq-tmp.XXXX)" && \
     jq ".[\"providers-url\"] = \"${PROVIDERS_URL}\"" "${PACKAGES_JSON}" > $TEMP_FILE && \
     mv "${TEMP_FILE}" "${PACKAGES_JSON}"
