@@ -31,29 +31,28 @@ cd "${REPO_ROOT}"
 #
 announce "Running Satis to build packages.json"
 satis build satis.json --quiet 2>&1 > $ARTIFACTS_FILE
-
 #
-# Capture .providers-url from packages.json
+##
+## Capture .providers-url from packages.json
+##
+#PACKAGES_JSON="${REPO_ROOT}/packages.json"
+#announce "Capture ['providers-url'] from ${PACKAGES_JSON}"
+#PROVIDERS_URL="$(jq -r '.["providers-url"]' "${PACKAGES_JSON}")"
 #
-PACKAGES_JSON="${REPO_ROOT}/packages.json"
-announce "Capture ['providers-url'] from ${PACKAGES_JSON}"
-PROVIDERS_URL="$(jq -r '.["providers-url"]' "${PACKAGES_JSON}")"
-
-
+##
+## Replace /p/ with /master/p/ in .providers-url
+##
+#announce "Replaced '/p/' with '/master/p/' in ${PROVIDERS_URL}"
+#PROVIDERS_URL="${PROVIDERS_URL/\/p\//\/master\/p\/}"
+#announce "New PROVIDERS_URL: ${PROVIDERS_URL}"
 #
-# Replace /p/ with /master/p/ in .providers-url
-#
-announce "Replaced '/p/' with '/master/p/' in ${PROVIDERS_URL}"
-PROVIDERS_URL="${PROVIDERS_URL/\/p\//\/master\/p\/}"
-announce "New PROVIDERS_URL: ${PROVIDERS_URL}"
-
-#
-# Updated providers-url in packages.json to include /master before /p
-# This is needed to support GitHub repos as a Composer repository
-#
-announce "Updating ['providers-url'] in ${PACKAGES_JSON} to ${PROVIDERS_URL}"
-TEMP_FILE="$(mktemp jq-tmp.XXXX)" && \
-    jq ".[\"providers-url\"] = \"${PROVIDERS_URL}\"" "${PACKAGES_JSON}" > $TEMP_FILE && \
-    mv "${TEMP_FILE}" "${PACKAGES_JSON}"
+##
+## Updated providers-url in packages.json to include /master before /p
+## This is needed to support GitHub repos as a Composer repository
+##
+#announce "Updating ['providers-url'] in ${PACKAGES_JSON} to ${PROVIDERS_URL}"
+#TEMP_FILE="$(mktemp jq-tmp.XXXX)" && \
+#    jq ".[\"providers-url\"] = \"${PROVIDERS_URL}\"" "${PACKAGES_JSON}" > $TEMP_FILE && \
+#    mv "${TEMP_FILE}" "${PACKAGES_JSON}"
 
 announce "Compile complete."

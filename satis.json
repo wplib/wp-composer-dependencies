@@ -8,7 +8,7 @@
         "directory": "downloads",
         "absolute-directory": "downloads",
         "format": "zip",
-        "prefix-url": "https://raw.githubusercontent.com/newclarity/wordpress-dependencies/master"
+        "prefix-url": "https://newclarity.github.io/wordpress-dependencies"
     },
     "repositories": [
         {
