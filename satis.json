@@ -1,6 +1,6 @@
 {
     "name": "WordPress Dependencies",
-    "homepage": "http://github.com/newclarity/wordpress-dependencies",
+    "homepage": "https://newclarity.github.io/wordpress-dependencies",
     "providers": true,
     "output-dir": ".",
     "output-html": true,
