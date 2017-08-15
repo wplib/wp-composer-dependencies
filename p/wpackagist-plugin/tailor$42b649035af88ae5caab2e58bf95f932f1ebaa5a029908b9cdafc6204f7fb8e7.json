@@ -1,0 +1,95 @@
+{
+    "packages": {
+        "wpackagist-plugin/tailor": {
+            "1.7.10": {
+                "name": "wpackagist-plugin/tailor",
+                "version": "1.7.10",
+                "version_normalized": "1.7.10.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/tailor/",
+                    "reference": "tags/1.7.10"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/tailor/wpackagist-plugin-tailor-1.7.10-f2d9c0.zip",
+                    "reference": "tags/1.7.10",
+                    "shasum": "551c87b726221e7ee62123320fe164d5d6d1e726"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/tailor/",
+                "uid": 169
+            },
+            "1.7.9": {
+                "name": "wpackagist-plugin/tailor",
+                "version": "1.7.9",
+                "version_normalized": "1.7.9.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/tailor/",
+                    "reference": "tags/1.7.9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/tailor/wpackagist-plugin-tailor-1.7.9-2a4e92.zip",
+                    "reference": "tags/1.7.9",
+                    "shasum": "9c6e85b3cc73ef7d60fa33f46c31ee5bb6eeadc9"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/tailor/",
+                "uid": 170
+            },
+            "1.8.0": {
+                "name": "wpackagist-plugin/tailor",
+                "version": "1.8.0",
+                "version_normalized": "1.8.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/tailor/",
+                    "reference": "tags/1.8.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/tailor/wpackagist-plugin-tailor-1.8.0-5a65f4.zip",
+                    "reference": "tags/1.8.0",
+                    "shasum": "3afeb7ba3e383d08ffe0494e0a80b9868270ffee"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/tailor/",
+                "uid": 171
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/tailor",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/tailor/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/tailor/wpackagist-plugin-tailor-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "36f3fd31caac0130064f2e1d4b8e658cac652b2d"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2017-07-29T10:54:49+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/tailor/",
+                "uid": 172
+            }
+        }
+    }
+}

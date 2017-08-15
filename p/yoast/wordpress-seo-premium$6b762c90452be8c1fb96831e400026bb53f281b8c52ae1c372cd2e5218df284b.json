@@ -1,0 +1,38 @@
+{
+    "packages": {
+        "yoast/wordpress-seo-premium": {
+            "3.2.4": {
+                "name": "yoast/wordpress-seo-premium",
+                "version": "3.2.4",
+                "version_normalized": "3.2.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/yoast/wordpress-seo-premium/yoast-wordpress-seo-premium-3.2.4.zip",
+                    "reference": null,
+                    "shasum": "a85222e2dcae3164ce93e5a94d29add27cb5d8ef"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-muplugin",
+                "uid": 211
+            },
+            "3.4": {
+                "name": "yoast/wordpress-seo-premium",
+                "version": "3.4",
+                "version_normalized": "3.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/yoast/wordpress-seo-premium/yoast-wordpress-seo-premium-3.4.zip",
+                    "reference": null,
+                    "shasum": "3d33a809ac398a81d160f0f93d2b44050429f778"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-muplugin",
+                "uid": 212
+            }
+        }
+    }
+}
