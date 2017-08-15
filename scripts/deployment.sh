@@ -24,46 +24,45 @@ ARTIFACTS_FILE="${CIRCLE_ARTIFACTS}/deployment.log"
 source "${SHARED_SCRIPTS}"
 
 #
+# Announce general process
+#
+announce "Deploying updates back to repository"
+
+#
 # Change to the repository root, just to be sure
 #
-announce "Changing directory to ${REPO_ROOT}"
+announce "...Changing directory to ${REPO_ROOT}"
 cd "${REPO_ROOT}"
 
 #
 # Adding a BUILD file containing CIRCLE_BUILD_NUM
 #
-announce "Adding a BUILD file containing build# ${CIRCLE_BUILD_NUM}"
+announce "...Adding a BUILD file containing build# ${CIRCLE_BUILD_NUM}"
 echo "${CIRCLE_BUILD_NUM}" > ${REPO_ROOT}/BUILD
 
 #
 # Adding all files to Git stage
 #
-announce "Staging all files except files excluded by .gitignore"
+announce "...Staging all files except files excluded by .gitignore"
 sudo git add .  >> $ARTIFACTS_FILE
 
 #
 # Committing files for this build
 #
 commitMsg="build #${CIRCLE_BUILD_NUM} [skip ci]"
-announce "Committing ${commitMsg}"
+announce "...Committing ${commitMsg}"
 sudo git commit -m "Commit ${commitMsg}" >> $ARTIFACTS_FILE
 
 #
-# Pulling to origin
+# Pushing back to origin
 #
-announce "Pulling from to origin/${CIRCLE_BRANCH}"
-git pull origin ${CIRCLE_BRANCH} --quiet >> $ARTIFACTS_FILE
-
-#
-# Pushing to origin
-#
-announce "Pushing to origin/${CIRCLE_BRANCH}"
+announce "...Pushing to origin/${CIRCLE_BRANCH}"
 git push origin ${CIRCLE_BRANCH} --quiet >> $ARTIFACTS_FILE
 
 #
 # Adding build tag
 #
-announce "Tagging build with '${BUILD_TAG}'"
+announce "...Tagging build with '${BUILD_TAG}'"
 git tag -a "${BUILD_TAG}" -m "Build #${CIRCLE_BUILD_NUM}" 2>&1 >> $ARTIFACTS_FILE
 onError
 
@@ -72,7 +71,7 @@ onError
 #
 # @see https://stackoverflow.com/a/3745250/102699
 #
-announce "Pushing tag ${BUILD_TAG}"
+announce "...Pushing tag ${BUILD_TAG}"
 git push --tags --quiet >> $ARTIFACTS_FILE
 
 
