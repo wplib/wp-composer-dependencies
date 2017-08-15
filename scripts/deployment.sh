@@ -35,6 +35,14 @@ announce "...Changing directory to ${REPO_ROOT}"
 cd "${REPO_ROOT}"
 
 #
+# Ensure current user can use git w/o sudo
+#
+# @see: https://help.github.com/articles/error-permission-denied-publickey/
+#
+announce "...Chowning ${REPO_ROOT}/* to 'ubuntu:ubuntu', recursively"
+sudo chown -R ubuntu:ubuntu "${REPO_ROOT}"
+
+#
 # Adding a BUILD file containing CIRCLE_BUILD_NUM
 #
 announce "...Adding a BUILD file containing build #${CIRCLE_BUILD_NUM}"
@@ -44,26 +52,26 @@ echo "${CIRCLE_BUILD_NUM}" > ${REPO_ROOT}/BUILD
 # Adding all files to Git stage
 #
 announce "...Staging all files except files excluded by .gitignore"
-sudo git add .  >> $ARTIFACTS_FILE
+git add .  >> $ARTIFACTS_FILE
 
 #
 # Committing files for this build
 #
 commitMsg="build #${CIRCLE_BUILD_NUM} [skip ci]"
 announce "...Committing ${commitMsg}"
-sudo git commit -m "Commit ${commitMsg}" >> $ARTIFACTS_FILE
+git commit -m "Commit ${commitMsg}" >> $ARTIFACTS_FILE
 
 #
 # Pushing back to origin
 #
 announce "...Pushing to origin/${CIRCLE_BRANCH}"
-sudo git push origin ${CIRCLE_BRANCH} --quiet >> $ARTIFACTS_FILE
+git push origin ${CIRCLE_BRANCH} --quiet >> $ARTIFACTS_FILE
 
 #
 # Adding build tag
 #
 announce "...Tagging build with '${BUILD_TAG}'"
-sudo git tag -a "${BUILD_TAG}" -m "Build #${CIRCLE_BUILD_NUM}" 2>&1 >> $ARTIFACTS_FILE
+git tag -a "${BUILD_TAG}" -m "Build #${CIRCLE_BUILD_NUM}" 2>&1 >> $ARTIFACTS_FILE
 onError
 
 #
@@ -72,7 +80,7 @@ onError
 # @see https://stackoverflow.com/a/3745250/102699
 #
 announce "...Pushing tag ${BUILD_TAG}"
-sudo git push --tags --quiet >> $ARTIFACTS_FILE
+git push --tags --quiet >> $ARTIFACTS_FILE
 
 
 announce "Deployment complete."
