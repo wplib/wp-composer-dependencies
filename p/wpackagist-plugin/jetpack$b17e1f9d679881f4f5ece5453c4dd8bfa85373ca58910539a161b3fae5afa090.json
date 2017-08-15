@@ -20,7 +20,6 @@
                     "composer/installers": "~1.0"
                 },
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "homepage": "https://wordpress.org/plugins/jetpack/",
                 "uid": 75
             },
@@ -44,7 +43,6 @@
                 },
                 "time": "2017-08-02T21:08:54+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "homepage": "https://wordpress.org/plugins/jetpack/",
                 "uid": 76
             }
