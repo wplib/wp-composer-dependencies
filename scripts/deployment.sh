@@ -37,7 +37,7 @@ cd "${REPO_ROOT}"
 #
 # Adding a BUILD file containing CIRCLE_BUILD_NUM
 #
-announce "...Adding a BUILD file containing build# ${CIRCLE_BUILD_NUM}"
+announce "...Adding a BUILD file containing build #${CIRCLE_BUILD_NUM}"
 echo "${CIRCLE_BUILD_NUM}" > ${REPO_ROOT}/BUILD
 
 #
