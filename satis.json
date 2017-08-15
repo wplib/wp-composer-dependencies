@@ -96,6 +96,7 @@
         "wpackagist-plugin/pantheon-hud": ">=0.1.0",
         "wpackagist-plugin/publish-to-apple-news": ">=1.2.7",
         "wpackagist-plugin/carbon-fields": ">=1.6",
+        "wpackagist-plugin/jetpack": ">=5.2.1",
         "nprds/nprapi-wordpress": "dev-master",
         "algolia/algoliasearch-wordpress": ">=2.6.0",
         "wplib/wplib": ">=0.14.0"
