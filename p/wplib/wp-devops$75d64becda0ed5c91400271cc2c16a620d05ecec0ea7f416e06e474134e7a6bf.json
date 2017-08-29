@@ -8,15 +8,15 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/wplib/wp-devops",
-                    "reference": "928fea906697e7b800f76a96e27f0a2e9dd88662"
+                    "reference": "aba21e7b02608d421571fa2b3f4cf03d4bb7eff6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wplib/wp-devops/wplib-wp-devops-dev-master-29d57e.zip",
-                    "reference": "928fea906697e7b800f76a96e27f0a2e9dd88662",
-                    "shasum": "c04e6a1227145739efd889dc5d5fede7cf2e798a"
+                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wplib/wp-devops/wplib-wp-devops-dev-master-a7c977.zip",
+                    "reference": "aba21e7b02608d421571fa2b3f4cf03d4bb7eff6",
+                    "shasum": "730bc2be1cc8817aa1bbbba1218d96678656e08e"
                 },
-                "time": "2017-08-29T08:37:40+00:00",
+                "time": "2017-08-29T08:59:53+00:00",
                 "type": "wordpress-devops-core",
                 "installation-source": "source",
                 "license": [
