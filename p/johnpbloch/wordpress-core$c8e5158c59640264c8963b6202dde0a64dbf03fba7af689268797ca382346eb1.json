@@ -339,7 +339,6 @@
                 },
                 "time": "2017-08-22T17:30:35+00:00",
                 "type": "wordpress-core",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -703,7 +702,6 @@
                 },
                 "time": "2017-08-22T21:47:43+00:00",
                 "type": "wordpress-core",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -1067,7 +1065,6 @@
                 },
                 "time": "2017-08-22T17:18:27+00:00",
                 "type": "wordpress-core",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -1116,7 +1113,6 @@
                 },
                 "time": "2017-08-29T04:17:47+00:00",
                 "type": "wordpress-core",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],

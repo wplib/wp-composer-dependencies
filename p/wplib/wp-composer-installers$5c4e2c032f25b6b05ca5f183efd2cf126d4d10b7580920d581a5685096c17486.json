@@ -8,13 +8,13 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/wplib/wp-composer-installers",
-                    "reference": "8c304640afbccb9edb4450fb0ccb16b67735f629"
+                    "reference": "be797eb619ba796eda48e1fc2146c9380fc7c630"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wplib/wp-composer-installers/wplib-wp-composer-installers-1.0-a766c3.zip",
-                    "reference": "8c304640afbccb9edb4450fb0ccb16b67735f629",
-                    "shasum": "fbe432aec6de046fae1899aa3c36ad9246c65d01"
+                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wplib/wp-composer-installers/wplib-wp-composer-installers-1.0-06d759.zip",
+                    "reference": "be797eb619ba796eda48e1fc2146c9380fc7c630",
+                    "shasum": "35b0ef1623773da7de3ae3b20670e72eda30b5da"
                 },
                 "require": {
                     "composer-plugin-api": "^1.0"
@@ -25,7 +25,7 @@
                 "require-dev": {
                     "composer/composer": "^1.0"
                 },
-                "time": "2017-08-29T06:45:49+00:00",
+                "time": "2017-08-29T07:19:23+00:00",
                 "type": "composer-plugin",
                 "extra": {
                     "class": "WPLib\\ComposerInstaller",
@@ -68,13 +68,13 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/wplib/wp-composer-installers",
-                    "reference": "891f7adb9f8cbaaab56b170353bbb82ecb456bf6"
+                    "reference": "be797eb619ba796eda48e1fc2146c9380fc7c630"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wplib/wp-composer-installers/wplib-wp-composer-installers-dev-master-be83a8.zip",
-                    "reference": "891f7adb9f8cbaaab56b170353bbb82ecb456bf6",
-                    "shasum": "51ca72da1e257f0700f937368d7b39f37f322a89"
+                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wplib/wp-composer-installers/wplib-wp-composer-installers-dev-master-06d759.zip",
+                    "reference": "be797eb619ba796eda48e1fc2146c9380fc7c630",
+                    "shasum": "724f405e777d584821255d587341c2b8173d50e9"
                 },
                 "require": {
                     "composer-plugin-api": "^1.0"
@@ -85,7 +85,7 @@
                 "require-dev": {
                     "composer/composer": "^1.0"
                 },
-                "time": "2017-08-29T06:49:18+00:00",
+                "time": "2017-08-29T07:19:23+00:00",
                 "type": "composer-plugin",
                 "extra": {
                     "class": "WPLib\\ComposerInstaller",

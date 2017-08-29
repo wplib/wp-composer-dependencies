@@ -86,7 +86,6 @@
                     "composer/installers": "~1.0"
                 },
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "homepage": "https://wordpress.org/plugins/wordpress-seo/",
                 "uid": 194
             },
@@ -109,7 +108,6 @@
                     "composer/installers": "~1.0"
                 },
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "homepage": "https://wordpress.org/plugins/wordpress-seo/",
                 "uid": 195
             },
@@ -132,7 +130,6 @@
                     "composer/installers": "~1.0"
                 },
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "homepage": "https://wordpress.org/plugins/wordpress-seo/",
                 "uid": 196
             },
@@ -155,7 +152,6 @@
                     "composer/installers": "~1.0"
                 },
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "homepage": "https://wordpress.org/plugins/wordpress-seo/",
                 "uid": 197
             },
