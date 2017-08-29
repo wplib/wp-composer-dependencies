@@ -42,6 +42,14 @@
         {
             "type": "git",
             "url": "https://github.com/algolia/algoliasearch-wordpress.git"
+        },
+        {
+            "type": "git",
+            "url": "https://github.com/wplib/wp-devops"
+        },
+        {
+            "type": "git",
+            "url": "https://github.com/wplib/wp-composer-installers"
         }
     ],
     "require": {
@@ -101,7 +109,9 @@
         "wpackagist-plugin/duplicate-post": ">=3.2",
         "nprds/nprapi-wordpress": "dev-master",
         "algolia/algoliasearch-wordpress": ">=2.6.0",
-        "wplib/wplib": ">=0.14.0"
+        "wplib/wplib": ">=0.14.0",
+        "wplib/wp-composer-installers": ">=1.0",
+        "wplib/wp-devops": "dev-master"
 
     }
 }
