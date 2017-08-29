@@ -1,0 +1,36 @@
+{
+    "packages": {
+        "wplib/wp-devops": {
+            "dev-master": {
+                "name": "wplib/wp-devops",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/wplib/wp-devops",
+                    "reference": "6cf4170612e523ead932abae9ddb83ef47cc5b92"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wplib/wp-devops/wplib-wp-devops-dev-master-c1b601.zip",
+                    "reference": "6cf4170612e523ead932abae9ddb83ef47cc5b92",
+                    "shasum": "c04c180ff5de94adb740d2b0065a1983118b1a38"
+                },
+                "time": "2017-08-28T22:19:12+00:00",
+                "type": "wordpress-devops-core",
+                "installation-source": "source",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "The WPLib Team",
+                        "email": "team@wplib.org"
+                    }
+                ],
+                "description": "Collection of scripts and continuous integration configuration files for building, testing and deploying WordPress websites.",
+                "uid": 226
+            }
+        }
+    }
+}

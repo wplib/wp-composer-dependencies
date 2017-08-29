@@ -1,0 +1,187 @@
+{
+    "packages": {
+        "wpackagist-plugin/wordpress-seo": {
+            "5.0.2": {
+                "name": "wpackagist-plugin/wordpress-seo",
+                "version": "5.0.2",
+                "version_normalized": "5.0.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
+                    "reference": "tags/5.0.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/wordpress-seo/wpackagist-plugin-wordpress-seo-5.0.2-72732d.zip",
+                    "reference": "tags/5.0.2",
+                    "shasum": "a865559a0d44800e2d1821eb1fb735d27ae5d80e"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wordpress-seo/",
+                "uid": 191
+            },
+            "5.1": {
+                "name": "wpackagist-plugin/wordpress-seo",
+                "version": "5.1",
+                "version_normalized": "5.1.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
+                    "reference": "tags/5.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/wordpress-seo/wpackagist-plugin-wordpress-seo-5.1-22b6b5.zip",
+                    "reference": "tags/5.1",
+                    "shasum": "826bbcab950ae270532b72e7efbb432889c4b556"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wordpress-seo/",
+                "uid": 192
+            },
+            "5.2": {
+                "name": "wpackagist-plugin/wordpress-seo",
+                "version": "5.2",
+                "version_normalized": "5.2.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
+                    "reference": "tags/5.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/wordpress-seo/wpackagist-plugin-wordpress-seo-5.2-88a0ce.zip",
+                    "reference": "tags/5.2",
+                    "shasum": "d66ccab95bfaaa3f906b927efed519ed21c734f8"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wordpress-seo/",
+                "uid": 193
+            },
+            "5.3": {
+                "name": "wpackagist-plugin/wordpress-seo",
+                "version": "5.3",
+                "version_normalized": "5.3.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
+                    "reference": "tags/5.3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/wordpress-seo/wpackagist-plugin-wordpress-seo-5.3-1d9639.zip",
+                    "reference": "tags/5.3",
+                    "shasum": "abb34a8d00816694c02edb56457566afc3edcc01"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "homepage": "https://wordpress.org/plugins/wordpress-seo/",
+                "uid": 194
+            },
+            "5.3.1": {
+                "name": "wpackagist-plugin/wordpress-seo",
+                "version": "5.3.1",
+                "version_normalized": "5.3.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
+                    "reference": "tags/5.3.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/wordpress-seo/wpackagist-plugin-wordpress-seo-5.3.1-7cbce1.zip",
+                    "reference": "tags/5.3.1",
+                    "shasum": "9098b157c0945507e0c235e6cff9fb8cd2c49436"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "homepage": "https://wordpress.org/plugins/wordpress-seo/",
+                "uid": 195
+            },
+            "5.3.2": {
+                "name": "wpackagist-plugin/wordpress-seo",
+                "version": "5.3.2",
+                "version_normalized": "5.3.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
+                    "reference": "tags/5.3.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/wordpress-seo/wpackagist-plugin-wordpress-seo-5.3.2-a2a77c.zip",
+                    "reference": "tags/5.3.2",
+                    "shasum": "743aaefefc9e8f47dfe51233bce2e36b096ae238"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "homepage": "https://wordpress.org/plugins/wordpress-seo/",
+                "uid": 196
+            },
+            "5.3.3": {
+                "name": "wpackagist-plugin/wordpress-seo",
+                "version": "5.3.3",
+                "version_normalized": "5.3.3.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
+                    "reference": "tags/5.3.3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/wordpress-seo/wpackagist-plugin-wordpress-seo-5.3.3-c8919c.zip",
+                    "reference": "tags/5.3.3",
+                    "shasum": "5d713a0498c341156a6e7b2232c19bfb449e7d1d"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "homepage": "https://wordpress.org/plugins/wordpress-seo/",
+                "uid": 197
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/wordpress-seo",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/wordpress-seo/wpackagist-plugin-wordpress-seo-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "21176f3937e5f72a0bc3757ba4b176c03dd24453"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2017-08-28T12:31:48+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wordpress-seo/",
+                "uid": 198
+            }
+        }
+    }
+}
