@@ -168,10 +168,10 @@
             "sha256": "8fb03d5aeb164ebdff2365a1952792db437c80dc7106e6cb1190fcf74c691dda"
         },
         "wplib/wp-composer-installers": {
-            "sha256": "b194a4843a7d527e790c76cfb33e109628c178906c856f3d91e8ac11a06e5df5"
+            "sha256": "9944d5315cc44bd439718fccf0ef249b916a5bdd8615c03f64f6f6cb4f78cf09"
         },
         "wplib/wp-devops": {
-            "sha256": "8f72311e7b09df0401ebece00c2262589a79828b99ebcba1b800a16ceb93e7ff"
+            "sha256": "49d7b43093eabcf6e55fe99c90803adc233c93679b2a5029eac4eab44619aa7e"
         },
         "wplib/wplib": {
             "sha256": "f1e0209f9620fa464d1d87cde415df774bc1ddc07a2b856da58050fbe2a648f2"
