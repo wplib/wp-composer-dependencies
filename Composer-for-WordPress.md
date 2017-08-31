@@ -56,18 +56,23 @@ The basic reasons Composer is mismatched for WordPress include the extra efforts
 
     Because Composer was designed to provide PSR support it assumes all dependences will be stored in a `/vendor/` directory.  WordPress, of course, wants to put themes in `/wp-content/themes/` and plugins in either `/wp-content/plugins/` or `/wp-content/mu-plugins/`.  So in order to communicate these specifics to Composer you have to specify a lot of tedious-in-maintain path mappings in the `composer.json` file. 
 
-	_(If we had a WordPress-specific solution all we would need to do is simply specify the names of the plugin. But I digress...)_
+	Fortunately we have a WPLib project designed to simplify this aspect of Composer for WordPress site builders. We call it [_Composer Installers for WordPress_. **Check it out**](/wplib/wp-composer-installers)!
+
+
+	_(P.S. If we had a WordPress-specific solution all we would need to do is simply specify the names of the plugin. But I digress...)_
 
 1. **Modify the default directory layout of WordPress**
 
 	To make matters worse, WordPress puts itself in the web root and Composer assumes that any dependency fully owns its own directory and anything below it, so if you use Composer to put WordPress in the web root wipes out both `/wp-config.php` as well as everything in `/wp-content/`!
 
-	Composer simply cannot work with the default WordPress directory layout** _assuming_ you manage WordPress itself as a dependencies _(and why would you not want to do that?)_.  
+	**Composer simply cannot work with the default WordPress directory layout** _assuming_ you manage WordPress itself as a dependencies _(and why would you not want to do that?)_.  
 	
 	
 	So to support Composer [Mark Jaquith](http://markjaquith.com/) &mdash; one of the lead developers on WordPress  &mdash; specified [the WordPress Skeleton layout](https://markjaquith.wordpress.com/2012/05/26/wordpress-skeleton/) in 2012 which places WordPress core in a `/wp/` directory and then uses `/content/` instead of `/wp-content/`.  
 	
-	The  WordPress Skeleton layout works really well for Composer, but then **major WordPress managed hosts** _(such as [_WPEngine_](https://wpengine.com/))_ **only support hosting WordPress' default directly layout**, so that makes local development and then deployment a real challenge. _(Fortunately we have another WPLib project designed to streamline the buid, test and deployment process: [_WP DevOps_. **_Check it out_**](/wplib/wp-devops)!)_
+	The  WordPress Skeleton layout works really well for Composer, but then **major WordPress managed hosts** _(such as [_WPEngine_](https://wpengine.com/))_ **only support hosting WordPress' default directly layout**, so that makes local development and then deployment a real challenge. 
+
+	As an aside, we also have a WPLib project designed to streamline the build, test and deployment process too. We call it [_WP DevOps_](/wplib/wp-devops) and it currently works with [CircleCI](https://circleci.com/) for build and test with [Pantheon](https://pantheon.io/) or [WPEngine](https://wpengine.com/) for deployment. [**Check it out too**](/wplib/wp-devops)!
 
 
 
