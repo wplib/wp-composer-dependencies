@@ -1,0 +1,117 @@
+{
+    "packages": {
+        "wpackagist-plugin/wp-native-php-sessions": {
+            "0.5": {
+                "name": "wpackagist-plugin/wp-native-php-sessions",
+                "version": "0.5",
+                "version_normalized": "0.5.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wp-native-php-sessions/",
+                    "reference": "tags/0.5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/wp-native-php-sessions/wpackagist-plugin-wp-native-php-sessions-0.5-8c19d7.zip",
+                    "reference": "tags/0.5",
+                    "shasum": "076e44bf52513f7a3221d1fe533bf9adaaf726fd"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wp-native-php-sessions/",
+                "uid": 202
+            },
+            "0.6.0": {
+                "name": "wpackagist-plugin/wp-native-php-sessions",
+                "version": "0.6.0",
+                "version_normalized": "0.6.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wp-native-php-sessions/",
+                    "reference": "tags/0.6.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/wp-native-php-sessions/wpackagist-plugin-wp-native-php-sessions-0.6.0-5f4ac2.zip",
+                    "reference": "tags/0.6.0",
+                    "shasum": "e82236dbcd60cc8814aedc4410b46de273c9998c"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wp-native-php-sessions/",
+                "uid": 203
+            },
+            "0.6.1": {
+                "name": "wpackagist-plugin/wp-native-php-sessions",
+                "version": "0.6.1",
+                "version_normalized": "0.6.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wp-native-php-sessions/",
+                    "reference": "tags/0.6.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/wp-native-php-sessions/wpackagist-plugin-wp-native-php-sessions-0.6.1-18b2d3.zip",
+                    "reference": "tags/0.6.1",
+                    "shasum": "935c77580800a098210d0780df7abcce60e6daab"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wp-native-php-sessions/",
+                "uid": 204
+            },
+            "0.6.2": {
+                "name": "wpackagist-plugin/wp-native-php-sessions",
+                "version": "0.6.2",
+                "version_normalized": "0.6.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wp-native-php-sessions/",
+                    "reference": "tags/0.6.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/wp-native-php-sessions/wpackagist-plugin-wp-native-php-sessions-0.6.2-b35acb.zip",
+                    "reference": "tags/0.6.2",
+                    "shasum": "5528d78ea8eaabf817e5a9573614fc0e509b3c3f"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wp-native-php-sessions/",
+                "uid": 205
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/wp-native-php-sessions",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wp-native-php-sessions/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/wp-native-php-sessions/wpackagist-plugin-wp-native-php-sessions-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "eccbc4b44abaaa186d178c87662f2640398f9bbe"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2017-06-06T21:06:01+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wp-native-php-sessions/",
+                "uid": 206
+            }
+        }
+    }
+}

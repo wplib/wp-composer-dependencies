@@ -1,0 +1,372 @@
+{
+    "packages": {
+        "composer/installers": {
+            "v1.3.0": {
+                "name": "composer/installers",
+                "version": "v1.3.0",
+                "version_normalized": "1.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/composer/installers",
+                    "reference": "79ad876c7498c0bbfe7eed065b8651c93bfd6045"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/composer/installers/composer-installers-v1.3.0-3192d2.zip",
+                    "reference": "79ad876c7498c0bbfe7eed065b8651c93bfd6045",
+                    "shasum": "294add48100a501626ecd2df20ccff0154f8c7c3"
+                },
+                "require": {
+                    "composer-plugin-api": "^1.0"
+                },
+                "replace": {
+                    "roundcube/plugin-installer": "*",
+                    "shama/baton": "*"
+                },
+                "require-dev": {
+                    "composer/composer": "1.0.*@dev",
+                    "phpunit/phpunit": "4.1.*"
+                },
+                "time": "2017-04-24T06:37:16+00:00",
+                "type": "composer-plugin",
+                "extra": {
+                    "class": "Composer\\Installers\\Plugin",
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Composer\\Installers\\": "src/Composer/Installers"
+                    }
+                },
+                "scripts": {
+                    "test": [
+                        "phpunit"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Kyle Robinson Young",
+                        "email": "kyle@dontkry.com",
+                        "homepage": "https://github.com/shama"
+                    }
+                ],
+                "description": "A multi-framework Composer library installer",
+                "homepage": "https://composer.github.io/installers/",
+                "keywords": [
+                    "AGL",
+                    "Aimeos",
+                    "AnnotateCms",
+                    "Attogram",
+                    "Bitrix",
+                    "CakePHP",
+                    "Chef",
+                    "Cockpit",
+                    "CodeIgniter",
+                    "Craft",
+                    "Croogo",
+                    "DokuWiki",
+                    "Dolibarr",
+                    "Drupal",
+                    "Elgg",
+                    "Eliasis",
+                    "ExpressionEngine",
+                    "FuelPHP",
+                    "Grav",
+                    "Hurad",
+                    "ImageCMS",
+                    "Joomla",
+                    "Kanboard",
+                    "Kohana",
+                    "Laravel",
+                    "Lavalite",
+                    "Lithium",
+                    "MODULEWork",
+                    "MODX Evo",
+                    "Magento",
+                    "Mako",
+                    "Mautic",
+                    "Maya",
+                    "MediaWiki",
+                    "Moodle",
+                    "OXID",
+                    "PPI",
+                    "Piwik",
+                    "Plentymarkets",
+                    "Porto",
+                    "Puppet",
+                    "RadPHP",
+                    "ReIndex",
+                    "Roundcube",
+                    "SMF",
+                    "SilverStripe",
+                    "SyDES",
+                    "TYPO3",
+                    "Thelia",
+                    "WolfCMS",
+                    "WordPress",
+                    "YAWIK",
+                    "Zend",
+                    "Zikula",
+                    "concrete5",
+                    "iTop",
+                    "installer",
+                    "phpBB",
+                    "shopware",
+                    "symfony"
+                ],
+                "uid": 8
+            },
+            "v1.4.0": {
+                "name": "composer/installers",
+                "version": "v1.4.0",
+                "version_normalized": "1.4.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/composer/installers",
+                    "reference": "9ce17fb70e9a38dd8acff0636a29f5cf4d575c1b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/composer/installers/composer-installers-v1.4.0-19d398.zip",
+                    "reference": "9ce17fb70e9a38dd8acff0636a29f5cf4d575c1b",
+                    "shasum": "72d1f0d090544c61fa7487b59710d9d733c6fb23"
+                },
+                "require": {
+                    "composer-plugin-api": "^1.0"
+                },
+                "replace": {
+                    "roundcube/plugin-installer": "*",
+                    "shama/baton": "*"
+                },
+                "require-dev": {
+                    "composer/composer": "1.0.*@dev",
+                    "phpunit/phpunit": "4.1.*"
+                },
+                "time": "2017-08-09T07:53:48+00:00",
+                "type": "composer-plugin",
+                "extra": {
+                    "class": "Composer\\Installers\\Plugin",
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Composer\\Installers\\": "src/Composer/Installers"
+                    }
+                },
+                "scripts": {
+                    "test": [
+                        "phpunit"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Kyle Robinson Young",
+                        "email": "kyle@dontkry.com",
+                        "homepage": "https://github.com/shama"
+                    }
+                ],
+                "description": "A multi-framework Composer library installer",
+                "homepage": "https://composer.github.io/installers/",
+                "keywords": [
+                    "AGL",
+                    "Aimeos",
+                    "AnnotateCms",
+                    "Attogram",
+                    "Bitrix",
+                    "CakePHP",
+                    "Chef",
+                    "Cockpit",
+                    "CodeIgniter",
+                    "Craft",
+                    "Croogo",
+                    "DokuWiki",
+                    "Dolibarr",
+                    "Drupal",
+                    "Elgg",
+                    "Eliasis",
+                    "ExpressionEngine",
+                    "FuelPHP",
+                    "Grav",
+                    "Hurad",
+                    "ImageCMS",
+                    "Joomla",
+                    "Kanboard",
+                    "Kohana",
+                    "Lan Management System",
+                    "Laravel",
+                    "Lavalite",
+                    "Lithium",
+                    "MODULEWork",
+                    "MODX Evo",
+                    "Magento",
+                    "Mako",
+                    "Mautic",
+                    "Maya",
+                    "MediaWiki",
+                    "Moodle",
+                    "OXID",
+                    "PPI",
+                    "Piwik",
+                    "Plentymarkets",
+                    "Porto",
+                    "Puppet",
+                    "RadPHP",
+                    "ReIndex",
+                    "Roundcube",
+                    "SMF",
+                    "SilverStripe",
+                    "SyDES",
+                    "TYPO3",
+                    "Thelia",
+                    "WolfCMS",
+                    "WordPress",
+                    "YAWIK",
+                    "Zend",
+                    "Zikula",
+                    "concrete5",
+                    "eZ Platform",
+                    "iTop",
+                    "installer",
+                    "osclass",
+                    "phpBB",
+                    "shopware",
+                    "symfony"
+                ],
+                "uid": 9
+            },
+            "dev-master": {
+                "name": "composer/installers",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/composer/installers",
+                    "reference": "9ce17fb70e9a38dd8acff0636a29f5cf4d575c1b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/composer/installers/composer-installers-dev-master-19d398.zip",
+                    "reference": "9ce17fb70e9a38dd8acff0636a29f5cf4d575c1b",
+                    "shasum": "ac1847cc8d099d1521142bb7cce5d2e26c95befb"
+                },
+                "require": {
+                    "composer-plugin-api": "^1.0"
+                },
+                "replace": {
+                    "roundcube/plugin-installer": "*",
+                    "shama/baton": "*"
+                },
+                "require-dev": {
+                    "composer/composer": "1.0.*@dev",
+                    "phpunit/phpunit": "4.1.*"
+                },
+                "time": "2017-08-09T07:53:48+00:00",
+                "type": "composer-plugin",
+                "extra": {
+                    "class": "Composer\\Installers\\Plugin",
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Composer\\Installers\\": "src/Composer/Installers"
+                    }
+                },
+                "scripts": {
+                    "test": [
+                        "phpunit"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Kyle Robinson Young",
+                        "email": "kyle@dontkry.com",
+                        "homepage": "https://github.com/shama"
+                    }
+                ],
+                "description": "A multi-framework Composer library installer",
+                "homepage": "https://composer.github.io/installers/",
+                "keywords": [
+                    "AGL",
+                    "Aimeos",
+                    "AnnotateCms",
+                    "Attogram",
+                    "Bitrix",
+                    "CakePHP",
+                    "Chef",
+                    "Cockpit",
+                    "CodeIgniter",
+                    "Craft",
+                    "Croogo",
+                    "DokuWiki",
+                    "Dolibarr",
+                    "Drupal",
+                    "Elgg",
+                    "Eliasis",
+                    "ExpressionEngine",
+                    "FuelPHP",
+                    "Grav",
+                    "Hurad",
+                    "ImageCMS",
+                    "Joomla",
+                    "Kanboard",
+                    "Kohana",
+                    "Lan Management System",
+                    "Laravel",
+                    "Lavalite",
+                    "Lithium",
+                    "MODULEWork",
+                    "MODX Evo",
+                    "Magento",
+                    "Mako",
+                    "Mautic",
+                    "Maya",
+                    "MediaWiki",
+                    "Moodle",
+                    "OXID",
+                    "PPI",
+                    "Piwik",
+                    "Plentymarkets",
+                    "Porto",
+                    "Puppet",
+                    "RadPHP",
+                    "ReIndex",
+                    "Roundcube",
+                    "SMF",
+                    "SilverStripe",
+                    "SyDES",
+                    "TYPO3",
+                    "Thelia",
+                    "WolfCMS",
+                    "WordPress",
+                    "YAWIK",
+                    "Zend",
+                    "Zikula",
+                    "concrete5",
+                    "eZ Platform",
+                    "iTop",
+                    "installer",
+                    "osclass",
+                    "phpBB",
+                    "shopware",
+                    "symfony"
+                ],
+                "uid": 10
+            }
+        }
+    }
+}
