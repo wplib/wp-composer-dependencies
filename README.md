@@ -136,10 +136,6 @@ If you manage a lot of WordPress projects and thus a lot of `composer.json` file
 
     "repositories": [
         {
-            "type": "composer",
-            "url": "https://wpackagist.org"
-        },
-        {
             "type": "git",
             "url": "https://YOUR-GITHUB-ORG.github.io/wp-depenencies"
         }
