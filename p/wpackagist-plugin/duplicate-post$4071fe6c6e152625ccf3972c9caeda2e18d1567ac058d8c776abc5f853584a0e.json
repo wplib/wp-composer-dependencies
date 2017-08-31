@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/duplicate-post/wpackagist-plugin-duplicate-post-3.2-497962.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/duplicate-post/wpackagist-plugin-duplicate-post-3.2-497962.zip",
                     "reference": "tags/3.2",
                     "shasum": "103e03d23e120b1b10a4eee6be79fc11278b2767"
                 },
@@ -34,7 +34,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/duplicate-post/wpackagist-plugin-duplicate-post-dev-trunk-488784.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/duplicate-post/wpackagist-plugin-duplicate-post-dev-trunk-488784.zip",
                     "reference": "trunk",
                     "shasum": "488b2ce95f275c846463d99d60b49481637fdd7c"
                 },

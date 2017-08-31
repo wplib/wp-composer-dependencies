@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wplib/wp-composer-installers/wplib-wp-composer-installers-1.0-81bf0f.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wplib/wp-composer-installers/wplib-wp-composer-installers-1.0-81bf0f.zip",
                     "reference": "d5a4ee1491bc161d86c3139d2c3589d0c225b237",
                     "shasum": "79ce99353fc9f2b96f5bf19c5e80dba80105a653"
                 },
@@ -71,7 +71,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wplib/wp-composer-installers/wplib-wp-composer-installers-dev-master-81bf0f.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wplib/wp-composer-installers/wplib-wp-composer-installers-dev-master-81bf0f.zip",
                     "reference": "d5a4ee1491bc161d86c3139d2c3589d0c225b237",
                     "shasum": "79ce99353fc9f2b96f5bf19c5e80dba80105a653"
                 },

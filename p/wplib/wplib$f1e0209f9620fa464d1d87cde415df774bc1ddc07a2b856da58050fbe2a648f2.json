@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wplib/wplib/wplib-wplib-0.14.0-54df06.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wplib/wplib/wplib-wplib-0.14.0-54df06.zip",
                     "reference": "1f4430284b796a0101d9255db3e8852eeed981a6",
                     "shasum": "8d13bd86253d126b3c2be407a59df7202ccac90e"
                 },
@@ -82,7 +82,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wplib/wplib/wplib-wplib-dev-master-54df06.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wplib/wplib/wplib-wplib-dev-master-54df06.zip",
                     "reference": "1f4430284b796a0101d9255db3e8852eeed981a6",
                     "shasum": "2c5f2f4e537ba234baf7ca754b44967ed7d80138"
                 },

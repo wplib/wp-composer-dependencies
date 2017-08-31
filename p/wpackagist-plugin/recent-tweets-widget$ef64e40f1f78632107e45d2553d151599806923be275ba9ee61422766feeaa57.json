@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/recent-tweets-widget/wpackagist-plugin-recent-tweets-widget-1.6.7-bb55c1.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/recent-tweets-widget/wpackagist-plugin-recent-tweets-widget-1.6.7-bb55c1.zip",
                     "reference": "tags/1.6.7",
                     "shasum": "b87484d36e5d98d57bac3eb9b84874078f8ea4fa"
                 },
@@ -34,7 +34,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/recent-tweets-widget/wpackagist-plugin-recent-tweets-widget-dev-trunk-488784.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/recent-tweets-widget/wpackagist-plugin-recent-tweets-widget-dev-trunk-488784.zip",
                     "reference": "trunk",
                     "shasum": "87adf63c11de6e162568ab1376043dbfdea0ec2c"
                 },

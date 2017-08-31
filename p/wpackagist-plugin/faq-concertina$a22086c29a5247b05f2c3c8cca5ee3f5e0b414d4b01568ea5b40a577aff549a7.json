@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/faq-concertina/wpackagist-plugin-faq-concertina-1.4.2-e8179e.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/faq-concertina/wpackagist-plugin-faq-concertina-1.4.2-e8179e.zip",
                     "reference": "tags/1.4.2",
                     "shasum": "e2bbb9ce702aa29300f41ff791df3e68ce66ae83"
                 },
@@ -34,7 +34,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/faq-concertina/wpackagist-plugin-faq-concertina-1.4.3-9bc85e.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/faq-concertina/wpackagist-plugin-faq-concertina-1.4.3-9bc85e.zip",
                     "reference": "tags/1.4.3",
                     "shasum": "2245b96c1df513c772ab508e0b2852a58cda2b42"
                 },
@@ -56,7 +56,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/faq-concertina/wpackagist-plugin-faq-concertina-dev-trunk-488784.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/faq-concertina/wpackagist-plugin-faq-concertina-dev-trunk-488784.zip",
                     "reference": "trunk",
                     "shasum": "78348363b7aadb01f8ae79b49777714977cdc04d"
                 },

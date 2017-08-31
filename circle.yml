@@ -1,7 +1,7 @@
 #
 # circle.yaml
 #
-#   For https://github.com/newclarity/wordpress-dependencies
+#   For https://wplib.github.io/wp-dependencies
 #
 machine:
   timezone:

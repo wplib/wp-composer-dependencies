@@ -7,7 +7,7 @@
                 "version_normalized": "2.2.6.0",
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/artifacts/spam-free-wordpress/artifacts-spam-free-wordpress-2.2.6.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/artifacts/spam-free-wordpress/artifacts-spam-free-wordpress-2.2.6.zip",
                     "reference": null,
                     "shasum": "fcbd9e6deb6b1fced83cbf966cd146056ad7c501"
                 },

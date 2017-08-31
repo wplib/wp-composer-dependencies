@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wplib/wp-devops/wplib-wp-devops-dev-master-dcaaaf.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wplib/wp-devops/wplib-wp-devops-dev-master-dcaaaf.zip",
                     "reference": "13ecbd57bf3220e5d3cfeb17d3c2d278039b25b0",
                     "shasum": "7f61be6193fa1d78dbc19b667e80ad599cf06398"
                 },

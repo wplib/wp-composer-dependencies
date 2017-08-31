@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/wp-redis/wpackagist-plugin-wp-redis-0.2.2-7a837e.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/wp-redis/wpackagist-plugin-wp-redis-0.2.2-7a837e.zip",
                     "reference": "tags/0.2.2",
                     "shasum": "d16c54fd3dc5ee75a9a0b417d03540318ad8e6bc"
                 },
@@ -34,7 +34,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/wp-redis/wpackagist-plugin-wp-redis-0.3.0-687fe4.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/wp-redis/wpackagist-plugin-wp-redis-0.3.0-687fe4.zip",
                     "reference": "tags/0.3.0",
                     "shasum": "e78d801b0c170fb48c4ba6b37f443a03489f3b75"
                 },
@@ -56,7 +56,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/wp-redis/wpackagist-plugin-wp-redis-0.4.0-9ff987.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/wp-redis/wpackagist-plugin-wp-redis-0.4.0-9ff987.zip",
                     "reference": "tags/0.4.0",
                     "shasum": "d924c617e892967043ffc0bfc6fb91a1733eab46"
                 },
@@ -78,7 +78,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/wp-redis/wpackagist-plugin-wp-redis-0.5.0-7fa74f.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/wp-redis/wpackagist-plugin-wp-redis-0.5.0-7fa74f.zip",
                     "reference": "tags/0.5.0",
                     "shasum": "ae099762e486100da4815b0d32c3933c072dd69b"
                 },
@@ -100,7 +100,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/wp-redis/wpackagist-plugin-wp-redis-0.6.0-5f4ac2.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/wp-redis/wpackagist-plugin-wp-redis-0.6.0-5f4ac2.zip",
                     "reference": "tags/0.6.0",
                     "shasum": "b6a20b3ebffd6095b6b8567bc9829699c78da146"
                 },
@@ -122,7 +122,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/wp-redis/wpackagist-plugin-wp-redis-0.6.1-18b2d3.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/wp-redis/wpackagist-plugin-wp-redis-0.6.1-18b2d3.zip",
                     "reference": "tags/0.6.1",
                     "shasum": "d82ce16be19e1534a956bdeabfb6aee1e8e4da5c"
                 },
@@ -144,7 +144,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/wp-redis/wpackagist-plugin-wp-redis-0.6.2-b35acb.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/wp-redis/wpackagist-plugin-wp-redis-0.6.2-b35acb.zip",
                     "reference": "tags/0.6.2",
                     "shasum": "73ffb70eca68db13c1c4ca3e0ddf51f8782b4264"
                 },
@@ -166,7 +166,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/wp-redis/wpackagist-plugin-wp-redis-0.7.0-05f861.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/wp-redis/wpackagist-plugin-wp-redis-0.7.0-05f861.zip",
                     "reference": "tags/0.7.0",
                     "shasum": "f15a590bcdd2759086453059cf52b7713878ffff"
                 },
@@ -188,7 +188,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/wp-redis/wpackagist-plugin-wp-redis-dev-trunk-488784.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/wp-redis/wpackagist-plugin-wp-redis-dev-trunk-488784.zip",
                     "reference": "trunk",
                     "shasum": "e8f0379096a1c17f551a88271692be0a5f879155"
                 },

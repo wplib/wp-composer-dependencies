@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/woosidebars/wpackagist-plugin-woosidebars-1.4.3-9bc85e.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/woosidebars/wpackagist-plugin-woosidebars-1.4.3-9bc85e.zip",
                     "reference": "tags/1.4.3",
                     "shasum": "330b0b8e42b7a8cc87c1ebe4ca2198eca3afd5e6"
                 },
@@ -34,7 +34,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/woosidebars/wpackagist-plugin-woosidebars-dev-trunk-488784.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/woosidebars/wpackagist-plugin-woosidebars-dev-trunk-488784.zip",
                     "reference": "trunk",
                     "shasum": "82f92f83ce0d49abdc17c5e56647652713f176cb"
                 },

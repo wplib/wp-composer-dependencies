@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/mini-twitter-feed/wpackagist-plugin-mini-twitter-feed-2.0.1-203b3d.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/mini-twitter-feed/wpackagist-plugin-mini-twitter-feed-2.0.1-203b3d.zip",
                     "reference": "tags/2.0.1",
                     "shasum": "09abfed5af4acfc784a0e1660699ec0f9af57613"
                 },
@@ -34,7 +34,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/mini-twitter-feed/wpackagist-plugin-mini-twitter-feed-dev-trunk-488784.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/mini-twitter-feed/wpackagist-plugin-mini-twitter-feed-dev-trunk-488784.zip",
                     "reference": "trunk",
                     "shasum": "0d37877fd80ef48454590c5854ca049bf00e96ea"
                 },

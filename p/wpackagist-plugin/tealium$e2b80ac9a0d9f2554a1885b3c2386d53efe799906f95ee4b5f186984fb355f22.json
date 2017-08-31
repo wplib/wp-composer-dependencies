@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/tealium/wpackagist-plugin-tealium-2.1.6-c9f879.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/tealium/wpackagist-plugin-tealium-2.1.6-c9f879.zip",
                     "reference": "tags/2.1.6",
                     "shasum": "fd950be86e18bcd9a8e73b55b6f865e25e8615d8"
                 },
@@ -34,7 +34,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/tealium/wpackagist-plugin-tealium-dev-trunk-488784.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/tealium/wpackagist-plugin-tealium-dev-trunk-488784.zip",
                     "reference": "trunk",
                     "shasum": "73942fd3384eb76f0c1170f9c38a1efb59fe2b7a"
                 },

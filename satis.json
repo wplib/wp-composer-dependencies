@@ -1,6 +1,6 @@
 {
-    "name": "WordPress Dependencies",
-    "homepage": "https://newclarity.github.io/wordpress-dependencies",
+    "name": "wplib/wp-dependencies",
+    "homepage": "https://wplib.github.io/wp-dependencies",
     "providers": true,
     "output-dir": ".",
     "output-html": true,
@@ -8,12 +8,20 @@
         "directory": "downloads",
         "absolute-directory": "downloads",
         "format": "zip",
-        "prefix-url": "https://newclarity.github.io/wordpress-dependencies"
+        "prefix-url": "https://wplib.github.io/wp-dependencies"
     },
     "repositories": [
         {
             "type": "artifact",
             "url": "artifacts/"
+        },
+        {
+            "type": "git",
+            "url": "https://github.com/wplib/wp-devops"
+        },
+        {
+            "type": "git",
+            "url": "https://github.com/wplib/wp-composer-installers"
         },
         {
             "type": "composer",
@@ -42,14 +50,6 @@
         {
             "type": "git",
             "url": "https://github.com/algolia/algoliasearch-wordpress.git"
-        },
-        {
-            "type": "git",
-            "url": "https://github.com/wplib/wp-devops"
-        },
-        {
-            "type": "git",
-            "url": "https://github.com/wplib/wp-composer-installers"
         }
     ],
     "require": {

@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/contact-form-7/wpackagist-plugin-contact-form-7-4.6-ac8f7a.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/contact-form-7/wpackagist-plugin-contact-form-7-4.6-ac8f7a.zip",
                     "reference": "tags/4.6",
                     "shasum": "e6edd92c0b0f0219e9e27c3351a646056b5b56b1"
                 },
@@ -34,7 +34,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/contact-form-7/wpackagist-plugin-contact-form-7-4.6.1-bb245f.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/contact-form-7/wpackagist-plugin-contact-form-7-4.6.1-bb245f.zip",
                     "reference": "tags/4.6.1",
                     "shasum": "e8bc1843123d20b53e7b9506e0ef6e9c87774230"
                 },
@@ -56,7 +56,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/contact-form-7/wpackagist-plugin-contact-form-7-4.7-05270c.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/contact-form-7/wpackagist-plugin-contact-form-7-4.7-05270c.zip",
                     "reference": "tags/4.7",
                     "shasum": "853dc888d7b75055a7b3c1c6cd343427b637649a"
                 },
@@ -78,7 +78,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/contact-form-7/wpackagist-plugin-contact-form-7-4.8-002038.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/contact-form-7/wpackagist-plugin-contact-form-7-4.8-002038.zip",
                     "reference": "tags/4.8",
                     "shasum": "3ba8b8f34f88b7c91617a52ee4d6eb8e16ccf492"
                 },
@@ -100,7 +100,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/contact-form-7/wpackagist-plugin-contact-form-7-4.8.1-57770f.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/contact-form-7/wpackagist-plugin-contact-form-7-4.8.1-57770f.zip",
                     "reference": "tags/4.8.1",
                     "shasum": "1ad2a42015b883dff855efc530d096fc4c067448"
                 },
@@ -122,7 +122,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/contact-form-7/wpackagist-plugin-contact-form-7-4.9-8a7a14.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/contact-form-7/wpackagist-plugin-contact-form-7-4.9-8a7a14.zip",
                     "reference": "tags/4.9",
                     "shasum": "8c33cd6302ad6070a0fa071008fe7506bd5020e2"
                 },
@@ -144,7 +144,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/contact-form-7/wpackagist-plugin-contact-form-7-dev-trunk-488784.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/contact-form-7/wpackagist-plugin-contact-form-7-dev-trunk-488784.zip",
                     "reference": "trunk",
                     "shasum": "82d4acb1bd04161bfa89a893b738405b5f264e10"
                 },

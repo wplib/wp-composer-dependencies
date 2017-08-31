@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/json-rest-api/wpackagist-plugin-json-rest-api-1.2.5-38d4f4.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/json-rest-api/wpackagist-plugin-json-rest-api-1.2.5-38d4f4.zip",
                     "reference": "tags/1.2.5",
                     "shasum": "2a6ddf4206ed53e717a2d50f3a9d0330e2270f5e"
                 },

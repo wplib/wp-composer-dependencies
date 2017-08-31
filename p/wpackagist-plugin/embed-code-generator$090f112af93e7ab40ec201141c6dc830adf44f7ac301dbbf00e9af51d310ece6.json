@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/embed-code-generator/wpackagist-plugin-embed-code-generator-dev-trunk-488784.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/embed-code-generator/wpackagist-plugin-embed-code-generator-dev-trunk-488784.zip",
                     "reference": "trunk",
                     "shasum": "7c75d5af58de74a12ef2412a630e713a408af4cd"
                 },

@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/nprds/nprapi-wordpress/nprds-nprapi-wordpress-dev-master-eedf5c.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/nprds/nprapi-wordpress/nprds-nprapi-wordpress-dev-master-eedf5c.zip",
                     "reference": "90b56df8204bd7876f126d15ed46efe99c55edce",
                     "shasum": "6e91744a086181fbae0b6f2d3698178338dce1e4"
                 },

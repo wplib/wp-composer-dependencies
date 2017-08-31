@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/wordpress-importer/wpackagist-plugin-wordpress-importer-0.6.3-207f12.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/wordpress-importer/wpackagist-plugin-wordpress-importer-0.6.3-207f12.zip",
                     "reference": "tags/0.6.3",
                     "shasum": "5adf4788b45aa5b4ffb5d444a01c1a3d53185868"
                 },
@@ -34,7 +34,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/wordpress-importer/wpackagist-plugin-wordpress-importer-dev-trunk-488784.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/wordpress-importer/wpackagist-plugin-wordpress-importer-dev-trunk-488784.zip",
                     "reference": "trunk",
                     "shasum": "4b2c72ff56d2da6a10ccf6a0d1ccbb3741958d15"
                 },

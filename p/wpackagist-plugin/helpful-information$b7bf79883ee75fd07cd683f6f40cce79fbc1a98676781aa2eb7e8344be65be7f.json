@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/helpful-information/wpackagist-plugin-helpful-information-1.0.0-dde0e5.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/helpful-information/wpackagist-plugin-helpful-information-1.0.0-dde0e5.zip",
                     "reference": "tags/1.0.0",
                     "shasum": "8bfc9820d632bdb48c87a958d044dec9917dc553"
                 },
@@ -34,7 +34,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/helpful-information/wpackagist-plugin-helpful-information-1.0.1-b30dd7.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/helpful-information/wpackagist-plugin-helpful-information-1.0.1-b30dd7.zip",
                     "reference": "tags/1.0.1",
                     "shasum": "bbcf6d81ad225034bbd321d841e5e399018434c6"
                 },
@@ -56,7 +56,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/helpful-information/wpackagist-plugin-helpful-information-1.0.2-8aae4d.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/helpful-information/wpackagist-plugin-helpful-information-1.0.2-8aae4d.zip",
                     "reference": "tags/1.0.2",
                     "shasum": "7176ed881ee32d8c4ac1fd1f0d4df70254744e80"
                 },
@@ -78,7 +78,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://newclarity.github.io/wordpress-dependencies/downloads/wpackagist-plugin/helpful-information/wpackagist-plugin-helpful-information-dev-trunk-488784.zip",
+                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/helpful-information/wpackagist-plugin-helpful-information-dev-trunk-488784.zip",
                     "reference": "trunk",
                     "shasum": "342a9cd785a1e7aabe04cfeed8e685a33eea6f98"
                 },
