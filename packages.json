@@ -24,7 +24,7 @@
             "sha256": "20edb7f1c53f225520a018efbbfe0370371d6693fbbd21dc4e982deb9c0d99dd"
         },
         "johnpbloch/wordpress-core": {
-            "sha256": "8ab954183b8aa7f4883be8ca1234380f8edb297032c56652dfbc4c14af1c7360"
+            "sha256": "c6dd6b1e6c6c20c920454369bce9fdf424f4232bd4ca5f3fd4741d814fc6b927"
         },
         "johnpbloch/wordpress-core-installer": {
             "sha256": "63660caa0a2de0310ffbb54459715e844ecf20616a0a6894c51bba62dd8c5d30"
@@ -78,7 +78,7 @@
             "sha256": "a96fda0e0bdb6cf45351a9602aa32b7c3baf8c6dcdc2778685973f26b752b1be"
         },
         "wpackagist-plugin/jetpack": {
-            "sha256": "1d9d490bcce7f443a62bca478fa646bf4eb2a492df8609d796347fd612ceae98"
+            "sha256": "5b7fd9c6f0caa5527f788e49d1a0f2f8a6a072f798e844452d457254c6671283"
         },
         "wpackagist-plugin/json-rest-api": {
             "sha256": "d124b5aaa517d6f873d90fb36beb1de6c2162b3a152760eecc7163a6ed962c8b"
@@ -171,7 +171,7 @@
             "sha256": "3b202e25cdc74a4c70187b8a5bd18d52e70f1a15c521d8bc2186881e76f3f0c3"
         },
         "wplib/wp-devops": {
-            "sha256": "a5a6778bc88b3e14facef6f7d32a6869d47e5f480061efb5b121dc0d1d95ed4b"
+            "sha256": "e864e62c5b2c00396db12584b644ef75902730fb633862dd616d7b989f1a0867"
         },
         "wplib/wplib": {
             "sha256": "7a19b5e09fa040c4917bb09182d05ea90526f56fff50677084e322a06702afbf"
