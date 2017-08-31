@@ -162,6 +162,25 @@ For the future we would like to do the following:
 
 4. **Provide support for a WordPress-specific alternative to Composer** so WordPress developers don't have to always deal with tools that are as complex to use as Composer when they could be must simpler.
 
+5. **Provide a Paid Service for Agencies and Enterprises** that helps WordPress professionals manage the constant barrage of plugin updates when working with highly customized sites. We are unclear what agencies and enterprises would find valuable enough to pay for a service but we ourselves can envision what we would like:
+
+	a. **Security Reviews** - Access to reports detailing which plugins have been submitted to both automated and expert security review, which one passed, and which ones issues and what they were.
+		
+	b. **Quality Scoring** - Access to reports detailing automated and objective-criteria manual quality scoring of plugins and themes.
+		
+	c. **Classifications** for core, plugin and theme updates that might include: 
+		
+	|Classification|Urgency|
+	|------------|-----------|
+	|New Feature(s)|Nice to have, but you can postpone deployment until you are ready to test and train.|
+	|Bug Fix(es)     |Useful if you are experienced problems. Test and deploy when you are ready.|
+	|Security Fix(es)|A security concern. Test and deploy when you your risk manager says so.|
+	|Critical Fix(es)|Stop everything. Test and deploy NOW.|
+		
+	Of course these services would be expensive to operate so we will only be able to do so if there is demand and willingness to pay at a level that would allow such services to be profitable.  
+
+	**If you like these ideas, or have other ideas about similar services your organization could benefit from** please tweet us at [@wplib](https://twitter.com/wplib) so we can discuss your challenges and how we might be able to help you overcome them.
+
    
 ## Instructions
 To **use OUR Composer repository in your WordPress-related projects** just add the following to the  `.repositories` section of your project's `composer.json`  file:
