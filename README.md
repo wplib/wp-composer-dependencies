@@ -7,7 +7,11 @@
 - [Benefits](#benefits)
 - [Instructions](#instructions)
 - [Implementation](#implementation)
+- [Alternatives](#alternatives)
 - [Pull-Requests](#pull-requests)
+- [Roadmap](#roadmap)
+- [Sponsoring](#sponsoring)
+- [Why?](#why)
 - [License](#license)
 
 ## Introduction
@@ -137,27 +141,81 @@ If you manage a lot of WordPress projects and thus a lot of `composer.json` file
         },
         {
             "type": "git",
-            "url": "https://github.com/YOUR-GITHUB-ORG/wp-depenencies"
+            "url": "https://YOUR-GITHUB-ORG.github.io/wp-depenencies"
         }
     ],
 
 **Then** whenever you need to add a new plugin or theme to any of your WordPress projects you add their repository, name and version required to your private/personal Composer repository _(by adding to a `satis.json` file &ndash; more on that in the [Instructions](#Instructions) section below)_ and then you only need list the specified dependencies you for each project in each project's respective `composer.json` file but not all the individual repositories too.
+
+
+## Roadmap  
+
+**Today** we have a **starter project** you can clone, modify to include your own plugins and themes, connect to CircleCI,  and then start using in less than an hour.  
+
+We also have **a working repository** that The WPLib Team _(a.k.a [_NewClarity Consulting_](http://www.newclarity.net))_ uses for development of our own client's projects. At the time of launching this repo it contains a few different GPL-licensed commercial plugins that we have purchased and like to use. But Git is not a great solution for hosting a large number of .ZIP files, so we also need to extend this project.
+ 
+For the future we would like to do the following:
+
+1. **Support hosting the repository elsewhere in addition to GitHub**, critical for larger repositories. Minimally we would like to implement [Amazon S3](https://aws.amazon.com/s3/) and any (S)FTP server for deployment.  We would also be interested in supporting any other file host who would be interested in sponsoring our efforts. Tweet us at [@wplib](https://twitter.com/wplib) if you are interested.
+
+2. **Host all well-known plugins and themes for WordPress**, including all open-source licensed commercial 3rd party plugins and themes to simplify the life of the professional WordPress site builder. Of course this will be **expensive** so if you are interested in sponsoring us in this effort, tweet us at [@wplib](https://twitter.com/wplib) for us to explore the fit.
+
+	And if you have purchased an open-source plugin or theme that is not publicly accessible to Composer and want to see us add it to our repository you can either tweet us at [@wplib](https://twitter.com/wplib) or fork this repository and submit a pull request with your new plugin included. Pull request instructions [below](#pull-requests).
+
+3. **Implement license checking for commercial plugins and themes** so that vendors will even be happy for us to host their plugins and themes that they do not normally distribute publicly. Again, to simplify the life of the WordPress site builder. If you are a vendor and find this intriguing please tweet us at [@wplib](https://twitter.com/wplib) to get the ball rolling.
+
+4. **Provide support for a WordPress-specific alternative to Composer** so WordPress developers don't have to always deal with tools that are as complex to use as Composer when they could be must simpler.
+
    
 ## Instructions
-To clone this repo to create your own private/personal Composer repository on Git you... 
+To **use OUR Composer repository in your WordPress-related projects** just add the following to the  `.repositories` section of your project's `composer.json`  file:
+
+    {
+        "type": "git",
+        "url": "https://wplib.github.io/wp-depenencies"
+    }
+
+To **create your own private/personal Composer repository** just clone this repo on Git and then... 
+
+**[Instructions to come]**
+
 
 ## Implementation
 We use [**Satis**](https://getcomposer.org/doc/articles/handling-private-packages-with-satis.md) 
-to generate the repository and CircleCI to rebuild the repository whenever we have a update.  
+to generate the repository and [CircleCI](http://circleci.com) to rebuild the repository whenever we have a update.  
 
-## Pull-Requests! 
+## Alternatives
 
-1. If you develop a line of plugins or themes and would like to contribute yours to this repository please 
+There are two well-known alternatives: [WPackagist.org](http://wpackagist.org) and [Packagist.org](http://packagist.org), both of which are useful in conjunction with _Composer Dependencies for WordPress_. In fact we reference WPackagist.org in the `satis.json` file we use to build our static repositories.
 
-2. If you have any _**GPL-licensed**_ 3rd party plugins or themes that are not generally available anywhere 
-to be downloaded via URL by Composer and would like to change that, please submit a pull-request with 
-your contributions and we will seriously consider adding them to this repository.  
+### WPackagist.org
+1. Currently _Composer Dependencies for WordPress_ contains a **much smaller list of plugins and themes** than WPackagist, but we intend to grow it given interest from you and others.
 
-### License
+2. Unlike WPackagist _Composer Dependencies for WordPress_ contains select commercial plugins _(that are open-source)_ as well as forks of GitHub-hosted plugins whose source repository did not include a `composer.json` file.
+
+### Packagist.org
+1. Packagist is primarily for [PHP libraries](https://tutorialzine.com/2013/02/24-cool-php-libraries-you-should-know-about) whereas _Composer Dependencies for WordPress_ is for WordPress plugins and themes.
+
+## Pull-Requests
+
+1. If you develop a line of plugins or themes and would like to contribute yours to this repository please tweet us at [@wplib](https://twitter.com/wplib) to start a dialog, or you can [create an issue](/wplib/wp-dependencies/issues) for discussion.
+
+2. If you have any _**GPL-licensed**_ 3rd party plugins or themes that are not available to be downloaded by Composer and would like to change that, please fork this repo, add your contribution, and then [submit a pull-request](/wplib/wp-dependencies/pulls). We will give serious consideration to adding every submission.
+
+	**[Instructions to come]**
+
+## Why?
+
+Why did we build this?  _(And why did we build [_Composer Installers for WordPress_](/wplib-wp-composer-installers) too?)_  
+
+**Simply because we got damn tired** of maintaining all those repository references in our `composer.json` files.  
+
+We really do have a love/hate relationship with Composer.
+
+## Sponsoring
+Interested in sponsoring this project to leverage it to promote your web infrastructure or WordPress-related business?  We love sponsors!  Tweet us at [@wplib](https://twitter.com/wplib) and we'll be happy to start a dialog.
+
+## License
 
 _Composer Dependencies for WordPress_ is licensed via [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html).
+
