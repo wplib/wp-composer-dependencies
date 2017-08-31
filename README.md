@@ -1,14 +1,14 @@
 # Composer Dependencies for WordPress
 
 ## Table of Contents
-- [Introduction](#Introduction)
-- [Searching](#Searching)
-- [Audience](#Audience)
-- [Benefits](#Benefits)
-- [Instructions](#Instructions)
-- [Implementation](#Implementation)
-- [Pull-Requests](#Pull-Requests)
-- [License](#License)
+- [Introduction](#introduction)
+- [Searching](#searching)
+- [Audience](#audience)
+- [Benefits](#benefits)
+- [Instructions](#instructions)
+- [Implementation](#implementation)
+- [Pull-Requests](#pull-requests)
+- [License](#license)
 
 ## Introduction
 
