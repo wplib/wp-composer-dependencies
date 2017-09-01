@@ -1,6 +1,6 @@
 {
-    "name": "wplib/wp-dependencies",
-    "homepage": "https://wplib.github.io/wp-dependencies",
+    "name": "wplib/wp-composer-dependencies",
+    "homepage": "https://wplib.github.io/wp-composer-dependencies",
     "providers": true,
     "output-dir": ".",
     "output-html": true,
@@ -8,7 +8,7 @@
         "directory": "downloads",
         "absolute-directory": "downloads",
         "format": "zip",
-        "prefix-url": "https://wplib.github.io/wp-dependencies"
+        "prefix-url": "https://wplib.github.io/wp-composer-dependencies"
     },
     "repositories": [
         {

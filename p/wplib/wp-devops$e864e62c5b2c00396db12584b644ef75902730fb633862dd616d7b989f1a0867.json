@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/wplib/wp-devops/wplib-wp-devops-dev-master-1d518c.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wplib/wp-devops/wplib-wp-devops-dev-master-1d518c.zip",
                     "reference": "d73d2bcff02c1d1b6113b1893bccd1ff1cba51d4",
                     "shasum": "052a62ce5d83a006d59bc80a5f3ef0bdabd57450"
                 },

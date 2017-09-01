@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/google-sitemap-generator/wpackagist-plugin-google-sitemap-generator-4.0.8-f43006.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/google-sitemap-generator/wpackagist-plugin-google-sitemap-generator-4.0.8-f43006.zip",
                     "reference": "tags/4.0.8",
                     "shasum": "538f0b283b7c195cc06b18f4dc8ba1e3edde756b"
                 },
@@ -34,7 +34,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/google-sitemap-generator/wpackagist-plugin-google-sitemap-generator-4.0.9-03074b.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/google-sitemap-generator/wpackagist-plugin-google-sitemap-generator-4.0.9-03074b.zip",
                     "reference": "tags/4.0.9",
                     "shasum": "f4fde5d81be348972708976c98f7d9191ae33e67"
                 },
@@ -56,7 +56,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/google-sitemap-generator/wpackagist-plugin-google-sitemap-generator-dev-trunk-488784.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/google-sitemap-generator/wpackagist-plugin-google-sitemap-generator-dev-trunk-488784.zip",
                     "reference": "trunk",
                     "shasum": "cec0211e18d7c1fb7af743d98d5b9672edf6314e"
                 },

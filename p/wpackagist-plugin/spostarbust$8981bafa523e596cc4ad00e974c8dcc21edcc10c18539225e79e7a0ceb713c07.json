@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/spostarbust/wpackagist-plugin-spostarbust-1.2.04.20-e00b88.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/spostarbust/wpackagist-plugin-spostarbust-1.2.04.20-e00b88.zip",
                     "reference": "tags/1.2.04.20",
                     "shasum": "b5fea3d3295e8da17da9b0c74df285c08cb5b990"
                 },
@@ -34,7 +34,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/spostarbust/wpackagist-plugin-spostarbust-dev-trunk-488784.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/spostarbust/wpackagist-plugin-spostarbust-dev-trunk-488784.zip",
                     "reference": "trunk",
                     "shasum": "a552bc7169b833f2a07e7efbd754a34c2f208b2a"
                 },

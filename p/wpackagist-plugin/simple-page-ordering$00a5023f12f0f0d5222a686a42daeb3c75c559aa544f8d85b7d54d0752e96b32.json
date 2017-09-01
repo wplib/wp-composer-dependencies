@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/simple-page-ordering/wpackagist-plugin-simple-page-ordering-2.2.4-fc7d63.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/simple-page-ordering/wpackagist-plugin-simple-page-ordering-2.2.4-fc7d63.zip",
                     "reference": "tags/2.2.4",
                     "shasum": "791ee12a5ffa8374b75727d0a12af5327646bca7"
                 },
@@ -34,7 +34,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/simple-page-ordering/wpackagist-plugin-simple-page-ordering-dev-trunk-488784.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/simple-page-ordering/wpackagist-plugin-simple-page-ordering-dev-trunk-488784.zip",
                     "reference": "trunk",
                     "shasum": "8b2f3f9ad22d1e7e2b587d55b693ae63dc8c4e6b"
                 },

@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/wp-cfm/wpackagist-plugin-wp-cfm-1.4.5-488784.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-cfm/wpackagist-plugin-wp-cfm-1.4.5-488784.zip",
                     "reference": "trunk",
                     "shasum": "f23a80fbd8f5f0b60305389b46421f9a2e0912d7"
                 },
@@ -34,7 +34,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/wp-cfm/wpackagist-plugin-wp-cfm-dev-trunk-488784.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-cfm/wpackagist-plugin-wp-cfm-dev-trunk-488784.zip",
                     "reference": "trunk",
                     "shasum": "f23a80fbd8f5f0b60305389b46421f9a2e0912d7"
                 },

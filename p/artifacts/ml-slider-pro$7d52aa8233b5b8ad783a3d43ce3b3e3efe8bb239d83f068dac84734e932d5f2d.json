@@ -7,7 +7,7 @@
                 "version_normalized": "2.6.6.0",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/artifacts/ml-slider-pro/artifacts-ml-slider-pro-2.6.6.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/artifacts/ml-slider-pro/artifacts-ml-slider-pro-2.6.6.zip",
                     "reference": null,
                     "shasum": "36c9d30cd9f2b995808c0daeaf116df2fbab9bf5"
                 },

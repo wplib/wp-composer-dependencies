@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/facebook-comments-plugin/wpackagist-plugin-facebook-comments-plugin-2.3.6-d56e72.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/facebook-comments-plugin/wpackagist-plugin-facebook-comments-plugin-2.3.6-d56e72.zip",
                     "reference": "tags/2.3.6",
                     "shasum": "3be33c5db570f3a6d7b1b516af386a2187f7b6fa"
                 },
@@ -34,7 +34,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/facebook-comments-plugin/wpackagist-plugin-facebook-comments-plugin-dev-trunk-488784.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/facebook-comments-plugin/wpackagist-plugin-facebook-comments-plugin-dev-trunk-488784.zip",
                     "reference": "trunk",
                     "shasum": "164ca8f8aaa931a35ced47558d53cc4f538c2390"
                 },

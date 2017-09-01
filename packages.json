@@ -1,6 +1,6 @@
 {
     "packages": [],
-    "providers-url": "/wp-dependencies/p/%package%$%hash%.json",
+    "providers-url": "/wp-composer-dependencies/p/%package%$%hash%.json",
     "providers": {
         "algolia/algoliasearch-wordpress": {
             "sha256": "229d024c0ced71a7f099112d34e1260adb3a2e7a093be4bbcdbec0f94c201eea"

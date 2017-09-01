@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/johnpbloch/wordpress-core-installer/johnpbloch-wordpress-core-installer-1.0.0-3122fe.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core-installer/johnpbloch-wordpress-core-installer-1.0.0-3122fe.zip",
                     "reference": "e9e767f2d9f994f358c34b41def2c410ad8717f2",
                     "shasum": "3f37c0e3bef0ca164ec78f5d685ee15d1e0c6117"
                 },
@@ -75,7 +75,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/johnpbloch/wordpress-core-installer/johnpbloch-wordpress-core-installer-dev-master-60b249.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core-installer/johnpbloch-wordpress-core-installer-dev-master-60b249.zip",
                     "reference": "0ee11c8dc1c480805e2cbcca3268955700360158",
                     "shasum": "4673213a08d22b28852b8e0925a6b7c58695a374"
                 },

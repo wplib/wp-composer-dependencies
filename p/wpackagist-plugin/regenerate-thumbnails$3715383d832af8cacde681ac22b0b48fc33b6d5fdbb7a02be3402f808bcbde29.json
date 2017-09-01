@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/regenerate-thumbnails/wpackagist-plugin-regenerate-thumbnails-2.2.6-b4f2c7.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/regenerate-thumbnails/wpackagist-plugin-regenerate-thumbnails-2.2.6-b4f2c7.zip",
                     "reference": "tags/2.2.6",
                     "shasum": "f8f5597f12535811479693ffcb4fcdd8851e2885"
                 },
@@ -34,7 +34,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/regenerate-thumbnails/wpackagist-plugin-regenerate-thumbnails-dev-trunk-488784.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/regenerate-thumbnails/wpackagist-plugin-regenerate-thumbnails-dev-trunk-488784.zip",
                     "reference": "trunk",
                     "shasum": "74f78bbe54326fefe6eb7ea59b60d9116d515e0c"
                 },

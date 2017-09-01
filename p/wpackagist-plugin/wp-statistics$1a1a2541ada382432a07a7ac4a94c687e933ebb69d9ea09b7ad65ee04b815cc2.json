@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/wp-statistics/wpackagist-plugin-wp-statistics-12.0.10-ee49dc.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-statistics/wpackagist-plugin-wp-statistics-12.0.10-ee49dc.zip",
                     "reference": "tags/12.0.10",
                     "shasum": "01aea726adb9ffcb7838e46a7168555d51cae823"
                 },
@@ -34,7 +34,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/wp-statistics/wpackagist-plugin-wp-statistics-12.0.11-dc36d7.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-statistics/wpackagist-plugin-wp-statistics-12.0.11-dc36d7.zip",
                     "reference": "tags/12.0.11",
                     "shasum": "2e56a696f0b7bbc2f3fc0e27b3af61ae4ac4d18f"
                 },
@@ -56,7 +56,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/wp-statistics/wpackagist-plugin-wp-statistics-12.0.12-1d11bc.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-statistics/wpackagist-plugin-wp-statistics-12.0.12-1d11bc.zip",
                     "reference": "tags/12.0.12",
                     "shasum": "09c86c20e314c7ebfe196291e633cc0f654034a0"
                 },
@@ -78,7 +78,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/wp-statistics/wpackagist-plugin-wp-statistics-12.0.9-e9d32f.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-statistics/wpackagist-plugin-wp-statistics-12.0.9-e9d32f.zip",
                     "reference": "tags/12.0.9",
                     "shasum": "d32c7977423b102708970601bff0a7f5650d7637"
                 },
@@ -100,7 +100,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/wp-statistics/wpackagist-plugin-wp-statistics-dev-trunk-488784.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-statistics/wpackagist-plugin-wp-statistics-dev-trunk-488784.zip",
                     "reference": "trunk",
                     "shasum": "76cd311b04faa7bc200912e1b06166119f6acf96"
                 },

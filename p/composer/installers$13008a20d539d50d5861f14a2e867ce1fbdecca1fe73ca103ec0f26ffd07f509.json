@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/composer/installers/composer-installers-v1.3.0-3192d2.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/composer/installers/composer-installers-v1.3.0-3192d2.zip",
                     "reference": "79ad876c7498c0bbfe7eed065b8651c93bfd6045",
                     "shasum": "294add48100a501626ecd2df20ccff0154f8c7c3"
                 },
@@ -132,7 +132,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/composer/installers/composer-installers-v1.4.0-19d398.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/composer/installers/composer-installers-v1.4.0-19d398.zip",
                     "reference": "9ce17fb70e9a38dd8acff0636a29f5cf4d575c1b",
                     "shasum": "72d1f0d090544c61fa7487b59710d9d733c6fb23"
                 },
@@ -255,7 +255,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/composer/installers/composer-installers-dev-master-19d398.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/composer/installers/composer-installers-dev-master-19d398.zip",
                     "reference": "9ce17fb70e9a38dd8acff0636a29f5cf4d575c1b",
                     "shasum": "ac1847cc8d099d1521142bb7cce5d2e26c95befb"
                 },

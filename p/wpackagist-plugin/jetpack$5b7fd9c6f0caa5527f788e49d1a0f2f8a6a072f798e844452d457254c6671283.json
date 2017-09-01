@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/jetpack/wpackagist-plugin-jetpack-5.2.1-7dbe34.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/jetpack/wpackagist-plugin-jetpack-5.2.1-7dbe34.zip",
                     "reference": "tags/5.2.1",
                     "shasum": "329e22562b2fec89f44773f11f8d24a980c18dda"
                 },
@@ -34,7 +34,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/jetpack/wpackagist-plugin-jetpack-5.3-beta1-9d6cff.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/jetpack/wpackagist-plugin-jetpack-5.3-beta1-9d6cff.zip",
                     "reference": "tags/5.3-beta1",
                     "shasum": "124ff9bd8a481cf8b8e39ede792095dbec8843e3"
                 },
@@ -56,7 +56,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/jetpack/wpackagist-plugin-jetpack-dev-trunk-488784.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/jetpack/wpackagist-plugin-jetpack-dev-trunk-488784.zip",
                     "reference": "trunk",
                     "shasum": "95b3e62ab2ad0d2fa4c7be5fd88bb172a7b790ea"
                 },

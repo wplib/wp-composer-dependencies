@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/tablepress/wpackagist-plugin-tablepress-1.7-9a7f10.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/tablepress/wpackagist-plugin-tablepress-1.7-9a7f10.zip",
                     "reference": "tags/1.7",
                     "shasum": "3015c7363a82a38a561f578bc48c15a3f487ef00"
                 },
@@ -34,7 +34,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/tablepress/wpackagist-plugin-tablepress-1.8-9f2977.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/tablepress/wpackagist-plugin-tablepress-1.8-9f2977.zip",
                     "reference": "tags/1.8",
                     "shasum": "6056724a50673ce5d2d8e648c15b277a83c19c68"
                 },
@@ -56,7 +56,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/tablepress/wpackagist-plugin-tablepress-dev-trunk-488784.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/tablepress/wpackagist-plugin-tablepress-dev-trunk-488784.zip",
                     "reference": "trunk",
                     "shasum": "7be701adb0c76377af13771004c530d1ef03881e"
                 },

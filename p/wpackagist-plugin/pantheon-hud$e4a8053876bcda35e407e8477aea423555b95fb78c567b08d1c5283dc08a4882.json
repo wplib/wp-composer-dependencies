@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/pantheon-hud/wpackagist-plugin-pantheon-hud-0.1.0-04cb34.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/pantheon-hud/wpackagist-plugin-pantheon-hud-0.1.0-04cb34.zip",
                     "reference": "tags/0.1.0",
                     "shasum": "ae7e00ba9dddcd34c7ebefad6a271ccb7d8fdef7"
                 },
@@ -34,7 +34,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/pantheon-hud/wpackagist-plugin-pantheon-hud-0.1.1-3d21df.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/pantheon-hud/wpackagist-plugin-pantheon-hud-0.1.1-3d21df.zip",
                     "reference": "tags/0.1.1",
                     "shasum": "dbde76a1aedb1e9d21ba8b572147990cbdbb0717"
                 },
@@ -56,7 +56,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/pantheon-hud/wpackagist-plugin-pantheon-hud-0.1.2-1bb2bd.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/pantheon-hud/wpackagist-plugin-pantheon-hud-0.1.2-1bb2bd.zip",
                     "reference": "tags/0.1.2",
                     "shasum": "bcae74cd6a05fa59266c193fe2f7d1bb36fb3442"
                 },
@@ -78,7 +78,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/pantheon-hud/wpackagist-plugin-pantheon-hud-dev-trunk-488784.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/pantheon-hud/wpackagist-plugin-pantheon-hud-dev-trunk-488784.zip",
                     "reference": "trunk",
                     "shasum": "a826aa724d888219e17ed14207fdf74853768298"
                 },

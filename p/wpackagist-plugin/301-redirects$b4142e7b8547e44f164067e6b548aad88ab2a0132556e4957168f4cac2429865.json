@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/301-redirects/wpackagist-plugin-301-redirects-0.3-488784.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/301-redirects/wpackagist-plugin-301-redirects-0.3-488784.zip",
                     "reference": "trunk",
                     "shasum": "7f10358be6300cd37fc7ea073a1a3777d9733860"
                 },

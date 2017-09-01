@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.6.0-a69b73.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.6.0-a69b73.zip",
                     "reference": "4d4e8deaa2f0c1d0e8f90aef1eb391ddbee3d86f",
                     "shasum": "194c5c2bf9c80703f794bb4a3ca6714321aadb71"
                 },
@@ -57,7 +57,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.6.1-9d5252.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.6.1-9d5252.zip",
                     "reference": "64374bfe2d4cb76ef99541ac5a27fd6a3cefe9e1",
                     "shasum": "f0684237f0b57631f3a23e22a7f4268edad7e1ae"
                 },
@@ -102,7 +102,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.6.2-d93998.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.6.2-d93998.zip",
                     "reference": "a1f1c1cce6add9207494f0c3a5db56c44023e0ec",
                     "shasum": "fff90e95a58aa247d9609884fb64448d322a654c"
                 },
@@ -147,7 +147,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.6.3-f64e5b.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.6.3-f64e5b.zip",
                     "reference": "d114fd375470eb6b15df1b563ff422003072c466",
                     "shasum": "a482f67151286f8ec1b31a26e137f70dea892ed6"
                 },
@@ -192,7 +192,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.6.4-888b92.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.6.4-888b92.zip",
                     "reference": "82b6ebd0228daa374cc4d4e05fc58bbb8ed83aa5",
                     "shasum": "6d0b65e0ef21ab571f834a85ffffad4c453cb26d"
                 },
@@ -237,7 +237,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.6.5-edfc26.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.6.5-edfc26.zip",
                     "reference": "ed5d82a71013954e9b862d28e8cca9d39a96f43c",
                     "shasum": "31ea38d9d6df4c55f5def2070b4fb9a125069628"
                 },
@@ -282,7 +282,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.6.6-f474e9.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.6.6-f474e9.zip",
                     "reference": "603a08ff7498e3e58d9e25ccbc9f72e085af49ca",
                     "shasum": "04f1abefbdaf3f49cb96940c3b89351258f99945"
                 },
@@ -327,7 +327,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.6.x-dev-999d23.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.6.x-dev-999d23.zip",
                     "reference": "16f2d3c337e08334a48dc752c9940cf9c4b5b5d7",
                     "shasum": "fa69a664a1e4a74610cf7af84a51232dab79d49a"
                 },
@@ -375,7 +375,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.7.0-5454b6.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.7.0-5454b6.zip",
                     "reference": "7a584d78d8bd88c2e0f9c24667369efbb2b14e9d",
                     "shasum": "d7a7e8f124b2bae3f4eb2b03673cf6ada6f3c230"
                 },
@@ -420,7 +420,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.7.1-485970.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.7.1-485970.zip",
                     "reference": "65adb1046a15a395cdfe160624994267b8ec3dca",
                     "shasum": "b62811c834414eddd9d94f673b1a2e886ac7b07b"
                 },
@@ -465,7 +465,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.7.2-6a5c0b.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.7.2-6a5c0b.zip",
                     "reference": "adc498caffb06200f971f87dca9ef9eabacde654",
                     "shasum": "4014fbcd5295965a619e01150488b7bb08034b1a"
                 },
@@ -510,7 +510,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.7.3-21dfeb.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.7.3-21dfeb.zip",
                     "reference": "21255f593ac7db93892724321f468c276b15aa65",
                     "shasum": "a8c24c09f586a3a53f80d76d70765c8391fe03de"
                 },
@@ -555,7 +555,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.7.4-a3887e.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.7.4-a3887e.zip",
                     "reference": "46c55710c3f7aa99c6377151e626c98d7fb4b959",
                     "shasum": "a18be958ab552f4049b013109ea266b1789c0ead"
                 },
@@ -600,7 +600,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.7.4.1-f73952.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.7.4.1-f73952.zip",
                     "reference": "637b1c6e997b28bf8767e6c87611f869e12e246e",
                     "shasum": "065447c74e7f9de372732288da9b16c69aa15379"
                 },
@@ -645,7 +645,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.7.5-75a07b.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.7.5-75a07b.zip",
                     "reference": "9a88a4b4c65f689d78789ef6ff77a7ca0239ec02",
                     "shasum": "920e57c9d3dccbb46c76490ff0978130b5e9f762"
                 },
@@ -690,7 +690,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.7.x-dev-8253a8.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.7.x-dev-8253a8.zip",
                     "reference": "e952b50beb9c9b566d8c8967129fb2f6ea1010c0",
                     "shasum": "ce9c27fc3fec465633550bbd75552ca39d20360c"
                 },
@@ -738,7 +738,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.8.0-270dcc.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.8.0-270dcc.zip",
                     "reference": "58f209dfd66f61c4398a47cf53e90d378abc25d7",
                     "shasum": "b27a6a2325c2ff808a2a5a59fa8a7d9a2f8308bc"
                 },
@@ -783,7 +783,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.8-RC1-b31197.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.8-RC1-b31197.zip",
                     "reference": "6cdf46bdd662c7ea945dc803b80a63ea57af9f5e",
                     "shasum": "ea2b47ad876bf41d6c1b5e9a2b4c6834bcfdc5b0"
                 },
@@ -828,7 +828,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.8-RC2-524b47.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.8-RC2-524b47.zip",
                     "reference": "ff37990fa535cd5311049029d998ae796b0c0941",
                     "shasum": "05a57ca5a28e79cf287c9775051041f6f47182c2"
                 },
@@ -873,7 +873,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.8-alpha-20170210.205212-857d69.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.8-alpha-20170210.205212-857d69.zip",
                     "reference": "dcea490647231070cf478c2eb09f345d5320e171",
                     "shasum": "e0021723b835ab076f12a02f989f46ba1da6792f"
                 },
@@ -918,7 +918,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.8-beta1-df29c4.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.8-beta1-df29c4.zip",
                     "reference": "83dca9fd7ad49880893834deddbd1789abc2d41d",
                     "shasum": "1fbf9069556b6ca9ff747b1f66de119cef73a978"
                 },
@@ -963,7 +963,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.8-beta2-e87454.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.8-beta2-e87454.zip",
                     "reference": "80f4492cc024bc23277be02ad1929cf3c8f248f1",
                     "shasum": "e09b2250d3f433c00831ba9c4a0d67256467405d"
                 },
@@ -1008,7 +1008,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.8.1-073dcf.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.8.1-073dcf.zip",
                     "reference": "eee7b6128469d31803da3a07aaac9c442f81758e",
                     "shasum": "f87796ee5e90792942ee36cdb0c53e1825bbf7fe"
                 },
@@ -1053,7 +1053,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.8.x-dev-bb4d97.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.8.x-dev-bb4d97.zip",
                     "reference": "32facd94df2e22043c891841216c77f90ce4c67c",
                     "shasum": "bc294b987acfc349c0511058e991fdb20414bfeb"
                 },
@@ -1101,7 +1101,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-dev-master-ff9e04.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-dev-master-ff9e04.zip",
                     "reference": "2a2429155563a05e66b1af6c16386cc8808ead64",
                     "shasum": "350274d94b02e69e53ebb0c650febfe228f01a12"
                 },

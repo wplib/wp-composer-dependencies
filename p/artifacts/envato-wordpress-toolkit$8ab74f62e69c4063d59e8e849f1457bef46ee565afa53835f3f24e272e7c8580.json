@@ -7,7 +7,7 @@
                 "version_normalized": "1.7.3.0",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/artifacts/envato-wordpress-toolkit/artifacts-envato-wordpress-toolkit-1.7.3.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/artifacts/envato-wordpress-toolkit/artifacts-envato-wordpress-toolkit-1.7.3.zip",
                     "reference": null,
                     "shasum": "fa804110a4a431e28815b0e81ce164788abca403"
                 },

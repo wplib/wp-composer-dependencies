@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/twenty-eleven-theme-extensions/wpackagist-plugin-twenty-eleven-theme-extensions-1.2-488784.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/twenty-eleven-theme-extensions/wpackagist-plugin-twenty-eleven-theme-extensions-1.2-488784.zip",
                     "reference": "trunk",
                     "shasum": "4e0f19a94caf2b94067734054aaa5be401ee14e8"
                 },
@@ -34,7 +34,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/twenty-eleven-theme-extensions/wpackagist-plugin-twenty-eleven-theme-extensions-dev-trunk-488784.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/twenty-eleven-theme-extensions/wpackagist-plugin-twenty-eleven-theme-extensions-dev-trunk-488784.zip",
                     "reference": "trunk",
                     "shasum": "0e53d85801e2d1cf79ce183924c48dd29c9d4b18"
                 },

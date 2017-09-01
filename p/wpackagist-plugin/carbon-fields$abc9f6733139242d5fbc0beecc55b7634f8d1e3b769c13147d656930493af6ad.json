@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/carbon-fields/wpackagist-plugin-carbon-fields-1.6.0-488784.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/carbon-fields/wpackagist-plugin-carbon-fields-1.6.0-488784.zip",
                     "reference": "trunk",
                     "shasum": "df417379ee99f6fc78b507a07f91bdde78179543"
                 },
@@ -34,7 +34,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/wpackagist-plugin/carbon-fields/wpackagist-plugin-carbon-fields-dev-trunk-488784.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/carbon-fields/wpackagist-plugin-carbon-fields-dev-trunk-488784.zip",
                     "reference": "trunk",
                     "shasum": "df417379ee99f6fc78b507a07f91bdde78179543"
                 },

@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/algolia/algoliasearch-wordpress/algolia-algoliasearch-wordpress-2.6.0-50abd6.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/algolia/algoliasearch-wordpress/algolia-algoliasearch-wordpress-2.6.0-50abd6.zip",
                     "reference": "be92ed4310f0bab34eaacb17f8f37111d9215d49",
                     "shasum": "847c39accefab36c3f8d03e533c7602187b648dd"
                 },
@@ -43,7 +43,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/algolia/algoliasearch-wordpress/algolia-algoliasearch-wordpress-2.6.1-ba7537.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/algolia/algoliasearch-wordpress/algolia-algoliasearch-wordpress-2.6.1-ba7537.zip",
                     "reference": "40569d7aed687b59c877b241123c5a3ec7ff9f5c",
                     "shasum": "93dea10cf5107dda173918e6a0708b18fdf25376"
                 },
@@ -74,7 +74,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-dependencies/downloads/algolia/algoliasearch-wordpress/algolia-algoliasearch-wordpress-dev-master-ba7537.zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/algolia/algoliasearch-wordpress/algolia-algoliasearch-wordpress-dev-master-ba7537.zip",
                     "reference": "40569d7aed687b59c877b241123c5a3ec7ff9f5c",
                     "shasum": "ef8e86a4cf42c27c094d1182907515e773215e46"
                 },
