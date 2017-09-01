@@ -1,0 +1,30 @@
+{
+    "packages": {
+        "nprds/nprapi-wordpress": {
+            "dev-master": {
+                "name": "nprds/nprapi-wordpress",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/newclarity/nprapi-wordpress.git",
+                    "reference": "90b56df8204bd7876f126d15ed46efe99c55edce"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/nprds/nprapi-wordpress/nprds-nprapi-wordpress-dev-master-eedf5c.zip",
+                    "reference": "90b56df8204bd7876f126d15ed46efe99c55edce",
+                    "shasum": "d21a28139034fdcf1b2c9888fdef7cfb5d855062"
+                },
+                "time": "2017-02-05T04:09:46+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Access the NPR API from within Wordpress",
+                "homepage": "http://digitalservices.npr.org/",
+                "uid": 41
+            }
+        }
+    }
+}

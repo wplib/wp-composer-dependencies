@@ -1,0 +1,843 @@
+{
+    "packages": {
+        "wpackagist-plugin/query-monitor": {
+            "2.10.0": {
+                "name": "wpackagist-plugin/query-monitor",
+                "version": "2.10.0",
+                "version_normalized": "2.10.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/query-monitor/",
+                    "reference": "tags/2.10.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/query-monitor/wpackagist-plugin-query-monitor-2.10.0-a4b685.zip",
+                    "reference": "tags/2.10.0",
+                    "shasum": "bb5ff3ff6e36001c77ebc08e601b42ac32b2bee5"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/query-monitor/",
+                "uid": 106
+            },
+            "2.11.0": {
+                "name": "wpackagist-plugin/query-monitor",
+                "version": "2.11.0",
+                "version_normalized": "2.11.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/query-monitor/",
+                    "reference": "tags/2.11.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/query-monitor/wpackagist-plugin-query-monitor-2.11.0-5e9f97.zip",
+                    "reference": "tags/2.11.0",
+                    "shasum": "83ac66726bea2d5f7d9c0075ac31c47207267a94"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/query-monitor/",
+                "uid": 107
+            },
+            "2.11.1": {
+                "name": "wpackagist-plugin/query-monitor",
+                "version": "2.11.1",
+                "version_normalized": "2.11.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/query-monitor/",
+                    "reference": "tags/2.11.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/query-monitor/wpackagist-plugin-query-monitor-2.11.1-70135c.zip",
+                    "reference": "tags/2.11.1",
+                    "shasum": "2b12f0baa9e7272970be8ea35e8b988fcbcece2e"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/query-monitor/",
+                "uid": 108
+            },
+            "2.11.2": {
+                "name": "wpackagist-plugin/query-monitor",
+                "version": "2.11.2",
+                "version_normalized": "2.11.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/query-monitor/",
+                    "reference": "tags/2.11.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/query-monitor/wpackagist-plugin-query-monitor-2.11.2-315606.zip",
+                    "reference": "tags/2.11.2",
+                    "shasum": "08c6afd18db295294596b4943ceed424ff562d27"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/query-monitor/",
+                "uid": 109
+            },
+            "2.11.3": {
+                "name": "wpackagist-plugin/query-monitor",
+                "version": "2.11.3",
+                "version_normalized": "2.11.3.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/query-monitor/",
+                    "reference": "tags/2.11.3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/query-monitor/wpackagist-plugin-query-monitor-2.11.3-b36c66.zip",
+                    "reference": "tags/2.11.3",
+                    "shasum": "2736a915313863433a1ec1e0bb342aff946d7a80"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/query-monitor/",
+                "uid": 110
+            },
+            "2.11.4": {
+                "name": "wpackagist-plugin/query-monitor",
+                "version": "2.11.4",
+                "version_normalized": "2.11.4.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/query-monitor/",
+                    "reference": "tags/2.11.4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/query-monitor/wpackagist-plugin-query-monitor-2.11.4-5084bb.zip",
+                    "reference": "tags/2.11.4",
+                    "shasum": "c0d7a3d46b0d175ed974a9e3e47a42815d8015c1"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/query-monitor/",
+                "uid": 111
+            },
+            "2.12.0": {
+                "name": "wpackagist-plugin/query-monitor",
+                "version": "2.12.0",
+                "version_normalized": "2.12.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/query-monitor/",
+                    "reference": "tags/2.12.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/query-monitor/wpackagist-plugin-query-monitor-2.12.0-7d4921.zip",
+                    "reference": "tags/2.12.0",
+                    "shasum": "4928000ee520414d41fd665973e1218d95218a26"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/query-monitor/",
+                "uid": 112
+            },
+            "2.13.0": {
+                "name": "wpackagist-plugin/query-monitor",
+                "version": "2.13.0",
+                "version_normalized": "2.13.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/query-monitor/",
+                    "reference": "tags/2.13.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/query-monitor/wpackagist-plugin-query-monitor-2.13.0-e60984.zip",
+                    "reference": "tags/2.13.0",
+                    "shasum": "beb67e7f19ea2df816415aa9d4f1e7ae726e01f2"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/query-monitor/",
+                "uid": 113
+            },
+            "2.13.1": {
+                "name": "wpackagist-plugin/query-monitor",
+                "version": "2.13.1",
+                "version_normalized": "2.13.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/query-monitor/",
+                    "reference": "tags/2.13.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/query-monitor/wpackagist-plugin-query-monitor-2.13.1-a88b73.zip",
+                    "reference": "tags/2.13.1",
+                    "shasum": "601d60f805e213d97660ccb96702d595cbccb184"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/query-monitor/",
+                "uid": 114
+            },
+            "2.13.2": {
+                "name": "wpackagist-plugin/query-monitor",
+                "version": "2.13.2",
+                "version_normalized": "2.13.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/query-monitor/",
+                    "reference": "tags/2.13.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/query-monitor/wpackagist-plugin-query-monitor-2.13.2-bcf3f6.zip",
+                    "reference": "tags/2.13.2",
+                    "shasum": "4b7b5e8c9fbf93babd22802d5315da4add3a5421"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/query-monitor/",
+                "uid": 115
+            },
+            "2.13.3": {
+                "name": "wpackagist-plugin/query-monitor",
+                "version": "2.13.3",
+                "version_normalized": "2.13.3.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/query-monitor/",
+                    "reference": "tags/2.13.3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/query-monitor/wpackagist-plugin-query-monitor-2.13.3-a7be78.zip",
+                    "reference": "tags/2.13.3",
+                    "shasum": "3b746505e9ad7fe97237775c4079a254ac40abfc"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/query-monitor/",
+                "uid": 116
+            },
+            "2.13.4": {
+                "name": "wpackagist-plugin/query-monitor",
+                "version": "2.13.4",
+                "version_normalized": "2.13.4.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/query-monitor/",
+                    "reference": "tags/2.13.4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/query-monitor/wpackagist-plugin-query-monitor-2.13.4-c7dcf2.zip",
+                    "reference": "tags/2.13.4",
+                    "shasum": "eab7776f8ebe7d97418c4c4731049553365e7bc2"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/query-monitor/",
+                "uid": 117
+            },
+            "2.5.2": {
+                "name": "wpackagist-plugin/query-monitor",
+                "version": "2.5.2",
+                "version_normalized": "2.5.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/query-monitor/",
+                    "reference": "tags/2.5.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/query-monitor/wpackagist-plugin-query-monitor-2.5.2-0c7035.zip",
+                    "reference": "tags/2.5.2",
+                    "shasum": "faf47ac15ccaa472ac785416ea97d9c342980049"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/query-monitor/",
+                "uid": 118
+            },
+            "2.5.3": {
+                "name": "wpackagist-plugin/query-monitor",
+                "version": "2.5.3",
+                "version_normalized": "2.5.3.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/query-monitor/",
+                    "reference": "tags/2.5.3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/query-monitor/wpackagist-plugin-query-monitor-2.5.3-f968d0.zip",
+                    "reference": "tags/2.5.3",
+                    "shasum": "ecb0c0d3455dcbf5321dec916dd999b0fb278178"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/query-monitor/",
+                "uid": 119
+            },
+            "2.5.4": {
+                "name": "wpackagist-plugin/query-monitor",
+                "version": "2.5.4",
+                "version_normalized": "2.5.4.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/query-monitor/",
+                    "reference": "tags/2.5.4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/query-monitor/wpackagist-plugin-query-monitor-2.5.4-21e4b0.zip",
+                    "reference": "tags/2.5.4",
+                    "shasum": "bbe88f31c7068f0fda8999e7ca7c93f7db6aa8bf"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/query-monitor/",
+                "uid": 120
+            },
+            "2.5.5": {
+                "name": "wpackagist-plugin/query-monitor",
+                "version": "2.5.5",
+                "version_normalized": "2.5.5.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/query-monitor/",
+                    "reference": "tags/2.5.5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/query-monitor/wpackagist-plugin-query-monitor-2.5.5-000601.zip",
+                    "reference": "tags/2.5.5",
+                    "shasum": "256083d483280ca3b22a871a643acb15834ab299"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/query-monitor/",
+                "uid": 121
+            },
+            "2.5.6": {
+                "name": "wpackagist-plugin/query-monitor",
+                "version": "2.5.6",
+                "version_normalized": "2.5.6.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/query-monitor/",
+                    "reference": "tags/2.5.6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/query-monitor/wpackagist-plugin-query-monitor-2.5.6-dd5b15.zip",
+                    "reference": "tags/2.5.6",
+                    "shasum": "846242de6c9b1138a98f99115b3e49b745bed041"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/query-monitor/",
+                "uid": 122
+            },
+            "2.6": {
+                "name": "wpackagist-plugin/query-monitor",
+                "version": "2.6",
+                "version_normalized": "2.6.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/query-monitor/",
+                    "reference": "tags/2.6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/query-monitor/wpackagist-plugin-query-monitor-2.6-2b11b1.zip",
+                    "reference": "tags/2.6",
+                    "shasum": "6e7960364e29eb6c902ec5923647e8af3bc8142b"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/query-monitor/",
+                "uid": 123
+            },
+            "2.6.1": {
+                "name": "wpackagist-plugin/query-monitor",
+                "version": "2.6.1",
+                "version_normalized": "2.6.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/query-monitor/",
+                    "reference": "tags/2.6.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/query-monitor/wpackagist-plugin-query-monitor-2.6.1-55591d.zip",
+                    "reference": "tags/2.6.1",
+                    "shasum": "86ab47b8a0e4fbffb31089904a06e3f4a71b0a54"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/query-monitor/",
+                "uid": 124
+            },
+            "2.6.10": {
+                "name": "wpackagist-plugin/query-monitor",
+                "version": "2.6.10",
+                "version_normalized": "2.6.10.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/query-monitor/",
+                    "reference": "tags/2.6.10"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/query-monitor/wpackagist-plugin-query-monitor-2.6.10-0cfe73.zip",
+                    "reference": "tags/2.6.10",
+                    "shasum": "8cf7adc6d5f8e450e6248097d4a0f47095f03717"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/query-monitor/",
+                "uid": 125
+            },
+            "2.6.2": {
+                "name": "wpackagist-plugin/query-monitor",
+                "version": "2.6.2",
+                "version_normalized": "2.6.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/query-monitor/",
+                    "reference": "tags/2.6.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/query-monitor/wpackagist-plugin-query-monitor-2.6.2-edf180.zip",
+                    "reference": "tags/2.6.2",
+                    "shasum": "8e457ad2650d9a65f68a0a12d319e528997b59fd"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/query-monitor/",
+                "uid": 126
+            },
+            "2.6.3": {
+                "name": "wpackagist-plugin/query-monitor",
+                "version": "2.6.3",
+                "version_normalized": "2.6.3.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/query-monitor/",
+                    "reference": "tags/2.6.3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/query-monitor/wpackagist-plugin-query-monitor-2.6.3-470642.zip",
+                    "reference": "tags/2.6.3",
+                    "shasum": "074e683808634da638bc2194b2e653d43cdc2974"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/query-monitor/",
+                "uid": 127
+            },
+            "2.6.4": {
+                "name": "wpackagist-plugin/query-monitor",
+                "version": "2.6.4",
+                "version_normalized": "2.6.4.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/query-monitor/",
+                    "reference": "tags/2.6.4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/query-monitor/wpackagist-plugin-query-monitor-2.6.4-55f61b.zip",
+                    "reference": "tags/2.6.4",
+                    "shasum": "0014777864ed5a92c05b2333bccb1c61176bddd3"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/query-monitor/",
+                "uid": 128
+            },
+            "2.6.5": {
+                "name": "wpackagist-plugin/query-monitor",
+                "version": "2.6.5",
+                "version_normalized": "2.6.5.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/query-monitor/",
+                    "reference": "tags/2.6.5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/query-monitor/wpackagist-plugin-query-monitor-2.6.5-e09a36.zip",
+                    "reference": "tags/2.6.5",
+                    "shasum": "ac3123f1e189759d9660a0bdec378d2078e23d30"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/query-monitor/",
+                "uid": 129
+            },
+            "2.6.6": {
+                "name": "wpackagist-plugin/query-monitor",
+                "version": "2.6.6",
+                "version_normalized": "2.6.6.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/query-monitor/",
+                    "reference": "tags/2.6.6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/query-monitor/wpackagist-plugin-query-monitor-2.6.6-7b75d1.zip",
+                    "reference": "tags/2.6.6",
+                    "shasum": "d30109a4efacd89b67bccbed23e782e1ef89657b"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/query-monitor/",
+                "uid": 130
+            },
+            "2.6.7": {
+                "name": "wpackagist-plugin/query-monitor",
+                "version": "2.6.7",
+                "version_normalized": "2.6.7.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/query-monitor/",
+                    "reference": "tags/2.6.7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/query-monitor/wpackagist-plugin-query-monitor-2.6.7-88e662.zip",
+                    "reference": "tags/2.6.7",
+                    "shasum": "24999d7f1444071cc907298ddfa946407a61d1ed"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/query-monitor/",
+                "uid": 131
+            },
+            "2.6.8": {
+                "name": "wpackagist-plugin/query-monitor",
+                "version": "2.6.8",
+                "version_normalized": "2.6.8.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/query-monitor/",
+                    "reference": "tags/2.6.8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/query-monitor/wpackagist-plugin-query-monitor-2.6.8-1022be.zip",
+                    "reference": "tags/2.6.8",
+                    "shasum": "59583b3e79afcde157468d11f111baad9640f86b"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/query-monitor/",
+                "uid": 132
+            },
+            "2.6.9": {
+                "name": "wpackagist-plugin/query-monitor",
+                "version": "2.6.9",
+                "version_normalized": "2.6.9.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/query-monitor/",
+                    "reference": "tags/2.6.9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/query-monitor/wpackagist-plugin-query-monitor-2.6.9-1822d3.zip",
+                    "reference": "tags/2.6.9",
+                    "shasum": "615fab38639d10d9a6e58354ee67a2aff8b80834"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/query-monitor/",
+                "uid": 133
+            },
+            "2.7.0": {
+                "name": "wpackagist-plugin/query-monitor",
+                "version": "2.7.0",
+                "version_normalized": "2.7.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/query-monitor/",
+                    "reference": "tags/2.7.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/query-monitor/wpackagist-plugin-query-monitor-2.7.0-b6da16.zip",
+                    "reference": "tags/2.7.0",
+                    "shasum": "c64d5ef4b6e75363d1aad236eaea076c2ad730db"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/query-monitor/",
+                "uid": 134
+            },
+            "2.7.1": {
+                "name": "wpackagist-plugin/query-monitor",
+                "version": "2.7.1",
+                "version_normalized": "2.7.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/query-monitor/",
+                    "reference": "tags/2.7.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/query-monitor/wpackagist-plugin-query-monitor-2.7.1-4a962c.zip",
+                    "reference": "tags/2.7.1",
+                    "shasum": "6438f1fd692edf3dd10ab8062c3fa8a15d1aebb6"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/query-monitor/",
+                "uid": 135
+            },
+            "2.7.2": {
+                "name": "wpackagist-plugin/query-monitor",
+                "version": "2.7.2",
+                "version_normalized": "2.7.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/query-monitor/",
+                    "reference": "tags/2.7.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/query-monitor/wpackagist-plugin-query-monitor-2.7.2-3c6456.zip",
+                    "reference": "tags/2.7.2",
+                    "shasum": "22ea608ed2a73af499d5866f94cc0724aa58e3cc"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/query-monitor/",
+                "uid": 136
+            },
+            "2.7.3": {
+                "name": "wpackagist-plugin/query-monitor",
+                "version": "2.7.3",
+                "version_normalized": "2.7.3.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/query-monitor/",
+                    "reference": "tags/2.7.3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/query-monitor/wpackagist-plugin-query-monitor-2.7.3-b283b3.zip",
+                    "reference": "tags/2.7.3",
+                    "shasum": "c50dd9023609644f802bc4329c3556837b2f7ef6"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/query-monitor/",
+                "uid": 137
+            },
+            "2.7.4": {
+                "name": "wpackagist-plugin/query-monitor",
+                "version": "2.7.4",
+                "version_normalized": "2.7.4.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/query-monitor/",
+                    "reference": "tags/2.7.4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/query-monitor/wpackagist-plugin-query-monitor-2.7.4-e0feb1.zip",
+                    "reference": "tags/2.7.4",
+                    "shasum": "6c97845e5cc47e84f0865cb7e12007536b083321"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/query-monitor/",
+                "uid": 138
+            },
+            "2.8.0": {
+                "name": "wpackagist-plugin/query-monitor",
+                "version": "2.8.0",
+                "version_normalized": "2.8.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/query-monitor/",
+                    "reference": "tags/2.8.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/query-monitor/wpackagist-plugin-query-monitor-2.8.0-ee3aab.zip",
+                    "reference": "tags/2.8.0",
+                    "shasum": "cdd11ff2e20ddaf99a95c9ddb2abcbfa2318532b"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/query-monitor/",
+                "uid": 139
+            },
+            "2.8.1": {
+                "name": "wpackagist-plugin/query-monitor",
+                "version": "2.8.1",
+                "version_normalized": "2.8.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/query-monitor/",
+                    "reference": "tags/2.8.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/query-monitor/wpackagist-plugin-query-monitor-2.8.1-0ad58f.zip",
+                    "reference": "tags/2.8.1",
+                    "shasum": "7ab5671c792a79aa9b4a99448ea90992b150954d"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/query-monitor/",
+                "uid": 140
+            },
+            "2.9.0": {
+                "name": "wpackagist-plugin/query-monitor",
+                "version": "2.9.0",
+                "version_normalized": "2.9.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/query-monitor/",
+                    "reference": "tags/2.9.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/query-monitor/wpackagist-plugin-query-monitor-2.9.0-7a6795.zip",
+                    "reference": "tags/2.9.0",
+                    "shasum": "3e22e6f76ecb02b1e3de30911d65cf5917805156"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/query-monitor/",
+                "uid": 141
+            },
+            "2.9.1": {
+                "name": "wpackagist-plugin/query-monitor",
+                "version": "2.9.1",
+                "version_normalized": "2.9.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/query-monitor/",
+                    "reference": "tags/2.9.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/query-monitor/wpackagist-plugin-query-monitor-2.9.1-37acf4.zip",
+                    "reference": "tags/2.9.1",
+                    "shasum": "bb21e37271acaf9b996cb0e5e60f1a92e2dee064"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/query-monitor/",
+                "uid": 142
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/query-monitor",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/query-monitor/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/query-monitor/wpackagist-plugin-query-monitor-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "6beb3822e3816616e9dba1f534add38dc2594e96"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2017-04-05T00:01:06+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/query-monitor/",
+                "uid": 143
+            }
+        }
+    }
+}
