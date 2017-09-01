@@ -44,9 +44,8 @@ machine:
     SHARED_SCRIPTS: "${SCRIPTS_ROOT}/shared/scripts.sh"
 
     #
-    # Git user email and build tag
+    # Build tag
     #
-    GIT_USER_EMAIL: "wordpress@rentpath.com"
     BUILD_TAG:      "build-${CIRCLE_BUILD_NUM}"
 
     #
