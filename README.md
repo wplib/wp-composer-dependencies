@@ -48,6 +48,7 @@ _Composer Dependencies for WordPress_ is for you if any of the following are tru
     1. _Periodically cannot rebuild your sites when you need to because WPackagist.org is down._
 1. You **oversee WordPress development** for an agency or other organization and you: 
     1. _Need to limit your organization's developers from using any unapproved plugins._
+    1. _Want to cut the time duplication by each of your developers managing the same dependencies._
 1. You **create plugins or themes for WordPress** and you: 
     1. _Want to make life easier for many of your customers._
     1. _Would like to be an early contributor to gain exposure for your plugins or themes._

@@ -10,6 +10,7 @@ declare=${CIRCLE_ARTIFACTS:=}
 declare=${CIRCLE_BRANCH:=}
 declare=${SHARED_SCRIPTS:=}
 declare=${REPO_ROOT:=}
+declare=${GIT_REPO_ACCESS:=}
 
 #
 # Set artifacts file for this script
@@ -43,5 +44,38 @@ git pull origin ${CIRCLE_BRANCH} --quiet >> $ARTIFACTS_FILE
 #
 announce "...Running Satis to build packages.json"
 satis build satis.json --quiet 2>&1 > $ARTIFACTS_FILE
+
+
+#
+# Check to see if we should munge packages.json to support
+# direct Git repos as Composer repository vs. GitHub Pages
+#
+announce "...Check for 'public' or 'private' repository generation"
+announce "...Generate {$GIT_REPO_ACCESS} repository"
+if [ "private" == "{$GIT_REPO_ACCESS}" ] ; then
+    #
+    # Capture .providers-url from packages.json
+    #
+    PACKAGES_JSON="${REPO_ROOT}/packages.json"
+    announce "...Capture ['providers-url'] from ${PACKAGES_JSON}"
+    PROVIDERS_URL="$(jq -r '.["providers-url"]' "${PACKAGES_JSON}")"
+
+    #
+    # Replace /p/ with /master/p/ in .providers-url
+    #
+    announce "...Replace '/p/' with '/master/p/' in ${PROVIDERS_URL}"
+    PROVIDERS_URL="${PROVIDERS_URL/\/p\//\/master\/p\/}"
+    announce "New PROVIDERS_URL: ${PROVIDERS_URL}"
+
+    #
+    # Updated providers-url in packages.json to include /master before /p
+    # This is needed to support GitHub repos as a Composer repository
+    #
+    announce "...Update ['providers-url'] in ${PACKAGES_JSON} to ${PROVIDERS_URL}"
+    PROVIDERS_URL="${PROVIDERS_URL/%/\%}"
+    TEMP_FILE="$(mktemp jq-tmp.XXXX)" && \
+        jq ".[\"providers-url\"] = \"${PROVIDERS_URL}\"" "${PACKAGES_JSON}" > $TEMP_FILE && \
+        mv "${TEMP_FILE}" "${PACKAGES_JSON}"
+fi
 
 announce "Compile complete."

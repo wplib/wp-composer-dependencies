@@ -16,6 +16,18 @@ machine:
   environment:
 
     #
+    # Set the access level of your repository:
+    #
+    #   - "public"  - Will generate files that support Github pages
+    #                 e.g. URL => https://YOUR-GIT-ORG.github.io/wp-composer-dependencies
+    #                 OR   URL => https://your-custom-composer-dependencies-domain.com
+    #
+    #   - "private" - Will generate files that use Github repo instead
+    #                 e.g. URL => https://github.com/YOUR-GIT-ORG/wp-composer-dependencies
+    #
+    GIT_REPO_ACCESS:   "public"
+
+    #
     # The version of PHP defined above
     #
     PHP_VERSION:    "$(phpenv global)"
