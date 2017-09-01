@@ -1,7 +1,7 @@
 #
 # circle.yaml
 #
-#   For https://wplib.github.io/wp-dependencies
+#   For https://wplib.github.io/wp-composer-dependencies
 #
 machine:
   timezone:
@@ -23,7 +23,7 @@ machine:
     #
     # The root for this repo in CircleCI
     #
-    REPO_ROOT:   "${HOME}/${CIRCLE_PROJECT_REPONAME}"
+    REPO_ROOT:      "${HOME}/${CIRCLE_PROJECT_REPONAME}"
 
     #
     # The scripts directory and the shared scripts
@@ -40,7 +40,7 @@ machine:
     #
     # File-related variables
     #
-    USER_BIN_ROOT:        "/usr/local/bin"
+    USER_BIN_ROOT:  "/usr/local/bin"
     FILES_ROOT:     "${REPO_ROOT}/files"
     JQ_FILENAME:    "jq-linux64-1.5.bin"
     JQ_SOURCE:      "${REPO_ROOT}/files/${JQ_FILENAME}"

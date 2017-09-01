@@ -16,7 +16,7 @@
 
 ## Introduction
 
-WPLib's [_Composer Dependencies for WordPress_](https://wplib.github.io/wp-dependencies/) is:
+WPLib's [_Composer Dependencies for WordPress_](https://wplib.github.io/wp-composer-dependencies/) is:
  
  1. A _working_ [**Composer**](https://getcomposer.org) repository containing plugins we like 
     _including GPL-licensed commercial plugins._
@@ -36,7 +36,7 @@ _just let us take care of the work for you._
 ## Searching 
 You can search for available plugins or themes or other WordPress-related dependencies at:
 
-- https://wplib.github.io/wp-dependencies/
+- https://wplib.github.io/wp-composer-dependencies/
 
 
 ## Audience  
@@ -137,7 +137,7 @@ If you manage a lot of WordPress projects and thus a lot of `composer.json` file
     "repositories": [
         {
             "type": "git",
-            "url": "https://YOUR-GITHUB-ORG.github.io/wp-depenencies"
+            "url": "https://YOUR-GITHUB-ORG.github.io/wp-composer-depenencies"
         }
     ],
 
@@ -187,7 +187,7 @@ To **use OUR Composer repository in your WordPress-related projects** just add t
 
     {
         "type": "git",
-        "url": "https://wplib.github.io/wp-depenencies"
+        "url": "https://wplib.github.io/wp-composer-depenencies"
     }
 
 To **create your own private/personal Composer repository** just clone this repo on Git and then... 
@@ -213,9 +213,9 @@ There are two well-known alternatives: [WPackagist.org](http://wpackagist.org) a
 
 ## Pull-Requests
 
-1. If you develop a line of plugins or themes and would like to contribute yours to this repository please tweet us at [@wplib](https://twitter.com/wplib) to start a dialog, or you can [create an issue](/wplib/wp-dependencies/issues) for discussion.
+1. If you develop a line of plugins or themes and would like to contribute yours to this repository please tweet us at [@wplib](https://twitter.com/wplib) to start a dialog, or you can [create an issue](/wplib/wp-composer-dependencies/issues) for discussion.
 
-2. If you have any _**GPL-licensed**_ 3rd party plugins or themes that are not available to be downloaded by Composer and would like to change that, please fork this repo, add your contribution, and then [submit a pull-request](/wplib/wp-dependencies/pulls). We will give serious consideration to adding every submission.
+2. If you have any _**GPL-licensed**_ 3rd party plugins or themes that are not available to be downloaded by Composer and would like to change that, please fork this repo, add your contribution, and then [submit a pull-request](/wplib/wp-composer-dependencies/pulls). We will give serious consideration to adding every submission.
 
 	**[Instructions to come]**
 
