@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "artifacts/easy-social-share-buttons": {
+            "1.3.1": {
+                "name": "artifacts/easy-social-share-buttons",
+                "version": "1.3.1",
+                "version_normalized": "1.3.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/artifacts/easy-social-share-buttons/artifacts-easy-social-share-buttons-1.3.1.zip",
+                    "reference": null,
+                    "shasum": "67ec7e82c9cff10d96d77a2c12f5eb89909ead36"
+                },
+                "require": {
+                    "wplib/wp-composer-installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "description": "Easy Social Share Buttons",
+                "uid": 7
+            },
+            "1.4.1": {
+                "name": "artifacts/easy-social-share-buttons",
+                "version": "1.4.1",
+                "version_normalized": "1.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/artifacts/easy-social-share-buttons/artifacts-easy-social-share-buttons-1.4.1.zip",
+                    "reference": null,
+                    "shasum": "0bb648ab01bbd8b0d00bb5c94115c3269ee673c5"
+                },
+                "require": {
+                    "wplib/wp-composer-installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "description": "Easy Social Share Buttons",
+                "uid": 8
+            }
+        }
+    }
+}

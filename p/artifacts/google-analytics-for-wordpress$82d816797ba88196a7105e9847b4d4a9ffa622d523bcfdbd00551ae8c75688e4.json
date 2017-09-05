@@ -1,0 +1,24 @@
+{
+    "packages": {
+        "artifacts/google-analytics-for-wordpress": {
+            "5.5.4": {
+                "name": "artifacts/google-analytics-for-wordpress",
+                "version": "5.5.4",
+                "version_normalized": "5.5.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/artifacts/google-analytics-for-wordpress/artifacts-google-analytics-for-wordpress-5.5.4.zip",
+                    "reference": null,
+                    "shasum": "641b3807d66278d4fcf9d190764778bb1466d105"
+                },
+                "require": {
+                    "wplib/wp-composer-installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "description": "Google Analytics by MonsterInsights",
+                "uid": 10
+            }
+        }
+    }
+}
