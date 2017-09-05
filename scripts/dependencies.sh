@@ -72,6 +72,14 @@ announce "...Renaming ${JQ_FILEPATH} to ${USER_BIN_ROOT}/jq"
 sudo mv "${JQ_FILEPATH}" "${USER_BIN_ROOT}/jq"
 
 #
+# Installing Subversion so we can pull WordPress plugins and themes
+#
+announce "...Updating apt-get"
+sudo apt-get update 2>&1 > $ARTIFACTS_FILE
+announce "...Installing Subversion"
+sudo apt-get install subversion 2>&1 > $ARTIFACTS_FILE
+
+#
 # Change to home directory to cloning Satis does not screw up source repo
 #
 cd ~/
