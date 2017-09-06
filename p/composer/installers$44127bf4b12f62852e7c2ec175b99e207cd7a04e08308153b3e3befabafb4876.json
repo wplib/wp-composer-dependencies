@@ -27,7 +27,6 @@
                 "extra": {
                     "class": "Composer\\Installers\\Installer"
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "Composer\\Installers\\": "src/"
@@ -93,7 +92,6 @@
                 "extra": {
                     "class": "Composer\\Installers\\Installer"
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "Composer\\Installers\\": "src/"
@@ -165,7 +163,6 @@
                         "dev-master": "1.0-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "Composer\\Installers\\": "src/"
@@ -249,7 +246,6 @@
                         "dev-master": "1.0-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "Composer\\Installers\\": "src/"
@@ -333,7 +329,6 @@
                         "dev-master": "1.0-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "Composer\\Installers\\": "src/"
@@ -418,7 +413,6 @@
                         "dev-master": "1.0-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "Composer\\Installers\\": "src/"
@@ -504,7 +498,6 @@
                         "dev-master": "1.0-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "Composer\\Installers\\": "src/"
@@ -594,7 +587,6 @@
                         "dev-master": "1.0-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "Composer\\Installers\\": "src/"
@@ -684,7 +676,6 @@
                         "dev-master": "1.0-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "Composer\\Installers\\": "src/"
@@ -775,7 +766,6 @@
                         "dev-master": "1.0-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "Composer\\Installers\\": "src/"
@@ -867,7 +857,6 @@
                         "dev-master": "1.0-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "Composer\\Installers\\": "src/"
@@ -959,7 +948,6 @@
                         "dev-master": "1.0-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "Composer\\Installers\\": "src/"
@@ -1053,7 +1041,6 @@
                         "dev-master": "1.0-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "Composer\\Installers\\": "src/"
@@ -1126,7 +1113,6 @@
                         "dev-master": "1.0-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "Composer\\Installers\\": "src/"
@@ -1222,7 +1208,6 @@
                         "dev-master": "1.0-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "Composer\\Installers\\": "src/"
@@ -1322,7 +1307,6 @@
                         "dev-master": "1.0-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "Composer\\Installers\\": "src/"
@@ -1422,7 +1406,6 @@
                         "dev-master": "1.0-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "Composer\\Installers\\": "src/"
@@ -1522,7 +1505,6 @@
                         "dev-master": "1.0-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-4": {
                         "Composer\\Installers\\": "src/Composer/Installers"
@@ -1629,7 +1611,6 @@
                         "dev-master": "1.0-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-4": {
                         "Composer\\Installers\\": "src/Composer/Installers"
@@ -1732,7 +1713,6 @@
                         "dev-master": "1.0-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "Composer\\Installers\\": "src/"
@@ -1805,7 +1785,6 @@
                         "dev-master": "1.0-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "Composer\\Installers\\": "src/"
@@ -1878,7 +1857,6 @@
                         "dev-master": "1.0-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "Composer\\Installers\\": "src/"
@@ -1951,7 +1929,6 @@
                         "dev-master": "1.0-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "Composer\\Installers\\": "src/"
@@ -2025,7 +2002,6 @@
                         "dev-master": "1.0-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "Composer\\Installers\\": "src/"
@@ -2100,7 +2076,6 @@
                         "dev-master": "1.0-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "Composer\\Installers\\": "src/"
@@ -2176,7 +2151,6 @@
                         "dev-master": "1.0-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "Composer\\Installers\\": "src/"
@@ -2263,7 +2237,6 @@
                         "dev-master": "1.0-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-4": {
                         "Composer\\Installers\\": "src/Composer/Installers"
@@ -2372,7 +2345,6 @@
                         "dev-master": "1.0-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-4": {
                         "Composer\\Installers\\": "src/Composer/Installers"
@@ -2486,7 +2458,6 @@
                         "dev-master": "1.0-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-4": {
                         "Composer\\Installers\\": "src/Composer/Installers"
@@ -2607,7 +2578,6 @@
                         "dev-master": "1.0-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-4": {
                         "Composer\\Installers\\": "src/Composer/Installers"
@@ -2731,7 +2701,6 @@
                         "dev-master": "1.0-dev"
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-4": {
                         "Composer\\Installers\\": "src/Composer/Installers"

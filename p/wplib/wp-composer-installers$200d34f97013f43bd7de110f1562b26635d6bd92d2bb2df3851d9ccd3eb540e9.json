@@ -67,13 +67,13 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/wplib/wp-composer-installers",
-                    "reference": "9a1d908e095bd32775b7b51f31f3f405f9a9b367"
+                    "reference": "a7fe65d0a2d05ce5e00aa658aa6f2151455aa5ea"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wplib/wp-composer-installers/wplib-wp-composer-installers-dev-master-c605ff.zip",
-                    "reference": "9a1d908e095bd32775b7b51f31f3f405f9a9b367",
-                    "shasum": "275c0a2c08e1576018b531fd438fa6237d18ad9f"
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wplib/wp-composer-installers/wplib-wp-composer-installers-dev-master-948a24.zip",
+                    "reference": "a7fe65d0a2d05ce5e00aa658aa6f2151455aa5ea",
+                    "shasum": "9e59470843af8e3b250e36fc03761e525eae649c"
                 },
                 "require": {
                     "composer-plugin-api": "^1.0"
@@ -84,7 +84,7 @@
                 "require-dev": {
                     "composer/composer": "^1.0"
                 },
-                "time": "2017-09-06T06:27:30+00:00",
+                "time": "2017-09-06T11:10:10+00:00",
                 "type": "composer-plugin",
                 "extra": {
                     "class": "WPLib\\ComposerInstaller",
