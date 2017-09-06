@@ -237,4 +237,5 @@ Tweet us at [@wplib](https://twitter.com/wplib) and we can discuss your needs.
 
 _Composer Dependencies for WordPress_ is licensed via [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html).  
 Copyright (c) 2017 [NewClarity Consulting LLC](http://newclarity.net). 
+.
 
