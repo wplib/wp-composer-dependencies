@@ -21,7 +21,15 @@
         },
         {
             "type": "git",
+            "url": "https://github.com/composer/installers"
+        },
+        {
+            "type": "git",
             "url": "https://github.com/johnpbloch/wordpress-core"
+        },
+        {
+            "type": "git",
+            "url": "https://github.com/johnpbloch/wordpress-core-installer"
         },
         {
             "type": "composer",
@@ -29,19 +37,19 @@
         },
         {
             "type": "git",
-            "url": "https://github.com/newclarity/nprapi-wordpress.git"
+            "url": "https://github.com/newclarity/nprapi-wordpress"
         },
         {
             "type": "git",
-            "url": "https://github.com/wplib/wplib.git"
+            "url": "https://github.com/wplib/wplib"
         },
         {
             "type": "git",
-            "url": "https://github.com/wplib/wp-composer-installers.git"
+            "url": "https://github.com/wplib/wp-composer-installers"
         },
         {
             "type": "git",
-            "url": "https://github.com/algolia/algoliasearch-wordpress.git"
+            "url": "https://github.com/algolia/algoliasearch-wordpress"
         }
     ],
     "require": {
@@ -60,6 +68,8 @@
         "nprds/nprapi-wordpress": "dev-master",
         "algolia/algoliasearch-wordpress": ">=2.6.0",
         "johnpbloch/wordpress-core": ">=4.6",
+        "johnpbloch/wordpress-core-installer": ">=1.0",
+        "composer/installers": ">=1.0",
         "wpackagist-plugin/easy-social-share-buttons": ">=1.3.1",
         "wpackagist-plugin/query-monitor": ">=2.9.1",
         "wpackagist-plugin/helpful-information": ">=1.0.2",
