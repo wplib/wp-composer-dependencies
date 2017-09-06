@@ -58,7 +58,7 @@
                     "wp-devops",
                     "wplib"
                 ],
-                "uid": 284
+                "uid": 287
             },
             "dev-master": {
                 "name": "wplib/wp-composer-installers",
@@ -117,7 +117,7 @@
                     "wp-devops",
                     "wplib"
                 ],
-                "uid": 285
+                "uid": 288
             }
         }
     }

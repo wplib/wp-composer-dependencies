@@ -20,9 +20,8 @@
                     "composer/installers": "~1.0"
                 },
                 "type": "wordpress-theme",
-                "installation-source": "dist",
                 "homepage": "https://wordpress.org/themes/twentythirteen/",
-                "uid": 282
+                "uid": 285
             }
         }
     }

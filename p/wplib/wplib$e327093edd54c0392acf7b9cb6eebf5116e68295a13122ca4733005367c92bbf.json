@@ -69,7 +69,7 @@
                     "source": "https://github.com/wplib/wplib",
                     "docs": "http://wplib.org"
                 },
-                "uid": 287
+                "uid": 290
             },
             "dev-master": {
                 "name": "wplib/wplib",
@@ -139,7 +139,7 @@
                     "source": "https://github.com/wplib/wplib",
                     "docs": "http://wplib.org"
                 },
-                "uid": 288
+                "uid": 291
             }
         }
     }
