@@ -1,0 +1,124 @@
+{
+    "packages": {
+        "wplib/wp-composer-installers": {
+            "1.0": {
+                "name": "wplib/wp-composer-installers",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/wplib/wp-composer-installers.git",
+                    "reference": "d5a4ee1491bc161d86c3139d2c3589d0c225b237"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wplib/wp-composer-installers/wplib-wp-composer-installers-1.0-81bf0f.zip",
+                    "reference": "d5a4ee1491bc161d86c3139d2c3589d0c225b237",
+                    "shasum": "5cd416d3369a78e05c9750f04c930be89259d2a4"
+                },
+                "require": {
+                    "composer-plugin-api": "^1.0"
+                },
+                "conflict": {
+                    "composer/installers": "<1.0.6"
+                },
+                "require-dev": {
+                    "composer/composer": "^1.0"
+                },
+                "time": "2017-08-29T08:12:15+00:00",
+                "type": "composer-plugin",
+                "extra": {
+                    "class": "WPLib\\ComposerInstaller",
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "WPLib\\": "src/"
+                    }
+                },
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "The WPLib Team",
+                        "email": "team@wplib.org"
+                    },
+                    {
+                        "name": "Mike Schinkel",
+                        "email": "mike@newclarity.net"
+                    }
+                ],
+                "description": "Composer Installers for WordPress projects",
+                "keywords": [
+                    "devops",
+                    "wordpress",
+                    "wp-devops",
+                    "wplib"
+                ],
+                "uid": 289
+            },
+            "dev-master": {
+                "name": "wplib/wp-composer-installers",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/wplib/wp-composer-installers.git",
+                    "reference": "d5a4ee1491bc161d86c3139d2c3589d0c225b237"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wplib/wp-composer-installers/wplib-wp-composer-installers-dev-master-81bf0f.zip",
+                    "reference": "d5a4ee1491bc161d86c3139d2c3589d0c225b237",
+                    "shasum": "6b8056babf25b2d18f1e99df0147a79b5883f2b6"
+                },
+                "require": {
+                    "composer-plugin-api": "^1.0"
+                },
+                "conflict": {
+                    "composer/installers": "<1.0.6"
+                },
+                "require-dev": {
+                    "composer/composer": "^1.0"
+                },
+                "time": "2017-08-29T08:12:15+00:00",
+                "type": "composer-plugin",
+                "extra": {
+                    "class": "WPLib\\ComposerInstaller",
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "WPLib\\": "src/"
+                    }
+                },
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "The WPLib Team",
+                        "email": "team@wplib.org"
+                    },
+                    {
+                        "name": "Mike Schinkel",
+                        "email": "mike@newclarity.net"
+                    }
+                ],
+                "description": "Composer Installers for WordPress projects",
+                "keywords": [
+                    "devops",
+                    "wordpress",
+                    "wp-devops",
+                    "wplib"
+                ],
+                "uid": 290
+            }
+        }
+    }
+}
