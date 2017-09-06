@@ -1,0 +1,57 @@
+{
+    "packages": {
+        "facetwp/facetwp": {
+            "2.5": {
+                "name": "facetwp/facetwp",
+                "version": "2.5",
+                "version_normalized": "2.5.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/facetwp/facetwp/facetwp-facetwp-2.5.zip",
+                    "reference": null,
+                    "shasum": "ae7dcd7c668383b7d37e98a83ee7a0983f203c6e"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-muplugin",
+                "description": "FacetWP Plugin",
+                "uid": 12
+            },
+            "2.7.2": {
+                "name": "facetwp/facetwp",
+                "version": "2.7.2",
+                "version_normalized": "2.7.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/facetwp/facetwp/facetwp-facetwp-2.7.2.zip",
+                    "reference": null,
+                    "shasum": "84583c8444b2f21aaa8682c058b196a059685db6"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-muplugin",
+                "description": "FacetWP Plugin",
+                "uid": 13
+            },
+            "2.9.3": {
+                "name": "facetwp/facetwp",
+                "version": "2.9.3",
+                "version_normalized": "2.9.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/facetwp/facetwp/facetwp-facetwp-2.9.3.zip",
+                    "reference": null,
+                    "shasum": "6509808890cca606b9218e7cc5d6f8b0dfb06d46"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-muplugin",
+                "description": "FacetWP Plugin",
+                "uid": 14
+            }
+        }
+    }
+}
