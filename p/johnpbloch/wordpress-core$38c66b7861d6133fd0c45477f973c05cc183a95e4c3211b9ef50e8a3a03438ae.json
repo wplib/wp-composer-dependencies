@@ -1,0 +1,1143 @@
+{
+    "packages": {
+        "johnpbloch/wordpress-core": {
+            "4.6.0": {
+                "name": "johnpbloch/wordpress-core",
+                "version": "4.6.0",
+                "version_normalized": "4.6.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/johnpbloch/wordpress-core",
+                    "reference": "4d4e8deaa2f0c1d0e8f90aef1eb391ddbee3d86f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.6.0-a69b73.zip",
+                    "reference": "4d4e8deaa2f0c1d0e8f90aef1eb391ddbee3d86f",
+                    "shasum": "a886b1deea28b003568db10eca6216555ae8c82c"
+                },
+                "require": {
+                    "php": ">=5.3.2"
+                },
+                "time": "2017-02-11T06:26:39+00:00",
+                "type": "wordpress-core",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "WordPress Community",
+                        "homepage": "http://wordpress.org/about/"
+                    }
+                ],
+                "description": "WordPress is web software you can use to create a beautiful website or blog.",
+                "homepage": "http://wordpress.org/",
+                "keywords": [
+                    "blog",
+                    "cms",
+                    "wordpress"
+                ],
+                "support": {
+                    "issues": "http://core.trac.wordpress.org/",
+                    "forum": "http://wordpress.org/support/",
+                    "wiki": "http://codex.wordpress.org/",
+                    "irc": "irc://irc.freenode.net/wordpress",
+                    "source": "http://core.trac.wordpress.org/browser"
+                },
+                "uid": 48
+            },
+            "4.6.1": {
+                "name": "johnpbloch/wordpress-core",
+                "version": "4.6.1",
+                "version_normalized": "4.6.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/johnpbloch/wordpress-core",
+                    "reference": "64374bfe2d4cb76ef99541ac5a27fd6a3cefe9e1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.6.1-9d5252.zip",
+                    "reference": "64374bfe2d4cb76ef99541ac5a27fd6a3cefe9e1",
+                    "shasum": "6fd68deb3d3e7ec215e3e33f5913b17c76c62d05"
+                },
+                "require": {
+                    "php": ">=5.3.2"
+                },
+                "time": "2017-02-11T06:31:32+00:00",
+                "type": "wordpress-core",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "WordPress Community",
+                        "homepage": "http://wordpress.org/about/"
+                    }
+                ],
+                "description": "WordPress is web software you can use to create a beautiful website or blog.",
+                "homepage": "http://wordpress.org/",
+                "keywords": [
+                    "blog",
+                    "cms",
+                    "wordpress"
+                ],
+                "support": {
+                    "issues": "http://core.trac.wordpress.org/",
+                    "forum": "http://wordpress.org/support/",
+                    "wiki": "http://codex.wordpress.org/",
+                    "irc": "irc://irc.freenode.net/wordpress",
+                    "source": "http://core.trac.wordpress.org/browser"
+                },
+                "uid": 49
+            },
+            "4.6.2": {
+                "name": "johnpbloch/wordpress-core",
+                "version": "4.6.2",
+                "version_normalized": "4.6.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/johnpbloch/wordpress-core",
+                    "reference": "a1f1c1cce6add9207494f0c3a5db56c44023e0ec"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.6.2-d93998.zip",
+                    "reference": "a1f1c1cce6add9207494f0c3a5db56c44023e0ec",
+                    "shasum": "33e6eccd41d3e002fded859606855f2ecff536ec"
+                },
+                "require": {
+                    "php": ">=5.3.2"
+                },
+                "time": "2017-02-11T06:36:29+00:00",
+                "type": "wordpress-core",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "WordPress Community",
+                        "homepage": "http://wordpress.org/about/"
+                    }
+                ],
+                "description": "WordPress is web software you can use to create a beautiful website or blog.",
+                "homepage": "http://wordpress.org/",
+                "keywords": [
+                    "blog",
+                    "cms",
+                    "wordpress"
+                ],
+                "support": {
+                    "issues": "http://core.trac.wordpress.org/",
+                    "forum": "http://wordpress.org/support/",
+                    "wiki": "http://codex.wordpress.org/",
+                    "irc": "irc://irc.freenode.net/wordpress",
+                    "source": "http://core.trac.wordpress.org/browser"
+                },
+                "uid": 50
+            },
+            "4.6.3": {
+                "name": "johnpbloch/wordpress-core",
+                "version": "4.6.3",
+                "version_normalized": "4.6.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/johnpbloch/wordpress-core",
+                    "reference": "d114fd375470eb6b15df1b563ff422003072c466"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.6.3-f64e5b.zip",
+                    "reference": "d114fd375470eb6b15df1b563ff422003072c466",
+                    "shasum": "8c2da7fa3ad29a90bf8a3d97ffb490c12997e202"
+                },
+                "require": {
+                    "php": ">=5.3.2"
+                },
+                "time": "2017-02-11T00:15:34+00:00",
+                "type": "wordpress-core",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "WordPress Community",
+                        "homepage": "http://wordpress.org/about/"
+                    }
+                ],
+                "description": "WordPress is web software you can use to create a beautiful website or blog.",
+                "homepage": "http://wordpress.org/",
+                "keywords": [
+                    "blog",
+                    "cms",
+                    "wordpress"
+                ],
+                "support": {
+                    "issues": "http://core.trac.wordpress.org/",
+                    "forum": "http://wordpress.org/support/",
+                    "wiki": "http://codex.wordpress.org/",
+                    "irc": "irc://irc.freenode.net/wordpress",
+                    "source": "http://core.trac.wordpress.org/browser"
+                },
+                "uid": 51
+            },
+            "4.6.4": {
+                "name": "johnpbloch/wordpress-core",
+                "version": "4.6.4",
+                "version_normalized": "4.6.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/johnpbloch/wordpress-core",
+                    "reference": "82b6ebd0228daa374cc4d4e05fc58bbb8ed83aa5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.6.4-888b92.zip",
+                    "reference": "82b6ebd0228daa374cc4d4e05fc58bbb8ed83aa5",
+                    "shasum": "a8e1daecbf690aacc79bf24b657c154e2e75777f"
+                },
+                "require": {
+                    "php": ">=5.3.2"
+                },
+                "time": "2017-03-08T01:55:11+00:00",
+                "type": "wordpress-core",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "WordPress Community",
+                        "homepage": "http://wordpress.org/about/"
+                    }
+                ],
+                "description": "WordPress is web software you can use to create a beautiful website or blog.",
+                "homepage": "http://wordpress.org/",
+                "keywords": [
+                    "blog",
+                    "cms",
+                    "wordpress"
+                ],
+                "support": {
+                    "issues": "http://core.trac.wordpress.org/",
+                    "forum": "http://wordpress.org/support/",
+                    "wiki": "http://codex.wordpress.org/",
+                    "irc": "irc://irc.freenode.net/wordpress",
+                    "source": "http://core.trac.wordpress.org/browser"
+                },
+                "uid": 52
+            },
+            "4.6.5": {
+                "name": "johnpbloch/wordpress-core",
+                "version": "4.6.5",
+                "version_normalized": "4.6.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/johnpbloch/wordpress-core",
+                    "reference": "ed5d82a71013954e9b862d28e8cca9d39a96f43c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.6.5-edfc26.zip",
+                    "reference": "ed5d82a71013954e9b862d28e8cca9d39a96f43c",
+                    "shasum": "017ce7b960a745cdd9a67842ceb5ef9b608cd652"
+                },
+                "require": {
+                    "php": ">=5.3.2"
+                },
+                "time": "2017-04-20T19:15:53+00:00",
+                "type": "wordpress-core",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "WordPress Community",
+                        "homepage": "http://wordpress.org/about/"
+                    }
+                ],
+                "description": "WordPress is web software you can use to create a beautiful website or blog.",
+                "homepage": "http://wordpress.org/",
+                "keywords": [
+                    "blog",
+                    "cms",
+                    "wordpress"
+                ],
+                "support": {
+                    "issues": "http://core.trac.wordpress.org/",
+                    "forum": "http://wordpress.org/support/",
+                    "wiki": "http://codex.wordpress.org/",
+                    "irc": "irc://irc.freenode.net/wordpress",
+                    "source": "http://core.trac.wordpress.org/browser"
+                },
+                "uid": 53
+            },
+            "4.6.6": {
+                "name": "johnpbloch/wordpress-core",
+                "version": "4.6.6",
+                "version_normalized": "4.6.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/johnpbloch/wordpress-core",
+                    "reference": "603a08ff7498e3e58d9e25ccbc9f72e085af49ca"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.6.6-f474e9.zip",
+                    "reference": "603a08ff7498e3e58d9e25ccbc9f72e085af49ca",
+                    "shasum": "38af7ab7c49b8fb52643f8aaaf996e36c80080b4"
+                },
+                "require": {
+                    "php": ">=5.3.2"
+                },
+                "time": "2017-05-16T22:48:22+00:00",
+                "type": "wordpress-core",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "WordPress Community",
+                        "homepage": "http://wordpress.org/about/"
+                    }
+                ],
+                "description": "WordPress is web software you can use to create a beautiful website or blog.",
+                "homepage": "http://wordpress.org/",
+                "keywords": [
+                    "blog",
+                    "cms",
+                    "wordpress"
+                ],
+                "support": {
+                    "issues": "http://core.trac.wordpress.org/",
+                    "forum": "http://wordpress.org/support/",
+                    "wiki": "http://codex.wordpress.org/",
+                    "irc": "irc://irc.freenode.net/wordpress",
+                    "source": "http://core.trac.wordpress.org/browser"
+                },
+                "uid": 54
+            },
+            "4.6.x-dev": {
+                "name": "johnpbloch/wordpress-core",
+                "version": "4.6.x-dev",
+                "version_normalized": "4.6.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/johnpbloch/wordpress-core",
+                    "reference": "16f2d3c337e08334a48dc752c9940cf9c4b5b5d7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.6.x-dev-999d23.zip",
+                    "reference": "16f2d3c337e08334a48dc752c9940cf9c4b5b5d7",
+                    "shasum": "5db13a307ee6418bb39a246675984fd5142cc313"
+                },
+                "require": {
+                    "php": ">=5.3.2"
+                },
+                "provide": {
+                    "wordpress/core-implementation": "4.6.x-dev"
+                },
+                "time": "2017-08-22T17:30:35+00:00",
+                "type": "wordpress-core",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "WordPress Community",
+                        "homepage": "http://wordpress.org/about/"
+                    }
+                ],
+                "description": "WordPress is web software you can use to create a beautiful website or blog.",
+                "homepage": "http://wordpress.org/",
+                "keywords": [
+                    "blog",
+                    "cms",
+                    "wordpress"
+                ],
+                "support": {
+                    "issues": "http://core.trac.wordpress.org/",
+                    "forum": "http://wordpress.org/support/",
+                    "wiki": "http://codex.wordpress.org/",
+                    "irc": "irc://irc.freenode.net/wordpress",
+                    "source": "http://core.trac.wordpress.org/browser"
+                },
+                "uid": 55
+            },
+            "4.7.0": {
+                "name": "johnpbloch/wordpress-core",
+                "version": "4.7.0",
+                "version_normalized": "4.7.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/johnpbloch/wordpress-core",
+                    "reference": "7a584d78d8bd88c2e0f9c24667369efbb2b14e9d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.7.0-5454b6.zip",
+                    "reference": "7a584d78d8bd88c2e0f9c24667369efbb2b14e9d",
+                    "shasum": "35f4341aa20a8c13fc04355e1afdfcdf8c36531b"
+                },
+                "require": {
+                    "php": ">=5.3.2"
+                },
+                "time": "2017-02-10T23:08:14+00:00",
+                "type": "wordpress-core",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "WordPress Community",
+                        "homepage": "http://wordpress.org/about/"
+                    }
+                ],
+                "description": "WordPress is web software you can use to create a beautiful website or blog.",
+                "homepage": "http://wordpress.org/",
+                "keywords": [
+                    "blog",
+                    "cms",
+                    "wordpress"
+                ],
+                "support": {
+                    "issues": "http://core.trac.wordpress.org/",
+                    "forum": "http://wordpress.org/support/",
+                    "wiki": "http://codex.wordpress.org/",
+                    "irc": "irc://irc.freenode.net/wordpress",
+                    "source": "http://core.trac.wordpress.org/browser"
+                },
+                "uid": 56
+            },
+            "4.7.1": {
+                "name": "johnpbloch/wordpress-core",
+                "version": "4.7.1",
+                "version_normalized": "4.7.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/johnpbloch/wordpress-core",
+                    "reference": "65adb1046a15a395cdfe160624994267b8ec3dca"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.7.1-485970.zip",
+                    "reference": "65adb1046a15a395cdfe160624994267b8ec3dca",
+                    "shasum": "e681023b48029113fd31833ff3d6ab8d4b188d6f"
+                },
+                "require": {
+                    "php": ">=5.3.2"
+                },
+                "time": "2017-02-10T22:45:54+00:00",
+                "type": "wordpress-core",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "WordPress Community",
+                        "homepage": "http://wordpress.org/about/"
+                    }
+                ],
+                "description": "WordPress is web software you can use to create a beautiful website or blog.",
+                "homepage": "http://wordpress.org/",
+                "keywords": [
+                    "blog",
+                    "cms",
+                    "wordpress"
+                ],
+                "support": {
+                    "issues": "http://core.trac.wordpress.org/",
+                    "forum": "http://wordpress.org/support/",
+                    "wiki": "http://codex.wordpress.org/",
+                    "irc": "irc://irc.freenode.net/wordpress",
+                    "source": "http://core.trac.wordpress.org/browser"
+                },
+                "uid": 57
+            },
+            "4.7.2": {
+                "name": "johnpbloch/wordpress-core",
+                "version": "4.7.2",
+                "version_normalized": "4.7.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/johnpbloch/wordpress-core",
+                    "reference": "adc498caffb06200f971f87dca9ef9eabacde654"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.7.2-6a5c0b.zip",
+                    "reference": "adc498caffb06200f971f87dca9ef9eabacde654",
+                    "shasum": "10784d6c50369c3e2092bc6ec64d9094d373fb48"
+                },
+                "require": {
+                    "php": ">=5.3.2"
+                },
+                "time": "2017-02-10T22:30:04+00:00",
+                "type": "wordpress-core",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "WordPress Community",
+                        "homepage": "http://wordpress.org/about/"
+                    }
+                ],
+                "description": "WordPress is web software you can use to create a beautiful website or blog.",
+                "homepage": "http://wordpress.org/",
+                "keywords": [
+                    "blog",
+                    "cms",
+                    "wordpress"
+                ],
+                "support": {
+                    "issues": "http://core.trac.wordpress.org/",
+                    "forum": "http://wordpress.org/support/",
+                    "wiki": "http://codex.wordpress.org/",
+                    "irc": "irc://irc.freenode.net/wordpress",
+                    "source": "http://core.trac.wordpress.org/browser"
+                },
+                "uid": 58
+            },
+            "4.7.3": {
+                "name": "johnpbloch/wordpress-core",
+                "version": "4.7.3",
+                "version_normalized": "4.7.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/johnpbloch/wordpress-core",
+                    "reference": "21255f593ac7db93892724321f468c276b15aa65"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.7.3-21dfeb.zip",
+                    "reference": "21255f593ac7db93892724321f468c276b15aa65",
+                    "shasum": "7e996ac7dc56bd7ac82e8cfced050a60f502f41a"
+                },
+                "require": {
+                    "php": ">=5.3.2"
+                },
+                "time": "2017-03-06T18:43:41+00:00",
+                "type": "wordpress-core",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "WordPress Community",
+                        "homepage": "http://wordpress.org/about/"
+                    }
+                ],
+                "description": "WordPress is web software you can use to create a beautiful website or blog.",
+                "homepage": "http://wordpress.org/",
+                "keywords": [
+                    "blog",
+                    "cms",
+                    "wordpress"
+                ],
+                "support": {
+                    "issues": "http://core.trac.wordpress.org/",
+                    "forum": "http://wordpress.org/support/",
+                    "wiki": "http://codex.wordpress.org/",
+                    "irc": "irc://irc.freenode.net/wordpress",
+                    "source": "http://core.trac.wordpress.org/browser"
+                },
+                "uid": 59
+            },
+            "4.7.4": {
+                "name": "johnpbloch/wordpress-core",
+                "version": "4.7.4",
+                "version_normalized": "4.7.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/johnpbloch/wordpress-core",
+                    "reference": "46c55710c3f7aa99c6377151e626c98d7fb4b959"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.7.4-a3887e.zip",
+                    "reference": "46c55710c3f7aa99c6377151e626c98d7fb4b959",
+                    "shasum": "0ca24e6572f9268f25fd86edef1920aaeff74556"
+                },
+                "require": {
+                    "php": ">=5.3.2"
+                },
+                "time": "2017-04-20T19:59:59+00:00",
+                "type": "wordpress-core",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "WordPress Community",
+                        "homepage": "http://wordpress.org/about/"
+                    }
+                ],
+                "description": "WordPress is web software you can use to create a beautiful website or blog.",
+                "homepage": "http://wordpress.org/",
+                "keywords": [
+                    "blog",
+                    "cms",
+                    "wordpress"
+                ],
+                "support": {
+                    "issues": "http://core.trac.wordpress.org/",
+                    "forum": "http://wordpress.org/support/",
+                    "wiki": "http://codex.wordpress.org/",
+                    "irc": "irc://irc.freenode.net/wordpress",
+                    "source": "http://core.trac.wordpress.org/browser"
+                },
+                "uid": 60
+            },
+            "4.7.4.1": {
+                "name": "johnpbloch/wordpress-core",
+                "version": "4.7.4.1",
+                "version_normalized": "4.7.4.1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/johnpbloch/wordpress-core",
+                    "reference": "637b1c6e997b28bf8767e6c87611f869e12e246e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.7.4.1-f73952.zip",
+                    "reference": "637b1c6e997b28bf8767e6c87611f869e12e246e",
+                    "shasum": "84a3afcc9c4a6716dc6180bbc2478a9ea5d9f851"
+                },
+                "require": {
+                    "php": ">=5.3.2"
+                },
+                "time": "2017-05-01T23:28:59+00:00",
+                "type": "wordpress-core",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "WordPress Community",
+                        "homepage": "http://wordpress.org/about/"
+                    }
+                ],
+                "description": "WordPress is web software you can use to create a beautiful website or blog.",
+                "homepage": "http://wordpress.org/",
+                "keywords": [
+                    "blog",
+                    "cms",
+                    "wordpress"
+                ],
+                "support": {
+                    "issues": "http://core.trac.wordpress.org/",
+                    "forum": "http://wordpress.org/support/",
+                    "wiki": "http://codex.wordpress.org/",
+                    "irc": "irc://irc.freenode.net/wordpress",
+                    "source": "http://core.trac.wordpress.org/browser"
+                },
+                "uid": 61
+            },
+            "4.7.5": {
+                "name": "johnpbloch/wordpress-core",
+                "version": "4.7.5",
+                "version_normalized": "4.7.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/johnpbloch/wordpress-core",
+                    "reference": "9a88a4b4c65f689d78789ef6ff77a7ca0239ec02"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.7.5-75a07b.zip",
+                    "reference": "9a88a4b4c65f689d78789ef6ff77a7ca0239ec02",
+                    "shasum": "eb8423dc69ca967b6cb144fe1d01744cf4f2a2af"
+                },
+                "require": {
+                    "php": ">=5.3.2"
+                },
+                "time": "2017-05-16T22:48:08+00:00",
+                "type": "wordpress-core",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "WordPress Community",
+                        "homepage": "http://wordpress.org/about/"
+                    }
+                ],
+                "description": "WordPress is web software you can use to create a beautiful website or blog.",
+                "homepage": "http://wordpress.org/",
+                "keywords": [
+                    "blog",
+                    "cms",
+                    "wordpress"
+                ],
+                "support": {
+                    "issues": "http://core.trac.wordpress.org/",
+                    "forum": "http://wordpress.org/support/",
+                    "wiki": "http://codex.wordpress.org/",
+                    "irc": "irc://irc.freenode.net/wordpress",
+                    "source": "http://core.trac.wordpress.org/browser"
+                },
+                "uid": 62
+            },
+            "4.7.x-dev": {
+                "name": "johnpbloch/wordpress-core",
+                "version": "4.7.x-dev",
+                "version_normalized": "4.7.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/johnpbloch/wordpress-core",
+                    "reference": "e952b50beb9c9b566d8c8967129fb2f6ea1010c0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.7.x-dev-8253a8.zip",
+                    "reference": "e952b50beb9c9b566d8c8967129fb2f6ea1010c0",
+                    "shasum": "d972d118d6ce0e41050a01493df9d3bb220ae478"
+                },
+                "require": {
+                    "php": ">=5.3.2"
+                },
+                "provide": {
+                    "wordpress/core-implementation": "4.7.x-dev"
+                },
+                "time": "2017-08-22T21:47:43+00:00",
+                "type": "wordpress-core",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "WordPress Community",
+                        "homepage": "http://wordpress.org/about/"
+                    }
+                ],
+                "description": "WordPress is web software you can use to create a beautiful website or blog.",
+                "homepage": "http://wordpress.org/",
+                "keywords": [
+                    "blog",
+                    "cms",
+                    "wordpress"
+                ],
+                "support": {
+                    "issues": "http://core.trac.wordpress.org/",
+                    "forum": "http://wordpress.org/support/",
+                    "wiki": "http://codex.wordpress.org/",
+                    "irc": "irc://irc.freenode.net/wordpress",
+                    "source": "http://core.trac.wordpress.org/browser"
+                },
+                "uid": 63
+            },
+            "4.8.0": {
+                "name": "johnpbloch/wordpress-core",
+                "version": "4.8.0",
+                "version_normalized": "4.8.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/johnpbloch/wordpress-core",
+                    "reference": "58f209dfd66f61c4398a47cf53e90d378abc25d7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.8.0-270dcc.zip",
+                    "reference": "58f209dfd66f61c4398a47cf53e90d378abc25d7",
+                    "shasum": "60f1fd7d435d8b7941b6b3b65581bdd1b4aaf138"
+                },
+                "require": {
+                    "php": ">=5.3.2"
+                },
+                "time": "2017-06-08T15:12:14+00:00",
+                "type": "wordpress-core",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "WordPress Community",
+                        "homepage": "http://wordpress.org/about/"
+                    }
+                ],
+                "description": "WordPress is web software you can use to create a beautiful website or blog.",
+                "homepage": "http://wordpress.org/",
+                "keywords": [
+                    "blog",
+                    "cms",
+                    "wordpress"
+                ],
+                "support": {
+                    "issues": "http://core.trac.wordpress.org/",
+                    "forum": "http://wordpress.org/support/",
+                    "wiki": "http://codex.wordpress.org/",
+                    "irc": "irc://irc.freenode.net/wordpress",
+                    "source": "http://core.trac.wordpress.org/browser"
+                },
+                "uid": 64
+            },
+            "4.8-RC1": {
+                "name": "johnpbloch/wordpress-core",
+                "version": "4.8-RC1",
+                "version_normalized": "4.8.0.0-RC1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/johnpbloch/wordpress-core",
+                    "reference": "6cdf46bdd662c7ea945dc803b80a63ea57af9f5e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.8-RC1-b31197.zip",
+                    "reference": "6cdf46bdd662c7ea945dc803b80a63ea57af9f5e",
+                    "shasum": "667bf7fd6040d19290c52c06f3904a641d67fa41"
+                },
+                "require": {
+                    "php": ">=5.3.2"
+                },
+                "time": "2017-05-25T19:02:29+00:00",
+                "type": "wordpress-core",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "WordPress Community",
+                        "homepage": "http://wordpress.org/about/"
+                    }
+                ],
+                "description": "WordPress is web software you can use to create a beautiful website or blog.",
+                "homepage": "http://wordpress.org/",
+                "keywords": [
+                    "blog",
+                    "cms",
+                    "wordpress"
+                ],
+                "support": {
+                    "issues": "http://core.trac.wordpress.org/",
+                    "forum": "http://wordpress.org/support/",
+                    "wiki": "http://codex.wordpress.org/",
+                    "irc": "irc://irc.freenode.net/wordpress",
+                    "source": "http://core.trac.wordpress.org/browser"
+                },
+                "uid": 65
+            },
+            "4.8-RC2": {
+                "name": "johnpbloch/wordpress-core",
+                "version": "4.8-RC2",
+                "version_normalized": "4.8.0.0-RC2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/johnpbloch/wordpress-core",
+                    "reference": "ff37990fa535cd5311049029d998ae796b0c0941"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.8-RC2-524b47.zip",
+                    "reference": "ff37990fa535cd5311049029d998ae796b0c0941",
+                    "shasum": "0c1a440313f5442056d925846107b51357d0e419"
+                },
+                "require": {
+                    "php": ">=5.3.2"
+                },
+                "time": "2017-06-01T20:46:47+00:00",
+                "type": "wordpress-core",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "WordPress Community",
+                        "homepage": "http://wordpress.org/about/"
+                    }
+                ],
+                "description": "WordPress is web software you can use to create a beautiful website or blog.",
+                "homepage": "http://wordpress.org/",
+                "keywords": [
+                    "blog",
+                    "cms",
+                    "wordpress"
+                ],
+                "support": {
+                    "issues": "http://core.trac.wordpress.org/",
+                    "forum": "http://wordpress.org/support/",
+                    "wiki": "http://codex.wordpress.org/",
+                    "irc": "irc://irc.freenode.net/wordpress",
+                    "source": "http://core.trac.wordpress.org/browser"
+                },
+                "uid": 66
+            },
+            "4.8-alpha-20170210.205212": {
+                "name": "johnpbloch/wordpress-core",
+                "version": "4.8-alpha-20170210.205212",
+                "version_normalized": "4.8.0.0-alpha20170210.205212",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/johnpbloch/wordpress-core",
+                    "reference": "dcea490647231070cf478c2eb09f345d5320e171"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.8-alpha-20170210.205212-857d69.zip",
+                    "reference": "dcea490647231070cf478c2eb09f345d5320e171",
+                    "shasum": "da57378d268493c50755da82578d8c8098ffddc7"
+                },
+                "require": {
+                    "php": ">=5.3.2"
+                },
+                "time": "2017-02-10T20:52:50+00:00",
+                "type": "wordpress-core",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "WordPress Community",
+                        "homepage": "http://wordpress.org/about/"
+                    }
+                ],
+                "description": "WordPress is web software you can use to create a beautiful website or blog.",
+                "homepage": "http://wordpress.org/",
+                "keywords": [
+                    "blog",
+                    "cms",
+                    "wordpress"
+                ],
+                "support": {
+                    "issues": "http://core.trac.wordpress.org/",
+                    "forum": "http://wordpress.org/support/",
+                    "wiki": "http://codex.wordpress.org/",
+                    "irc": "irc://irc.freenode.net/wordpress",
+                    "source": "http://core.trac.wordpress.org/browser"
+                },
+                "uid": 67
+            },
+            "4.8-beta1": {
+                "name": "johnpbloch/wordpress-core",
+                "version": "4.8-beta1",
+                "version_normalized": "4.8.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/johnpbloch/wordpress-core",
+                    "reference": "83dca9fd7ad49880893834deddbd1789abc2d41d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.8-beta1-df29c4.zip",
+                    "reference": "83dca9fd7ad49880893834deddbd1789abc2d41d",
+                    "shasum": "6ca338287bd48ff1d859b77079b149741e2788aa"
+                },
+                "require": {
+                    "php": ">=5.3.2"
+                },
+                "time": "2017-05-12T23:32:32+00:00",
+                "type": "wordpress-core",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "WordPress Community",
+                        "homepage": "http://wordpress.org/about/"
+                    }
+                ],
+                "description": "WordPress is web software you can use to create a beautiful website or blog.",
+                "homepage": "http://wordpress.org/",
+                "keywords": [
+                    "blog",
+                    "cms",
+                    "wordpress"
+                ],
+                "support": {
+                    "issues": "http://core.trac.wordpress.org/",
+                    "forum": "http://wordpress.org/support/",
+                    "wiki": "http://codex.wordpress.org/",
+                    "irc": "irc://irc.freenode.net/wordpress",
+                    "source": "http://core.trac.wordpress.org/browser"
+                },
+                "uid": 68
+            },
+            "4.8-beta2": {
+                "name": "johnpbloch/wordpress-core",
+                "version": "4.8-beta2",
+                "version_normalized": "4.8.0.0-beta2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/johnpbloch/wordpress-core",
+                    "reference": "80f4492cc024bc23277be02ad1929cf3c8f248f1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.8-beta2-e87454.zip",
+                    "reference": "80f4492cc024bc23277be02ad1929cf3c8f248f1",
+                    "shasum": "5ae77c8d65d94b5905851a3ef5bec06eb1130f40"
+                },
+                "require": {
+                    "php": ">=5.3.2"
+                },
+                "time": "2017-05-19T22:17:15+00:00",
+                "type": "wordpress-core",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "WordPress Community",
+                        "homepage": "http://wordpress.org/about/"
+                    }
+                ],
+                "description": "WordPress is web software you can use to create a beautiful website or blog.",
+                "homepage": "http://wordpress.org/",
+                "keywords": [
+                    "blog",
+                    "cms",
+                    "wordpress"
+                ],
+                "support": {
+                    "issues": "http://core.trac.wordpress.org/",
+                    "forum": "http://wordpress.org/support/",
+                    "wiki": "http://codex.wordpress.org/",
+                    "irc": "irc://irc.freenode.net/wordpress",
+                    "source": "http://core.trac.wordpress.org/browser"
+                },
+                "uid": 69
+            },
+            "4.8.1": {
+                "name": "johnpbloch/wordpress-core",
+                "version": "4.8.1",
+                "version_normalized": "4.8.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/johnpbloch/wordpress-core",
+                    "reference": "eee7b6128469d31803da3a07aaac9c442f81758e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.8.1-073dcf.zip",
+                    "reference": "eee7b6128469d31803da3a07aaac9c442f81758e",
+                    "shasum": "34b22d226266a0e8a9f9cd1e11a51545b3a38936"
+                },
+                "require": {
+                    "php": ">=5.3.2"
+                },
+                "time": "2017-08-02T21:47:36+00:00",
+                "type": "wordpress-core",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "WordPress Community",
+                        "homepage": "http://wordpress.org/about/"
+                    }
+                ],
+                "description": "WordPress is web software you can use to create a beautiful website or blog.",
+                "homepage": "http://wordpress.org/",
+                "keywords": [
+                    "blog",
+                    "cms",
+                    "wordpress"
+                ],
+                "support": {
+                    "issues": "http://core.trac.wordpress.org/",
+                    "forum": "http://wordpress.org/support/",
+                    "wiki": "http://codex.wordpress.org/",
+                    "irc": "irc://irc.freenode.net/wordpress",
+                    "source": "http://core.trac.wordpress.org/browser"
+                },
+                "uid": 70
+            },
+            "4.8.x-dev": {
+                "name": "johnpbloch/wordpress-core",
+                "version": "4.8.x-dev",
+                "version_normalized": "4.8.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/johnpbloch/wordpress-core",
+                    "reference": "90d0f81c0d0077003b56b9affb9961ca45a29a4c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-4.8.x-dev-ab8e72.zip",
+                    "reference": "90d0f81c0d0077003b56b9affb9961ca45a29a4c",
+                    "shasum": "5c77a818da8fee176e928a8af911be6210a4a28e"
+                },
+                "require": {
+                    "php": ">=5.3.2"
+                },
+                "provide": {
+                    "wordpress/core-implementation": "4.8.x-dev"
+                },
+                "time": "2017-09-04T19:53:30+00:00",
+                "type": "wordpress-core",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "WordPress Community",
+                        "homepage": "http://wordpress.org/about/"
+                    }
+                ],
+                "description": "WordPress is web software you can use to create a beautiful website or blog.",
+                "homepage": "http://wordpress.org/",
+                "keywords": [
+                    "blog",
+                    "cms",
+                    "wordpress"
+                ],
+                "support": {
+                    "issues": "http://core.trac.wordpress.org/",
+                    "forum": "http://wordpress.org/support/",
+                    "wiki": "http://codex.wordpress.org/",
+                    "irc": "irc://irc.freenode.net/wordpress",
+                    "source": "http://core.trac.wordpress.org/browser"
+                },
+                "uid": 71
+            },
+            "dev-master": {
+                "name": "johnpbloch/wordpress-core",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/johnpbloch/wordpress-core",
+                    "reference": "e6ce91833e1cda087772cef04a63890ebc7cc022"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core/johnpbloch-wordpress-core-dev-master-887fe0.zip",
+                    "reference": "e6ce91833e1cda087772cef04a63890ebc7cc022",
+                    "shasum": "81a291d4f92bd64f27687715420fb4ba47c073c8"
+                },
+                "require": {
+                    "php": ">=5.3.2"
+                },
+                "provide": {
+                    "wordpress/core-implementation": "dev-master"
+                },
+                "time": "2017-09-05T17:33:09+00:00",
+                "type": "wordpress-core",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "WordPress Community",
+                        "homepage": "http://wordpress.org/about/"
+                    }
+                ],
+                "description": "WordPress is web software you can use to create a beautiful website or blog.",
+                "homepage": "http://wordpress.org/",
+                "keywords": [
+                    "blog",
+                    "cms",
+                    "wordpress"
+                ],
+                "support": {
+                    "issues": "http://core.trac.wordpress.org/",
+                    "forum": "http://wordpress.org/support/",
+                    "wiki": "http://codex.wordpress.org/",
+                    "irc": "irc://irc.freenode.net/wordpress",
+                    "source": "http://core.trac.wordpress.org/browser"
+                },
+                "uid": 72
+            }
+        }
+    }
+}
