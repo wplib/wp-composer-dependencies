@@ -21,15 +21,11 @@
         },
         {
             "type": "git",
-            "url": "https://github.com/wplib/wp-composer-installers"
+            "url": "https://github.com/johnpbloch/wordpress-core"
         },
         {
             "type": "composer",
             "url": "https://wpackagist.org"
-        },
-        {
-            "type": "git",
-            "url": "https://github.com/johnpbloch/wordpress-core"
         },
         {
             "type": "git",
@@ -41,10 +37,21 @@
         },
         {
             "type": "git",
+            "url": "https://github.com/wplib/wp-composer-installers.git"
+        },
+        {
+            "type": "git",
+            "url": "https://github.com/wplib/wp-composer-dependencies.git"
+        },
+        {
+            "type": "git",
             "url": "https://github.com/algolia/algoliasearch-wordpress.git"
         }
     ],
     "require": {
+        "wplib/wp-devops": "dev-master",
+        "wplib/wp-composer-installers": ">=1.0",
+        "wplib/wplib": ">=0.14.0",
         "artifacts/envato-wordpress-toolkit": ">=1.7.3",
         "artifacts/themepixels-shortcodes": ">=1.0",
         "artifacts/ml-slider-pro": ">=2.6.6",
@@ -52,11 +59,11 @@
         "artifacts/carya-shortcodes": ">=1.0",
         "artifacts/google-analytics-for-wordpress": ">=5.5.4",
         "artifacts/automatic-domain-changer": ">=2.0.1",
-        "yoast/wordpress-seo-premium": ">=3.2.4",
-        "facetwp/facetwp": ">=2.5",
-        "composer/installers": ">=1.3.0",
+        "artifacts/wordpress-seo-premium": ">=3.2.4",
+        "artifacts/facetwp": ">=2.5",
+        "nprds/nprapi-wordpress": "dev-master",
+        "algolia/algoliasearch-wordpress": ">=2.6.0",
         "johnpbloch/wordpress-core": ">=4.6",
-        "johnpbloch/wordpress-core-installer": ">=1.0.0",
         "wpackagist-plugin/easy-social-share-buttons": ">=1.3.1",
         "wpackagist-plugin/query-monitor": ">=2.9.1",
         "wpackagist-plugin/helpful-information": ">=1.0.2",
@@ -115,11 +122,6 @@
         "wpackagist-plugin/google-sitemap-generator": ">=4.0.8",
         "wpackagist-plugin/simple-301-redirects": ">=1.07",
         "wpackagist-plugin/wordpress-seo": ">=4.0",
-        "wpackagist-plugin/wp-statistics": ">=11.0.2",
-        "nprds/nprapi-wordpress": "dev-master",
-        "algolia/algoliasearch-wordpress": ">=2.6.0",
-        "wplib/wplib": ">=0.14.0",
-        "wplib/wp-composer-installers": ">=1.0",
-        "wplib/wp-devops": "dev-master"
+        "wpackagist-plugin/wp-statistics": ">=11.0.2"
     }
 }
