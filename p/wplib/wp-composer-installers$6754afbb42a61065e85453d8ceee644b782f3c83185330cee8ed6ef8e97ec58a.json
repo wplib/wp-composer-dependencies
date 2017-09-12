@@ -60,20 +60,20 @@
                 ],
                 "uid": 325
             },
-            "dev-master": {
+            "1.1": {
                 "name": "wplib/wp-composer-installers",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/wplib/wp-composer-installers",
-                    "reference": "3eb2f9c60799759a18d6e77a986fdcbbc3075816"
+                    "reference": "5dd240105f54f00b75b423fa519618d2dea07ca3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wplib/wp-composer-installers/wplib-wp-composer-installers-dev-master-d4d624.zip",
-                    "reference": "3eb2f9c60799759a18d6e77a986fdcbbc3075816",
-                    "shasum": "d2495a6e927b9b7ddfcf78ded556a60952774100"
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wplib/wp-composer-installers/wplib-wp-composer-installers-1.1-dae28c.zip",
+                    "reference": "5dd240105f54f00b75b423fa519618d2dea07ca3",
+                    "shasum": "8cb13e279c51968be9ee847f8680c7e07d50738d"
                 },
                 "require": {
                     "composer-plugin-api": "^1.0"
@@ -84,7 +84,7 @@
                 "require-dev": {
                     "composer/composer": "^1.0"
                 },
-                "time": "2017-09-12T21:40:29+00:00",
+                "time": "2017-09-12T21:59:50+00:00",
                 "type": "composer-plugin",
                 "extra": {
                     "class": "WPLib\\ComposerInstaller",
@@ -119,6 +119,66 @@
                     "wplib"
                 ],
                 "uid": 326
+            },
+            "dev-master": {
+                "name": "wplib/wp-composer-installers",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/wplib/wp-composer-installers",
+                    "reference": "5dd240105f54f00b75b423fa519618d2dea07ca3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wplib/wp-composer-installers/wplib-wp-composer-installers-dev-master-dae28c.zip",
+                    "reference": "5dd240105f54f00b75b423fa519618d2dea07ca3",
+                    "shasum": "746e982a3b348b4c6d397c5304f1ea8fe38ffdbb"
+                },
+                "require": {
+                    "composer-plugin-api": "^1.0"
+                },
+                "conflict": {
+                    "composer/installers": "<1.0.6"
+                },
+                "require-dev": {
+                    "composer/composer": "^1.0"
+                },
+                "time": "2017-09-12T21:59:50+00:00",
+                "type": "composer-plugin",
+                "extra": {
+                    "class": "WPLib\\ComposerInstaller",
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "installation-source": "source",
+                "autoload": {
+                    "psr-4": {
+                        "WPLib\\": "src/"
+                    }
+                },
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "The WPLib Team",
+                        "email": "team@wplib.org"
+                    },
+                    {
+                        "name": "Mike Schinkel",
+                        "email": "mike@newclarity.net"
+                    }
+                ],
+                "description": "Composer Installers for WordPress projects",
+                "keywords": [
+                    "devops",
+                    "wordpress",
+                    "wp-devops",
+                    "wplib"
+                ],
+                "uid": 327
             }
         }
     }
