@@ -118,7 +118,6 @@
                 "extra": {
                     "installer-name": "algolia"
                 },
-                "installation-source": "source",
                 "license": [
                     "(MIT or GPL-2.0)"
                 ],
