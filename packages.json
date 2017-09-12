@@ -221,14 +221,11 @@
         "wpackagist-theme/twentytwelve": {
             "sha256": "461a2cd606b9e23637781517c9b5e9612a35289ef79623f2900ecb6394818677"
         },
-        "wplib/wp-composer-installers": {
-            "sha256": "ef853cbbc27470f9d8ea4bac51d02abb497b965b10482b4d322838d8d8615de7"
-        },
         "wplib/wp-devops": {
-            "sha256": "77220dbd8b1a95ee904e7ad483e71b3e0d57ccd7a09521e29ad82d5c2e4b377a"
+            "sha256": "4ad3f5e1613039708723f267fa69f8963135053b107c9a6ac4e4aaf5778f8a78"
         },
         "wplib/wplib": {
-            "sha256": "5e0d6f4e60e68a5a10071df4c0eb31c44938f65f254cde4e7b5ee102548fbe0e"
+            "sha256": "6472004c2d88d8b430ce8062a8d6ade1927ab8620bbb3e3f699f209eedd267ca"
         }
     }
 }
