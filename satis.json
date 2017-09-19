@@ -50,6 +50,10 @@
         {
             "type": "git",
             "url": "https://github.com/algolia/algoliasearch-wordpress"
+        },
+        {
+            "type": "git",
+            "url": "https://github.com/htmlburger/carbon-fields"
         }
     ],
     "require": {
@@ -129,6 +133,7 @@
         "wpackagist-plugin/simple-301-redirects": ">=1.07",
         "wpackagist-plugin/wordpress-seo": ">=4.0",
         "wpackagist-plugin/wp-statistics": ">=11.0.2",
-        "wpackagist-plugin/force-regenerate-thumbnails": "2.0.6"
+        "wpackagist-plugin/force-regenerate-thumbnails": ">=2.0.6",
+        "htmlburger/carbon-fields": ">=2.0.0"
     }
 }
