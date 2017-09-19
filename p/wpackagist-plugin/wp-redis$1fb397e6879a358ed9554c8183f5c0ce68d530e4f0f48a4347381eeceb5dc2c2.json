@@ -1,0 +1,205 @@
+{
+    "packages": {
+        "wpackagist-plugin/wp-redis": {
+            "0.2.2": {
+                "name": "wpackagist-plugin/wp-redis",
+                "version": "0.2.2",
+                "version_normalized": "0.2.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wp-redis/",
+                    "reference": "tags/0.2.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-redis/wpackagist-plugin-wp-redis-0.2.2-7a837e.zip",
+                    "reference": "tags/0.2.2",
+                    "shasum": "d16c54fd3dc5ee75a9a0b417d03540318ad8e6bc"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wp-redis/",
+                "uid": 289
+            },
+            "0.3.0": {
+                "name": "wpackagist-plugin/wp-redis",
+                "version": "0.3.0",
+                "version_normalized": "0.3.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wp-redis/",
+                    "reference": "tags/0.3.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-redis/wpackagist-plugin-wp-redis-0.3.0-687fe4.zip",
+                    "reference": "tags/0.3.0",
+                    "shasum": "e78d801b0c170fb48c4ba6b37f443a03489f3b75"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wp-redis/",
+                "uid": 290
+            },
+            "0.4.0": {
+                "name": "wpackagist-plugin/wp-redis",
+                "version": "0.4.0",
+                "version_normalized": "0.4.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wp-redis/",
+                    "reference": "tags/0.4.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-redis/wpackagist-plugin-wp-redis-0.4.0-9ff987.zip",
+                    "reference": "tags/0.4.0",
+                    "shasum": "d924c617e892967043ffc0bfc6fb91a1733eab46"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wp-redis/",
+                "uid": 291
+            },
+            "0.5.0": {
+                "name": "wpackagist-plugin/wp-redis",
+                "version": "0.5.0",
+                "version_normalized": "0.5.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wp-redis/",
+                    "reference": "tags/0.5.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-redis/wpackagist-plugin-wp-redis-0.5.0-7fa74f.zip",
+                    "reference": "tags/0.5.0",
+                    "shasum": "ae099762e486100da4815b0d32c3933c072dd69b"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wp-redis/",
+                "uid": 292
+            },
+            "0.6.0": {
+                "name": "wpackagist-plugin/wp-redis",
+                "version": "0.6.0",
+                "version_normalized": "0.6.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wp-redis/",
+                    "reference": "tags/0.6.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-redis/wpackagist-plugin-wp-redis-0.6.0-5f4ac2.zip",
+                    "reference": "tags/0.6.0",
+                    "shasum": "b6a20b3ebffd6095b6b8567bc9829699c78da146"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wp-redis/",
+                "uid": 293
+            },
+            "0.6.1": {
+                "name": "wpackagist-plugin/wp-redis",
+                "version": "0.6.1",
+                "version_normalized": "0.6.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wp-redis/",
+                    "reference": "tags/0.6.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-redis/wpackagist-plugin-wp-redis-0.6.1-18b2d3.zip",
+                    "reference": "tags/0.6.1",
+                    "shasum": "d82ce16be19e1534a956bdeabfb6aee1e8e4da5c"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wp-redis/",
+                "uid": 294
+            },
+            "0.6.2": {
+                "name": "wpackagist-plugin/wp-redis",
+                "version": "0.6.2",
+                "version_normalized": "0.6.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wp-redis/",
+                    "reference": "tags/0.6.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-redis/wpackagist-plugin-wp-redis-0.6.2-b35acb.zip",
+                    "reference": "tags/0.6.2",
+                    "shasum": "73ffb70eca68db13c1c4ca3e0ddf51f8782b4264"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wp-redis/",
+                "uid": 295
+            },
+            "0.7.0": {
+                "name": "wpackagist-plugin/wp-redis",
+                "version": "0.7.0",
+                "version_normalized": "0.7.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wp-redis/",
+                    "reference": "tags/0.7.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-redis/wpackagist-plugin-wp-redis-0.7.0-05f861.zip",
+                    "reference": "tags/0.7.0",
+                    "shasum": "f15a590bcdd2759086453059cf52b7713878ffff"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wp-redis/",
+                "uid": 296
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/wp-redis",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wp-redis/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-redis/wpackagist-plugin-wp-redis-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "a436fb6646c1b7d79c5f02aea0f8bbcd07cc7eec"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2017-08-22T21:37:38+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wp-redis/",
+                "uid": 297
+            }
+        }
+    }
+}
