@@ -1,0 +1,51 @@
+{
+    "packages": {
+        "wpackagist-plugin/simple-page-ordering": {
+            "2.2.4": {
+                "name": "wpackagist-plugin/simple-page-ordering",
+                "version": "2.2.4",
+                "version_normalized": "2.2.4.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/simple-page-ordering/",
+                    "reference": "tags/2.2.4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/simple-page-ordering/wpackagist-plugin-simple-page-ordering-2.2.4-fc7d63.zip",
+                    "reference": "tags/2.2.4",
+                    "shasum": "791ee12a5ffa8374b75727d0a12af5327646bca7"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/simple-page-ordering/",
+                "uid": 264
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/simple-page-ordering",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/simple-page-ordering/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/simple-page-ordering/wpackagist-plugin-simple-page-ordering-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "8b2f3f9ad22d1e7e2b587d55b693ae63dc8c4e6b"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2016-11-20T00:33:55+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/simple-page-ordering/",
+                "uid": 265
+            }
+        }
+    }
+}

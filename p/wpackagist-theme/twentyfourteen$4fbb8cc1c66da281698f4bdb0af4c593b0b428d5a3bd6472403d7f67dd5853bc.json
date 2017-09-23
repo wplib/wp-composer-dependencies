@@ -1,0 +1,50 @@
+{
+    "packages": {
+        "wpackagist-theme/twentyfourteen": {
+            "1.9": {
+                "name": "wpackagist-theme/twentyfourteen",
+                "version": "1.9",
+                "version_normalized": "1.9.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://themes.svn.wordpress.org/twentyfourteen/",
+                    "reference": "1.9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-theme/twentyfourteen/wpackagist-theme-twentyfourteen-1.9-936931.zip",
+                    "reference": "1.9",
+                    "shasum": "5bc699d58b7e669295ee4a62afa784bfad79e87d"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-theme",
+                "homepage": "https://wordpress.org/themes/twentyfourteen/",
+                "uid": 364
+            },
+            "2.0": {
+                "name": "wpackagist-theme/twentyfourteen",
+                "version": "2.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://themes.svn.wordpress.org/twentyfourteen/",
+                    "reference": "2.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-theme/twentyfourteen/wpackagist-theme-twentyfourteen-2.0-70142f.zip",
+                    "reference": "2.0",
+                    "shasum": "2548218ac716c3c6940c387e6726e3dc91c9420b"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-theme",
+                "homepage": "https://wordpress.org/themes/twentyfourteen/",
+                "uid": 365
+            }
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "packages": {
+        "wpackagist-plugin/woosidebars": {
+            "1.4.3": {
+                "name": "wpackagist-plugin/woosidebars",
+                "version": "1.4.3",
+                "version_normalized": "1.4.3.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/woosidebars/",
+                    "reference": "tags/1.4.3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/woosidebars/wpackagist-plugin-woosidebars-1.4.3-9bc85e.zip",
+                    "reference": "tags/1.4.3",
+                    "shasum": "15df57192ab8dcb2bd65e13d0ee32cb88ae9f398"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/woosidebars/",
+                "uid": 297
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/woosidebars",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/woosidebars/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/woosidebars/wpackagist-plugin-woosidebars-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "a9ce81f04946c7349da00bf401078a9c58ec3814"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2016-10-27T09:45:12+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/woosidebars/",
+                "uid": 298
+            }
+        }
+    }
+}
