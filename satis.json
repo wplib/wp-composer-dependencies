@@ -69,6 +69,7 @@
         "artifacts/automatic-domain-changer": ">=2.0.1",
         "artifacts/wordpress-seo-premium": ">=3.2.4",
         "artifacts/facetwp": ">=2.5",
+        "artifacts/carbon-fields": ">=2.0",
         "nprds/nprapi-wordpress": "dev-master",
         "algolia/algoliasearch-wordpress": ">=2.6.0",
         "johnpbloch/wordpress-core": ">=4.6",
