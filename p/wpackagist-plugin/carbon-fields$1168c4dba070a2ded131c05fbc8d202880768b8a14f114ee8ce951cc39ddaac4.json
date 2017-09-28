@@ -1,0 +1,51 @@
+{
+    "packages": {
+        "wpackagist-plugin/carbon-fields": {
+            "1.6.0": {
+                "name": "wpackagist-plugin/carbon-fields",
+                "version": "1.6.0",
+                "version_normalized": "1.6.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/carbon-fields/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/carbon-fields/wpackagist-plugin-carbon-fields-1.6.0-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "df417379ee99f6fc78b507a07f91bdde78179543"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/carbon-fields/",
+                "uid": 162
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/carbon-fields",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/carbon-fields/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/carbon-fields/wpackagist-plugin-carbon-fields-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "df417379ee99f6fc78b507a07f91bdde78179543"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2017-07-26T15:14:01+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/carbon-fields/",
+                "uid": 163
+            }
+        }
+    }
+}
