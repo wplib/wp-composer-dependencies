@@ -54,6 +54,10 @@
         {
             "type": "git",
             "url": "https://github.com/htmlburger/carbon-fields"
+        },
+        {
+            "type": "git",
+            "url": "https://github.com/justintadlock/get-the-image"
         }
     ],
     "require": {
@@ -136,6 +140,7 @@
         "wpackagist-plugin/wordpress-seo": ">=4.0",
         "wpackagist-plugin/wp-statistics": ">=11.0.2",
         "wpackagist-plugin/force-regenerate-thumbnails": ">=2.0.6",
-        "htmlburger/carbon-fields": ">=2.0.0"
+        "htmlburger/carbon-fields": ">=2.0.0",
+        "justintadlock/get-the-image": ">=1.1.0"
     }
 }
