@@ -61,7 +61,7 @@
         },
         {
             "type": "git",
-            "url": "https://github.com/justintadlock/get-the-image"
+            "url": "https://github.com/wplib/get-the-image"
         }
     ],
     "require": {
