@@ -1,0 +1,495 @@
+{
+    "packages": {
+        "wpackagist-plugin/wp-statistics": {
+            "11.0.2": {
+                "name": "wpackagist-plugin/wp-statistics",
+                "version": "11.0.2",
+                "version_normalized": "11.0.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wp-statistics/",
+                    "reference": "tags/11.0.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-statistics/wpackagist-plugin-wp-statistics-11.0.2-64ab78.zip",
+                    "reference": "tags/11.0.2",
+                    "shasum": "50621a0699141b785b17c4b1f0eb407cf37f24d2"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wp-statistics/",
+                "uid": 378
+            },
+            "11.0.3": {
+                "name": "wpackagist-plugin/wp-statistics",
+                "version": "11.0.3",
+                "version_normalized": "11.0.3.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wp-statistics/",
+                    "reference": "tags/11.0.3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-statistics/wpackagist-plugin-wp-statistics-11.0.3-cf8ae7.zip",
+                    "reference": "tags/11.0.3",
+                    "shasum": "9cb2248241dd6da0e160ae62d76e8873a7ba0530"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wp-statistics/",
+                "uid": 379
+            },
+            "12.0": {
+                "name": "wpackagist-plugin/wp-statistics",
+                "version": "12.0",
+                "version_normalized": "12.0.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wp-statistics/",
+                    "reference": "tags/12.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-statistics/wpackagist-plugin-wp-statistics-12.0-39e27e.zip",
+                    "reference": "tags/12.0",
+                    "shasum": "72b490fb3c64d32ce8cad259f2b4720b6775ceac"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wp-statistics/",
+                "uid": 380
+            },
+            "12.0.1": {
+                "name": "wpackagist-plugin/wp-statistics",
+                "version": "12.0.1",
+                "version_normalized": "12.0.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wp-statistics/",
+                    "reference": "tags/12.0.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-statistics/wpackagist-plugin-wp-statistics-12.0.1-126cb5.zip",
+                    "reference": "tags/12.0.1",
+                    "shasum": "5138ee22fdbb393ea756f7a8488e8063e9a27cad"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wp-statistics/",
+                "uid": 381
+            },
+            "12.0.10": {
+                "name": "wpackagist-plugin/wp-statistics",
+                "version": "12.0.10",
+                "version_normalized": "12.0.10.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wp-statistics/",
+                    "reference": "tags/12.0.10"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-statistics/wpackagist-plugin-wp-statistics-12.0.10-ee49dc.zip",
+                    "reference": "tags/12.0.10",
+                    "shasum": "9433f33f9660bfcca2e5668d457237be0611ab0b"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wp-statistics/",
+                "uid": 382
+            },
+            "12.0.11": {
+                "name": "wpackagist-plugin/wp-statistics",
+                "version": "12.0.11",
+                "version_normalized": "12.0.11.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wp-statistics/",
+                    "reference": "tags/12.0.11"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-statistics/wpackagist-plugin-wp-statistics-12.0.11-dc36d7.zip",
+                    "reference": "tags/12.0.11",
+                    "shasum": "c705f4da54e41e1006c98191bd2fdc4103601c68"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wp-statistics/",
+                "uid": 383
+            },
+            "12.0.12": {
+                "name": "wpackagist-plugin/wp-statistics",
+                "version": "12.0.12",
+                "version_normalized": "12.0.12.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wp-statistics/",
+                    "reference": "tags/12.0.12"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-statistics/wpackagist-plugin-wp-statistics-12.0.12-1d11bc.zip",
+                    "reference": "tags/12.0.12",
+                    "shasum": "09c86c20e314c7ebfe196291e633cc0f654034a0"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wp-statistics/",
+                "uid": 384
+            },
+            "12.0.12.1": {
+                "name": "wpackagist-plugin/wp-statistics",
+                "version": "12.0.12.1",
+                "version_normalized": "12.0.12.1",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wp-statistics/",
+                    "reference": "tags/12.0.12.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-statistics/wpackagist-plugin-wp-statistics-12.0.12.1-1c4b63.zip",
+                    "reference": "tags/12.0.12.1",
+                    "shasum": "ed6761e54f0b48706eb94f1d3419408ef125b9ac"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wp-statistics/",
+                "uid": 385
+            },
+            "12.0.2": {
+                "name": "wpackagist-plugin/wp-statistics",
+                "version": "12.0.2",
+                "version_normalized": "12.0.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wp-statistics/",
+                    "reference": "tags/12.0.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-statistics/wpackagist-plugin-wp-statistics-12.0.2-0aa230.zip",
+                    "reference": "tags/12.0.2",
+                    "shasum": "648c443b3cda9cfcb0bf72a065e0610409db6ce5"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wp-statistics/",
+                "uid": 386
+            },
+            "12.0.3": {
+                "name": "wpackagist-plugin/wp-statistics",
+                "version": "12.0.3",
+                "version_normalized": "12.0.3.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wp-statistics/",
+                    "reference": "tags/12.0.3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-statistics/wpackagist-plugin-wp-statistics-12.0.3-dbedde.zip",
+                    "reference": "tags/12.0.3",
+                    "shasum": "5004d38009c20dba8599930dd58dc99d8ec7a48d"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wp-statistics/",
+                "uid": 387
+            },
+            "12.0.4": {
+                "name": "wpackagist-plugin/wp-statistics",
+                "version": "12.0.4",
+                "version_normalized": "12.0.4.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wp-statistics/",
+                    "reference": "tags/12.0.4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-statistics/wpackagist-plugin-wp-statistics-12.0.4-7d47cf.zip",
+                    "reference": "tags/12.0.4",
+                    "shasum": "2a9088369c84c5dfdfa9208f9d61303205e404eb"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wp-statistics/",
+                "uid": 388
+            },
+            "12.0.5": {
+                "name": "wpackagist-plugin/wp-statistics",
+                "version": "12.0.5",
+                "version_normalized": "12.0.5.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wp-statistics/",
+                    "reference": "tags/12.0.5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-statistics/wpackagist-plugin-wp-statistics-12.0.5-c1b549.zip",
+                    "reference": "tags/12.0.5",
+                    "shasum": "292e27a05e3574baafe9b6f000a6c7457ab40046"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wp-statistics/",
+                "uid": 389
+            },
+            "12.0.6": {
+                "name": "wpackagist-plugin/wp-statistics",
+                "version": "12.0.6",
+                "version_normalized": "12.0.6.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wp-statistics/",
+                    "reference": "tags/12.0.6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-statistics/wpackagist-plugin-wp-statistics-12.0.6-2ece06.zip",
+                    "reference": "tags/12.0.6",
+                    "shasum": "1b5f401a5a26201ebb2a8f3ea1b52357be62ec55"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wp-statistics/",
+                "uid": 390
+            },
+            "12.0.7": {
+                "name": "wpackagist-plugin/wp-statistics",
+                "version": "12.0.7",
+                "version_normalized": "12.0.7.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wp-statistics/",
+                    "reference": "tags/12.0.7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-statistics/wpackagist-plugin-wp-statistics-12.0.7-5e7da2.zip",
+                    "reference": "tags/12.0.7",
+                    "shasum": "e27ecdbcc772eab17761273e48252f71228e2acc"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wp-statistics/",
+                "uid": 391
+            },
+            "12.0.8": {
+                "name": "wpackagist-plugin/wp-statistics",
+                "version": "12.0.8",
+                "version_normalized": "12.0.8.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wp-statistics/",
+                    "reference": "tags/12.0.8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-statistics/wpackagist-plugin-wp-statistics-12.0.8-4727c0.zip",
+                    "reference": "tags/12.0.8",
+                    "shasum": "ec4b26316e56bfd194e63000ba6cb77a5393a273"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wp-statistics/",
+                "uid": 392
+            },
+            "12.0.8.1": {
+                "name": "wpackagist-plugin/wp-statistics",
+                "version": "12.0.8.1",
+                "version_normalized": "12.0.8.1",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wp-statistics/",
+                    "reference": "tags/12.0.8.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-statistics/wpackagist-plugin-wp-statistics-12.0.8.1-03b5d7.zip",
+                    "reference": "tags/12.0.8.1",
+                    "shasum": "1e1abe0aa75122789f96181bcf77941f0b1a882a"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wp-statistics/",
+                "uid": 393
+            },
+            "12.0.9": {
+                "name": "wpackagist-plugin/wp-statistics",
+                "version": "12.0.9",
+                "version_normalized": "12.0.9.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wp-statistics/",
+                    "reference": "tags/12.0.9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-statistics/wpackagist-plugin-wp-statistics-12.0.9-e9d32f.zip",
+                    "reference": "tags/12.0.9",
+                    "shasum": "0f7122e4252c730ec7d8a4230f3e923b96792ce7"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wp-statistics/",
+                "uid": 394
+            },
+            "12.1.0": {
+                "name": "wpackagist-plugin/wp-statistics",
+                "version": "12.1.0",
+                "version_normalized": "12.1.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wp-statistics/",
+                    "reference": "tags/12.1.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-statistics/wpackagist-plugin-wp-statistics-12.1.0-6054df.zip",
+                    "reference": "tags/12.1.0",
+                    "shasum": "6b20f651de3be9de868545f2b63538c6d65c3187"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "homepage": "https://wordpress.org/plugins/wp-statistics/",
+                "uid": 395
+            },
+            "12.1.1": {
+                "name": "wpackagist-plugin/wp-statistics",
+                "version": "12.1.1",
+                "version_normalized": "12.1.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wp-statistics/",
+                    "reference": "tags/12.1.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-statistics/wpackagist-plugin-wp-statistics-12.1.1-8ccf89.zip",
+                    "reference": "tags/12.1.1",
+                    "shasum": "b297d0aeb3ad4bb81b8eecf809179fb87f7e2c9f"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "homepage": "https://wordpress.org/plugins/wp-statistics/",
+                "uid": 396
+            },
+            "12.1.2": {
+                "name": "wpackagist-plugin/wp-statistics",
+                "version": "12.1.2",
+                "version_normalized": "12.1.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wp-statistics/",
+                    "reference": "tags/12.1.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-statistics/wpackagist-plugin-wp-statistics-12.1.2-524ffa.zip",
+                    "reference": "tags/12.1.2",
+                    "shasum": "4beb6eb6f2f788052e25faa80abf9c1c58613040"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "homepage": "https://wordpress.org/plugins/wp-statistics/",
+                "uid": 397
+            },
+            "12.1.3": {
+                "name": "wpackagist-plugin/wp-statistics",
+                "version": "12.1.3",
+                "version_normalized": "12.1.3.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wp-statistics/",
+                    "reference": "tags/12.1.3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-statistics/wpackagist-plugin-wp-statistics-12.1.3-00d622.zip",
+                    "reference": "tags/12.1.3",
+                    "shasum": "dd1335f584fd8c676358fe778d8ee46f7add0593"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "homepage": "https://wordpress.org/plugins/wp-statistics/",
+                "uid": 398
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/wp-statistics",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wp-statistics/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-statistics/wpackagist-plugin-wp-statistics-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "611a99c288d83def515944f6d277da0faf673eda"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2017-10-05T12:44:12+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wp-statistics/",
+                "uid": 399
+            }
+        }
+    }
+}
