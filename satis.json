@@ -68,7 +68,7 @@
         "wplib/wp-devops": "dev-master",
         "wplib/wp-composer-installers": ">=1.0",
         "wplib/wplib": ">=0.14.0",
-        "newclarity/post-expiration": "dev-master",
+        "newclarity/post-expiration": ">=1.2",
         "artifacts/envato-wordpress-toolkit": ">=1.7.3",
         "artifacts/themepixels-shortcodes": ">=1.0",
         "artifacts/ml-slider-pro": ">=2.6.6",
