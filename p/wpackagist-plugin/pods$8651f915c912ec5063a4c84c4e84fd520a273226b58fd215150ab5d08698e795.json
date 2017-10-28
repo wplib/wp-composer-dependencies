@@ -1,0 +1,73 @@
+{
+    "packages": {
+        "wpackagist-plugin/pods": {
+            "2.6.10": {
+                "name": "wpackagist-plugin/pods",
+                "version": "2.6.10",
+                "version_normalized": "2.6.10.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/pods/",
+                    "reference": "tags/2.6.10"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/pods/wpackagist-plugin-pods-2.6.10-0cfe73.zip",
+                    "reference": "tags/2.6.10",
+                    "shasum": "9a365dfcebc41c4eb1f99b51f3cfdf58ce1eab6b"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/pods/",
+                "uid": 251
+            },
+            "2.6.11": {
+                "name": "wpackagist-plugin/pods",
+                "version": "2.6.11",
+                "version_normalized": "2.6.11.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/pods/",
+                    "reference": "tags/2.6.11"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/pods/wpackagist-plugin-pods-2.6.11-1eb07c.zip",
+                    "reference": "tags/2.6.11",
+                    "shasum": "1a4d30612350bc6b92d9c24600753b97b1c27db9"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/pods/",
+                "uid": 252
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/pods",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/pods/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/pods/wpackagist-plugin-pods-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "9156a529a9f7255846a28376c2ec114960604210"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2017-09-20T23:14:07+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/pods/",
+                "uid": 253
+            }
+        }
+    }
+}
