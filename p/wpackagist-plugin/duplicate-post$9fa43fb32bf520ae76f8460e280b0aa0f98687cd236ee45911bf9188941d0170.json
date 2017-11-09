@@ -1,0 +1,51 @@
+{
+    "packages": {
+        "wpackagist-plugin/duplicate-post": {
+            "3.2": {
+                "name": "wpackagist-plugin/duplicate-post",
+                "version": "3.2",
+                "version_normalized": "3.2.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/duplicate-post/",
+                    "reference": "tags/3.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/duplicate-post/wpackagist-plugin-duplicate-post-3.2-497962.zip",
+                    "reference": "tags/3.2",
+                    "shasum": "103e03d23e120b1b10a4eee6be79fc11278b2767"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/duplicate-post/",
+                "uid": 207
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/duplicate-post",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/duplicate-post/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/duplicate-post/wpackagist-plugin-duplicate-post-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "488b2ce95f275c846463d99d60b49481637fdd7c"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2017-06-24T02:14:43+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/duplicate-post/",
+                "uid": 208
+            }
+        }
+    }
+}
