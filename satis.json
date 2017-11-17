@@ -66,6 +66,10 @@
         {
             "type": "git",
             "url": "https://github.com/roots/soil"
+        },
+        {
+            "type": "git",
+            "url": "https://github.com/newclarity/site-releases"
         }
     ],
     "require": {
@@ -73,6 +77,7 @@
         "wplib/wp-composer-installers": ">=1.0",
         "wplib/wplib": ">=0.14.0",
         "newclarity/post-expiration": ">=1.2",
+        "newclarity/site-releases": ">=0.1.3",
         "artifacts/envato-wordpress-toolkit": ">=1.7.3",
         "artifacts/themepixels-shortcodes": ">=1.0",
         "artifacts/ml-slider-pro": ">=2.6.6",
@@ -81,6 +86,7 @@
         "artifacts/google-analytics-for-wordpress": ">=5.5.4",
         "artifacts/automatic-domain-changer": ">=2.0.1",
         "artifacts/wordpress-seo-premium": ">=3.2.4",
+        "artifacts/wpseo-news": ">=5.8",
         "artifacts/facetwp": ">=2.5",
         "artifacts/carbon-fields": ">=2.0",
         "artifacts/admin-columns-pro": ">=4.0",
