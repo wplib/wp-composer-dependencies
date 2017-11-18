@@ -1,0 +1,227 @@
+{
+    "packages": {
+        "wpackagist-plugin/jetpack": {
+            "5.2.1": {
+                "name": "wpackagist-plugin/jetpack",
+                "version": "5.2.1",
+                "version_normalized": "5.2.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/jetpack/",
+                    "reference": "tags/5.2.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/jetpack/wpackagist-plugin-jetpack-5.2.1-7dbe34.zip",
+                    "reference": "tags/5.2.1",
+                    "shasum": "817a5e7022998f9da2068d0ebb243785c36d7c29"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/jetpack/",
+                "uid": 247
+            },
+            "5.3": {
+                "name": "wpackagist-plugin/jetpack",
+                "version": "5.3",
+                "version_normalized": "5.3.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/jetpack/",
+                    "reference": "tags/5.3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/jetpack/wpackagist-plugin-jetpack-5.3-1d9639.zip",
+                    "reference": "tags/5.3",
+                    "shasum": "4745cf33994be8a759a5d3d383a6a8ce80c42eca"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/jetpack/",
+                "uid": 248
+            },
+            "5.4": {
+                "name": "wpackagist-plugin/jetpack",
+                "version": "5.4",
+                "version_normalized": "5.4.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/jetpack/",
+                    "reference": "tags/5.4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/jetpack/wpackagist-plugin-jetpack-5.4-76ad30.zip",
+                    "reference": "tags/5.4",
+                    "shasum": "10c8098fcc7a2a6af41034e640943dbf067f573d"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/jetpack/",
+                "uid": 249
+            },
+            "5.4-beta1": {
+                "name": "wpackagist-plugin/jetpack",
+                "version": "5.4-beta1",
+                "version_normalized": "5.4.0.0-beta1",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/jetpack/",
+                    "reference": "tags/5.4-beta1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/jetpack/wpackagist-plugin-jetpack-5.4-beta1-9bfe0e.zip",
+                    "reference": "tags/5.4-beta1",
+                    "shasum": "5c828f5f769623f9cd85f9c398a8d83336c1f348"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/jetpack/",
+                "uid": 250
+            },
+            "5.4-beta2": {
+                "name": "wpackagist-plugin/jetpack",
+                "version": "5.4-beta2",
+                "version_normalized": "5.4.0.0-beta2",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/jetpack/",
+                    "reference": "tags/5.4-beta2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/jetpack/wpackagist-plugin-jetpack-5.4-beta2-138a33.zip",
+                    "reference": "tags/5.4-beta2",
+                    "shasum": "6182c45a08cbd1978c6c454f988e84f522248bdb"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/jetpack/",
+                "uid": 251
+            },
+            "5.4-beta3": {
+                "name": "wpackagist-plugin/jetpack",
+                "version": "5.4-beta3",
+                "version_normalized": "5.4.0.0-beta3",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/jetpack/",
+                    "reference": "tags/5.4-beta3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/jetpack/wpackagist-plugin-jetpack-5.4-beta3-10dd0d.zip",
+                    "reference": "tags/5.4-beta3",
+                    "shasum": "6139f7a3fd201de412887e2b35530b928ab997f9"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/jetpack/",
+                "uid": 252
+            },
+            "5.5": {
+                "name": "wpackagist-plugin/jetpack",
+                "version": "5.5",
+                "version_normalized": "5.5.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/jetpack/",
+                    "reference": "tags/5.5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/jetpack/wpackagist-plugin-jetpack-5.5-147abe.zip",
+                    "reference": "tags/5.5",
+                    "shasum": "ecbf879cdac403e44422548373593c41aaff0a9d"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/jetpack/",
+                "uid": 253
+            },
+            "5.5-beta": {
+                "name": "wpackagist-plugin/jetpack",
+                "version": "5.5-beta",
+                "version_normalized": "5.5.0.0-beta",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/jetpack/",
+                    "reference": "tags/5.5-beta"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/jetpack/wpackagist-plugin-jetpack-5.5-beta-1e7175.zip",
+                    "reference": "tags/5.5-beta",
+                    "shasum": "c4657b2515a72dff19dd90e541cd415a32010171"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/jetpack/",
+                "uid": 254
+            },
+            "5.5-beta3": {
+                "name": "wpackagist-plugin/jetpack",
+                "version": "5.5-beta3",
+                "version_normalized": "5.5.0.0-beta3",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/jetpack/",
+                    "reference": "tags/5.5-beta3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/jetpack/wpackagist-plugin-jetpack-5.5-beta3-6e8d44.zip",
+                    "reference": "tags/5.5-beta3",
+                    "shasum": "7a1e1af3023896e169526c7bf63ec8739541ae4b"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/jetpack/",
+                "uid": 255
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/jetpack",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/jetpack/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/jetpack/wpackagist-plugin-jetpack-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "93b804c75d40bf376ca830570e0ecb8bf7f47cc0"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2017-11-07T23:43:55+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/jetpack/",
+                "uid": 256
+            }
+        }
+    }
+}
