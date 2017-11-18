@@ -1,0 +1,73 @@
+{
+    "packages": {
+        "wpackagist-plugin/post-types-order": {
+            "1.9.3.3": {
+                "name": "wpackagist-plugin/post-types-order",
+                "version": "1.9.3.3",
+                "version_normalized": "1.9.3.3",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/post-types-order/",
+                    "reference": "tags/1.9.3.3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/post-types-order/wpackagist-plugin-post-types-order-1.9.3.3-d74372.zip",
+                    "reference": "tags/1.9.3.3",
+                    "shasum": "8ea363bdeaf7a1bf96bb04a7ff64485af52c6a74"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/post-types-order/",
+                "uid": 278
+            },
+            "1.9.3.5": {
+                "name": "wpackagist-plugin/post-types-order",
+                "version": "1.9.3.5",
+                "version_normalized": "1.9.3.5",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/post-types-order/",
+                    "reference": "tags/1.9.3.5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/post-types-order/wpackagist-plugin-post-types-order-1.9.3.5-ef0e83.zip",
+                    "reference": "tags/1.9.3.5",
+                    "shasum": "75a8f3e953b4a6336cfbab6e0472b9e7fefa1621"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/post-types-order/",
+                "uid": 279
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/post-types-order",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/post-types-order/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/post-types-order/wpackagist-plugin-post-types-order-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "26cc61184b189a6d4e04c5decd7e23b0bc4509df"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2017-08-26T12:37:02+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/post-types-order/",
+                "uid": 280
+            }
+        }
+    }
+}
