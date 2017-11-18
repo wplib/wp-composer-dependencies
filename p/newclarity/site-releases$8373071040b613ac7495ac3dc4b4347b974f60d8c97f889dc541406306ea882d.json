@@ -1,0 +1,80 @@
+{
+    "packages": {
+        "newclarity/site-releases": {
+            "0.1.3": {
+                "name": "newclarity/site-releases",
+                "version": "0.1.3",
+                "version_normalized": "0.1.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/newclarity/site-releases",
+                    "reference": "dc3ad1368cff6eb3d7dcaae75cd96389e7af1a6b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/newclarity/site-releases/newclarity-site-releases-0.1.3-2f1570.zip",
+                    "reference": "dc3ad1368cff6eb3d7dcaae75cd96389e7af1a6b",
+                    "shasum": "70714e96747f2b92dd6c273360248c66dccde10d"
+                },
+                "time": "2017-11-17T07:48:51+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "description": "WordPress plugin to help agencies track site releases",
+                "homepage": "https://github.com/newclarity/site-releases",
+                "uid": 134
+            },
+            "0.1.4": {
+                "name": "newclarity/site-releases",
+                "version": "0.1.4",
+                "version_normalized": "0.1.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/newclarity/site-releases",
+                    "reference": "142d64b8944bf922980af17c551217a1cf2ca7cd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/newclarity/site-releases/newclarity-site-releases-0.1.4-e28757.zip",
+                    "reference": "142d64b8944bf922980af17c551217a1cf2ca7cd",
+                    "shasum": "3d0eee404abff9dfa549f792a2477e18b4f52f6f"
+                },
+                "time": "2017-11-18T00:20:06+00:00",
+                "type": "wordpress-plugin",
+                "installation-source": "source",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "description": "WordPress plugin to help agencies track site releases",
+                "homepage": "https://github.com/newclarity/site-releases",
+                "uid": 135
+            },
+            "dev-master": {
+                "name": "newclarity/site-releases",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/newclarity/site-releases",
+                    "reference": "142d64b8944bf922980af17c551217a1cf2ca7cd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/newclarity/site-releases/newclarity-site-releases-dev-master-e28757.zip",
+                    "reference": "142d64b8944bf922980af17c551217a1cf2ca7cd",
+                    "shasum": "17ae0eb58e100013c6b729fe4b31faff17731613"
+                },
+                "time": "2017-11-18T00:20:06+00:00",
+                "type": "wordpress-plugin",
+                "installation-source": "source",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "description": "WordPress plugin to help agencies track site releases",
+                "homepage": "https://github.com/newclarity/site-releases",
+                "uid": 136
+            }
+        }
+    }
+}

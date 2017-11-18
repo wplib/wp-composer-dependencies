@@ -1,0 +1,51 @@
+{
+    "packages": {
+        "wpackagist-plugin/wordpress-importer": {
+            "0.6.3": {
+                "name": "wpackagist-plugin/wordpress-importer",
+                "version": "0.6.3",
+                "version_normalized": "0.6.3.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wordpress-importer/",
+                    "reference": "tags/0.6.3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wordpress-importer/wpackagist-plugin-wordpress-importer-0.6.3-207f12.zip",
+                    "reference": "tags/0.6.3",
+                    "shasum": "5adf4788b45aa5b4ffb5d444a01c1a3d53185868"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wordpress-importer/",
+                "uid": 366
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/wordpress-importer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wordpress-importer/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wordpress-importer/wpackagist-plugin-wordpress-importer-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "0e49e7c7d0ba8a505c956aeeb6c8febece45839a"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2016-12-08T20:04:42+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wordpress-importer/",
+                "uid": 367
+            }
+        }
+    }
+}
