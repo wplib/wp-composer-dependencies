@@ -1,0 +1,50 @@
+{
+    "packages": {
+        "wpackagist-theme/twentytwelve": {
+            "2.3": {
+                "name": "wpackagist-theme/twentytwelve",
+                "version": "2.3",
+                "version_normalized": "2.3.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://themes.svn.wordpress.org/twentytwelve/",
+                    "reference": "2.3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-theme/twentytwelve/wpackagist-theme-twentytwelve-2.3-ce0d88.zip",
+                    "reference": "2.3",
+                    "shasum": "b069aead9c318d30175129382c7f2928ea6002ee"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-theme",
+                "homepage": "https://wordpress.org/themes/twentytwelve/",
+                "uid": 499
+            },
+            "2.4": {
+                "name": "wpackagist-theme/twentytwelve",
+                "version": "2.4",
+                "version_normalized": "2.4.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://themes.svn.wordpress.org/twentytwelve/",
+                    "reference": "2.4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-theme/twentytwelve/wpackagist-theme-twentytwelve-2.4-98a16a.zip",
+                    "reference": "2.4",
+                    "shasum": "7430d5af739f4a0db7bbe4cf48a5248d1b2aad6b"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-theme",
+                "homepage": "https://wordpress.org/themes/twentytwelve/",
+                "uid": 500
+            }
+        }
+    }
+}

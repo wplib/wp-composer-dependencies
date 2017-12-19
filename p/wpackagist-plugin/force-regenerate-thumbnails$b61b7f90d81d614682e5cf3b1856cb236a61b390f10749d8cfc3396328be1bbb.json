@@ -1,0 +1,51 @@
+{
+    "packages": {
+        "wpackagist-plugin/force-regenerate-thumbnails": {
+            "2.0.6": {
+                "name": "wpackagist-plugin/force-regenerate-thumbnails",
+                "version": "2.0.6",
+                "version_normalized": "2.0.6.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/force-regenerate-thumbnails/",
+                    "reference": "tags/2.0.6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/force-regenerate-thumbnails/wpackagist-plugin-force-regenerate-thumbnails-2.0.6-cf84e8.zip",
+                    "reference": "tags/2.0.6",
+                    "shasum": "62889d38fa1ec3fb141c0c483d699deb18aa8f76"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/force-regenerate-thumbnails/",
+                "uid": 252
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/force-regenerate-thumbnails",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/force-regenerate-thumbnails/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/force-regenerate-thumbnails/wpackagist-plugin-force-regenerate-thumbnails-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "74477e10071e98d41d6453712260bd447c218d5d"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2016-09-06T00:00:15+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/force-regenerate-thumbnails/",
+                "uid": 253
+            }
+        }
+    }
+}
