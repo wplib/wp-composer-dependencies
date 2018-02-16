@@ -45,6 +45,10 @@
         },
         {
             "type": "git",
+            "url": "https://github.com/wplib/wplib-box-support"
+        },
+        {
+            "type": "git",
             "url": "https://github.com/wplib/wp-composer-installers"
         },
         {
