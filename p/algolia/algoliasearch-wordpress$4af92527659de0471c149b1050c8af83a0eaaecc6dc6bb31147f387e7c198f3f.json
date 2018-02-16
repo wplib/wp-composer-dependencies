@@ -185,7 +185,6 @@
                 "extra": {
                     "installer-name": "algolia"
                 },
-                "installation-source": "source",
                 "scripts": {
                     "lint": [
                         "vendor/bin/phpcs"
@@ -230,7 +229,6 @@
                 "extra": {
                     "installer-name": "algolia"
                 },
-                "installation-source": "source",
                 "scripts": {
                     "lint": [
                         "vendor/bin/phpcs"
@@ -275,7 +273,6 @@
                 "extra": {
                     "installer-name": "algolia"
                 },
-                "installation-source": "source",
                 "scripts": {
                     "lint": [
                         "vendor/bin/phpcs"
@@ -320,7 +317,6 @@
                 "extra": {
                     "installer-name": "algolia"
                 },
-                "installation-source": "source",
                 "scripts": {
                     "lint": [
                         "vendor/bin/phpcs"
@@ -365,7 +361,6 @@
                 "extra": {
                     "installer-name": "algolia"
                 },
-                "installation-source": "source",
                 "scripts": {
                     "lint": [
                         "vendor/bin/phpcs"

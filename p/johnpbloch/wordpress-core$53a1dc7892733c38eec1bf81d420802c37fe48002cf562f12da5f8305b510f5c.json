@@ -114,7 +114,6 @@
                 },
                 "time": "2018-01-16T23:27:12+00:00",
                 "type": "wordpress-core",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -532,7 +531,6 @@
                 },
                 "time": "2018-01-23T11:41:52+00:00",
                 "type": "wordpress-core",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0-or-later"
                 ],
@@ -1040,7 +1038,6 @@
                 },
                 "time": "2018-01-16T23:12:40+00:00",
                 "type": "wordpress-core",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -1089,7 +1086,6 @@
                 },
                 "time": "2018-01-23T11:37:10+00:00",
                 "type": "wordpress-core",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0-or-later"
                 ],
@@ -1597,7 +1593,6 @@
                 },
                 "time": "2018-01-16T23:12:27+00:00",
                 "type": "wordpress-core",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -1646,7 +1641,6 @@
                 },
                 "time": "2018-01-23T11:32:13+00:00",
                 "type": "wordpress-core",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0-or-later"
                 ],
@@ -1983,7 +1977,6 @@
                 },
                 "time": "2018-01-16T23:12:12+00:00",
                 "type": "wordpress-core",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -2032,7 +2025,6 @@
                 },
                 "time": "2018-02-05T21:57:12+00:00",
                 "type": "wordpress-core",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0-or-later"
                 ],
@@ -2081,7 +2073,6 @@
                 },
                 "time": "2018-02-06T16:42:13+00:00",
                 "type": "wordpress-core",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0-or-later"
                 ],
@@ -2130,7 +2121,6 @@
                 },
                 "time": "2018-02-08T00:02:31+00:00",
                 "type": "wordpress-core",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0-or-later"
                 ],
@@ -2179,7 +2169,6 @@
                 },
                 "time": "2018-02-15T14:45:16+00:00",
                 "type": "wordpress-core",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0-or-later"
                 ],

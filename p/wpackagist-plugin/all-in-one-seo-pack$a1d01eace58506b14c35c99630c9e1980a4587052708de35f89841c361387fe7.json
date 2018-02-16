@@ -636,7 +636,6 @@
                     "composer/installers": "~1.0"
                 },
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
                 "uid": 227
             },
@@ -659,7 +658,6 @@
                     "composer/installers": "~1.0"
                 },
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
                 "uid": 228
             },
@@ -682,7 +680,6 @@
                     "composer/installers": "~1.0"
                 },
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
                 "uid": 229
             },
@@ -705,7 +702,6 @@
                     "composer/installers": "~1.0"
                 },
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
                 "uid": 230
             },
