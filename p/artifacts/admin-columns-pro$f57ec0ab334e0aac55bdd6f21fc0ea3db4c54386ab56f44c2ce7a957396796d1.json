@@ -1,0 +1,23 @@
+{
+    "packages": {
+        "artifacts/admin-columns-pro": {
+            "4.0.6": {
+                "name": "artifacts/admin-columns-pro",
+                "version": "4.0.6",
+                "version_normalized": "4.0.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/artifacts/admin-columns-pro/artifacts-admin-columns-pro-4.0.6.zip",
+                    "reference": null,
+                    "shasum": "cd666f89bbd58c206889598b2ee4e4d6f8057397"
+                },
+                "require": {
+                    "wplib/wp-composer-installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "description": "Admin Columns Pro",
+                "uid": 11
+            }
+        }
+    }
+}

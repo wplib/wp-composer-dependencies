@@ -1,0 +1,261 @@
+{
+    "packages": {
+        "johnpbloch/wordpress-core-installer": {
+            "1.0.0": {
+                "name": "johnpbloch/wordpress-core-installer",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/johnpbloch/wordpress-core-installer",
+                    "reference": "e9e767f2d9f994f358c34b41def2c410ad8717f2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core-installer/johnpbloch-wordpress-core-installer-1.0.0-3122fe.zip",
+                    "reference": "e9e767f2d9f994f358c34b41def2c410ad8717f2",
+                    "shasum": "b7847d5b533e41d0a7b71cbb64c16c28d95caae2"
+                },
+                "require": {
+                    "composer-plugin-api": "^1.0"
+                },
+                "conflict": {
+                    "composer/installers": "<1.0.6"
+                },
+                "require-dev": {
+                    "composer/composer": "^1.0",
+                    "phpunit/phpunit": ">=4.8.35"
+                },
+                "time": "2017-05-31T18:42:33+00:00",
+                "type": "composer-plugin",
+                "extra": {
+                    "class": "johnpbloch\\Composer\\WordPressCorePlugin"
+                },
+                "autoload": {
+                    "psr-0": {
+                        "johnpbloch\\Composer\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Tests\\JohnPBloch\\Composer\\": "tests/"
+                    }
+                },
+                "scripts": {
+                    "test:phpunit": [
+                        "phpunit"
+                    ],
+                    "test": [
+                        "@test:phpunit"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "John P. Bloch",
+                        "email": "me@johnpbloch.com"
+                    }
+                ],
+                "description": "A custom installer to handle deploying WordPress with composer",
+                "keywords": [
+                    "wordpress"
+                ],
+                "uid": 149
+            },
+            "1.0.0.1": {
+                "name": "johnpbloch/wordpress-core-installer",
+                "version": "1.0.0.1",
+                "version_normalized": "1.0.0.1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/johnpbloch/wordpress-core-installer",
+                    "reference": "7941acd71725710a789daabe0557429da63e7ac6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core-installer/johnpbloch-wordpress-core-installer-1.0.0.1-12e24f.zip",
+                    "reference": "7941acd71725710a789daabe0557429da63e7ac6",
+                    "shasum": "cce17a14bc2c57cf61ad3a0063835ac169f0699f"
+                },
+                "require": {
+                    "composer-plugin-api": "^1.0"
+                },
+                "conflict": {
+                    "composer/installers": "<1.0.6"
+                },
+                "require-dev": {
+                    "composer/composer": "^1.0",
+                    "phpunit/phpunit": ">=4.8.35"
+                },
+                "time": "2018-01-29T14:49:29+00:00",
+                "type": "composer-plugin",
+                "extra": {
+                    "class": "johnpbloch\\Composer\\WordPressCorePlugin"
+                },
+                "installation-source": "source",
+                "autoload": {
+                    "psr-0": {
+                        "johnpbloch\\Composer\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Tests\\JohnPBloch\\Composer\\": "tests/"
+                    }
+                },
+                "scripts": {
+                    "test:phpunit": [
+                        "phpunit"
+                    ],
+                    "test": [
+                        "@test:phpunit"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "John P. Bloch",
+                        "email": "me@johnpbloch.com"
+                    }
+                ],
+                "description": "A custom installer to handle deploying WordPress with composer",
+                "keywords": [
+                    "wordpress"
+                ],
+                "uid": 150
+            },
+            "1.0.0.2": {
+                "name": "johnpbloch/wordpress-core-installer",
+                "version": "1.0.0.2",
+                "version_normalized": "1.0.0.2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/johnpbloch/wordpress-core-installer",
+                    "reference": "7941acd71725710a789daabe0557429da63e7ac6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core-installer/johnpbloch-wordpress-core-installer-1.0.0.2-12e24f.zip",
+                    "reference": "7941acd71725710a789daabe0557429da63e7ac6",
+                    "shasum": "2dd0a1e8d9d237bbf0d45b5fb0371b09551e9253"
+                },
+                "require": {
+                    "composer-plugin-api": "^1.0"
+                },
+                "conflict": {
+                    "composer/installers": "<1.0.6"
+                },
+                "require-dev": {
+                    "composer/composer": "^1.0",
+                    "phpunit/phpunit": ">=4.8.35"
+                },
+                "time": "2018-01-29T14:49:29+00:00",
+                "type": "composer-plugin",
+                "extra": {
+                    "class": "johnpbloch\\Composer\\WordPressCorePlugin"
+                },
+                "installation-source": "source",
+                "autoload": {
+                    "psr-0": {
+                        "johnpbloch\\Composer\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Tests\\JohnPBloch\\Composer\\": "tests/"
+                    }
+                },
+                "scripts": {
+                    "test:phpunit": [
+                        "phpunit"
+                    ],
+                    "test": [
+                        "@test:phpunit"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "John P. Bloch",
+                        "email": "me@johnpbloch.com"
+                    }
+                ],
+                "description": "A custom installer to handle deploying WordPress with composer",
+                "keywords": [
+                    "wordpress"
+                ],
+                "uid": 151
+            },
+            "dev-master": {
+                "name": "johnpbloch/wordpress-core-installer",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/johnpbloch/wordpress-core-installer",
+                    "reference": "385cf1c6fe4876fd81c96f5006385acfce9899c5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/johnpbloch/wordpress-core-installer/johnpbloch-wordpress-core-installer-dev-master-66a832.zip",
+                    "reference": "385cf1c6fe4876fd81c96f5006385acfce9899c5",
+                    "shasum": "f10b636e937afeacf38d55afe4b605fde403c7fe"
+                },
+                "require": {
+                    "composer-plugin-api": "^1.0"
+                },
+                "conflict": {
+                    "composer/installers": "<1.0.6"
+                },
+                "require-dev": {
+                    "composer/composer": "^1.0",
+                    "phpunit/phpunit": ">=4.8.35"
+                },
+                "time": "2018-01-29T14:56:44+00:00",
+                "type": "composer-plugin",
+                "extra": {
+                    "class": "johnpbloch\\Composer\\WordPressCorePlugin"
+                },
+                "installation-source": "source",
+                "autoload": {
+                    "psr-0": {
+                        "johnpbloch\\Composer\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Tests\\JohnPBloch\\Composer\\": "tests/"
+                    }
+                },
+                "scripts": {
+                    "test:phpunit": [
+                        "phpunit"
+                    ],
+                    "test": [
+                        "@test:phpunit"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "authors": [
+                    {
+                        "name": "John P. Bloch",
+                        "email": "me@johnpbloch.com"
+                    }
+                ],
+                "description": "A custom installer to handle deploying WordPress with composer",
+                "keywords": [
+                    "wordpress"
+                ],
+                "uid": 152
+            }
+        }
+    }
+}
