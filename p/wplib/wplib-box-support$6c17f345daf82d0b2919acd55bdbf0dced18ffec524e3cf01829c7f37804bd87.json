@@ -1,0 +1,26 @@
+{
+    "packages": {
+        "wplib/wplib-box-support": {
+            "dev-master": {
+                "name": "wplib/wplib-box-support",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/wplib/wplib-box-support",
+                    "reference": "c2e5ebf5c40eab8bc83bf113d52cdef036c20018"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wplib/wplib-box-support/wplib-wplib-box-support-dev-master-1447b3.zip",
+                    "reference": "c2e5ebf5c40eab8bc83bf113d52cdef036c20018",
+                    "shasum": "238efdc3351207785caf98d5067ecb59e39adc95"
+                },
+                "time": "2018-02-16T10:09:23+00:00",
+                "type": "wordpress-plugin",
+                "installation-source": "source",
+                "uid": 562
+            }
+        }
+    }
+}

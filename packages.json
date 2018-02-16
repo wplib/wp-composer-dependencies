@@ -265,6 +265,9 @@
         },
         "wplib/wplib": {
             "sha256": "abe31eaab95056071159865fe49bd31e25b63af4402c3645696eb30c8bd64020"
+        },
+        "wplib/wplib-box-support": {
+            "sha256": "6c17f345daf82d0b2919acd55bdbf0dced18ffec524e3cf01829c7f37804bd87"
         }
     }
 }
