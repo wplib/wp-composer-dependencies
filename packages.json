@@ -3,7 +3,7 @@
     "providers-url": "/wp-composer-dependencies/p/%package%$%hash%.json",
     "providers": {
         "algolia/algoliasearch-wordpress": {
-            "sha256": "8f1adb6a79a6aa70ba4f87a9d8fd598f0d417f33fca3193ea8596986f96b22c1"
+            "sha256": "62aaaa61570124f03914ac315c30adb6fac9fbd76580ae32c8459d8350fc468c"
         },
         "artifacts/admin-columns-pro": {
             "sha256": "2d8cde6da5c4bb520a8803710bf01ef3a23ed7cbbd553c9ffd821687a9b6c96a"
@@ -48,7 +48,7 @@
             "sha256": "13b822ba0c5d6cee0c6ced5cb2f84ae95f4351c38c1bde5072248e10196ebec4"
         },
         "johnpbloch/wordpress-core": {
-            "sha256": "d1dbbde7e7f1448c00faad9a25cfa1a147f3b2a45e956c5e458959d509dbfd89"
+            "sha256": "616beadb2bddeab9b89d5678400532b71190aeb9b99c8b7fc40d573ed066f022"
         },
         "johnpbloch/wordpress-core-installer": {
             "sha256": "b7363d44ec9aba6141d7af6fc1b12876314cfe196a151dea36481532a6f21826"
@@ -264,10 +264,10 @@
             "sha256": "e95a30d9dfd0c90e1d70eabd3e475c2bdd87abe5ea1188432a7a81e22dcb847e"
         },
         "wplib/wplib": {
-            "sha256": "44d66967779197bb5d4490cdae470f445b31917dc48dec06d95653d1239b1913"
+            "sha256": "064c47c65425e9c56d5280009e167888f3a0b8773d0de30845d00125b01fa0f1"
         },
         "wplib/wplib-box-support": {
-            "sha256": "f4d0ed8031a97114a571d6543a7d4e3c9b494943a1d009ba3f7d1258cf9a5d39"
+            "sha256": "31d1946a2166457f14aa4cedf828a9c153c61849e4e32fbd5959e4875b2c3519"
         }
     }
 }

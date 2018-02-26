@@ -8,16 +8,17 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/wplib/wplib-box-support",
-                    "reference": "c2e5ebf5c40eab8bc83bf113d52cdef036c20018"
+                    "reference": "808ab55044ca54add50424529be8610668869b8c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wplib/wplib-box-support/wplib-wplib-box-support-dev-master-1447b3.zip",
-                    "reference": "c2e5ebf5c40eab8bc83bf113d52cdef036c20018",
-                    "shasum": "238efdc3351207785caf98d5067ecb59e39adc95"
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wplib/wplib-box-support/wplib-wplib-box-support-dev-master-4e95d7.zip",
+                    "reference": "808ab55044ca54add50424529be8610668869b8c",
+                    "shasum": "654277863ed9347a165a15d9ee3f3006ae7e5d79"
                 },
-                "time": "2018-02-16T10:09:23+00:00",
+                "time": "2018-02-26T22:35:35+00:00",
                 "type": "wordpress-plugin",
+                "installation-source": "source",
                 "uid": 566
             }
         }
