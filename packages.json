@@ -48,7 +48,7 @@
             "sha256": "13b822ba0c5d6cee0c6ced5cb2f84ae95f4351c38c1bde5072248e10196ebec4"
         },
         "johnpbloch/wordpress-core": {
-            "sha256": "23f447101e1221e849a74a843c09a5e4fcaf3c4775d190d6f9fc235f8386667a"
+            "sha256": "2419e8b57ea0b6072f12f0a6acf58b045f9015afcebe84ba199dbb61d1ee09f4"
         },
         "johnpbloch/wordpress-core-installer": {
             "sha256": "b7363d44ec9aba6141d7af6fc1b12876314cfe196a151dea36481532a6f21826"
@@ -267,7 +267,7 @@
             "sha256": "064c47c65425e9c56d5280009e167888f3a0b8773d0de30845d00125b01fa0f1"
         },
         "wplib/wplib-box-support": {
-            "sha256": "e630040603c53cd60eb3cbcaf7df26bcf21baa534cbc19f3f7633708128863ea"
+            "sha256": "1da0723b7f4f9b1c052bcc5774d995eeba7f810befd9365a6303c4e645da56ed"
         }
     }
 }
