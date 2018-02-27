@@ -1,0 +1,139 @@
+{
+    "packages": {
+        "wpackagist-plugin/tailor": {
+            "1.7.10": {
+                "name": "wpackagist-plugin/tailor",
+                "version": "1.7.10",
+                "version_normalized": "1.7.10.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/tailor/",
+                    "reference": "tags/1.7.10"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/tailor/wpackagist-plugin-tailor-1.7.10-f2d9c0.zip",
+                    "reference": "tags/1.7.10",
+                    "shasum": "551c87b726221e7ee62123320fe164d5d6d1e726"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/tailor/",
+                "uid": 433
+            },
+            "1.7.9": {
+                "name": "wpackagist-plugin/tailor",
+                "version": "1.7.9",
+                "version_normalized": "1.7.9.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/tailor/",
+                    "reference": "tags/1.7.9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/tailor/wpackagist-plugin-tailor-1.7.9-2a4e92.zip",
+                    "reference": "tags/1.7.9",
+                    "shasum": "9c6e85b3cc73ef7d60fa33f46c31ee5bb6eeadc9"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/tailor/",
+                "uid": 434
+            },
+            "1.8.0": {
+                "name": "wpackagist-plugin/tailor",
+                "version": "1.8.0",
+                "version_normalized": "1.8.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/tailor/",
+                    "reference": "tags/1.8.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/tailor/wpackagist-plugin-tailor-1.8.0-5a65f4.zip",
+                    "reference": "tags/1.8.0",
+                    "shasum": "3afeb7ba3e383d08ffe0494e0a80b9868270ffee"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/tailor/",
+                "uid": 435
+            },
+            "1.8.1": {
+                "name": "wpackagist-plugin/tailor",
+                "version": "1.8.1",
+                "version_normalized": "1.8.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/tailor/",
+                    "reference": "tags/1.8.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/tailor/wpackagist-plugin-tailor-1.8.1-c83393.zip",
+                    "reference": "tags/1.8.1",
+                    "shasum": "a2ea6b3ace85eb937920f00865f56b2073a6e739"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/tailor/",
+                "uid": 436
+            },
+            "1.8.2": {
+                "name": "wpackagist-plugin/tailor",
+                "version": "1.8.2",
+                "version_normalized": "1.8.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/tailor/",
+                    "reference": "tags/1.8.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/tailor/wpackagist-plugin-tailor-1.8.2-f3a20e.zip",
+                    "reference": "tags/1.8.2",
+                    "shasum": "0f540ddcf69b7be029e9a77c2bb25a41dfc7be09"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/tailor/",
+                "uid": 437
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/tailor",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/tailor/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/tailor/wpackagist-plugin-tailor-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "5fee162200f2ce71fb93441d8ef1ec686f711d8d"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2017-11-24T16:26:03+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/tailor/",
+                "uid": 438
+            }
+        }
+    }
+}
