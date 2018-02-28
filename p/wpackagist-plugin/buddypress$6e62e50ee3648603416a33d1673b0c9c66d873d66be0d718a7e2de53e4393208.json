@@ -1,0 +1,29 @@
+{
+    "packages": {
+        "wpackagist-plugin/buddypress": {
+            "2.9.3": {
+                "name": "wpackagist-plugin/buddypress",
+                "version": "2.9.3",
+                "version_normalized": "2.9.3.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/buddypress/",
+                    "reference": "tags/2.9.3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/buddypress/wpackagist-plugin-buddypress-2.9.3-fa3d46.zip",
+                    "reference": "tags/2.9.3",
+                    "shasum": "e689a9f2ff1f37c981a314a4a07ebd33c254377c"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "homepage": "https://wordpress.org/plugins/buddypress/",
+                "uid": 246
+            }
+        }
+    }
+}

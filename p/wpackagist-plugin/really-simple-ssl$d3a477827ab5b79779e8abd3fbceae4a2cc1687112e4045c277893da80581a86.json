@@ -1,0 +1,29 @@
+{
+    "packages": {
+        "wpackagist-plugin/really-simple-ssl": {
+            "2.5.24": {
+                "name": "wpackagist-plugin/really-simple-ssl",
+                "version": "2.5.24",
+                "version_normalized": "2.5.24.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/really-simple-ssl/",
+                    "reference": "tags/2.5.24"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/really-simple-ssl/wpackagist-plugin-really-simple-ssl-2.5.24-ca0fc0.zip",
+                    "reference": "tags/2.5.24",
+                    "shasum": "06842ea093ba76c22088d4629faf28c2da8959af"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "homepage": "https://wordpress.org/plugins/really-simple-ssl/",
+                "uid": 386
+            }
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "packages": {
+        "wpackagist-plugin/simple-history": {
+            "2.20": {
+                "name": "wpackagist-plugin/simple-history",
+                "version": "2.20",
+                "version_normalized": "2.20.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/simple-history/",
+                    "reference": "tags/2.20"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/simple-history/wpackagist-plugin-simple-history-2.20-465813.zip",
+                    "reference": "tags/2.20",
+                    "shasum": "e68c47b0e8c72d31e611183111a913f8a74972bc"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "homepage": "https://wordpress.org/plugins/simple-history/",
+                "uid": 407
+            }
+        }
+    }
+}
