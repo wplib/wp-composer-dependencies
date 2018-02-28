@@ -1,0 +1,24 @@
+{
+    "packages": {
+        "artifacts/themepixels-shortcodes": {
+            "1.0": {
+                "name": "artifacts/themepixels-shortcodes",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/artifacts/themepixels-shortcodes/artifacts-themepixels-shortcodes-1.0.zip",
+                    "reference": null,
+                    "shasum": "a2f2d85e7bc0ac35edcf9d669b4e3e1b0cfc96ca"
+                },
+                "require": {
+                    "wplib/wp-composer-installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "description": "ThemePixels Shortcodes",
+                "homepage": "https://themeforest.net/user/themepixels",
+                "uid": 31
+            }
+        }
+    }
+}

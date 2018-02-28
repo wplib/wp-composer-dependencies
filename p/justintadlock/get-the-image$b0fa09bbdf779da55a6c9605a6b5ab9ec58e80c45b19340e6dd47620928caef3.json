@@ -1,0 +1,36 @@
+{
+    "packages": {
+        "justintadlock/get-the-image": {
+            "dev-master": {
+                "name": "justintadlock/get-the-image",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/wplib/get-the-image",
+                    "reference": "411579590f33c645efda00547ff3f0d98dfddd3b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/justintadlock/get-the-image/justintadlock-get-the-image-dev-master-3bf4b8.zip",
+                    "reference": "411579590f33c645efda00547ff3f0d98dfddd3b",
+                    "shasum": "b0b237d40476ac824dc792dd485d096c664c74c2"
+                },
+                "time": "2017-09-30T07:03:13+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPL-2.0",
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Justin Tadlock",
+                        "email": "justin@justintadlock.com"
+                    }
+                ],
+                "description": "Get the Image WordPress plugin",
+                "uid": 163
+            }
+        }
+    }
+}

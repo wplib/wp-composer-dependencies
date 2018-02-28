@@ -1,0 +1,24 @@
+{
+    "packages": {
+        "artifacts/stats-spy": {
+            "1.0": {
+                "name": "artifacts/stats-spy",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/artifacts/stats-spy/artifacts-stats-spy-1.0.zip",
+                    "reference": null,
+                    "shasum": "a91843c269c3d9c327bf42575d5a5c47f0c97114"
+                },
+                "require": {
+                    "wplib/wp-composer-installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "description": "Stats Spy from 1Thirteen",
+                "uid": 30
+            }
+        }
+    }
+}
