@@ -75,9 +75,9 @@ sudo mv "${JQ_FILEPATH}" "${USER_BIN_ROOT}/jq"
 # Installing Subversion so we can pull WordPress plugins and themes
 #
 announce "...Updating apt-get"
-sudo apt-get update 2>&1 > $ARTIFACTS_FILE
+sudo apt-get update >> $ARTIFACTS_FILE 2>&1
 announce "...Installing Subversion"
-sudo apt-get install subversion 2>&1 > $ARTIFACTS_FILE
+sudo apt-get install subversion >> $ARTIFACTS_FILE 2>&1
 
 #
 # Change to home directory to cloning Satis does not screw up source repo
@@ -91,7 +91,7 @@ if [ -d "${SATIS_REPO}" ] ; then
     announce "Satis already installed from cache"
 else
     announce "Installing Satis project using Composer"
-    composer create-project composer/satis "${SATIS_REPO}" --stability=dev --keep-vcs --quiet 2>&1 > $ARTIFACTS_FILE
+    composer create-project composer/satis "${SATIS_REPO}" --stability=dev --keep-vcs >> $ARTIFACTS_FILE 2>&1
 fi
 
 #

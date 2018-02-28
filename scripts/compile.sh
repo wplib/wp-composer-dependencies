@@ -43,7 +43,7 @@ git pull origin ${CIRCLE_BRANCH} --quiet >> $ARTIFACTS_FILE
 # Running Satis to build packages.json
 #
 announce "...Running Satis to build packages.json"
-satis build satis.json 2>&1 > $ARTIFACTS_FILE
+satis build satis.json > $ARTIFACTS_FILE 2>&1
 
 
 #
