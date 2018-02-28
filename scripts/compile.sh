@@ -51,8 +51,10 @@ satis build satis.json > $ARTIFACTS_FILE 2>&1
 # direct Git repos as Composer repository vs. GitHub Pages
 #
 announce "...Check for 'public' or 'private' repository generation"
-announce "...Generate {$GIT_REPO_ACCESS} repository"
-if [ "private" == "{$GIT_REPO_ACCESS}" ] ; then
+announce "...Generate ${GIT_REPO_ACCESS} repository"
+
+if [ "private" == "${GIT_REPO_ACCESS}" ] ; then
+
     #
     # Capture .providers-url from packages.json
     #
