@@ -74,6 +74,10 @@
         {
             "type": "git",
             "url": "https://github.com/newclarity/site-releases"
+        },
+        {
+            "type": "git",
+            "url": "https://github.com/newclarity/Tealium-WordPress-Plugin"
         }
     ],
     "require": {
@@ -100,6 +104,7 @@
         "artifacts/x-email-mailchimp": ">=1.1.2",
         "newclarity/post-expiration": ">=1.2",
         "newclarity/site-releases": ">=0.1.3",
+        "newclarity/Tealium-WordPress-Plugin": "2.1.6-patched",
         "wpackagist-plugin/301-redirects": "0.3",
         "wpackagist-plugin/add-to-any": ">=1.7.2",
         "wpackagist-plugin/akismet": ">=3.3.3",
