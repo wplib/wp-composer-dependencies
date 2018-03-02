@@ -162,6 +162,7 @@
         "wpackagist-plugin/tealium": ">=2.1.6",
         "wpackagist-plugin/twenty-eleven-theme-extensions": ">=1.2",
         "wpackagist-plugin/use-google-libraries": ">=1.6.2.3",
+        "wpackagist-plugin/woocommerce": ">=3.2.6",
         "wpackagist-plugin/woosidebars": ">=1.4.3",
         "wpackagist-plugin/wordpress-importer": ">=0.6.3",
         "wpackagist-plugin/wordpress-seo": ">=4.0",
