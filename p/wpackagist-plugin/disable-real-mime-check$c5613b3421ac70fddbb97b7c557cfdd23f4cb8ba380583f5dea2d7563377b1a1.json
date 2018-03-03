@@ -1,0 +1,51 @@
+{
+    "packages": {
+        "wpackagist-plugin/disable-real-mime-check": {
+            "1.0": {
+                "name": "wpackagist-plugin/disable-real-mime-check",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/disable-real-mime-check/",
+                    "reference": "tags/1.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/disable-real-mime-check/wpackagist-plugin-disable-real-mime-check-1.0-a42e54.zip",
+                    "reference": "tags/1.0",
+                    "shasum": "45576ef22bb09e5a16482ec32dba5d53f3afd910"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/disable-real-mime-check/",
+                "uid": 275
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/disable-real-mime-check",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/disable-real-mime-check/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/disable-real-mime-check/wpackagist-plugin-disable-real-mime-check-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "611e1facd396dd4b8d4d091a87a1b951e6bf0892"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2017-01-26T14:02:09+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/disable-real-mime-check/",
+                "uid": 276
+            }
+        }
+    }
+}
