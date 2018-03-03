@@ -1,0 +1,29 @@
+{
+    "packages": {
+        "wpackagist-plugin/embed-code-generator": {
+            "dev-trunk": {
+                "name": "wpackagist-plugin/embed-code-generator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/embed-code-generator/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/embed-code-generator/wpackagist-plugin-embed-code-generator-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "a9698e3edf8cdbf152366c4e3d2bc74a188f0542"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2013-04-15T12:29:00+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/embed-code-generator/",
+                "uid": 298
+            }
+        }
+    }
+}

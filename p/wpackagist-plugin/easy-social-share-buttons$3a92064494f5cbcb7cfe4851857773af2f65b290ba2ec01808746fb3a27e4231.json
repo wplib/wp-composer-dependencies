@@ -1,0 +1,183 @@
+{
+    "packages": {
+        "wpackagist-plugin/easy-social-share-buttons": {
+            "1.3.1": {
+                "name": "wpackagist-plugin/easy-social-share-buttons",
+                "version": "1.3.1",
+                "version_normalized": "1.3.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/easy-social-share-buttons/",
+                    "reference": "tags/1.3.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/easy-social-share-buttons/wpackagist-plugin-easy-social-share-buttons-1.3.1-8e9b6e.zip",
+                    "reference": "tags/1.3.1",
+                    "shasum": "3f668139e0fdea8b16e0b3dfc55d074e85017051"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/easy-social-share-buttons/",
+                "uid": 288
+            },
+            "1.4": {
+                "name": "wpackagist-plugin/easy-social-share-buttons",
+                "version": "1.4",
+                "version_normalized": "1.4.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/easy-social-share-buttons/",
+                    "reference": "tags/1.4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/easy-social-share-buttons/wpackagist-plugin-easy-social-share-buttons-1.4-8b2d2e.zip",
+                    "reference": "tags/1.4",
+                    "shasum": "9bcfaa96813e54c4fdf29bc4ee8db5c8da1c5bb5"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/easy-social-share-buttons/",
+                "uid": 289
+            },
+            "1.4.1": {
+                "name": "wpackagist-plugin/easy-social-share-buttons",
+                "version": "1.4.1",
+                "version_normalized": "1.4.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/easy-social-share-buttons/",
+                    "reference": "tags/1.4.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/easy-social-share-buttons/wpackagist-plugin-easy-social-share-buttons-1.4.1-f9f24f.zip",
+                    "reference": "tags/1.4.1",
+                    "shasum": "a7077ad8c4074ad8209f9e762cf1b3cdbdd20e8c"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/easy-social-share-buttons/",
+                "uid": 290
+            },
+            "1.4.2": {
+                "name": "wpackagist-plugin/easy-social-share-buttons",
+                "version": "1.4.2",
+                "version_normalized": "1.4.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/easy-social-share-buttons/",
+                    "reference": "tags/1.4.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/easy-social-share-buttons/wpackagist-plugin-easy-social-share-buttons-1.4.2-e8179e.zip",
+                    "reference": "tags/1.4.2",
+                    "shasum": "3c1fd86bb901cc7daa750db9f9330ce048c3ceca"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/easy-social-share-buttons/",
+                "uid": 291
+            },
+            "1.4.3": {
+                "name": "wpackagist-plugin/easy-social-share-buttons",
+                "version": "1.4.3",
+                "version_normalized": "1.4.3.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/easy-social-share-buttons/",
+                    "reference": "tags/1.4.3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/easy-social-share-buttons/wpackagist-plugin-easy-social-share-buttons-1.4.3-9bc85e.zip",
+                    "reference": "tags/1.4.3",
+                    "shasum": "1b70850a152dd8d7d38424f763b6f53c4bf8b16d"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/easy-social-share-buttons/",
+                "uid": 292
+            },
+            "1.4.4": {
+                "name": "wpackagist-plugin/easy-social-share-buttons",
+                "version": "1.4.4",
+                "version_normalized": "1.4.4.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/easy-social-share-buttons/",
+                    "reference": "tags/1.4.4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/easy-social-share-buttons/wpackagist-plugin-easy-social-share-buttons-1.4.4-715610.zip",
+                    "reference": "tags/1.4.4",
+                    "shasum": "fcbce70f15272251895a64905871c9567836c1fd"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/easy-social-share-buttons/",
+                "uid": 293
+            },
+            "1.4.5": {
+                "name": "wpackagist-plugin/easy-social-share-buttons",
+                "version": "1.4.5",
+                "version_normalized": "1.4.5.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/easy-social-share-buttons/",
+                    "reference": "tags/1.4.5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/easy-social-share-buttons/wpackagist-plugin-easy-social-share-buttons-1.4.5-f11af9.zip",
+                    "reference": "tags/1.4.5",
+                    "shasum": "acf7f1076299f84e0ebe2aef8bc98d7191a5aef1"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/easy-social-share-buttons/",
+                "uid": 294
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/easy-social-share-buttons",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/easy-social-share-buttons/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/easy-social-share-buttons/wpackagist-plugin-easy-social-share-buttons-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "6a059fbd067706f57fb0017b2f743c976ff355b7"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2018-02-05T18:42:11+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/easy-social-share-buttons/",
+                "uid": 295
+            }
+        }
+    }
+}
