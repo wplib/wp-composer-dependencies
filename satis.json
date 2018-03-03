@@ -134,7 +134,7 @@
         "wpackagist-plugin/google-sitemap-generator": ">=4.0.8",
         "wpackagist-plugin/googleanalytics": ">=2.1.3",
         "wpackagist-plugin/helpful-information": ">=1.0.2",
-        "wpackagist-plugin/intercom": ">=2.6.1",
+        "wpackagist-plugin/intercom": ">=2.6.0",
         "wpackagist-plugin/jetpack": ">=5.2.1",
         "wpackagist-plugin/json-rest-api": ">=1.2.5",
         "wpackagist-plugin/mini-twitter-feed": ">=2.0.1",
