@@ -20,7 +20,6 @@
                     "composer/installers": "~1.0"
                 },
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "homepage": "https://wordpress.org/plugins/woocommerce/",
                 "uid": 481
             },
@@ -43,7 +42,6 @@
                     "composer/installers": "~1.0"
                 },
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "homepage": "https://wordpress.org/plugins/woocommerce/",
                 "uid": 482
             },
@@ -66,7 +64,6 @@
                     "composer/installers": "~1.0"
                 },
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "homepage": "https://wordpress.org/plugins/woocommerce/",
                 "uid": 483
             },
@@ -89,7 +86,6 @@
                     "composer/installers": "~1.0"
                 },
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "homepage": "https://wordpress.org/plugins/woocommerce/",
                 "uid": 484
             },
@@ -112,7 +108,6 @@
                     "composer/installers": "~1.0"
                 },
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "homepage": "https://wordpress.org/plugins/woocommerce/",
                 "uid": 485
             },
@@ -135,7 +130,6 @@
                     "composer/installers": "~1.0"
                 },
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "homepage": "https://wordpress.org/plugins/woocommerce/",
                 "uid": 486
             },
@@ -159,7 +153,6 @@
                 },
                 "time": "2018-02-27T17:23:25+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "source",
                 "homepage": "https://wordpress.org/plugins/woocommerce/",
                 "uid": 487
             }

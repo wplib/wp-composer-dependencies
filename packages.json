@@ -75,7 +75,7 @@
             "sha256": "8c1f867ab4f8f03ac2061579344d5a88ebf2bc68bff60a1669142b9949494c5d"
         },
         "johnpbloch/wordpress-core": {
-            "sha256": "a6701fe39101d12d0f2ece99fdbf4b76bff5115191d6794bd2a5bb4ce444afc8"
+            "sha256": "11cf0ef5056d4ee23483813d5a45c56a420c20569d7519f08b50df787ec742cb"
         },
         "johnpbloch/wordpress-core-installer": {
             "sha256": "691d6f3bcc1131a416511421334eb4e566dc828c4129cb6502bbe3bac0a3df18"
@@ -108,7 +108,7 @@
             "sha256": "7487ba8b361de97a1649db3e0a581a570d0eaec0608033384cbbb561f30b3432"
         },
         "wpackagist-plugin/amp": {
-            "sha256": "7efd0c2cbac5054d41df395077e22dd5e4f576ef5eb6210cb20245be6d726855"
+            "sha256": "76b082f85375b501a21f23779363b7038829688a2d11682b9d4b25d7ba0d1387"
         },
         "wpackagist-plugin/buddypress": {
             "sha256": "966addc502501c564a00bdfd37f9ab8c19c15300b5c7204fa989d7500c9ac567"
@@ -132,7 +132,7 @@
             "sha256": "8463410ed11cdf7e780099da272206b351b9a0759511f8f6abe075deb6061664"
         },
         "wpackagist-plugin/dokan-lite": {
-            "sha256": "a7c5a1da211e64e30b92526f487e0f2040b455afd0553a39118b407f64dc4b2c"
+            "sha256": "d6a3b6d062949aac2168b81260b238ce09b9f7055fd3f18f26bba2e0a32edd47"
         },
         "wpackagist-plugin/duplicate-post": {
             "sha256": "e9ebc25526f5761b2bc4478c7a9e8a0765630b2dd4c0e56578ec178aa1785ac7"
@@ -270,13 +270,13 @@
             "sha256": "afa51d3bf9fce91dc59fd2bfb41fb84755f4ddd0e2c89fd221b2633e3157dbe1"
         },
         "wpackagist-plugin/woocommerce": {
-            "sha256": "5bb520edc9d335b0023a9edb776b7ec536a740a2d7855ad8f080e41ed4909487"
+            "sha256": "cfb8e423b839b035419538417f503607523b5af5588db6e9c973c3e950d90c90"
         },
         "wpackagist-plugin/woosidebars": {
             "sha256": "9275f17ccbbc575e96c4455e525622d3d505cd8399a8dd47620b324b227df1da"
         },
         "wpackagist-plugin/wordpress-importer": {
-            "sha256": "65e4f257b30bcc49e42ec0854a578fec84aa8ea740e25c86b9273d6a6d9cb055"
+            "sha256": "b2ceae1950ee525c7eb2947319a06b3de8e2be1d8572dba113eadda927fbaa2c"
         },
         "wpackagist-plugin/wordpress-seo": {
             "sha256": "d9f13092025f8f0c5eb3a927627915f4353524181906d5276f73d221df6296a3"
