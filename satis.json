@@ -119,6 +119,7 @@
         "wpackagist-plugin/contact-form-7": ">=4.6",
         "wpackagist-plugin/coschedule-by-todaymade": ">=2.4.18",
         "wpackagist-plugin/disable-comments": ">=1.7",
+        "wpackagist-plugin/disable-real-mime-check": ">=1.0",
         "wpackagist-plugin/dokan-lite": ">=2.7.4",
         "wpackagist-plugin/duplicate-post": ">=3.2",
         "wpackagist-plugin/easy-author-image": ">=1.5",
