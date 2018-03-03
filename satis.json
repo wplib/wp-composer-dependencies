@@ -102,6 +102,7 @@
         "artifacts/wordpress-seo-premium": ">=3.2.4",
         "artifacts/wpseo-news": ">=5.8",
         "artifacts/x-email-mailchimp": ">=1.1.2",
+        "spatie/pdf-to-image": ">=1.0.0",
         "newclarity/post-expiration": ">=1.2",
         "newclarity/site-releases": ">=0.1.3",
         "newclarity/Tealium-WordPress-Plugin": "2.1.6.1",
