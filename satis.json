@@ -143,7 +143,7 @@
         "wpackagist-plugin/pantheon-hud": ">=0.1.0",
         "wpackagist-plugin/pods": ">=2.6.9",
         "wpackagist-plugin/post-types-order": ">=1.9.3.3",
-        "wpackagist-plugin/post-views-counter": ">=1.2.11",
+        "wpackagist-plugin/post-views-counter": ">=1.2.10",
         "wpackagist-plugin/publish-to-apple-news": ">=1.2.7",
         "wpackagist-plugin/query-monitor": ">=2.9.1",
         "wpackagist-plugin/real-time-find-and-replace": ">=3.9",
