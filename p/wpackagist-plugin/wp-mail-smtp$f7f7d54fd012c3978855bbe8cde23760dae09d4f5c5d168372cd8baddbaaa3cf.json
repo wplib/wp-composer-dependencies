@@ -1,0 +1,73 @@
+{
+    "packages": {
+        "wpackagist-plugin/wp-mail-smtp": {
+            "1.2.4": {
+                "name": "wpackagist-plugin/wp-mail-smtp",
+                "version": "1.2.4",
+                "version_normalized": "1.2.4.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wp-mail-smtp/",
+                    "reference": "tags/1.2.4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-mail-smtp/wpackagist-plugin-wp-mail-smtp-1.2.4-48fde0.zip",
+                    "reference": "tags/1.2.4",
+                    "shasum": "4d2498e3cecd62a71548cf49a3d16ef1ea62b3dc"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wp-mail-smtp/",
+                "uid": 571
+            },
+            "1.2.5": {
+                "name": "wpackagist-plugin/wp-mail-smtp",
+                "version": "1.2.5",
+                "version_normalized": "1.2.5.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wp-mail-smtp/",
+                    "reference": "tags/1.2.5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-mail-smtp/wpackagist-plugin-wp-mail-smtp-1.2.5-38d4f4.zip",
+                    "reference": "tags/1.2.5",
+                    "shasum": "b7faca32359877977d42265b1516bc557ce386a4"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wp-mail-smtp/",
+                "uid": 572
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/wp-mail-smtp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wp-mail-smtp/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-mail-smtp/wpackagist-plugin-wp-mail-smtp-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "ad6fe9436600d771bf59422640d9b85c4d4c6421"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2018-02-06T21:39:17+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wp-mail-smtp/",
+                "uid": 573
+            }
+        }
+    }
+}

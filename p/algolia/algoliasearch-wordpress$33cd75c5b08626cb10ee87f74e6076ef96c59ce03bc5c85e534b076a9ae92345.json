@@ -1,0 +1,514 @@
+{
+    "packages": {
+        "algolia/algoliasearch-wordpress": {
+            "2.10.0": {
+                "name": "algolia/algoliasearch-wordpress",
+                "version": "2.10.0",
+                "version_normalized": "2.10.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/algolia/algoliasearch-wordpress",
+                    "reference": "afd73ace0f8e78d39f9d4b7090026683973a5883"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/algolia/algoliasearch-wordpress/algolia-algoliasearch-wordpress-2.10.0-61a0b1.zip",
+                    "reference": "afd73ace0f8e78d39f9d4b7090026683973a5883",
+                    "shasum": "065d7d56fc7ea1160602ca4810cce60e46d8d64d"
+                },
+                "require": {
+                    "composer/installers": "~1.0",
+                    "php": ">=5.3"
+                },
+                "require-dev": {
+                    "dealerdirect/phpcodesniffer-composer-installer": "*",
+                    "wimg/php-compatibility": "*",
+                    "wp-coding-standards/wpcs": "*"
+                },
+                "time": "2018-02-26T15:30:39+00:00",
+                "type": "wordpress-plugin",
+                "extra": {
+                    "installer-name": "algolia"
+                },
+                "scripts": {
+                    "lint": [
+                        "vendor/bin/phpcs"
+                    ],
+                    "lint:fix": [
+                        "vendor/bin/phpcbf"
+                    ]
+                },
+                "license": [
+                    "(MIT or GPL-2.0)"
+                ],
+                "description": "Algolia Search plugin for Wordpress",
+                "homepage": "https://community.algolia.com/wordpress/",
+                "uid": 1
+            },
+            "2.10.1": {
+                "name": "algolia/algoliasearch-wordpress",
+                "version": "2.10.1",
+                "version_normalized": "2.10.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/algolia/algoliasearch-wordpress",
+                    "reference": "884c1ac37c270f485eaefab9aa651180982de1bc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/algolia/algoliasearch-wordpress/algolia-algoliasearch-wordpress-2.10.1-bd094e.zip",
+                    "reference": "884c1ac37c270f485eaefab9aa651180982de1bc",
+                    "shasum": "962aa333ccf7bb84aea9c2d4638d769ac9b1114c"
+                },
+                "require": {
+                    "composer/installers": "~1.0",
+                    "php": ">=5.3"
+                },
+                "require-dev": {
+                    "dealerdirect/phpcodesniffer-composer-installer": "*",
+                    "wimg/php-compatibility": "*",
+                    "wp-coding-standards/wpcs": "*"
+                },
+                "time": "2018-03-06T14:36:01+00:00",
+                "type": "wordpress-plugin",
+                "extra": {
+                    "installer-name": "algolia"
+                },
+                "scripts": {
+                    "lint": [
+                        "vendor/bin/phpcs"
+                    ],
+                    "lint:fix": [
+                        "vendor/bin/phpcbf"
+                    ]
+                },
+                "license": [
+                    "(MIT or GPL-2.0)"
+                ],
+                "description": "Algolia Search plugin for Wordpress",
+                "homepage": "https://community.algolia.com/wordpress/",
+                "uid": 2
+            },
+            "2.10.2": {
+                "name": "algolia/algoliasearch-wordpress",
+                "version": "2.10.2",
+                "version_normalized": "2.10.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/algolia/algoliasearch-wordpress",
+                    "reference": "369946dab3dec8a87cdd8d1129ce13e836a65eea"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/algolia/algoliasearch-wordpress/algolia-algoliasearch-wordpress-2.10.2-a395b9.zip",
+                    "reference": "369946dab3dec8a87cdd8d1129ce13e836a65eea",
+                    "shasum": "e51e88937d0a03032041defbbd8da5db3f7a1919"
+                },
+                "require": {
+                    "composer/installers": "~1.0",
+                    "php": ">=5.3"
+                },
+                "require-dev": {
+                    "dealerdirect/phpcodesniffer-composer-installer": "*",
+                    "wimg/php-compatibility": "*",
+                    "wp-coding-standards/wpcs": "*"
+                },
+                "time": "2018-03-06T15:21:11+00:00",
+                "type": "wordpress-plugin",
+                "extra": {
+                    "installer-name": "algolia"
+                },
+                "scripts": {
+                    "lint": [
+                        "vendor/bin/phpcs"
+                    ],
+                    "lint:fix": [
+                        "vendor/bin/phpcbf"
+                    ]
+                },
+                "license": [
+                    "(MIT or GPL-2.0)"
+                ],
+                "description": "Algolia Search plugin for Wordpress",
+                "homepage": "https://community.algolia.com/wordpress/",
+                "uid": 3
+            },
+            "2.6.0": {
+                "name": "algolia/algoliasearch-wordpress",
+                "version": "2.6.0",
+                "version_normalized": "2.6.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/algolia/algoliasearch-wordpress",
+                    "reference": "be92ed4310f0bab34eaacb17f8f37111d9215d49"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/algolia/algoliasearch-wordpress/algolia-algoliasearch-wordpress-2.6.0-50abd6.zip",
+                    "reference": "be92ed4310f0bab34eaacb17f8f37111d9215d49",
+                    "shasum": "b17fbbfe2c9e2d83f6e94e3d43a33ece498c7a45"
+                },
+                "require": {
+                    "composer/installers": "~1.0",
+                    "php": ">=5.3"
+                },
+                "time": "2017-07-26T12:50:33+00:00",
+                "type": "wordpress-plugin",
+                "extra": {
+                    "installer-name": "algolia"
+                },
+                "license": [
+                    "(MIT or GPL-2.0)"
+                ],
+                "description": "Algolia Search plugin for Wordpress",
+                "homepage": "https://community.algolia.com/wordpress/",
+                "uid": 4
+            },
+            "2.6.1": {
+                "name": "algolia/algoliasearch-wordpress",
+                "version": "2.6.1",
+                "version_normalized": "2.6.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/algolia/algoliasearch-wordpress",
+                    "reference": "40569d7aed687b59c877b241123c5a3ec7ff9f5c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/algolia/algoliasearch-wordpress/algolia-algoliasearch-wordpress-2.6.1-ba7537.zip",
+                    "reference": "40569d7aed687b59c877b241123c5a3ec7ff9f5c",
+                    "shasum": "2e8fa6d39376425175e83695806dc4d9b4d315e8"
+                },
+                "require": {
+                    "composer/installers": "~1.0",
+                    "php": ">=5.3"
+                },
+                "time": "2017-08-09T23:37:58+00:00",
+                "type": "wordpress-plugin",
+                "extra": {
+                    "installer-name": "algolia"
+                },
+                "license": [
+                    "(MIT or GPL-2.0)"
+                ],
+                "description": "Algolia Search plugin for Wordpress",
+                "homepage": "https://community.algolia.com/wordpress/",
+                "uid": 5
+            },
+            "2.7.0": {
+                "name": "algolia/algoliasearch-wordpress",
+                "version": "2.7.0",
+                "version_normalized": "2.7.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/algolia/algoliasearch-wordpress",
+                    "reference": "d46043fdb0980f769244d8a841ef912502533c0c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/algolia/algoliasearch-wordpress/algolia-algoliasearch-wordpress-2.7.0-31de19.zip",
+                    "reference": "d46043fdb0980f769244d8a841ef912502533c0c",
+                    "shasum": "bc89d387b9f2b0958f237a5792736fbc489a1611"
+                },
+                "require": {
+                    "composer/installers": "~1.0",
+                    "php": ">=5.3"
+                },
+                "time": "2017-09-04T16:17:48+00:00",
+                "type": "wordpress-plugin",
+                "extra": {
+                    "installer-name": "algolia"
+                },
+                "license": [
+                    "(MIT or GPL-2.0)"
+                ],
+                "description": "Algolia Search plugin for Wordpress",
+                "homepage": "https://community.algolia.com/wordpress/",
+                "uid": 6
+            },
+            "2.8.0": {
+                "name": "algolia/algoliasearch-wordpress",
+                "version": "2.8.0",
+                "version_normalized": "2.8.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/algolia/algoliasearch-wordpress",
+                    "reference": "dbd188ef786c01db1191e934e3e1e8c2c3bc9fe8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/algolia/algoliasearch-wordpress/algolia-algoliasearch-wordpress-2.8.0-42908b.zip",
+                    "reference": "dbd188ef786c01db1191e934e3e1e8c2c3bc9fe8",
+                    "shasum": "4c2a88f70a32039ea8277ef121b22def1abb015c"
+                },
+                "require": {
+                    "composer/installers": "~1.0",
+                    "php": ">=5.3"
+                },
+                "time": "2017-09-20T19:56:03+00:00",
+                "type": "wordpress-plugin",
+                "extra": {
+                    "installer-name": "algolia"
+                },
+                "license": [
+                    "(MIT or GPL-2.0)"
+                ],
+                "description": "Algolia Search plugin for Wordpress",
+                "homepage": "https://community.algolia.com/wordpress/",
+                "uid": 7
+            },
+            "2.8.1": {
+                "name": "algolia/algoliasearch-wordpress",
+                "version": "2.8.1",
+                "version_normalized": "2.8.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/algolia/algoliasearch-wordpress",
+                    "reference": "3e8edb61f20674385db656a37a4dc22a0089a45e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/algolia/algoliasearch-wordpress/algolia-algoliasearch-wordpress-2.8.1-7e029f.zip",
+                    "reference": "3e8edb61f20674385db656a37a4dc22a0089a45e",
+                    "shasum": "35896c2a13bb9700fbf486e6c30dd9a1ea085563"
+                },
+                "require": {
+                    "composer/installers": "~1.0",
+                    "php": ">=5.3"
+                },
+                "time": "2017-10-13T09:45:45+00:00",
+                "type": "wordpress-plugin",
+                "extra": {
+                    "installer-name": "algolia"
+                },
+                "license": [
+                    "(MIT or GPL-2.0)"
+                ],
+                "description": "Algolia Search plugin for Wordpress",
+                "homepage": "https://community.algolia.com/wordpress/",
+                "uid": 8
+            },
+            "2.9.0": {
+                "name": "algolia/algoliasearch-wordpress",
+                "version": "2.9.0",
+                "version_normalized": "2.9.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/algolia/algoliasearch-wordpress",
+                    "reference": "bf9ab57f5aa776f10160855039f7950634950f38"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/algolia/algoliasearch-wordpress/algolia-algoliasearch-wordpress-2.9.0-d8a7cd.zip",
+                    "reference": "bf9ab57f5aa776f10160855039f7950634950f38",
+                    "shasum": "4ec6317f5676621b1d2ad46218d0f141fae41111"
+                },
+                "require": {
+                    "composer/installers": "~1.0",
+                    "php": ">=5.3"
+                },
+                "require-dev": {
+                    "dealerdirect/phpcodesniffer-composer-installer": "*",
+                    "wimg/php-compatibility": "*",
+                    "wp-coding-standards/wpcs": "*"
+                },
+                "time": "2018-01-08T13:00:04+00:00",
+                "type": "wordpress-plugin",
+                "extra": {
+                    "installer-name": "algolia"
+                },
+                "scripts": {
+                    "lint": [
+                        "vendor/bin/phpcs"
+                    ],
+                    "lint:fix": [
+                        "vendor/bin/phpcbf"
+                    ]
+                },
+                "license": [
+                    "(MIT or GPL-2.0)"
+                ],
+                "description": "Algolia Search plugin for Wordpress",
+                "homepage": "https://community.algolia.com/wordpress/",
+                "uid": 9
+            },
+            "2.9.1": {
+                "name": "algolia/algoliasearch-wordpress",
+                "version": "2.9.1",
+                "version_normalized": "2.9.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/algolia/algoliasearch-wordpress",
+                    "reference": "50a201018fa3a28bc2a743b87b77639e8dc0986e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/algolia/algoliasearch-wordpress/algolia-algoliasearch-wordpress-2.9.1-336d7f.zip",
+                    "reference": "50a201018fa3a28bc2a743b87b77639e8dc0986e",
+                    "shasum": "5fa3648b90c7c57ab9e7c136f063ae40e7abb1f4"
+                },
+                "require": {
+                    "composer/installers": "~1.0",
+                    "php": ">=5.3"
+                },
+                "require-dev": {
+                    "dealerdirect/phpcodesniffer-composer-installer": "*",
+                    "wimg/php-compatibility": "*",
+                    "wp-coding-standards/wpcs": "*"
+                },
+                "time": "2018-01-08T13:22:47+00:00",
+                "type": "wordpress-plugin",
+                "extra": {
+                    "installer-name": "algolia"
+                },
+                "scripts": {
+                    "lint": [
+                        "vendor/bin/phpcs"
+                    ],
+                    "lint:fix": [
+                        "vendor/bin/phpcbf"
+                    ]
+                },
+                "license": [
+                    "(MIT or GPL-2.0)"
+                ],
+                "description": "Algolia Search plugin for Wordpress",
+                "homepage": "https://community.algolia.com/wordpress/",
+                "uid": 10
+            },
+            "2.9.2": {
+                "name": "algolia/algoliasearch-wordpress",
+                "version": "2.9.2",
+                "version_normalized": "2.9.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/algolia/algoliasearch-wordpress",
+                    "reference": "4f3f419a004b859956fc264eaefb1f861798d259"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/algolia/algoliasearch-wordpress/algolia-algoliasearch-wordpress-2.9.2-3c8c88.zip",
+                    "reference": "4f3f419a004b859956fc264eaefb1f861798d259",
+                    "shasum": "b23491abf4cc7a2b3e452d0222b170e8e93eb5e2"
+                },
+                "require": {
+                    "composer/installers": "~1.0",
+                    "php": ">=5.3"
+                },
+                "require-dev": {
+                    "dealerdirect/phpcodesniffer-composer-installer": "*",
+                    "wimg/php-compatibility": "*",
+                    "wp-coding-standards/wpcs": "*"
+                },
+                "time": "2018-01-15T20:46:25+00:00",
+                "type": "wordpress-plugin",
+                "extra": {
+                    "installer-name": "algolia"
+                },
+                "scripts": {
+                    "lint": [
+                        "vendor/bin/phpcs"
+                    ],
+                    "lint:fix": [
+                        "vendor/bin/phpcbf"
+                    ]
+                },
+                "license": [
+                    "(MIT or GPL-2.0)"
+                ],
+                "description": "Algolia Search plugin for Wordpress",
+                "homepage": "https://community.algolia.com/wordpress/",
+                "uid": 11
+            },
+            "2.9.3": {
+                "name": "algolia/algoliasearch-wordpress",
+                "version": "2.9.3",
+                "version_normalized": "2.9.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/algolia/algoliasearch-wordpress",
+                    "reference": "7db94065c1f4b850c76bc7197d879df8737d8dc1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/algolia/algoliasearch-wordpress/algolia-algoliasearch-wordpress-2.9.3-3fe938.zip",
+                    "reference": "7db94065c1f4b850c76bc7197d879df8737d8dc1",
+                    "shasum": "c34ebaff0ef27b9feabe0bc8512c098f62a26d48"
+                },
+                "require": {
+                    "composer/installers": "~1.0",
+                    "php": ">=5.3"
+                },
+                "require-dev": {
+                    "dealerdirect/phpcodesniffer-composer-installer": "*",
+                    "wimg/php-compatibility": "*",
+                    "wp-coding-standards/wpcs": "*"
+                },
+                "time": "2018-01-15T22:52:12+00:00",
+                "type": "wordpress-plugin",
+                "extra": {
+                    "installer-name": "algolia"
+                },
+                "scripts": {
+                    "lint": [
+                        "vendor/bin/phpcs"
+                    ],
+                    "lint:fix": [
+                        "vendor/bin/phpcbf"
+                    ]
+                },
+                "license": [
+                    "(MIT or GPL-2.0)"
+                ],
+                "description": "Algolia Search plugin for Wordpress",
+                "homepage": "https://community.algolia.com/wordpress/",
+                "uid": 12
+            },
+            "dev-master": {
+                "name": "algolia/algoliasearch-wordpress",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/algolia/algoliasearch-wordpress",
+                    "reference": "890a7e132002d08a76205fb5ff9bad358ebf3891"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/algolia/algoliasearch-wordpress/algolia-algoliasearch-wordpress-dev-master-4d17ac.zip",
+                    "reference": "890a7e132002d08a76205fb5ff9bad358ebf3891",
+                    "shasum": "08153a289324cc3ebdb905a0ebb6e9b69d8cf106"
+                },
+                "require": {
+                    "composer/installers": "~1.0",
+                    "php": ">=5.3"
+                },
+                "require-dev": {
+                    "dealerdirect/phpcodesniffer-composer-installer": "*",
+                    "wimg/php-compatibility": "*",
+                    "wp-coding-standards/wpcs": "*"
+                },
+                "time": "2018-03-21T13:47:25+00:00",
+                "type": "wordpress-plugin",
+                "extra": {
+                    "installer-name": "algolia"
+                },
+                "installation-source": "source",
+                "scripts": {
+                    "lint": [
+                        "vendor/bin/phpcs"
+                    ],
+                    "lint:fix": [
+                        "vendor/bin/phpcbf"
+                    ]
+                },
+                "license": [
+                    "(MIT or GPL-2.0)"
+                ],
+                "description": "Algolia Search plugin for Wordpress",
+                "homepage": "https://community.algolia.com/wordpress/",
+                "uid": 13
+            }
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "packages": {
+        "wpackagist-plugin/helpful-information": {
+            "1.0.2": {
+                "name": "wpackagist-plugin/helpful-information",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/helpful-information/",
+                    "reference": "tags/1.0.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/helpful-information/wpackagist-plugin-helpful-information-1.0.2-8aae4d.zip",
+                    "reference": "tags/1.0.2",
+                    "shasum": "7176ed881ee32d8c4ac1fd1f0d4df70254744e80"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/helpful-information/",
+                "uid": 332
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/helpful-information",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/helpful-information/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/helpful-information/wpackagist-plugin-helpful-information-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "8fda72a36e34b9994940938baf197942c4ba13a4"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2014-04-18T20:29:31+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/helpful-information/",
+                "uid": 333
+            }
+        }
+    }
+}
