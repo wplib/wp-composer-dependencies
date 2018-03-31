@@ -1,0 +1,274 @@
+{
+    "packages": {
+        "roots/soil": {
+            "3.7.0": {
+                "name": "roots/soil",
+                "version": "3.7.0",
+                "version_normalized": "3.7.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/roots/soil",
+                    "reference": "085fd3c9b16df5b72dce4fba09de0207937ef721"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/roots/soil/roots-soil-3.7.0-9e8034.zip",
+                    "reference": "085fd3c9b16df5b72dce4fba09de0207937ef721",
+                    "shasum": "c13e48144ba7afa048c3a52466e9e6e1a967c617"
+                },
+                "require": {
+                    "composer/installers": "~1.0",
+                    "php": ">=5.4.0"
+                },
+                "time": "2016-03-07T19:49:21+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Ben Word",
+                        "email": "ben@benword.com",
+                        "homepage": "https://github.com/retlehs"
+                    },
+                    {
+                        "name": "Scott Walkinshaw",
+                        "email": "scott.walkinshaw@gmail.com",
+                        "homepage": "https://github.com/swalkinshaw"
+                    }
+                ],
+                "description": "A WordPress plugin which contains a collection of modules to apply theme-agnostic front-end modifications",
+                "homepage": "https://roots.io/plugins/soil/",
+                "keywords": [
+                    "wordpress"
+                ],
+                "support": {
+                    "issues": "https://github.com/roots/soil/issues",
+                    "forum": "https://discourse.roots.io/"
+                },
+                "uid": 177
+            },
+            "3.7.1": {
+                "name": "roots/soil",
+                "version": "3.7.1",
+                "version_normalized": "3.7.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/roots/soil",
+                    "reference": "5b9b9d8a878b295f44b35cba826c462b20cc1d9c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/roots/soil/roots-soil-3.7.1-d7e205.zip",
+                    "reference": "5b9b9d8a878b295f44b35cba826c462b20cc1d9c",
+                    "shasum": "cba02b165bd7e6b16938f1977cb0fe144f08c5c4"
+                },
+                "require": {
+                    "composer/installers": "~1.0",
+                    "php": ">=5.4.0"
+                },
+                "require-dev": {
+                    "squizlabs/php_codesniffer": "^2.5.1"
+                },
+                "time": "2016-08-30T18:15:45+00:00",
+                "type": "wordpress-plugin",
+                "scripts": {
+                    "test": [
+                        "vendor/bin/phpcs --extensions=php --ignore=vendor/ -n -s ."
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Ben Word",
+                        "email": "ben@benword.com",
+                        "homepage": "https://github.com/retlehs"
+                    },
+                    {
+                        "name": "Scott Walkinshaw",
+                        "email": "scott.walkinshaw@gmail.com",
+                        "homepage": "https://github.com/swalkinshaw"
+                    }
+                ],
+                "description": "A WordPress plugin which contains a collection of modules to apply theme-agnostic front-end modifications",
+                "homepage": "https://roots.io/plugins/soil/",
+                "keywords": [
+                    "wordpress"
+                ],
+                "support": {
+                    "issues": "https://github.com/roots/soil/issues",
+                    "forum": "https://discourse.roots.io/"
+                },
+                "uid": 178
+            },
+            "3.7.2": {
+                "name": "roots/soil",
+                "version": "3.7.2",
+                "version_normalized": "3.7.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/roots/soil",
+                    "reference": "09368d6db8c40daa9cc94054b0d1a16e6113e3e5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/roots/soil/roots-soil-3.7.2-f2eb9e.zip",
+                    "reference": "09368d6db8c40daa9cc94054b0d1a16e6113e3e5",
+                    "shasum": "5a02d1cb8b0891e4a72db5ca84a2f609f7bff263"
+                },
+                "require": {
+                    "composer/installers": "~1.0",
+                    "php": ">=5.4.0"
+                },
+                "require-dev": {
+                    "squizlabs/php_codesniffer": "^2.5.1"
+                },
+                "time": "2017-06-12T01:25:19+00:00",
+                "type": "wordpress-plugin",
+                "scripts": {
+                    "test": [
+                        "vendor/bin/phpcs --extensions=php --ignore=vendor/ -n -s ."
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Ben Word",
+                        "email": "ben@benword.com",
+                        "homepage": "https://github.com/retlehs"
+                    },
+                    {
+                        "name": "Scott Walkinshaw",
+                        "email": "scott.walkinshaw@gmail.com",
+                        "homepage": "https://github.com/swalkinshaw"
+                    }
+                ],
+                "description": "A WordPress plugin which contains a collection of modules to apply theme-agnostic front-end modifications",
+                "homepage": "https://roots.io/plugins/soil/",
+                "keywords": [
+                    "wordpress"
+                ],
+                "support": {
+                    "issues": "https://github.com/roots/soil/issues",
+                    "forum": "https://discourse.roots.io/"
+                },
+                "uid": 179
+            },
+            "3.7.3": {
+                "name": "roots/soil",
+                "version": "3.7.3",
+                "version_normalized": "3.7.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/roots/soil",
+                    "reference": "d0e409e70dafff4ceeaa8ef941ee319e350317dd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/roots/soil/roots-soil-3.7.3-481e3b.zip",
+                    "reference": "d0e409e70dafff4ceeaa8ef941ee319e350317dd",
+                    "shasum": "255903ed2ef45292cc07e6ab4adab1d52c74a95a"
+                },
+                "require": {
+                    "composer/installers": "~1.0",
+                    "php": ">=5.4.0"
+                },
+                "require-dev": {
+                    "squizlabs/php_codesniffer": "^2.5.1"
+                },
+                "time": "2017-08-14T01:36:41+00:00",
+                "type": "wordpress-plugin",
+                "scripts": {
+                    "test": [
+                        "vendor/bin/phpcs --extensions=php --ignore=vendor/ -n -s ."
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Ben Word",
+                        "email": "ben@benword.com",
+                        "homepage": "https://github.com/retlehs"
+                    },
+                    {
+                        "name": "Scott Walkinshaw",
+                        "email": "scott.walkinshaw@gmail.com",
+                        "homepage": "https://github.com/swalkinshaw"
+                    }
+                ],
+                "description": "A WordPress plugin which contains a collection of modules to apply theme-agnostic front-end modifications",
+                "homepage": "https://roots.io/plugins/soil/",
+                "keywords": [
+                    "wordpress"
+                ],
+                "support": {
+                    "issues": "https://github.com/roots/soil/issues",
+                    "forum": "https://discourse.roots.io/"
+                },
+                "uid": 180
+            },
+            "dev-master": {
+                "name": "roots/soil",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/roots/soil",
+                    "reference": "1f16f9db5f9596bac24fdf57611d4da63362ee11"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/roots/soil/roots-soil-dev-master-c79a0a.zip",
+                    "reference": "1f16f9db5f9596bac24fdf57611d4da63362ee11",
+                    "shasum": "3f3895d25598ed2850a96bea70108b636e71f4da"
+                },
+                "require": {
+                    "composer/installers": "~1.0",
+                    "php": ">=5.4.0"
+                },
+                "require-dev": {
+                    "squizlabs/php_codesniffer": "^2.5.1"
+                },
+                "time": "2018-03-29T18:10:18+00:00",
+                "type": "wordpress-plugin",
+                "installation-source": "source",
+                "scripts": {
+                    "test": [
+                        "vendor/bin/phpcs --extensions=php --ignore=vendor/ -n -s ."
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Ben Word",
+                        "email": "ben@benword.com",
+                        "homepage": "https://github.com/retlehs"
+                    },
+                    {
+                        "name": "Scott Walkinshaw",
+                        "email": "scott.walkinshaw@gmail.com",
+                        "homepage": "https://github.com/swalkinshaw"
+                    }
+                ],
+                "description": "A WordPress plugin which contains a collection of modules to apply theme-agnostic front-end modifications",
+                "homepage": "https://roots.io/plugins/soil/",
+                "keywords": [
+                    "wordpress"
+                ],
+                "support": {
+                    "issues": "https://github.com/roots/soil/issues",
+                    "forum": "https://discourse.roots.io/"
+                },
+                "uid": 181
+            }
+        }
+    }
+}

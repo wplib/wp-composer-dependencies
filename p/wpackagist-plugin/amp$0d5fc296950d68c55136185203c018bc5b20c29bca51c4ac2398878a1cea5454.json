@@ -1,0 +1,117 @@
+{
+    "packages": {
+        "wpackagist-plugin/amp": {
+            "0.5.1": {
+                "name": "wpackagist-plugin/amp",
+                "version": "0.5.1",
+                "version_normalized": "0.5.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/amp/",
+                    "reference": "tags/0.5.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/amp/wpackagist-plugin-amp-0.5.1-8a2f24.zip",
+                    "reference": "tags/0.5.1",
+                    "shasum": "ecb7ed28c0013c9ba948fe38a6d98fca0b6f6a31"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/amp/",
+                "uid": 251
+            },
+            "0.6.0": {
+                "name": "wpackagist-plugin/amp",
+                "version": "0.6.0",
+                "version_normalized": "0.6.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/amp/",
+                    "reference": "tags/0.6.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/amp/wpackagist-plugin-amp-0.6.0-5f4ac2.zip",
+                    "reference": "tags/0.6.0",
+                    "shasum": "a2c5e99624990ba4d01599caac94670ffc5a7bfa"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/amp/",
+                "uid": 252
+            },
+            "0.6.1": {
+                "name": "wpackagist-plugin/amp",
+                "version": "0.6.1",
+                "version_normalized": "0.6.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/amp/",
+                    "reference": "tags/0.6.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/amp/wpackagist-plugin-amp-0.6.1-18b2d3.zip",
+                    "reference": "tags/0.6.1",
+                    "shasum": "0facdb5c6af9e6b17f72656cdab11b7c5ead374f"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/amp/",
+                "uid": 253
+            },
+            "0.6.2": {
+                "name": "wpackagist-plugin/amp",
+                "version": "0.6.2",
+                "version_normalized": "0.6.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/amp/",
+                    "reference": "tags/0.6.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/amp/wpackagist-plugin-amp-0.6.2-b35acb.zip",
+                    "reference": "tags/0.6.2",
+                    "shasum": "7f96688fa5a415124e45139ddb72640463d83e1f"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/amp/",
+                "uid": 254
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/amp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/amp/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/amp/wpackagist-plugin-amp-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "22a67cfa11cab7b828d1580450e77e2c062fb698"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2018-02-28T19:21:24+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/amp/",
+                "uid": 255
+            }
+        }
+    }
+}

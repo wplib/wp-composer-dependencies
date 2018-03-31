@@ -1,0 +1,51 @@
+{
+    "packages": {
+        "wpackagist-plugin/buddypress": {
+            "2.9.3": {
+                "name": "wpackagist-plugin/buddypress",
+                "version": "2.9.3",
+                "version_normalized": "2.9.3.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/buddypress/",
+                    "reference": "tags/2.9.3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/buddypress/wpackagist-plugin-buddypress-2.9.3-fa3d46.zip",
+                    "reference": "tags/2.9.3",
+                    "shasum": "e689a9f2ff1f37c981a314a4a07ebd33c254377c"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/buddypress/",
+                "uid": 256
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/buddypress",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/buddypress/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/buddypress/wpackagist-plugin-buddypress-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "748140badc67686354d3403066cf838c34409e7f"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2018-01-25T21:39:17+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/buddypress/",
+                "uid": 257
+            }
+        }
+    }
+}
