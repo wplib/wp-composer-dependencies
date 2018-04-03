@@ -1,0 +1,426 @@
+{
+    "packages": {
+        "wplib/wplib": {
+            "0.14.0": {
+                "name": "wplib/wplib",
+                "version": "0.14.0",
+                "version_normalized": "0.14.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/wplib/wplib",
+                    "reference": "1f4430284b796a0101d9255db3e8852eeed981a6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wplib/wplib/wplib-wplib-0.14.0-54df06.zip",
+                    "reference": "1f4430284b796a0101d9255db3e8852eeed981a6",
+                    "shasum": "bc38ceafab95c7d9fefd742e2d34494b55188cdd"
+                },
+                "require": {
+                    "php": ">=5.4.0"
+                },
+                "suggest": {
+                    "wplib/wplib-box": "The Easiest Local Development Solution for WordPress Developers"
+                },
+                "time": "2017-07-17T04:13:54+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "WPLib_": "includes/"
+                    }
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "The WPLib Team",
+                        "email": "team@wplib.org",
+                        "homepage": "http://wplib.org",
+                        "role": "Supporting Organization"
+                    },
+                    {
+                        "name": "Mike Schinkel",
+                        "email": "mike@newclarity.net",
+                        "homepage": "http://about.me/mikeschinkel",
+                        "role": "Architect and Developer"
+                    },
+                    {
+                        "name": "Daryl Lozupone",
+                        "email": "daryl@newclarity.net",
+                        "homepage": "https://www.linkedin.com/in/daryllozupone",
+                        "role": "DevOp and Developer"
+                    }
+                ],
+                "description": "A PHP Library that Adds Modules and Applications to WordPress",
+                "homepage": "http://github.com/wplib/wplib",
+                "keywords": [
+                    "library",
+                    "modules",
+                    "mvc",
+                    "php",
+                    "wordpress",
+                    "wplib"
+                ],
+                "support": {
+                    "email": "support@wplib.org",
+                    "issues": "https://github.com/wplib/wplib/issues",
+                    "forum": "https://wplib.slack.com/",
+                    "source": "https://github.com/wplib/wplib",
+                    "docs": "http://wplib.org"
+                },
+                "uid": 656
+            },
+            "0.14.1": {
+                "name": "wplib/wplib",
+                "version": "0.14.1",
+                "version_normalized": "0.14.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/wplib/wplib",
+                    "reference": "8c6808d115b5d4c82990ec350d5d0f0e560c0104"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wplib/wplib/wplib-wplib-0.14.1-ca4ff5.zip",
+                    "reference": "8c6808d115b5d4c82990ec350d5d0f0e560c0104",
+                    "shasum": "c427f0ae01f02f8906532ee324ca0d698ce3c97a"
+                },
+                "require": {
+                    "php": ">=5.4.0"
+                },
+                "suggest": {
+                    "wplib/wplib-box": "The Easiest Local Development Solution for WordPress Developers"
+                },
+                "time": "2017-11-09T17:23:15+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "WPLib_": "includes/"
+                    }
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "The WPLib Team",
+                        "email": "team@wplib.org",
+                        "homepage": "http://wplib.org",
+                        "role": "Supporting Organization"
+                    },
+                    {
+                        "name": "Mike Schinkel",
+                        "email": "mike@newclarity.net",
+                        "homepage": "http://about.me/mikeschinkel",
+                        "role": "Architect and Developer"
+                    },
+                    {
+                        "name": "Daryl Lozupone",
+                        "email": "daryl@newclarity.net",
+                        "homepage": "https://www.linkedin.com/in/daryllozupone",
+                        "role": "DevOp and Developer"
+                    }
+                ],
+                "description": "A PHP Library that Adds Modules and Applications to WordPress",
+                "homepage": "http://github.com/wplib/wplib",
+                "keywords": [
+                    "library",
+                    "modules",
+                    "mvc",
+                    "php",
+                    "wordpress",
+                    "wplib"
+                ],
+                "support": {
+                    "email": "support@wplib.org",
+                    "issues": "https://github.com/wplib/wplib/issues",
+                    "forum": "https://wplib.slack.com/",
+                    "source": "https://github.com/wplib/wplib",
+                    "docs": "http://wplib.org"
+                },
+                "uid": 657
+            },
+            "0.14.2": {
+                "name": "wplib/wplib",
+                "version": "0.14.2",
+                "version_normalized": "0.14.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/wplib/wplib",
+                    "reference": "a0b5b7c576a5c7e7b734a753400c217dd55769d3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wplib/wplib/wplib-wplib-0.14.2-44d874.zip",
+                    "reference": "a0b5b7c576a5c7e7b734a753400c217dd55769d3",
+                    "shasum": "ce96a920776304e68c9546b52bef22bae3972ece"
+                },
+                "require": {
+                    "php": ">=5.4.0"
+                },
+                "suggest": {
+                    "wplib/wplib-box": "The Easiest Local Development Solution for WordPress Developers"
+                },
+                "time": "2018-02-13T21:33:22+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "WPLib_": "includes/"
+                    }
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "The WPLib Team",
+                        "email": "team@wplib.org",
+                        "homepage": "http://wplib.org",
+                        "role": "Supporting Organization"
+                    },
+                    {
+                        "name": "Mike Schinkel",
+                        "email": "mike@newclarity.net",
+                        "homepage": "http://about.me/mikeschinkel",
+                        "role": "Architect and Developer"
+                    },
+                    {
+                        "name": "Daryl Lozupone",
+                        "email": "daryl@newclarity.net",
+                        "homepage": "https://www.linkedin.com/in/daryllozupone",
+                        "role": "DevOp and Developer"
+                    }
+                ],
+                "description": "A PHP Library that Adds Modules and Applications to WordPress",
+                "homepage": "http://github.com/wplib/wplib",
+                "keywords": [
+                    "library",
+                    "modules",
+                    "mvc",
+                    "php",
+                    "wordpress",
+                    "wplib"
+                ],
+                "support": {
+                    "email": "support@wplib.org",
+                    "issues": "https://github.com/wplib/wplib/issues",
+                    "forum": "https://wplib.slack.com/",
+                    "source": "https://github.com/wplib/wplib",
+                    "docs": "http://wplib.org"
+                },
+                "uid": 658
+            },
+            "0.14.3": {
+                "name": "wplib/wplib",
+                "version": "0.14.3",
+                "version_normalized": "0.14.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/wplib/wplib",
+                    "reference": "faa0d37e35e30decf3663e399d59ce24103fa223"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wplib/wplib/wplib-wplib-0.14.3-29513c.zip",
+                    "reference": "faa0d37e35e30decf3663e399d59ce24103fa223",
+                    "shasum": "c27c51d0fcde1a54a60e0732330920d798aa2c99"
+                },
+                "require": {
+                    "php": ">=5.4.0"
+                },
+                "suggest": {
+                    "wplib/wplib-box": "The Easiest Local Development Solution for WordPress Developers"
+                },
+                "time": "2018-02-16T08:02:35+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "WPLib_": "includes/"
+                    }
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "The WPLib Team",
+                        "email": "team@wplib.org",
+                        "homepage": "http://wplib.org",
+                        "role": "Supporting Organization"
+                    },
+                    {
+                        "name": "Mike Schinkel",
+                        "email": "mike@newclarity.net",
+                        "homepage": "http://about.me/mikeschinkel",
+                        "role": "Architect and Developer"
+                    },
+                    {
+                        "name": "Daryl Lozupone",
+                        "email": "daryl@newclarity.net",
+                        "homepage": "https://www.linkedin.com/in/daryllozupone",
+                        "role": "DevOp and Developer"
+                    }
+                ],
+                "description": "A PHP Library that Adds Modules and Applications to WordPress",
+                "homepage": "http://github.com/wplib/wplib",
+                "keywords": [
+                    "library",
+                    "modules",
+                    "mvc",
+                    "php",
+                    "wordpress",
+                    "wplib"
+                ],
+                "support": {
+                    "email": "support@wplib.org",
+                    "issues": "https://github.com/wplib/wplib/issues",
+                    "forum": "https://wplib.slack.com/",
+                    "source": "https://github.com/wplib/wplib",
+                    "docs": "http://wplib.org"
+                },
+                "uid": 659
+            },
+            "0.14.4": {
+                "name": "wplib/wplib",
+                "version": "0.14.4",
+                "version_normalized": "0.14.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/wplib/wplib",
+                    "reference": "8f074297c058f755419d89f5b1703916f1ea3287"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wplib/wplib/wplib-wplib-0.14.4-5e29c4.zip",
+                    "reference": "8f074297c058f755419d89f5b1703916f1ea3287",
+                    "shasum": "0c3d1cde897976d879004bbce9a38141b2270571"
+                },
+                "require": {
+                    "php": ">=5.4.0"
+                },
+                "suggest": {
+                    "wplib/wplib-box": "The Easiest Local Development Solution for WordPress Developers"
+                },
+                "time": "2018-02-26T22:22:46+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "WPLib_": "includes/"
+                    }
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "The WPLib Team",
+                        "email": "team@wplib.org",
+                        "homepage": "http://wplib.org",
+                        "role": "Supporting Organization"
+                    },
+                    {
+                        "name": "Mike Schinkel",
+                        "email": "mike@newclarity.net",
+                        "homepage": "http://about.me/mikeschinkel",
+                        "role": "Architect and Developer"
+                    },
+                    {
+                        "name": "Daryl Lozupone",
+                        "email": "daryl@newclarity.net",
+                        "homepage": "https://www.linkedin.com/in/daryllozupone",
+                        "role": "DevOp and Developer"
+                    }
+                ],
+                "description": "A PHP Library that Adds Modules and Applications to WordPress",
+                "homepage": "http://github.com/wplib/wplib",
+                "keywords": [
+                    "library",
+                    "modules",
+                    "mvc",
+                    "php",
+                    "wordpress",
+                    "wplib"
+                ],
+                "support": {
+                    "email": "support@wplib.org",
+                    "issues": "https://github.com/wplib/wplib/issues",
+                    "forum": "https://wplib.slack.com/",
+                    "source": "https://github.com/wplib/wplib",
+                    "docs": "http://wplib.org"
+                },
+                "uid": 660
+            },
+            "dev-master": {
+                "name": "wplib/wplib",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/wplib/wplib",
+                    "reference": "8f074297c058f755419d89f5b1703916f1ea3287"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wplib/wplib/wplib-wplib-dev-master-5e29c4.zip",
+                    "reference": "8f074297c058f755419d89f5b1703916f1ea3287",
+                    "shasum": "0c3d1cde897976d879004bbce9a38141b2270571"
+                },
+                "require": {
+                    "php": ">=5.4.0"
+                },
+                "suggest": {
+                    "wplib/wplib-box": "The Easiest Local Development Solution for WordPress Developers"
+                },
+                "time": "2018-02-26T22:22:46+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "WPLib_": "includes/"
+                    }
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "The WPLib Team",
+                        "email": "team@wplib.org",
+                        "homepage": "http://wplib.org",
+                        "role": "Supporting Organization"
+                    },
+                    {
+                        "name": "Mike Schinkel",
+                        "email": "mike@newclarity.net",
+                        "homepage": "http://about.me/mikeschinkel",
+                        "role": "Architect and Developer"
+                    },
+                    {
+                        "name": "Daryl Lozupone",
+                        "email": "daryl@newclarity.net",
+                        "homepage": "https://www.linkedin.com/in/daryllozupone",
+                        "role": "DevOp and Developer"
+                    }
+                ],
+                "description": "A PHP Library that Adds Modules and Applications to WordPress",
+                "homepage": "http://github.com/wplib/wplib",
+                "keywords": [
+                    "library",
+                    "modules",
+                    "mvc",
+                    "php",
+                    "wordpress",
+                    "wplib"
+                ],
+                "support": {
+                    "email": "support@wplib.org",
+                    "issues": "https://github.com/wplib/wplib/issues",
+                    "forum": "https://wplib.slack.com/",
+                    "source": "https://github.com/wplib/wplib",
+                    "docs": "http://wplib.org"
+                },
+                "uid": 661
+            }
+        }
+    }
+}
