@@ -1,0 +1,139 @@
+{
+    "packages": {
+        "wpackagist-plugin/dokan-lite": {
+            "2.7.4": {
+                "name": "wpackagist-plugin/dokan-lite",
+                "version": "2.7.4",
+                "version_normalized": "2.7.4.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/dokan-lite/",
+                    "reference": "tags/2.7.4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/dokan-lite/wpackagist-plugin-dokan-lite-2.7.4-e0feb1.zip",
+                    "reference": "tags/2.7.4",
+                    "shasum": "4ad22a95d9f3a7a0de6bd0d6a0cf0e7c7c85cc1f"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/dokan-lite/",
+                "uid": 294
+            },
+            "2.7.5": {
+                "name": "wpackagist-plugin/dokan-lite",
+                "version": "2.7.5",
+                "version_normalized": "2.7.5.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/dokan-lite/",
+                    "reference": "tags/2.7.5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/dokan-lite/wpackagist-plugin-dokan-lite-2.7.5-12fa9f.zip",
+                    "reference": "tags/2.7.5",
+                    "shasum": "7be431c43aded2eeb01fd2deb7af7fa631ce44ba"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/dokan-lite/",
+                "uid": 295
+            },
+            "2.7.6": {
+                "name": "wpackagist-plugin/dokan-lite",
+                "version": "2.7.6",
+                "version_normalized": "2.7.6.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/dokan-lite/",
+                    "reference": "tags/2.7.6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/dokan-lite/wpackagist-plugin-dokan-lite-2.7.6-e2252a.zip",
+                    "reference": "tags/2.7.6",
+                    "shasum": "0c9fb57b1ec3902f3eda8a566d01c13933d7f014"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/dokan-lite/",
+                "uid": 296
+            },
+            "2.7.7": {
+                "name": "wpackagist-plugin/dokan-lite",
+                "version": "2.7.7",
+                "version_normalized": "2.7.7.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/dokan-lite/",
+                    "reference": "tags/2.7.7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/dokan-lite/wpackagist-plugin-dokan-lite-2.7.7-7b319e.zip",
+                    "reference": "tags/2.7.7",
+                    "shasum": "97e8c00da9d8ad56913eae45bad90e6e1ce15e39"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/dokan-lite/",
+                "uid": 297
+            },
+            "2.7.8": {
+                "name": "wpackagist-plugin/dokan-lite",
+                "version": "2.7.8",
+                "version_normalized": "2.7.8.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/dokan-lite/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/dokan-lite/wpackagist-plugin-dokan-lite-2.7.8-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "fa859a275f5c6bd8d91c5c1dfa022ba2dbfb26b6"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/dokan-lite/",
+                "uid": 298
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/dokan-lite",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/dokan-lite/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/dokan-lite/wpackagist-plugin-dokan-lite-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "e109c8dffb0776a3dce77cac56a84cf8e03cf2b3"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2018-03-05T07:02:54+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/dokan-lite/",
+                "uid": 299
+            }
+        }
+    }
+}

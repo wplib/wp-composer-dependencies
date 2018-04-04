@@ -1,0 +1,51 @@
+{
+    "packages": {
+        "wpackagist-plugin/exec-php": {
+            "4.9": {
+                "name": "wpackagist-plugin/exec-php",
+                "version": "4.9",
+                "version_normalized": "4.9.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/exec-php/",
+                    "reference": "tags/4.9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/exec-php/wpackagist-plugin-exec-php-4.9-8a7a14.zip",
+                    "reference": "tags/4.9",
+                    "shasum": "aea02faf7e9f741efae4c7a2b8fcd0c761604ccf"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/exec-php/",
+                "uid": 317
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/exec-php",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/exec-php/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/exec-php/wpackagist-plugin-exec-php-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "b73217a2c8667fd42fb412e3c7388d4c8923c1b4"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2010-05-14T14:46:27+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/exec-php/",
+                "uid": 318
+            }
+        }
+    }
+}

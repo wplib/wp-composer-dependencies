@@ -1,0 +1,73 @@
+{
+    "packages": {
+        "wpackagist-plugin/google-sitemap-generator": {
+            "4.0.8": {
+                "name": "wpackagist-plugin/google-sitemap-generator",
+                "version": "4.0.8",
+                "version_normalized": "4.0.8.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/google-sitemap-generator/",
+                    "reference": "tags/4.0.8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/google-sitemap-generator/wpackagist-plugin-google-sitemap-generator-4.0.8-f43006.zip",
+                    "reference": "tags/4.0.8",
+                    "shasum": "8c963c7eba87f3219d5563df864489799fa3e823"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/google-sitemap-generator/",
+                "uid": 337
+            },
+            "4.0.9": {
+                "name": "wpackagist-plugin/google-sitemap-generator",
+                "version": "4.0.9",
+                "version_normalized": "4.0.9.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/google-sitemap-generator/",
+                    "reference": "tags/4.0.9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/google-sitemap-generator/wpackagist-plugin-google-sitemap-generator-4.0.9-03074b.zip",
+                    "reference": "tags/4.0.9",
+                    "shasum": "cd24f38f088572176e5b5ee9cfd588a8b0049b54"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/google-sitemap-generator/",
+                "uid": 338
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/google-sitemap-generator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/google-sitemap-generator/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/google-sitemap-generator/wpackagist-plugin-google-sitemap-generator-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "be64fedcb653f3e7cc1eda3cda8dc8801cb5c459"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2017-07-24T22:56:54+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/google-sitemap-generator/",
+                "uid": 339
+            }
+        }
+    }
+}

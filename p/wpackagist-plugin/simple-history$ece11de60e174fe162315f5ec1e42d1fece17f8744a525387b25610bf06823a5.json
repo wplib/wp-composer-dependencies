@@ -1,0 +1,51 @@
+{
+    "packages": {
+        "wpackagist-plugin/simple-history": {
+            "2.20": {
+                "name": "wpackagist-plugin/simple-history",
+                "version": "2.20",
+                "version_normalized": "2.20.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/simple-history/",
+                    "reference": "tags/2.20"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/simple-history/wpackagist-plugin-simple-history-2.20-465813.zip",
+                    "reference": "tags/2.20",
+                    "shasum": "e68c47b0e8c72d31e611183111a913f8a74972bc"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/simple-history/",
+                "uid": 460
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/simple-history",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/simple-history/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/simple-history/wpackagist-plugin-simple-history-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "e605a9c8afa06e8b9e0edb336fb3f6336e9af58b"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2017-11-24T18:21:20+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/simple-history/",
+                "uid": 461
+            }
+        }
+    }
+}
