@@ -1,0 +1,51 @@
+{
+    "packages": {
+        "wpackagist-plugin/wpdatatables": {
+            "2.0.2": {
+                "name": "wpackagist-plugin/wpdatatables",
+                "version": "2.0.2",
+                "version_normalized": "2.0.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wpdatatables/",
+                    "reference": "tags/2.0.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wpdatatables/wpackagist-plugin-wpdatatables-2.0.2-e88dbb.zip",
+                    "reference": "tags/2.0.2",
+                    "shasum": "f986762d2c84e3b9441f808ffb8083274797d089"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wpdatatables/",
+                "uid": 650
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/wpdatatables",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wpdatatables/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wpdatatables/wpackagist-plugin-wpdatatables-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "c88e56a9128719ce16be816aa1b49671a793db83"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2017-12-13T17:15:52+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wpdatatables/",
+                "uid": 651
+            }
+        }
+    }
+}
