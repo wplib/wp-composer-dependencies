@@ -1,0 +1,51 @@
+{
+    "packages": {
+        "wpackagist-plugin/wp-user-avatar": {
+            "2.0.9": {
+                "name": "wpackagist-plugin/wp-user-avatar",
+                "version": "2.0.9",
+                "version_normalized": "2.0.9.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wp-user-avatar/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-user-avatar/wpackagist-plugin-wp-user-avatar-2.0.9-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "f7868e637b9b6632200e13c7f5ff69a67a28ddda"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wp-user-avatar/",
+                "uid": 649
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/wp-user-avatar",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wp-user-avatar/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wp-user-avatar/wpackagist-plugin-wp-user-avatar-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "5ee815b46fdfcfb30842eae0d680a1d0131b3d33"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2017-11-11T09:55:28+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wp-user-avatar/",
+                "uid": 650
+            }
+        }
+    }
+}

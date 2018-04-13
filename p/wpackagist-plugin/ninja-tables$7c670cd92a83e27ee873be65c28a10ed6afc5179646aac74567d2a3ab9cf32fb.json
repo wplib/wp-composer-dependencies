@@ -1,0 +1,97 @@
+{
+    "packages": {
+        "wpackagist-plugin/ninja-tables": {
+            "2.0.4": {
+                "name": "wpackagist-plugin/ninja-tables",
+                "version": "2.0.4",
+                "version_normalized": "2.0.4.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/ninja-tables/",
+                    "reference": "tags/2.0.4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/ninja-tables/wpackagist-plugin-ninja-tables-2.0.4-fee446.zip",
+                    "reference": "tags/2.0.4",
+                    "shasum": "0c7b632b17ac500e517ee2126eacb3fcc7995a56"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/ninja-tables/",
+                "uid": 399
+            },
+            "2.0.5": {
+                "name": "wpackagist-plugin/ninja-tables",
+                "version": "2.0.5",
+                "version_normalized": "2.0.5.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/ninja-tables/",
+                    "reference": "tags/2.0.5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/ninja-tables/wpackagist-plugin-ninja-tables-2.0.5-aa841d.zip",
+                    "reference": "tags/2.0.5",
+                    "shasum": "72ae5d6afe1bf257a2e1e01715e492b47f4a18a3"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "homepage": "https://wordpress.org/plugins/ninja-tables/",
+                "uid": 400
+            },
+            "2.0.6": {
+                "name": "wpackagist-plugin/ninja-tables",
+                "version": "2.0.6",
+                "version_normalized": "2.0.6.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/ninja-tables/",
+                    "reference": "tags/2.0.6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/ninja-tables/wpackagist-plugin-ninja-tables-2.0.6-cf84e8.zip",
+                    "reference": "tags/2.0.6",
+                    "shasum": "8de14fa43aa946636c801b253df099a7eb0ae87a"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "homepage": "https://wordpress.org/plugins/ninja-tables/",
+                "uid": 401
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/ninja-tables",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/ninja-tables/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/ninja-tables/wpackagist-plugin-ninja-tables-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "bb87426a7e462d06637372f10e3f64bc671788e7"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2018-04-12T18:57:08+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/ninja-tables/",
+                "uid": 402
+            }
+        }
+    }
+}
