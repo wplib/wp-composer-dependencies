@@ -1,0 +1,23 @@
+{
+    "packages": {
+        "artifacts/carya-shortcodes": {
+            "1.0": {
+                "name": "artifacts/carya-shortcodes",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/artifacts/carya-shortcodes/artifacts-carya-shortcodes-1.0.zip",
+                    "reference": null,
+                    "shasum": "6a3275bb5fe7b57581223e8768f34b543b07ac26"
+                },
+                "require": {
+                    "wplib/wp-composer-installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "description": "Carya Shortcodes",
+                "uid": 21
+            }
+        }
+    }
+}

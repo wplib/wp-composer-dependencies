@@ -1,0 +1,35 @@
+{
+    "packages": {
+        "artifacts/wpseo-news": {
+            "5.8": {
+                "name": "artifacts/wpseo-news",
+                "version": "5.8",
+                "version_normalized": "5.8.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/artifacts/wpseo-news/artifacts-wpseo-news-5.8.zip",
+                    "reference": null,
+                    "shasum": "5f57593fc322a51073e551df3cbb68d82a20e997"
+                },
+                "require": {
+                    "wplib/wp-composer-installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "uid": 40
+            },
+            "7.2": {
+                "name": "artifacts/wpseo-news",
+                "version": "7.2",
+                "version_normalized": "7.2.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/artifacts/wpseo-news/artifacts-wpseo-news-7.2.zip",
+                    "reference": null,
+                    "shasum": "59d9486b4b883f4a413190b515f3a9a7bbb1c4b4"
+                },
+                "type": "wordpress-plugin",
+                "uid": 41
+            }
+        }
+    }
+}
