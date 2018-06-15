@@ -1,0 +1,73 @@
+{
+    "packages": {
+        "wpackagist-plugin/publish-to-apple-news": {
+            "1.2.7": {
+                "name": "wpackagist-plugin/publish-to-apple-news",
+                "version": "1.2.7",
+                "version_normalized": "1.2.7.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/publish-to-apple-news/",
+                    "reference": "tags/1.2.7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/publish-to-apple-news/wpackagist-plugin-publish-to-apple-news-1.2.7-3c94ac.zip",
+                    "reference": "tags/1.2.7",
+                    "shasum": "472a99ca9ac4070e62ab4fb13cc16653e3cd6d81"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/publish-to-apple-news/",
+                "uid": 458
+            },
+            "1.3.0": {
+                "name": "wpackagist-plugin/publish-to-apple-news",
+                "version": "1.3.0",
+                "version_normalized": "1.3.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/publish-to-apple-news/",
+                    "reference": "tags/1.3.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/publish-to-apple-news/wpackagist-plugin-publish-to-apple-news-1.3.0-f21c70.zip",
+                    "reference": "tags/1.3.0",
+                    "shasum": "1cf846fb10e2e791cef39fd6803e50d412760bde"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/publish-to-apple-news/",
+                "uid": 459
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/publish-to-apple-news",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/publish-to-apple-news/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/publish-to-apple-news/wpackagist-plugin-publish-to-apple-news-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "386a5b843fc51c4012207a13fb2e3280701eeed8"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2017-08-10T14:52:10+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/publish-to-apple-news/",
+                "uid": 460
+            }
+        }
+    }
+}
