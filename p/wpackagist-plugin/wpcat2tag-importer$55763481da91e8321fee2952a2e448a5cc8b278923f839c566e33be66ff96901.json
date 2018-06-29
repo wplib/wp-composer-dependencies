@@ -1,0 +1,51 @@
+{
+    "packages": {
+        "wpackagist-plugin/wpcat2tag-importer": {
+            "0.5": {
+                "name": "wpackagist-plugin/wpcat2tag-importer",
+                "version": "0.5",
+                "version_normalized": "0.5.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wpcat2tag-importer/",
+                    "reference": "tags/0.5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wpcat2tag-importer/wpackagist-plugin-wpcat2tag-importer-0.5-8c19d7.zip",
+                    "reference": "tags/0.5",
+                    "shasum": "e177373de51497bd57a84fc44b28c9d93318a678"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wpcat2tag-importer/",
+                "uid": 705
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/wpcat2tag-importer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/wpcat2tag-importer/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/wpcat2tag-importer/wpackagist-plugin-wpcat2tag-importer-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "e3a3960886a32975eca077097edd689127b66cd7"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2014-10-16T06:55:16+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/wpcat2tag-importer/",
+                "uid": 706
+            }
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "packages": {
+        "wpackagist-plugin/easy-author-image": {
+            "1.5": {
+                "name": "wpackagist-plugin/easy-author-image",
+                "version": "1.5",
+                "version_normalized": "1.5.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/easy-author-image/",
+                    "reference": "tags/1.5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/easy-author-image/wpackagist-plugin-easy-author-image-1.5-cef896.zip",
+                    "reference": "tags/1.5",
+                    "shasum": "9900b5eacf66227819a50a7f9e5f456585a2718b"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/easy-author-image/",
+                "uid": 334
+            },
+            "1.5.1": {
+                "name": "wpackagist-plugin/easy-author-image",
+                "version": "1.5.1",
+                "version_normalized": "1.5.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/easy-author-image/",
+                    "reference": "tags/1.5.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/easy-author-image/wpackagist-plugin-easy-author-image-1.5.1-09be18.zip",
+                    "reference": "tags/1.5.1",
+                    "shasum": "500926001524fafe03b310061353f2f14642ce7a"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/easy-author-image/",
+                "uid": 335
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/easy-author-image",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/easy-author-image/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/easy-author-image/wpackagist-plugin-easy-author-image-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "9a5aa16dd6a5b868049fb61370a2e2f57e7a0a74"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2014-03-24T05:30:21+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/easy-author-image/",
+                "uid": 336
+            }
+        }
+    }
+}
