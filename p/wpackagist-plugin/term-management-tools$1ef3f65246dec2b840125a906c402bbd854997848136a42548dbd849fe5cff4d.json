@@ -1,0 +1,51 @@
+{
+    "packages": {
+        "wpackagist-plugin/term-management-tools": {
+            "1.1.4": {
+                "name": "wpackagist-plugin/term-management-tools",
+                "version": "1.1.4",
+                "version_normalized": "1.1.4.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/term-management-tools/",
+                    "reference": "tags/1.1.4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/term-management-tools/wpackagist-plugin-term-management-tools-1.1.4-657923.zip",
+                    "reference": "tags/1.1.4",
+                    "shasum": "e5b4281ee3397c7724809d13fd68309c3b234376"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/term-management-tools/",
+                "uid": 625
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/term-management-tools",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/term-management-tools/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/term-management-tools/wpackagist-plugin-term-management-tools-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "1b8a6f584a0a1491a0da38161f25d7886e17645c"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2015-11-17T09:44:18+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/term-management-tools/",
+                "uid": 626
+            }
+        }
+    }
+}

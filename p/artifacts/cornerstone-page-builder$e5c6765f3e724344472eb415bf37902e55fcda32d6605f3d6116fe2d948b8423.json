@@ -1,0 +1,23 @@
+{
+    "packages": {
+        "artifacts/cornerstone-page-builder": {
+            "2.1.7": {
+                "name": "artifacts/cornerstone-page-builder",
+                "version": "2.1.7",
+                "version_normalized": "2.1.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/artifacts/cornerstone-page-builder/artifacts-cornerstone-page-builder-2.1.7.zip",
+                    "reference": null,
+                    "shasum": "2d7e2633785dcff426de1a15c8cdcf425ae212b7"
+                },
+                "require": {
+                    "wplib/wp-composer-installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "description": "Cornerstone - The WordPress Page Builder",
+                "uid": 25
+            }
+        }
+    }
+}

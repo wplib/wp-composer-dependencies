@@ -1,0 +1,23 @@
+{
+    "packages": {
+        "artifacts/convertplug": {
+            "3.0.3": {
+                "name": "artifacts/convertplug",
+                "version": "3.0.3",
+                "version_normalized": "3.0.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/artifacts/convertplug/artifacts-convertplug-3.0.3.zip",
+                    "reference": null,
+                    "shasum": "1933b49a3ee01c9cab5b61811144e5f3f48e421c"
+                },
+                "require": {
+                    "wplib/wp-composer-installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "description": "Convert Plus",
+                "uid": 24
+            }
+        }
+    }
+}

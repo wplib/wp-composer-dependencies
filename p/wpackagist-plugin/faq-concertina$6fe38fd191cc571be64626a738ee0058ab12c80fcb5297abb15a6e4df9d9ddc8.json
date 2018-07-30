@@ -1,0 +1,73 @@
+{
+    "packages": {
+        "wpackagist-plugin/faq-concertina": {
+            "1.4.2": {
+                "name": "wpackagist-plugin/faq-concertina",
+                "version": "1.4.2",
+                "version_normalized": "1.4.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/faq-concertina/",
+                    "reference": "tags/1.4.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/faq-concertina/wpackagist-plugin-faq-concertina-1.4.2-e8179e.zip",
+                    "reference": "tags/1.4.2",
+                    "shasum": "e2bbb9ce702aa29300f41ff791df3e68ce66ae83"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/faq-concertina/",
+                "uid": 358
+            },
+            "1.4.3": {
+                "name": "wpackagist-plugin/faq-concertina",
+                "version": "1.4.3",
+                "version_normalized": "1.4.3.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/faq-concertina/",
+                    "reference": "tags/1.4.3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/faq-concertina/wpackagist-plugin-faq-concertina-1.4.3-9bc85e.zip",
+                    "reference": "tags/1.4.3",
+                    "shasum": "2245b96c1df513c772ab508e0b2852a58cda2b42"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/faq-concertina/",
+                "uid": 359
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/faq-concertina",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/faq-concertina/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/faq-concertina/wpackagist-plugin-faq-concertina-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "2c6fac930d37e1542756e8e8e3d8ddab762351e3"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2017-06-05T13:52:41+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/faq-concertina/",
+                "uid": 360
+            }
+        }
+    }
+}

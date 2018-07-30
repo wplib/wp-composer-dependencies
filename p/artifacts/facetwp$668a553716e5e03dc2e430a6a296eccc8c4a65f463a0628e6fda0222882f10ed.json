@@ -1,0 +1,57 @@
+{
+    "packages": {
+        "artifacts/facetwp": {
+            "2.5": {
+                "name": "artifacts/facetwp",
+                "version": "2.5",
+                "version_normalized": "2.5.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/artifacts/facetwp/artifacts-facetwp-2.5.zip",
+                    "reference": null,
+                    "shasum": "9475d0a170ab92449baadbdac592ace35611d05c"
+                },
+                "require": {
+                    "wplib/wp-composer-installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "description": "FacetWP Plugin",
+                "uid": 29
+            },
+            "2.7.2": {
+                "name": "artifacts/facetwp",
+                "version": "2.7.2",
+                "version_normalized": "2.7.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/artifacts/facetwp/artifacts-facetwp-2.7.2.zip",
+                    "reference": null,
+                    "shasum": "01f4f1fb8f29b86b79243c03679ddbd041c1568c"
+                },
+                "require": {
+                    "wplib/wp-composer-installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "description": "FacetWP Plugin",
+                "uid": 30
+            },
+            "2.9.3": {
+                "name": "artifacts/facetwp",
+                "version": "2.9.3",
+                "version_normalized": "2.9.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/artifacts/facetwp/artifacts-facetwp-2.9.3.zip",
+                    "reference": null,
+                    "shasum": "04e8293a017e002153084bd1e1e894d13edaf582"
+                },
+                "require": {
+                    "wplib/wp-composer-installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "description": "FacetWP Plugin",
+                "uid": 31
+            }
+        }
+    }
+}
