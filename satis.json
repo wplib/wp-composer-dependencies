@@ -179,6 +179,7 @@
         "wpackagist-plugin/wp-statistics": ">=11.0.2",
         "wpackagist-plugin/wp-user-avatar": ">=2.0.9",
         "wpackagist-plugin/wpdatatables": ">=2.0.2",
+        "wpackagist-plugin/widget-options":">=3.6",
         "wpackagist-plugin/yith-woocommerce-wishlist": ">=2.2.0",
         "wpackagist-theme/twentyeleven": ">=2.6",
         "wpackagist-theme/twentyfifteen": ">=1.7",
