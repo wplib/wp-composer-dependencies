@@ -1,0 +1,117 @@
+{
+    "packages": {
+        "wpackagist-plugin/post-views-counter": {
+            "1.2.10": {
+                "name": "wpackagist-plugin/post-views-counter",
+                "version": "1.2.10",
+                "version_normalized": "1.2.10.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/post-views-counter/",
+                    "reference": "tags/1.2.10"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/post-views-counter/wpackagist-plugin-post-views-counter-1.2.10-1419e7.zip",
+                    "reference": "tags/1.2.10",
+                    "shasum": "aeb1f8cf719e5b54e05d772fb8f6db7c405ef926"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/post-views-counter/",
+                "uid": 484
+            },
+            "1.2.11": {
+                "name": "wpackagist-plugin/post-views-counter",
+                "version": "1.2.11",
+                "version_normalized": "1.2.11.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/post-views-counter/",
+                    "reference": "tags/1.2.11"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/post-views-counter/wpackagist-plugin-post-views-counter-1.2.11-618272.zip",
+                    "reference": "tags/1.2.11",
+                    "shasum": "f7a73a208254cebdfc5104d43df287add987aef0"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/post-views-counter/",
+                "uid": 485
+            },
+            "1.2.12": {
+                "name": "wpackagist-plugin/post-views-counter",
+                "version": "1.2.12",
+                "version_normalized": "1.2.12.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/post-views-counter/",
+                    "reference": "tags/1.2.12"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/post-views-counter/wpackagist-plugin-post-views-counter-1.2.12-00dfef.zip",
+                    "reference": "tags/1.2.12",
+                    "shasum": "d91f90df773001a0660b254e4323adcf967819a0"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/post-views-counter/",
+                "uid": 486
+            },
+            "1.2.13": {
+                "name": "wpackagist-plugin/post-views-counter",
+                "version": "1.2.13",
+                "version_normalized": "1.2.13.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/post-views-counter/",
+                    "reference": "tags/1.2.13"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/post-views-counter/wpackagist-plugin-post-views-counter-1.2.13-ed75bc.zip",
+                    "reference": "tags/1.2.13",
+                    "shasum": "9f020eb56e11f81c6beb8a25d69be9c62567aff7"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/post-views-counter/",
+                "uid": 487
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/post-views-counter",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/post-views-counter/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/post-views-counter/wpackagist-plugin-post-views-counter-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "0a3fc4149582a4fadfcac03d03dde1b4a7e68f37"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2018-06-20T13:45:00+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/post-views-counter/",
+                "uid": 488
+            }
+        }
+    }
+}
