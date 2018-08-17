@@ -136,6 +136,7 @@
         "wpackagist-plugin/imagemagick-sharpen-resized-images": ">=1.1.7",
         "wpackagist-plugin/jetpack": ">=5.2.1",
         "wpackagist-plugin/json-rest-api": ">=1.2.5",
+        "wpackagist-plugin/meta-box": ">=4.15.2",
         "wpackagist-plugin/mini-twitter-feed": ">=2.0.1",
         "wpackagist-plugin/ml-slider": ">=3.3.7",
         "wpackagist-plugin/ninja-tables": ">=2.0.4",
