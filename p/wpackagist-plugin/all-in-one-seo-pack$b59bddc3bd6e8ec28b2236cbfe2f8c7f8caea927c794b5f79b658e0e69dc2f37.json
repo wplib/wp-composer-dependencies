@@ -1,0 +1,866 @@
+{
+    "packages": {
+        "wpackagist-plugin/all-in-one-seo-pack": {
+            "2.3.11.1": {
+                "name": "wpackagist-plugin/all-in-one-seo-pack",
+                "version": "2.3.11.1",
+                "version_normalized": "2.3.11.1",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
+                    "reference": "tags/2.3.11.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/all-in-one-seo-pack/wpackagist-plugin-all-in-one-seo-pack-2.3.11.1-452c1d.zip",
+                    "reference": "tags/2.3.11.1",
+                    "shasum": "be99de7288ce4deef8116da4bd738d6d9d0bb70e"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+                "uid": 239
+            },
+            "2.3.11.2": {
+                "name": "wpackagist-plugin/all-in-one-seo-pack",
+                "version": "2.3.11.2",
+                "version_normalized": "2.3.11.2",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
+                    "reference": "tags/2.3.11.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/all-in-one-seo-pack/wpackagist-plugin-all-in-one-seo-pack-2.3.11.2-ba406f.zip",
+                    "reference": "tags/2.3.11.2",
+                    "shasum": "f24fb5cd887a840ea78c2b8bd154380722fd5555"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+                "uid": 240
+            },
+            "2.3.11.3": {
+                "name": "wpackagist-plugin/all-in-one-seo-pack",
+                "version": "2.3.11.3",
+                "version_normalized": "2.3.11.3",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
+                    "reference": "tags/2.3.11.3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/all-in-one-seo-pack/wpackagist-plugin-all-in-one-seo-pack-2.3.11.3-f28e6f.zip",
+                    "reference": "tags/2.3.11.3",
+                    "shasum": "d646c4f73372eb730bcfc121269d9d5a291d0a11"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+                "uid": 241
+            },
+            "2.3.11.4": {
+                "name": "wpackagist-plugin/all-in-one-seo-pack",
+                "version": "2.3.11.4",
+                "version_normalized": "2.3.11.4",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
+                    "reference": "tags/2.3.11.4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/all-in-one-seo-pack/wpackagist-plugin-all-in-one-seo-pack-2.3.11.4-a89713.zip",
+                    "reference": "tags/2.3.11.4",
+                    "shasum": "df6f653b920f2e51011afa01b149b4e9a7aabdf4"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+                "uid": 242
+            },
+            "2.3.12": {
+                "name": "wpackagist-plugin/all-in-one-seo-pack",
+                "version": "2.3.12",
+                "version_normalized": "2.3.12.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
+                    "reference": "tags/2.3.12"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/all-in-one-seo-pack/wpackagist-plugin-all-in-one-seo-pack-2.3.12-5e08ef.zip",
+                    "reference": "tags/2.3.12",
+                    "shasum": "240500180dc16f2eb69ea2ef05e1e5b8f39a84b9"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+                "uid": 243
+            },
+            "2.3.12.1": {
+                "name": "wpackagist-plugin/all-in-one-seo-pack",
+                "version": "2.3.12.1",
+                "version_normalized": "2.3.12.1",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
+                    "reference": "tags/2.3.12.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/all-in-one-seo-pack/wpackagist-plugin-all-in-one-seo-pack-2.3.12.1-882183.zip",
+                    "reference": "tags/2.3.12.1",
+                    "shasum": "6475511700fccddcf488155f61d49f5118697144"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+                "uid": 244
+            },
+            "2.3.12.2": {
+                "name": "wpackagist-plugin/all-in-one-seo-pack",
+                "version": "2.3.12.2",
+                "version_normalized": "2.3.12.2",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
+                    "reference": "tags/2.3.12.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/all-in-one-seo-pack/wpackagist-plugin-all-in-one-seo-pack-2.3.12.2-096978.zip",
+                    "reference": "tags/2.3.12.2",
+                    "shasum": "23c22a3143eabdae54ef6f2952a6555b51b7637e"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+                "uid": 245
+            },
+            "2.3.12.3": {
+                "name": "wpackagist-plugin/all-in-one-seo-pack",
+                "version": "2.3.12.3",
+                "version_normalized": "2.3.12.3",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
+                    "reference": "tags/2.3.12.3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/all-in-one-seo-pack/wpackagist-plugin-all-in-one-seo-pack-2.3.12.3-d23925.zip",
+                    "reference": "tags/2.3.12.3",
+                    "shasum": "7c5d7c8ddd87c2cf81e26d14b33ffdb8885c71fd"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+                "uid": 246
+            },
+            "2.3.12.4": {
+                "name": "wpackagist-plugin/all-in-one-seo-pack",
+                "version": "2.3.12.4",
+                "version_normalized": "2.3.12.4",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
+                    "reference": "tags/2.3.12.4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/all-in-one-seo-pack/wpackagist-plugin-all-in-one-seo-pack-2.3.12.4-ddbdf7.zip",
+                    "reference": "tags/2.3.12.4",
+                    "shasum": "6a214e0a2c216117aece71ed1cdfb432073d1479"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+                "uid": 247
+            },
+            "2.3.12.5": {
+                "name": "wpackagist-plugin/all-in-one-seo-pack",
+                "version": "2.3.12.5",
+                "version_normalized": "2.3.12.5",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
+                    "reference": "tags/2.3.12.5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/all-in-one-seo-pack/wpackagist-plugin-all-in-one-seo-pack-2.3.12.5-07ba64.zip",
+                    "reference": "tags/2.3.12.5",
+                    "shasum": "eab2e167815abb86f1c8ba514990c8aa02ab4ce1"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+                "uid": 248
+            },
+            "2.3.13": {
+                "name": "wpackagist-plugin/all-in-one-seo-pack",
+                "version": "2.3.13",
+                "version_normalized": "2.3.13.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
+                    "reference": "tags/2.3.13"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/all-in-one-seo-pack/wpackagist-plugin-all-in-one-seo-pack-2.3.13-c6fa42.zip",
+                    "reference": "tags/2.3.13",
+                    "shasum": "9ccae3dcb707b58d7664f090dfd4ae89205baffa"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+                "uid": 249
+            },
+            "2.3.13.1": {
+                "name": "wpackagist-plugin/all-in-one-seo-pack",
+                "version": "2.3.13.1",
+                "version_normalized": "2.3.13.1",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
+                    "reference": "tags/2.3.13.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/all-in-one-seo-pack/wpackagist-plugin-all-in-one-seo-pack-2.3.13.1-096210.zip",
+                    "reference": "tags/2.3.13.1",
+                    "shasum": "268ae0dbbedb6bd17bbfd304530a908d2b1ac66d"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+                "uid": 250
+            },
+            "2.3.13.2": {
+                "name": "wpackagist-plugin/all-in-one-seo-pack",
+                "version": "2.3.13.2",
+                "version_normalized": "2.3.13.2",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
+                    "reference": "tags/2.3.13.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/all-in-one-seo-pack/wpackagist-plugin-all-in-one-seo-pack-2.3.13.2-9aaee8.zip",
+                    "reference": "tags/2.3.13.2",
+                    "shasum": "a568022ebce86f04a05976eb63bb31dc982fe960"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+                "uid": 251
+            },
+            "2.3.14": {
+                "name": "wpackagist-plugin/all-in-one-seo-pack",
+                "version": "2.3.14",
+                "version_normalized": "2.3.14.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
+                    "reference": "tags/2.3.14"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/all-in-one-seo-pack/wpackagist-plugin-all-in-one-seo-pack-2.3.14-f177ff.zip",
+                    "reference": "tags/2.3.14",
+                    "shasum": "09d9c090c1f07a2b081bcade5f91098187a0be4a"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+                "uid": 252
+            },
+            "2.3.14.1": {
+                "name": "wpackagist-plugin/all-in-one-seo-pack",
+                "version": "2.3.14.1",
+                "version_normalized": "2.3.14.1",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
+                    "reference": "tags/2.3.14.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/all-in-one-seo-pack/wpackagist-plugin-all-in-one-seo-pack-2.3.14.1-bf9e47.zip",
+                    "reference": "tags/2.3.14.1",
+                    "shasum": "f5338188a83eea6d9cbdf958063c38ff2787b8e5"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+                "uid": 253
+            },
+            "2.3.14.2": {
+                "name": "wpackagist-plugin/all-in-one-seo-pack",
+                "version": "2.3.14.2",
+                "version_normalized": "2.3.14.2",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
+                    "reference": "tags/2.3.14.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/all-in-one-seo-pack/wpackagist-plugin-all-in-one-seo-pack-2.3.14.2-67b39a.zip",
+                    "reference": "tags/2.3.14.2",
+                    "shasum": "b0ef5dc74e7c80f8e30a9fbaa893c6ee5ce786a2"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+                "uid": 254
+            },
+            "2.3.15": {
+                "name": "wpackagist-plugin/all-in-one-seo-pack",
+                "version": "2.3.15",
+                "version_normalized": "2.3.15.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
+                    "reference": "tags/2.3.15"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/all-in-one-seo-pack/wpackagist-plugin-all-in-one-seo-pack-2.3.15-d9f26b.zip",
+                    "reference": "tags/2.3.15",
+                    "shasum": "d7aaf08b54ad2dcfe1b2842fecb7cd004dcb89f2"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+                "uid": 255
+            },
+            "2.3.15.1": {
+                "name": "wpackagist-plugin/all-in-one-seo-pack",
+                "version": "2.3.15.1",
+                "version_normalized": "2.3.15.1",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
+                    "reference": "tags/2.3.15.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/all-in-one-seo-pack/wpackagist-plugin-all-in-one-seo-pack-2.3.15.1-3544fb.zip",
+                    "reference": "tags/2.3.15.1",
+                    "shasum": "1c7547051f1785403bf256d1808b342208d76a4b"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+                "uid": 256
+            },
+            "2.3.15.2": {
+                "name": "wpackagist-plugin/all-in-one-seo-pack",
+                "version": "2.3.15.2",
+                "version_normalized": "2.3.15.2",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
+                    "reference": "tags/2.3.15.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/all-in-one-seo-pack/wpackagist-plugin-all-in-one-seo-pack-2.3.15.2-85d68f.zip",
+                    "reference": "tags/2.3.15.2",
+                    "shasum": "62f63a9281328b958478d8ce6ccb2cf3e0581d91"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+                "uid": 257
+            },
+            "2.3.15.3": {
+                "name": "wpackagist-plugin/all-in-one-seo-pack",
+                "version": "2.3.15.3",
+                "version_normalized": "2.3.15.3",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
+                    "reference": "tags/2.3.15.3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/all-in-one-seo-pack/wpackagist-plugin-all-in-one-seo-pack-2.3.15.3-4ee27d.zip",
+                    "reference": "tags/2.3.15.3",
+                    "shasum": "910a71bb58fe2512103de8553688718ac26f68ff"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+                "uid": 258
+            },
+            "2.3.16": {
+                "name": "wpackagist-plugin/all-in-one-seo-pack",
+                "version": "2.3.16",
+                "version_normalized": "2.3.16.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
+                    "reference": "tags/2.3.16"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/all-in-one-seo-pack/wpackagist-plugin-all-in-one-seo-pack-2.3.16-47eeb9.zip",
+                    "reference": "tags/2.3.16",
+                    "shasum": "268223f82e5fc39962181edd831866ce273ba0e7"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+                "uid": 259
+            },
+            "2.4": {
+                "name": "wpackagist-plugin/all-in-one-seo-pack",
+                "version": "2.4",
+                "version_normalized": "2.4.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
+                    "reference": "tags/2.4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/all-in-one-seo-pack/wpackagist-plugin-all-in-one-seo-pack-2.4-66349e.zip",
+                    "reference": "tags/2.4",
+                    "shasum": "7d91a9bf8142feea73c4a0b9bfca5c433676c25a"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+                "uid": 260
+            },
+            "2.4.1": {
+                "name": "wpackagist-plugin/all-in-one-seo-pack",
+                "version": "2.4.1",
+                "version_normalized": "2.4.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
+                    "reference": "tags/2.4.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/all-in-one-seo-pack/wpackagist-plugin-all-in-one-seo-pack-2.4.1-7f3356.zip",
+                    "reference": "tags/2.4.1",
+                    "shasum": "832772767442c96f5a553a0af832ea882001ae4f"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+                "uid": 261
+            },
+            "2.4.1.1": {
+                "name": "wpackagist-plugin/all-in-one-seo-pack",
+                "version": "2.4.1.1",
+                "version_normalized": "2.4.1.1",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
+                    "reference": "tags/2.4.1.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/all-in-one-seo-pack/wpackagist-plugin-all-in-one-seo-pack-2.4.1.1-9ac3a5.zip",
+                    "reference": "tags/2.4.1.1",
+                    "shasum": "15bc7c926c26e56702fad060803cbf4b58665f35"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+                "uid": 262
+            },
+            "2.4.2": {
+                "name": "wpackagist-plugin/all-in-one-seo-pack",
+                "version": "2.4.2",
+                "version_normalized": "2.4.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
+                    "reference": "tags/2.4.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/all-in-one-seo-pack/wpackagist-plugin-all-in-one-seo-pack-2.4.2-f7960d.zip",
+                    "reference": "tags/2.4.2",
+                    "shasum": "1ee74196789a3aaac0730e8a756feb19e0931c26"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+                "uid": 263
+            },
+            "2.4.2.1": {
+                "name": "wpackagist-plugin/all-in-one-seo-pack",
+                "version": "2.4.2.1",
+                "version_normalized": "2.4.2.1",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
+                    "reference": "tags/2.4.2.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/all-in-one-seo-pack/wpackagist-plugin-all-in-one-seo-pack-2.4.2.1-079e73.zip",
+                    "reference": "tags/2.4.2.1",
+                    "shasum": "43479bf3a65a060baf101894dcecb66296430bd0"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+                "uid": 264
+            },
+            "2.4.3": {
+                "name": "wpackagist-plugin/all-in-one-seo-pack",
+                "version": "2.4.3",
+                "version_normalized": "2.4.3.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
+                    "reference": "tags/2.4.3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/all-in-one-seo-pack/wpackagist-plugin-all-in-one-seo-pack-2.4.3-8c5548.zip",
+                    "reference": "tags/2.4.3",
+                    "shasum": "bd40b14fc5818505b29ae52f8fffeafff59210e7"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+                "uid": 265
+            },
+            "2.4.3.1": {
+                "name": "wpackagist-plugin/all-in-one-seo-pack",
+                "version": "2.4.3.1",
+                "version_normalized": "2.4.3.1",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
+                    "reference": "tags/2.4.3.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/all-in-one-seo-pack/wpackagist-plugin-all-in-one-seo-pack-2.4.3.1-ea5d19.zip",
+                    "reference": "tags/2.4.3.1",
+                    "shasum": "2ada7ab6fd6583db4ff83a82a6508c1969223803"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+                "uid": 266
+            },
+            "2.4.4": {
+                "name": "wpackagist-plugin/all-in-one-seo-pack",
+                "version": "2.4.4",
+                "version_normalized": "2.4.4.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
+                    "reference": "tags/2.4.4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/all-in-one-seo-pack/wpackagist-plugin-all-in-one-seo-pack-2.4.4-33e64d.zip",
+                    "reference": "tags/2.4.4",
+                    "shasum": "3fe2f6f5f4bd48aa7483b5ce19e94fbf8e89e793"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+                "uid": 267
+            },
+            "2.4.4.1": {
+                "name": "wpackagist-plugin/all-in-one-seo-pack",
+                "version": "2.4.4.1",
+                "version_normalized": "2.4.4.1",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
+                    "reference": "tags/2.4.4.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/all-in-one-seo-pack/wpackagist-plugin-all-in-one-seo-pack-2.4.4.1-70ba05.zip",
+                    "reference": "tags/2.4.4.1",
+                    "shasum": "f0eb43abefb6fe24c9e50316c180de7c5da69eac"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+                "uid": 268
+            },
+            "2.4.5": {
+                "name": "wpackagist-plugin/all-in-one-seo-pack",
+                "version": "2.4.5",
+                "version_normalized": "2.4.5.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
+                    "reference": "tags/2.4.5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/all-in-one-seo-pack/wpackagist-plugin-all-in-one-seo-pack-2.4.5-f8ec93.zip",
+                    "reference": "tags/2.4.5",
+                    "shasum": "0118a7b9b7067e2560bcd6e8afbb1df4947407b3"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+                "uid": 269
+            },
+            "2.4.5.1": {
+                "name": "wpackagist-plugin/all-in-one-seo-pack",
+                "version": "2.4.5.1",
+                "version_normalized": "2.4.5.1",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
+                    "reference": "tags/2.4.5.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/all-in-one-seo-pack/wpackagist-plugin-all-in-one-seo-pack-2.4.5.1-b7f8e0.zip",
+                    "reference": "tags/2.4.5.1",
+                    "shasum": "03f0d1907798990f1d6d8cf445fb071bebbb6cf3"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+                "uid": 270
+            },
+            "2.4.6": {
+                "name": "wpackagist-plugin/all-in-one-seo-pack",
+                "version": "2.4.6",
+                "version_normalized": "2.4.6.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
+                    "reference": "tags/2.4.6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/all-in-one-seo-pack/wpackagist-plugin-all-in-one-seo-pack-2.4.6-813b6b.zip",
+                    "reference": "tags/2.4.6",
+                    "shasum": "789dee848d4840f172f109970a668cb53e7131d1"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+                "uid": 271
+            },
+            "2.4.6.1": {
+                "name": "wpackagist-plugin/all-in-one-seo-pack",
+                "version": "2.4.6.1",
+                "version_normalized": "2.4.6.1",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
+                    "reference": "tags/2.4.6.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/all-in-one-seo-pack/wpackagist-plugin-all-in-one-seo-pack-2.4.6.1-84c3a0.zip",
+                    "reference": "tags/2.4.6.1",
+                    "shasum": "e5df6b1b4a0273ff32f44303eca847490ddcb517"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+                "uid": 272
+            },
+            "2.5": {
+                "name": "wpackagist-plugin/all-in-one-seo-pack",
+                "version": "2.5",
+                "version_normalized": "2.5.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
+                    "reference": "tags/2.5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/all-in-one-seo-pack/wpackagist-plugin-all-in-one-seo-pack-2.5-8db8cc.zip",
+                    "reference": "tags/2.5",
+                    "shasum": "05a877b32a929c30f5c363b8044651533812faaa"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+                "uid": 273
+            },
+            "2.6.1": {
+                "name": "wpackagist-plugin/all-in-one-seo-pack",
+                "version": "2.6.1",
+                "version_normalized": "2.6.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
+                    "reference": "tags/2.6.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/all-in-one-seo-pack/wpackagist-plugin-all-in-one-seo-pack-2.6.1-55591d.zip",
+                    "reference": "tags/2.6.1",
+                    "shasum": "277c51ea56b912b2db2bea567d50249d42eaa2de"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+                "uid": 274
+            },
+            "2.7.2": {
+                "name": "wpackagist-plugin/all-in-one-seo-pack",
+                "version": "2.7.2",
+                "version_normalized": "2.7.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
+                    "reference": "tags/2.7.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/all-in-one-seo-pack/wpackagist-plugin-all-in-one-seo-pack-2.7.2-3c6456.zip",
+                    "reference": "tags/2.7.2",
+                    "shasum": "86ba7ae3602f2423073d4d8666ffdd27b50075ee"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+                "uid": 275
+            },
+            "2.7.3": {
+                "name": "wpackagist-plugin/all-in-one-seo-pack",
+                "version": "2.7.3",
+                "version_normalized": "2.7.3.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
+                    "reference": "tags/2.7.3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/all-in-one-seo-pack/wpackagist-plugin-all-in-one-seo-pack-2.7.3-b283b3.zip",
+                    "reference": "tags/2.7.3",
+                    "shasum": "a3fc96e54d44d3fcaeef13839693ff39b10deeff"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+                "uid": 276
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/all-in-one-seo-pack",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/all-in-one-seo-pack/wpackagist-plugin-all-in-one-seo-pack-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "f753a7ce4b5db141366bcd2dbe6e9821eee4b0e0"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2018-08-13T18:53:02+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/",
+                "uid": 277
+            }
+        }
+    }
+}
