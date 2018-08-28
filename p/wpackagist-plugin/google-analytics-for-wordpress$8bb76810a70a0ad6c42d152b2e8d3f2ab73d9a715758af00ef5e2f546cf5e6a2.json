@@ -1,0 +1,28 @@
+{
+    "packages": {
+        "wpackagist-plugin/google-analytics-for-wordpress": {
+            "7.0.7": {
+                "name": "wpackagist-plugin/google-analytics-for-wordpress",
+                "version": "7.0.7",
+                "version_normalized": "7.0.7.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/google-analytics-for-wordpress/",
+                    "reference": "tags/7.0.7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/google-analytics-for-wordpress/wpackagist-plugin-google-analytics-for-wordpress-7.0.7-eea177.zip",
+                    "reference": "tags/7.0.7",
+                    "shasum": "5bbbde79f6bd34c372fad4b41ed81e3dd1fe3600"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/google-analytics-for-wordpress/",
+                "uid": 376
+            }
+        }
+    }
+}

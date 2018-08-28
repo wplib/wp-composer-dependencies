@@ -1,0 +1,161 @@
+{
+    "packages": {
+        "wpackagist-plugin/regenerate-thumbnails": {
+            "2.2.6": {
+                "name": "wpackagist-plugin/regenerate-thumbnails",
+                "version": "2.2.6",
+                "version_normalized": "2.2.6.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/regenerate-thumbnails/",
+                    "reference": "tags/2.2.6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/regenerate-thumbnails/wpackagist-plugin-regenerate-thumbnails-2.2.6-b4f2c7.zip",
+                    "reference": "tags/2.2.6",
+                    "shasum": "f8f5597f12535811479693ffcb4fcdd8851e2885"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/regenerate-thumbnails/",
+                "uid": 539
+            },
+            "2.3.0": {
+                "name": "wpackagist-plugin/regenerate-thumbnails",
+                "version": "2.3.0",
+                "version_normalized": "2.3.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/regenerate-thumbnails/",
+                    "reference": "tags/2.3.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/regenerate-thumbnails/wpackagist-plugin-regenerate-thumbnails-2.3.0-0526d0.zip",
+                    "reference": "tags/2.3.0",
+                    "shasum": "63d8b7eafb6982e53e6f168ccfb43d154a14151e"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/regenerate-thumbnails/",
+                "uid": 540
+            },
+            "2.3.1": {
+                "name": "wpackagist-plugin/regenerate-thumbnails",
+                "version": "2.3.1",
+                "version_normalized": "2.3.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/regenerate-thumbnails/",
+                    "reference": "tags/2.3.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/regenerate-thumbnails/wpackagist-plugin-regenerate-thumbnails-2.3.1-9d0c29.zip",
+                    "reference": "tags/2.3.1",
+                    "shasum": "1e51bf0183824706418451f180dc4dc75bde0a07"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/regenerate-thumbnails/",
+                "uid": 541
+            },
+            "3.0.0": {
+                "name": "wpackagist-plugin/regenerate-thumbnails",
+                "version": "3.0.0",
+                "version_normalized": "3.0.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/regenerate-thumbnails/",
+                    "reference": "tags/3.0.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/regenerate-thumbnails/wpackagist-plugin-regenerate-thumbnails-3.0.0-9b19a9.zip",
+                    "reference": "tags/3.0.0",
+                    "shasum": "1b1a927e8e91c9c753a848ee395656b4b50fd5d2"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/regenerate-thumbnails/",
+                "uid": 542
+            },
+            "3.0.1": {
+                "name": "wpackagist-plugin/regenerate-thumbnails",
+                "version": "3.0.1",
+                "version_normalized": "3.0.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/regenerate-thumbnails/",
+                    "reference": "tags/3.0.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/regenerate-thumbnails/wpackagist-plugin-regenerate-thumbnails-3.0.1-8b786a.zip",
+                    "reference": "tags/3.0.1",
+                    "shasum": "be79149019261378fba8594544b04e60450e3329"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/regenerate-thumbnails/",
+                "uid": 543
+            },
+            "3.0.2": {
+                "name": "wpackagist-plugin/regenerate-thumbnails",
+                "version": "3.0.2",
+                "version_normalized": "3.0.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/regenerate-thumbnails/",
+                    "reference": "tags/3.0.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/regenerate-thumbnails/wpackagist-plugin-regenerate-thumbnails-3.0.2-2bbb2d.zip",
+                    "reference": "tags/3.0.2",
+                    "shasum": "4527dc8cab00effed681ac17d472382de74bf13c"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/regenerate-thumbnails/",
+                "uid": 544
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/regenerate-thumbnails",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/regenerate-thumbnails/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/regenerate-thumbnails/wpackagist-plugin-regenerate-thumbnails-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "9bf86c905dc315f65455bc496ffe7956b59c37aa"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2018-01-28T22:28:25+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/regenerate-thumbnails/",
+                "uid": 545
+            }
+        }
+    }
+}
