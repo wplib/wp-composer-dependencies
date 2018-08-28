@@ -2649,7 +2649,6 @@
                 },
                 "time": "2018-08-27T14:46:02+00:00",
                 "type": "wordpress-core",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0-or-later"
                 ],

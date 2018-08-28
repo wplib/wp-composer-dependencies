@@ -69,13 +69,13 @@
             "sha256": "9cab57de6f01375ef999752bad6935235a0402a04f3e29348cd8bfdffc71c0c8"
         },
         "composer/installers": {
-            "sha256": "5c47fb3a42ec28337245b4862544412a0958e103344f0302fe9292adeccf202c"
+            "sha256": "ea85a851769cde2d6a99b91daacfd83f290d64d14f087cd4dab6ca988b43e706"
         },
         "htmlburger/carbon-fields": {
             "sha256": "027761526b715018fb960d691316568847dfe0f7688431f48f3e82bcdee2c3bb"
         },
         "johnpbloch/wordpress-core": {
-            "sha256": "91f2225a4d6ad8e32d859ca2839aa41c8d9b8502fb07ece36293744833caa5d6"
+            "sha256": "48aed9cf2a2411bc5a8c7ad01e1779b66c824e0014d1347e0f244ff1864732cd"
         },
         "johnpbloch/wordpress-core-installer": {
             "sha256": "b4a1f9013de474afc7e8f8a8429f1f5e327c418d46bf6ca44f1af61f2fde8d24"
