@@ -69,13 +69,13 @@
             "sha256": "9cab57de6f01375ef999752bad6935235a0402a04f3e29348cd8bfdffc71c0c8"
         },
         "composer/installers": {
-            "sha256": "d545220f24c852e1c9e928993e9e6d5cf69c11e3a4989753020b21d4953827b1"
+            "sha256": "5c47fb3a42ec28337245b4862544412a0958e103344f0302fe9292adeccf202c"
         },
         "htmlburger/carbon-fields": {
             "sha256": "027761526b715018fb960d691316568847dfe0f7688431f48f3e82bcdee2c3bb"
         },
         "johnpbloch/wordpress-core": {
-            "sha256": "81f276599aa5488883e3071c5fbdc0793e78952b62961d8a558f0d99d8f3edaa"
+            "sha256": "91f2225a4d6ad8e32d859ca2839aa41c8d9b8502fb07ece36293744833caa5d6"
         },
         "johnpbloch/wordpress-core-installer": {
             "sha256": "b4a1f9013de474afc7e8f8a8429f1f5e327c418d46bf6ca44f1af61f2fde8d24"
@@ -189,7 +189,7 @@
             "sha256": "33d92c5f679d6e50d99806c5e2a4f54e4935e12982a23546707f366a08852423"
         },
         "wpackagist-plugin/meta-box": {
-            "sha256": "66e72505bb4b2c3e437ba269cab5efd4b981b2df62babba18f83750a2995fbe0"
+            "sha256": "bb24619e58664e99d7e3b0b6afd252c3965062b4f60e21d6c29fcea002fc8c33"
         },
         "wpackagist-plugin/mini-twitter-feed": {
             "sha256": "c8214ab5f630aa0905c6f62116ff348372b9cc63a0bf80f44bcb87f2ab379a60"
@@ -216,7 +216,7 @@
             "sha256": "f78ed8d90f95a87f2aa783a435c59947d75897cab0fc6a1edfabb41414dcad3a"
         },
         "wpackagist-plugin/publish-to-apple-news": {
-            "sha256": "69b28e78e47e73d8fd14b9b5434264958b7bf9e5d1c1d642a7107b2290efcdf8"
+            "sha256": "c72c1671e6bde8411ca243590f199f179f736159360db6db85e4fba9bda7cdff"
         },
         "wpackagist-plugin/query-monitor": {
             "sha256": "b167075e71ee8d797eaad0cc21e500eba464c5f6c46a0c67256f9dd2c239bfc5"
@@ -312,7 +312,7 @@
             "sha256": "aefcd297ebe5c28ea231f5107f7f75b693b49676f723d66e09f574ead577f42a"
         },
         "wpackagist-plugin/wp-statistics": {
-            "sha256": "81341170728d46d2e1942133a4b791f0e5b2b1ead6dab1aa23db52b110b7d6b2"
+            "sha256": "b8278e3fc88f1e773e0c8e5a092b810634ac341624ea504b2f6e14f6ef03ba96"
         },
         "wpackagist-plugin/wp-user-avatar": {
             "sha256": "d58b30df2bf54460bf2dd56a90000f048cf39c3bb0fcaee61ba243139a2cf36f"
