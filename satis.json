@@ -90,6 +90,7 @@
         "artifacts/essential-addons-cs": ">=2.0.0",
         "artifacts/facetwp": ">=2.5",
         "artifacts/google-analytics-for-wordpress": ">=5.5.4",
+        "artifacts/gravity-forms": ">=2.3.3.6",
         "artifacts/ml-slider-pro": ">=2.6.6",
         "artifacts/revslider": ">=5.4.6.6",
         "artifacts/spam-free-wordpress": ">=2.2.6",
