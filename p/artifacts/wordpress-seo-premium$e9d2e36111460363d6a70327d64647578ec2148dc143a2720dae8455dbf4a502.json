@@ -1,0 +1,51 @@
+{
+    "packages": {
+        "artifacts/wordpress-seo-premium": {
+            "3.2.4": {
+                "name": "artifacts/wordpress-seo-premium",
+                "version": "3.2.4",
+                "version_normalized": "3.2.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/artifacts/wordpress-seo-premium/artifacts-wordpress-seo-premium-3.2.4.zip",
+                    "reference": null,
+                    "shasum": "cad6139c32b020468084e6a4b8211a7fcd2bb416"
+                },
+                "require": {
+                    "wplib/wp-composer-installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "uid": 39
+            },
+            "3.4": {
+                "name": "artifacts/wordpress-seo-premium",
+                "version": "3.4",
+                "version_normalized": "3.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/artifacts/wordpress-seo-premium/artifacts-wordpress-seo-premium-3.4.zip",
+                    "reference": null,
+                    "shasum": "710bbef045685db3a5b5b77a8606e8eb99714d75"
+                },
+                "require": {
+                    "wplib/wp-composer-installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "uid": 40
+            },
+            "7.2": {
+                "name": "artifacts/wordpress-seo-premium",
+                "version": "7.2",
+                "version_normalized": "7.2.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/artifacts/wordpress-seo-premium/artifacts-wordpress-seo-premium-7.2.zip",
+                    "reference": null,
+                    "shasum": "6779e9b3e92a5e8b8d7ebea1172c03dd7bffdfc7"
+                },
+                "type": "wordpress-plugin",
+                "uid": 41
+            }
+        }
+    }
+}
