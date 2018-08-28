@@ -1,0 +1,30 @@
+{
+    "packages": {
+        "newclarity/slack-announcements": {
+            "dev-master": {
+                "name": "newclarity/slack-announcements",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/newclarity/slack-announcements",
+                    "reference": "f33a8a754dadf549191dc6f8a2308675be6aef13"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/newclarity/slack-announcements/newclarity-slack-announcements-dev-master-2a17dc.zip",
+                    "reference": "f33a8a754dadf549191dc6f8a2308675be6aef13",
+                    "shasum": "55654fbfad862adf15a25c73bd0c28ae954c4e7d"
+                },
+                "time": "2018-08-28T21:08:18+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "description": "WordPress plugin to optionally announce posts of supported types on selected Slack channels",
+                "homepage": "https://github.com/newclarity/slack-announcements",
+                "uid": 189
+            }
+        }
+    }
+}

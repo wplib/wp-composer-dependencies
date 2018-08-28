@@ -1,0 +1,117 @@
+{
+    "packages": {
+        "wpackagist-plugin/meta-box": {
+            "4.15.2": {
+                "name": "wpackagist-plugin/meta-box",
+                "version": "4.15.2",
+                "version_normalized": "4.15.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/meta-box/",
+                    "reference": "tags/4.15.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/meta-box/wpackagist-plugin-meta-box-4.15.2-37d170.zip",
+                    "reference": "tags/4.15.2",
+                    "shasum": "6a285e05ca4a1bed6dba40879a884950fd328cbf"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/meta-box/",
+                "uid": 429
+            },
+            "4.15.3": {
+                "name": "wpackagist-plugin/meta-box",
+                "version": "4.15.3",
+                "version_normalized": "4.15.3.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/meta-box/",
+                    "reference": "tags/4.15.3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/meta-box/wpackagist-plugin-meta-box-4.15.3-ab1a7b.zip",
+                    "reference": "tags/4.15.3",
+                    "shasum": "d4e4b5220fde8ebf9c3dee785ade0af2e234551f"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/meta-box/",
+                "uid": 430
+            },
+            "4.15.4": {
+                "name": "wpackagist-plugin/meta-box",
+                "version": "4.15.4",
+                "version_normalized": "4.15.4.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/meta-box/",
+                    "reference": "tags/4.15.4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/meta-box/wpackagist-plugin-meta-box-4.15.4-4d9cde.zip",
+                    "reference": "tags/4.15.4",
+                    "shasum": "f391d98c0db4d4f7d44807ebbcae4a78bcc44071"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/meta-box/",
+                "uid": 431
+            },
+            "4.19.10": {
+                "name": "wpackagist-plugin/meta-box",
+                "version": "4.19.10",
+                "version_normalized": "4.19.10.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/meta-box/",
+                    "reference": "tags/4.19.10"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/meta-box/wpackagist-plugin-meta-box-4.19.10-016f01.zip",
+                    "reference": "tags/4.19.10",
+                    "shasum": "374cc380f7ec91ab3bd01b63f3c5f531bfd839a6"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/meta-box/",
+                "uid": 432
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/meta-box",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/meta-box/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/meta-box/wpackagist-plugin-meta-box-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "9102de8411b4ab70692af33b9e8813cdc38e1be6"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2018-08-24T09:04:22+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/meta-box/",
+                "uid": 433
+            }
+        }
+    }
+}
