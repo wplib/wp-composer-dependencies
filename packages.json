@@ -72,304 +72,304 @@
             "sha256": "4101069f6ee836630a58a303e71e35a5360cb314238688f389597d299616eae9"
         },
         "composer/installers": {
-            "sha256": "0d72de1fb15fb3666df71f0eebe951f1d02439d7020b9c77ca58616bdcbb5298"
+            "sha256": "5be68d1208145210663a2558ce4a74d1ff73b06c93d5c9c10ec8bbe63242f841"
         },
         "htmlburger/carbon-fields": {
-            "sha256": "01ecdb292fe3955b44b5cfe8debeee843bfc8a12ac8d0659b3ba4336640e64f0"
+            "sha256": "0bf0e203f08fd5e075adf6069119801bcd3a975c98e336ffccedfda04813fff6"
         },
         "johnpbloch/wordpress-core": {
-            "sha256": "4aa866d0a915e5756cfad725ca86074a38235ffbe3a9425460621b1054f76896"
+            "sha256": "7fa5aecb4cdaf14a5a44e9a472ddc8094e326dbf0001e5e675e12edc00dced48"
         },
         "johnpbloch/wordpress-core-installer": {
-            "sha256": "c85a99dc0d02fa694a4d537402c2f28135cd20691acbf5a91413ac2151624a8d"
+            "sha256": "12c16d8bb29d502c283ddddc30d83807f675c0c00ae7f8770f562ec5a55ebf95"
         },
         "justintadlock/get-the-image": {
-            "sha256": "f067b78087266a61a3ac826d27a0194f477423a1f1b6f37a10db7c6f7c2e2108"
+            "sha256": "255a0d59c9b5843a7c3aacd0c3ec8cf6f5024068531772c1bd7148438dae3052"
         },
         "newclarity/post-expiration": {
-            "sha256": "c1e07bd3e2eb9f84f4e0b4c59c5c797e99435b813f5dce57ab764ce9a842cebc"
+            "sha256": "3478873f642174305610ba829abca23e5195270d1b177214ce864c8613877ee6"
         },
         "newclarity/site-releases": {
-            "sha256": "459eca4995b77657945db21817cd34572834f37e8f5c46d81105dfc495a6e0fd"
+            "sha256": "aad6a7af3501e448157c03f1d5dfb300efd244d26ea628cee74be0ea218b261c"
         },
         "newclarity/slack-announcements": {
-            "sha256": "ca7e3444e42a40bd97d6841e51d33da9127dc7270ebd23673d012c073d7d19ae"
+            "sha256": "8d42bb87f3cdd96fb4263ac59eab25e9b8fdb58ab454f4190c8a4d3de2609cea"
         },
         "nprds/nprapi-wordpress": {
-            "sha256": "9790827c12d180c40e03ca6638ef094e14450c10f6e74814c966aa5362ec5c7a"
+            "sha256": "6c7ba7aab50b6bed718417a80474ed6e9b2e29924880da3579806c58e74d5cc5"
         },
         "roots/soil": {
-            "sha256": "e2d33f2e4d29b5b5d5720b0048d860ef1dde26ec0aa74463367a3cc11a023f58"
+            "sha256": "a710b17bf178ed19f052c1f320f2755070fb4acf3c8709ad8a0c0fb550ad0132"
         },
         "wpackagist-plugin/301-redirects": {
-            "sha256": "c292933512460f3e51a0042f53fe680972f92b19fe4cb4a66f6625cb1c10992d"
+            "sha256": "e48bf6ebc8438ad4cca84b78605b79832d613675f6ce49d564798ba6482a0254"
         },
         "wpackagist-plugin/add-to-any": {
-            "sha256": "4ee3a75e7071af0ebf9b57f2c98a0a5a301bae4f58d02869f3d5e4008c41514f"
+            "sha256": "c970d8c59bba37669a37708176bd98cebea250413090796276df3d584b08df88"
         },
         "wpackagist-plugin/akismet": {
-            "sha256": "94395a00e2633566b6f57c10c41a4e0e8cd9e67a15f431965ea2e4a5aa22175a"
+            "sha256": "57f572018582f4e403de96a9a227523106c432730c2f730c3794eed4083034f6"
         },
         "wpackagist-plugin/all-in-one-seo-pack": {
-            "sha256": "5221db06ac35279cef45a74d86105ddc84155734707eae49b3fa5ffdd59cb453"
+            "sha256": "853e529b4261468f3f822cff3fb2132cd03066bb489aeb20512360fa81c6df17"
         },
         "wpackagist-plugin/amp": {
-            "sha256": "ab0707ae53fbab4a4f385e6a2e029902686a99975631559f8ac4dc68b1e93bc0"
+            "sha256": "d6e94050b38481565b7cd4b427eb88a1e9d86d77bc72d1c8a60dcc74ae5fe886"
         },
         "wpackagist-plugin/buddypress": {
-            "sha256": "4b389d54e7e1bfed63857bc92852d7efe5fdeaef4103b03c671b8768b1aa9708"
+            "sha256": "b191d2049ac8dd5b95b54c21ca2972e545cb8764ed8ce8fc1a3d7ac8fbfc2c33"
         },
         "wpackagist-plugin/capability-manager-enhanced": {
-            "sha256": "8de4f8030157053ffdfc862d167d6f253e9d564c98f3aba57a5c513bcf75df3d"
+            "sha256": "1e8356146b4b735669cd55d48d2acc9b2acdb228989f1d01d380f94276b7780b"
         },
         "wpackagist-plugin/carbon-fields": {
-            "sha256": "233f04c4e1512922fa895b7b729ef8f5cb1963b7928070898df6ad28e054bab7"
+            "sha256": "6aa22793abcd1c87a8f8d2f54d15f4e63c807bd6a5e7575626d0ed79ac5a0afc"
         },
         "wpackagist-plugin/category-rss-widget-menu": {
-            "sha256": "63a00ada6a384a5a69e046f76c507f0b4e06facc3e2fec14d466276e942a9299"
+            "sha256": "613a97d3a3092e49ea5ebe436d428b7037d8ee4baa40698da8caafa4beba7789"
         },
         "wpackagist-plugin/contact-form-7": {
-            "sha256": "7ad8f2d383444c3130719bf28f37d9581b6b4b1845d8da5c687d1f844e13b133"
+            "sha256": "561cb025ca6e222f79f27712d0148893be774dcc923d252346a8a11c6748453a"
         },
         "wpackagist-plugin/coschedule-by-todaymade": {
-            "sha256": "b5a569491777fcaad8297eee9dbea6e557a4413a70f69518f671ad92e23bd81e"
+            "sha256": "dfcdb0a93c8993c0df69c44a7994b5aad750761904c5d64ca6e5febcbcfb8565"
         },
         "wpackagist-plugin/disable-comments": {
-            "sha256": "c8ec17038347b7843604f97afbae24bd9ec05903129898d6925d817ef458f2c5"
+            "sha256": "a1d9a3f3902bb1b3696fefd82b406b7e3052def812b467ed3a5e3f95f9f0e460"
         },
         "wpackagist-plugin/disable-real-mime-check": {
-            "sha256": "06bb373d12716cf1878977ce82a43db5e258bf47ff1f54c8193c19d11c219929"
+            "sha256": "69746c914ca3d67eb853a5c18a7ccff16217f99e0d29c8649f6d470f61257749"
         },
         "wpackagist-plugin/dokan-lite": {
-            "sha256": "2199edb58736e74163679908a330eb6928481cf0f4c87f1b2f540dca444dd505"
+            "sha256": "a4803c74335cc140bdf856916a7aa7045ffc03d2f065e3ffbc1a73f67b3abf84"
         },
         "wpackagist-plugin/duplicate-post": {
-            "sha256": "cb03b6f376aecc5493770f8749b0cdae4b8e35e0ccf025a26092d33e77acd2e8"
+            "sha256": "3c89dd905df4b3fae830c190b697913a6e1bcdc8ffb5c3819a72816ed6e8195e"
         },
         "wpackagist-plugin/easy-author-image": {
-            "sha256": "a9275a622a24e2b8f8e3dbba0c7f4279cf59b0e58d1ac92ff3fcf6de557f4b7b"
+            "sha256": "db69467369973954311d56c57fe12356be183e688f41c4377bbdb2835ec37d31"
         },
         "wpackagist-plugin/easy-social-share-buttons": {
-            "sha256": "95295a53f294adbdb85c9bb9143e3df0e70eb70f59a1d1d3d6c5efbbb0532d21"
+            "sha256": "7adcb99220e8de148ee466bace64ead9d3ba10c4ee34f992618c1298e1c465fd"
         },
         "wpackagist-plugin/easy-taxonomy-images": {
-            "sha256": "0d822b96f5d283961032d4998e06a607d85a3a77bea4627c8fe2473f41fae523"
+            "sha256": "0bb394fb89f9b30f93ffef8d51a8eeed24f4a8dda508eeddec035dc724bc7ca2"
         },
         "wpackagist-plugin/embed-code-generator": {
-            "sha256": "802df9afa77f7aa785090edc0e930918c1f59fcff4587605b53a32bde46abe2a"
+            "sha256": "952d57bfb81fc362b29ab023c4aa9e81c14a38705d3179006edfceabcfd04700"
         },
         "wpackagist-plugin/faq-concertina": {
-            "sha256": "0a8947fd25a104e1cf31cd10e14dad576f42aa85cb8d67aaee687d2f2610d6e3"
+            "sha256": "d194877d81862b2ff3801af619c0f6328813369935ca2bf5f15b67daabc2fbe9"
         },
         "wpackagist-plugin/force-regenerate-thumbnails": {
-            "sha256": "16c08c8b3cc76ae963d176b16b60a30614d3ebfd134367144f61ac965751e627"
+            "sha256": "526d85181af3469c4f02796017e7e3d452bf33525c6f2ecb8fcd954e397b0ec9"
         },
         "wpackagist-plugin/google-analytics-dashboard-for-wp": {
-            "sha256": "9a6595f9108eb8d09c238cf5f1695c293b2325c160d3dc92ec456234d81c5808"
+            "sha256": "8141198be247dec5048098b77e0efb6c5cbd862ae13b969e86e9727782d573da"
         },
         "wpackagist-plugin/google-analytics-for-wordpress": {
-            "sha256": "8bb76810a70a0ad6c42d152b2e8d3f2ab73d9a715758af00ef5e2f546cf5e6a2"
+            "sha256": "72737eaa202e9ceee28fed80fa8574854687bca3097042eacea658c6e0bd2a31"
         },
         "wpackagist-plugin/google-sitemap-generator": {
-            "sha256": "284f77ba5c65db2d85cae6287d37da921d1d8f2987cd6b5d29aa2e408a1763ad"
+            "sha256": "096229c367007f338734e909795de44b5294690ae9105c224a50f7f2175112a6"
         },
         "wpackagist-plugin/googleanalytics": {
-            "sha256": "a236f46fa3db089cdc8ddaf52f073c013309131c6c0872deb949e03026de4d44"
+            "sha256": "44de50fb6285545b4b345cd92ca38cd3ed1b77f004059e032c080da544d4df5b"
         },
         "wpackagist-plugin/helpful-information": {
-            "sha256": "83d1a08f3e634f57ffa100b4044a6458f188eca4d2bcd76330d14d95ce74eeae"
+            "sha256": "8e74ae9ceab5e4455e8af47d1c808ed8a97ee4ff6a53e5d73f1df41791c871a0"
         },
         "wpackagist-plugin/imagemagick-sharpen-resized-images": {
-            "sha256": "a0b1fc2c6b7b9a41d3159f8705b110d2468e4f6f4232669dd6156c6714e3b287"
+            "sha256": "a30ae4fc2e68d8d201e792f5ed0dd94e844222b77fc6dee782334b86808588b5"
         },
         "wpackagist-plugin/infogram": {
-            "sha256": "859b69e279440455728deb74c5ac5917dba30a4786d73a27a46d801a9b423190"
+            "sha256": "82a9da8ae3d158e13b600337262a5b5215ab5916ed3bc1dd7475c8efa4b38c6c"
         },
         "wpackagist-plugin/intercom": {
-            "sha256": "764b4f016279a8c514d5869448f17d7d308f8810b9d4a5a0b7f97ec2403eb712"
+            "sha256": "51fab1c45aeb1a3adafb6a21d10d3f7dc4dafefc4712f3690a589b60c04dadb3"
         },
         "wpackagist-plugin/jetpack": {
-            "sha256": "3ad7bb05a254239fae55b9cf30f62c56648b7a01d5b5de485482adaf74f992e4"
+            "sha256": "1a71ffc88ed832209ce1b7b3e8119e7308f9a9b2358581f851684552182bdfa7"
         },
         "wpackagist-plugin/json-rest-api": {
-            "sha256": "9fb6697d39daa0b989ca071bc6bcb0bbb59a1bae9c9eb61feeef858a79c69e1b"
+            "sha256": "bc71a49e34fde8b741cc5af41c3f3a1796fbf6b2c2148404c2d197675ef7d595"
         },
         "wpackagist-plugin/meta-box": {
-            "sha256": "9ec87399d02bf75f09cd9cad66837310ddfc51e39d5b88444782b297c820add0"
+            "sha256": "67077ea78e0cb535b27c78d9f31bef49bc37f9c1adec4462531d0836b3f69d8d"
         },
         "wpackagist-plugin/mini-twitter-feed": {
-            "sha256": "21b23d83f6a3a29fba03710b5035f6ba8069d970dade2d529aaff4534249c050"
+            "sha256": "a6888a33b7498b1ad14c0c469ecb14499361412ecc9717c9091e95af4a0d913a"
         },
         "wpackagist-plugin/ml-slider": {
-            "sha256": "9b6f085428e8d0a78320091c5713848a9b29e379dc0cf5ef302e26cb2d7feb48"
+            "sha256": "a4b5cd6db8979a6da1852d9b40abcdc2705e7929e88c89eba1197dd952b3fb1e"
         },
         "wpackagist-plugin/ninja-tables": {
-            "sha256": "165c1daf36bba4c95fef7977c4aef8dc59ec2bfb8e1c8193b0a0ea91d182175b"
+            "sha256": "2d8eca47030dc0a44ebc8947541f30ade514ae27b4cb0bf46229a8c0dab40cb9"
         },
         "wpackagist-plugin/pagefrog": {
-            "sha256": "c2274e246cac7501fb3245b276a4650e18f677aa297aa61f0e42f1ddac3eac9a"
+            "sha256": "dd456b2a4933e2a59339074338cc605bd5f3939ec45da02611e742bb007e0728"
         },
         "wpackagist-plugin/pantheon-hud": {
-            "sha256": "1d4dc085a94ff5de91b2e862b7fbbda0eacb2d4f347f8509c6d7647c3a1185ca"
+            "sha256": "c2303614e1edd6b34b80b534f372fd739ed31859b41547a81e1441e1eaecb7a9"
         },
         "wpackagist-plugin/pods": {
-            "sha256": "d7fb486b87ec0d71d18bd7ceacada0d82efa586a66ef27889c4dd46b0e8e14ba"
+            "sha256": "5748db7bfaa80caa991864cff85c8de3bc2bae9de9a6d40ad4c19962d832ba6b"
         },
         "wpackagist-plugin/post-types-order": {
-            "sha256": "5b1b11b79f3997a5c6d985f17a34379733d8401da27137023525fd3db2f22d68"
+            "sha256": "b8355dba7330802eff96148c200c28e593990ffaed067d1f5e3db197ca6d7458"
         },
         "wpackagist-plugin/post-views-counter": {
-            "sha256": "8fbb63a6e9c0e6a4bee123572fc6dfc24a31b48e83ab637eb03aee62d7152c3d"
+            "sha256": "38b68a4458f340e4c50f1b5761520eebd5113d0d79692c4b849460f99f25d089"
         },
         "wpackagist-plugin/publish-to-apple-news": {
-            "sha256": "3e2bc407a4a6a50f94ccbff1cb89e48e19a3eccd6a0e2c1d2274bbed71b69ff2"
+            "sha256": "d09dfd6632545733c65fd37b52a815d309eaef61109b20b9c831612343dbb6a2"
         },
         "wpackagist-plugin/query-monitor": {
-            "sha256": "fb804c184de22df452ea33b0677b9ddacc8c1d68ca335e2e3a12eb0197d0cbc7"
+            "sha256": "2bcf53fada712b8ac8d0422366b35f5863ec526add26633b07e9ea847fd851b8"
         },
         "wpackagist-plugin/real-time-find-and-replace": {
-            "sha256": "91635c0befb00947b6c7ab643e4a01e240f2d4a243111e424e083ba1c95bd874"
+            "sha256": "47560772456df241c6c654901afca9951337e727a525019bbf8d022db1b86cbd"
         },
         "wpackagist-plugin/really-simple-ssl": {
-            "sha256": "31744cb7a9afd82db6c716a0e2b85dcd1a2efc17839ceea5b5b629e2f9a9efbe"
+            "sha256": "3dfe9f285f19ffd12ff12eb9a5d9efe22ae0d28d4b7ae7ffe0ac44cff4e2952a"
         },
         "wpackagist-plugin/recent-tweets-widget": {
-            "sha256": "b8b6b431189b493fbacd39350dbc2ad42bcc556cf14423a9d868a12b1c500e8b"
+            "sha256": "5ef444ed49ff9cfb0d1a1799af799136d4268cdc29ce4dda04b9b6f4cdee89fb"
         },
         "wpackagist-plugin/regenerate-thumbnails": {
-            "sha256": "54490fb815bded4c5ad5b315149c0ddabb2f2a28035e16544f8f2c65f85c6213"
+            "sha256": "0afb2791143c0e48d3375395ed2e306d9100c4a2ee6ba44a3fa00c0fc278743e"
         },
         "wpackagist-plugin/scripts-n-styles": {
-            "sha256": "a8c8f64295240e875f5026410a71cd5c282842b2481ddeff020adde897b5f39d"
+            "sha256": "97280c3568bb29073d58c5566689e8247fdc79a910a6a7747ae516332020ea3a"
         },
         "wpackagist-plugin/simple-301-redirects": {
-            "sha256": "af898f7300d53d367db5c510d0c7a1a62ee283ae48a791eed1b58df5a1a8f50e"
+            "sha256": "e349a2be773783bef3b237cb85f57bdb16079538f0bf2993ec51dc8eded4d0dd"
         },
         "wpackagist-plugin/simple-history": {
-            "sha256": "50abcb383d0b8082b15acace29a32bbaa99ace4847a5f52ffd948dac6ec5330f"
+            "sha256": "b4c9b1fc41445f9b27afb33292c7370ecf7aaa60e1ef4474ad2da5bf2f94f76e"
         },
         "wpackagist-plugin/simple-login-log": {
-            "sha256": "e6391ccdd401b7bc3d99e1b50e545453043cc4a400d87e652a0af2671a9304da"
+            "sha256": "357b4c4328ef49218d41f8621d3f793a894f18caaa9ac52ff20a9e0b7cf4b905"
         },
         "wpackagist-plugin/simple-page-ordering": {
-            "sha256": "e59d2179527e5bef4291b4b89a493beb10ae91bc97cf01d27e19ec1a0c624306"
+            "sha256": "8ae30a3da5e7d5ce381f856f0d13b6191608e7653c696fd86439f6a472de0459"
         },
         "wpackagist-plugin/smart-slider-3": {
-            "sha256": "692c568000b454f779a64ca075dc6357e92c800694c10fd6157fa01c8b5352e2"
+            "sha256": "d622edb1bb0b286e31c591e4fda39d89b194aa21a329bc0562d82d906a726c1a"
         },
         "wpackagist-plugin/social-media-auto-publish": {
-            "sha256": "76a42f83931b7900c89080cb1952963544710f1548fa070e909b2ccccad29737"
+            "sha256": "e8878ef6a225c9ffe9cefa32e3389548d80b0d5ac18e9963eadf974e5a981f48"
         },
         "wpackagist-plugin/spostarbust": {
-            "sha256": "9c988c422e0c45e337a4da36e4694fd009219250b155f94c29b19b8705111097"
+            "sha256": "1a66a36f47c9641261f75eb889fb08bcfd4f6fe4fdfc1082c0130f215a6b1d5b"
         },
         "wpackagist-plugin/spotim-comments": {
-            "sha256": "7fb670d4e7559bf01a175303494c5dd4d5e73df1482ea855695c3bea0d4803ca"
+            "sha256": "4afe4363ba0ce594cf96436285afcb1501ee7d9df03437ba3f961b9aa16b4105"
         },
         "wpackagist-plugin/stripe": {
-            "sha256": "1011e7f675d0c7e8491a5ef1b87080d4913c1e67f764c1873f62d46d339f640f"
+            "sha256": "81b25181c5f3cd03bd4521ef2279a9c323df9cf788787bc709545c7d46ac793f"
         },
         "wpackagist-plugin/sumome": {
-            "sha256": "68209a59e2d255e9481a220b6761e8b19ccd579c7c39d32f0fab95f49a2acd9b"
+            "sha256": "7273c180bc74f67e97b6d710b2a25a451ef94123532b5d853fc864d8225e4d27"
         },
         "wpackagist-plugin/tablepress": {
-            "sha256": "e2037f90f82197bd330bd500fb4280cef55e8d5ac582e36334f2f45fc2c3f4cc"
+            "sha256": "66e77bf37eb046d2f5caf4a455bf98fe0335d49ab71a8b0b2983715292d1c391"
         },
         "wpackagist-plugin/tailor": {
-            "sha256": "47b2d916c4897d81170c1264a5cc3f71ec3e585ec47d1547a9ae2c8e8c5b5e56"
+            "sha256": "2f0a30aeb9779f7ba9e49f35e6b52587cd3a6d01677e6cdb990a7c8db9b2f474"
         },
         "wpackagist-plugin/tealium": {
-            "sha256": "a3c1fc48cd90fc88fd53bb4f175a82b5199b098fa5369365d42827226a1ab725"
+            "sha256": "6d3aecf1444a3ebb8fb11b669a65c917daf4bde900132177f44d2ce5aa716501"
         },
         "wpackagist-plugin/term-management-tools": {
-            "sha256": "23b7c6999839a54639d362a2613771f4c66ebdd41d12f89119e836521f2e3076"
+            "sha256": "58b6f5c27a6f5b64d82115d17af603f31210e9c5c40850a33f80bd97ed8b6008"
         },
         "wpackagist-plugin/twenty-eleven-theme-extensions": {
-            "sha256": "970ef5239f41905b37965b2d5c537fed2678985e55e36b7eba356f45dece3a72"
+            "sha256": "a7b3fb6ed133080969eddef29f45745915e8263b8b3bd3223d113f7c5a23f037"
         },
         "wpackagist-plugin/use-google-libraries": {
-            "sha256": "30a20be0a49723499caa5f173325a3fcb56615d4022b555414217ea4c79106b3"
+            "sha256": "4f5a58df3c5b3132803c5705022e0acd191bfac687b173611a80b458f23c999b"
         },
         "wpackagist-plugin/widget-options": {
-            "sha256": "5e5b1626f22a0e8d74c8c2e8cfacf9e28601c0037769016c556bc89e782cf02b"
+            "sha256": "62616ffbecbeff200c3ff72c0ec1c522fb38716aaacd2a30ccf7c53c901ecb9e"
         },
         "wpackagist-plugin/woocommerce": {
-            "sha256": "1c2c0004be3ef96cda646b9af44c61f50a2f05696c7cfc54a250db9c3fcd2c62"
+            "sha256": "6b920d97aa6990a1ae4777db0a5a3fcf9d64d09fbe6dc44478d46baf96ceb2d2"
         },
         "wpackagist-plugin/woosidebars": {
-            "sha256": "d130f83a32130eac24e93812a03b9e81c058dfa405fcef5b9ee4fdc316fe2be6"
+            "sha256": "c5e5308b4a3469d1a77758c4583da2102993a3e95e38d411cfeae4cb3c9ce70c"
         },
         "wpackagist-plugin/wordpress-importer": {
-            "sha256": "27bfeed4abccdeef607bbdd2351deff9efe3400d1befc81008191257845497f0"
+            "sha256": "8a63f3b46beb7ea931fcca9867ce3a0ac1bb89fa9eb1dd3d4c7d218c9184557c"
         },
         "wpackagist-plugin/wordpress-seo": {
-            "sha256": "7b861958eaf72c1964b22feaddae03836171c282eaddff5533bce690d4e5f66a"
+            "sha256": "7ac9992a51a2b0b90c543ee68556d08c597b9dc18e2217cc2d777af19cdee681"
         },
         "wpackagist-plugin/wp-cfm": {
-            "sha256": "1e961a46dfd05133a2b49dacaa00b3c6f89d829e31a3edf53df2d2f8c9e21c32"
+            "sha256": "b7d6fd35f3542f77e8b4f1e191e0cc7e98381888cba578e91278d1996eedb505"
         },
         "wpackagist-plugin/wp-mail-smtp": {
-            "sha256": "fdb509764a4dd1fb0221d6562805a86a59571bc4e49cd7ab1b3d25f8c99619e0"
+            "sha256": "292c426a2efbfa4b4a7a950f6567240d6375036b3aaa7d05a1f9c413633e02e4"
         },
         "wpackagist-plugin/wp-native-php-sessions": {
-            "sha256": "9336e7a3fc58396edc2951fa6462eae619a592f6a5b969c5f636e37832486362"
+            "sha256": "318ee9e1efa8403b3c52c4cd1459e8f7928050261b6f6a65979e4bda096622b0"
         },
         "wpackagist-plugin/wp-redis": {
-            "sha256": "07f48665ae5eeb2a980cf2245a334bcaed778ae376ba6c3988f13a5bf930ca5d"
+            "sha256": "373f83a4e017a4631f173fb4cbe1bcb27bbd61055af4673ae05ddd378c75de55"
         },
         "wpackagist-plugin/wp-statistics": {
-            "sha256": "1e1afcf4f9ad125026e25d4715048b74891527148ce3e4e3ddc3b1049572d511"
+            "sha256": "10d7af52bd4f35d7198494a9a461f3aa2eb6427ecfebc1670deb07fdef0fe335"
         },
         "wpackagist-plugin/wp-user-avatar": {
-            "sha256": "61509c284d4dd3373bc62bad712d9d3ecc769b6906cb7d82cc391a3924423e95"
+            "sha256": "9e4b19627f43ae4ec879c9ab30cecad3fa31a4e432d3ae2cd43d604661a4018c"
         },
         "wpackagist-plugin/wpcat2tag-importer": {
-            "sha256": "8fdeb5fb66877402db3116926efce382fb563e0583d21f949f34acad771af331"
+            "sha256": "29af6904205ef0e73ecae59d7b6ad44ff80edf0874d33fd19280ef6e4869825d"
         },
         "wpackagist-plugin/wpdatatables": {
-            "sha256": "962b904898d849a7c3e1871a1f42b334ef4ce0f2540ecac4e224129c6254e2f7"
+            "sha256": "bdbd73d13bf9b04b9b29c2bed737026acc165dfbdaecca9ebf5993abc1d0ae55"
         },
         "wpackagist-plugin/wpe-advanced-cache-options": {
-            "sha256": "ead851ac5694d1a3f0895c377d716d10ea7ee4bc553258c47586ecc37c6c9638"
+            "sha256": "3303d1590dd369eafc47137981f627aabb491097007e93397b347e3294e10cb1"
         },
         "wpackagist-plugin/yith-woocommerce-wishlist": {
-            "sha256": "52790ea974db706ed2544cf9bce08b40a81b241cb4f60a968d1ef40de952f019"
+            "sha256": "2efa778304f846e8e4a8719faf808b4c9083bb0e252d4baffea7887e4fe37db4"
         },
         "wpackagist-theme/twentyeleven": {
-            "sha256": "f7ffe274e2cd0b1de7fdbafd454c6d902f8b3ecabf1e182a8972b6cc1006864c"
+            "sha256": "97fbc83250502e5359538253a4117cf7fe40de426498647fc8b68c3cd53f83e1"
         },
         "wpackagist-theme/twentyfifteen": {
-            "sha256": "a03e71e8bdbb81e299032fb8a6b920b38b7332295a3e24218ef23b8c44d731f6"
+            "sha256": "e78657533f8af58f386400696fd8ef66adc0bd78cc712d4df96e14a1ecee0637"
         },
         "wpackagist-theme/twentyfourteen": {
-            "sha256": "b9732c3bacbfc328a8d8a49041d089860632c25cf1bc2b4d1cdbfb6a16096c34"
+            "sha256": "03658e23b4d087ec851b3b2303d23ff3a86bc9270242d5184f46b4fd57e741d0"
         },
         "wpackagist-theme/twentyseventeen": {
-            "sha256": "82589bc4d49ceaf5883a4a34f5590d4560981e5c614a00d3b304792e2d016c57"
+            "sha256": "01c92733f3e01da90f4c21aaa2f6996e0e9c6f8b241b288fd5425048c20aca6a"
         },
         "wpackagist-theme/twentysixteen": {
-            "sha256": "77d88f46dd843529885a13e4a69b9721299ee06fbbdcd7d90a4aa83ad86bf904"
+            "sha256": "722d2a22fccba8185bcd6f02252f97a3c33ca9628457b9b5d3b1fc8999abf4e6"
         },
         "wpackagist-theme/twentyten": {
-            "sha256": "e61d9bcc749d5368bce8ec43d71f9f063084b7816e3df865ff274f5f097dc6e4"
+            "sha256": "49faad6275c840acd21f277a204dc7c1c2a820afc040258ebfb7dc9a25051e4a"
         },
         "wpackagist-theme/twentythirteen": {
-            "sha256": "57ecd3f2c9ce82236f07681c1202726fc0b8c1289804fa2c5699385891f13881"
+            "sha256": "1c04b931587c34455ce4ced622290389f3252ecc2511bcaf008d858ac225ae31"
         },
         "wpackagist-theme/twentytwelve": {
-            "sha256": "bb10a37cc3b52c56eb130bd19600507c3c70704494df04b65d3001c2f1c4b944"
+            "sha256": "06b829b63bee493958e7122bbf46c06cf3c3189559738c5bb7cd64a0086fb7be"
         },
         "wplib/wp-composer-installers": {
-            "sha256": "733ebb056cbc50ff213c0dfd03f3095d1f85e73ac8b37454b99e3a34bb8f1337"
+            "sha256": "5cd762fda35d542a9f3a79a93bddf811559ed1b1e8c8214b3448b77b9b4869a4"
         },
         "wplib/wp-devops": {
-            "sha256": "44273c20bf95664f783d727223f1815ad023d004d92e1df3af0b319d19091973"
+            "sha256": "80be876649272345a6cf3ea944a856d86c52fde9264eefb91560fb6cfd06a2f0"
         },
         "wplib/wplib": {
-            "sha256": "b9f18ccf5ab72f43cf3cf179b056d2d9812ceaeecd5c0bc69926ac9c93c59fd3"
+            "sha256": "a27443dd6284edf67aae24ca2cc1677651ecebb982f160b614eb9043311a49a6"
         },
         "wplib/wplib-box-support": {
-            "sha256": "f115cc57349172ad6de615b8f2a026ecbd7c3209eb2dd2c48e5f0e39474fa565"
+            "sha256": "d6ada03da0b50455084badbc59dd002c1c4fc8bdd5cab4655b5092b536099e2d"
         }
     }
 }

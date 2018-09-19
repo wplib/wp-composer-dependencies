@@ -1,0 +1,404 @@
+{
+    "packages": {
+        "wpackagist-plugin/woocommerce": {
+            "3.2.6": {
+                "name": "wpackagist-plugin/woocommerce",
+                "version": "3.2.6",
+                "version_normalized": "3.2.6.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/woocommerce/",
+                    "reference": "tags/3.2.6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/woocommerce/wpackagist-plugin-woocommerce-3.2.6-2477cc.zip",
+                    "reference": "tags/3.2.6",
+                    "shasum": "da548cb13d198c4f8008928a8aa38091239e4eb7"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/woocommerce/",
+                "uid": 653
+            },
+            "3.3.0": {
+                "name": "wpackagist-plugin/woocommerce",
+                "version": "3.3.0",
+                "version_normalized": "3.3.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/woocommerce/",
+                    "reference": "tags/3.3.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/woocommerce/wpackagist-plugin-woocommerce-3.3.0-c43987.zip",
+                    "reference": "tags/3.3.0",
+                    "shasum": "ac15b3dcd225ff016fd27410c7a6bfd52d8736f0"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/woocommerce/",
+                "uid": 654
+            },
+            "3.3.1": {
+                "name": "wpackagist-plugin/woocommerce",
+                "version": "3.3.1",
+                "version_normalized": "3.3.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/woocommerce/",
+                    "reference": "tags/3.3.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/woocommerce/wpackagist-plugin-woocommerce-3.3.1-1fd770.zip",
+                    "reference": "tags/3.3.1",
+                    "shasum": "262b3b48f280b172be8ab410eed6cc145c485c9f"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/woocommerce/",
+                "uid": 655
+            },
+            "3.3.2": {
+                "name": "wpackagist-plugin/woocommerce",
+                "version": "3.3.2",
+                "version_normalized": "3.3.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/woocommerce/",
+                    "reference": "tags/3.3.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/woocommerce/wpackagist-plugin-woocommerce-3.3.2-9fb9d6.zip",
+                    "reference": "tags/3.3.2",
+                    "shasum": "22d16b5c67f57e5b27dde3ee595cf1c2c65a119a"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/woocommerce/",
+                "uid": 656
+            },
+            "3.3.2-rc.1": {
+                "name": "wpackagist-plugin/woocommerce",
+                "version": "3.3.2-rc.1",
+                "version_normalized": "3.3.2.0-RC1",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/woocommerce/",
+                    "reference": "tags/3.3.2-rc.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/woocommerce/wpackagist-plugin-woocommerce-3.3.2-rc.1-7f4ef6.zip",
+                    "reference": "tags/3.3.2-rc.1",
+                    "shasum": "f14c69dc8fcc0461afd47ded8157998c6fd0f129"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/woocommerce/",
+                "uid": 657
+            },
+            "3.3.3": {
+                "name": "wpackagist-plugin/woocommerce",
+                "version": "3.3.3",
+                "version_normalized": "3.3.3.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/woocommerce/",
+                    "reference": "tags/3.3.3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/woocommerce/wpackagist-plugin-woocommerce-3.3.3-62fe76.zip",
+                    "reference": "tags/3.3.3",
+                    "shasum": "f8745ca498c24840695920a19fd254cd59386cad"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/woocommerce/",
+                "uid": 658
+            },
+            "3.3.4": {
+                "name": "wpackagist-plugin/woocommerce",
+                "version": "3.3.4",
+                "version_normalized": "3.3.4.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/woocommerce/",
+                    "reference": "tags/3.3.4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/woocommerce/wpackagist-plugin-woocommerce-3.3.4-b4f0ac.zip",
+                    "reference": "tags/3.3.4",
+                    "shasum": "0650fcdf01fd2fd98388ee505f841d5b54444d24"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/woocommerce/",
+                "uid": 659
+            },
+            "3.3.5": {
+                "name": "wpackagist-plugin/woocommerce",
+                "version": "3.3.5",
+                "version_normalized": "3.3.5.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/woocommerce/",
+                    "reference": "tags/3.3.5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/woocommerce/wpackagist-plugin-woocommerce-3.3.5-ae3ff0.zip",
+                    "reference": "tags/3.3.5",
+                    "shasum": "e5e6dd3a5919b71f1a2ef787a6e6aa04e55bb576"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/woocommerce/",
+                "uid": 660
+            },
+            "3.4.0": {
+                "name": "wpackagist-plugin/woocommerce",
+                "version": "3.4.0",
+                "version_normalized": "3.4.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/woocommerce/",
+                    "reference": "tags/3.4.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/woocommerce/wpackagist-plugin-woocommerce-3.4.0-9f8d69.zip",
+                    "reference": "tags/3.4.0",
+                    "shasum": "e1801244e3949c4d3341ca9057e6558cab5f4739"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/woocommerce/",
+                "uid": 661
+            },
+            "3.4.0-rc.2": {
+                "name": "wpackagist-plugin/woocommerce",
+                "version": "3.4.0-rc.2",
+                "version_normalized": "3.4.0.0-RC2",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/woocommerce/",
+                    "reference": "tags/3.4.0-rc.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/woocommerce/wpackagist-plugin-woocommerce-3.4.0-rc.2-eef36b.zip",
+                    "reference": "tags/3.4.0-rc.2",
+                    "shasum": "46ae8920b8d551464cdbfca05f4f23398a1dd0a9"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/woocommerce/",
+                "uid": 662
+            },
+            "3.4.0-beta.1": {
+                "name": "wpackagist-plugin/woocommerce",
+                "version": "3.4.0-beta.1",
+                "version_normalized": "3.4.0.0-beta1",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/woocommerce/",
+                    "reference": "tags/3.4.0-beta.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/woocommerce/wpackagist-plugin-woocommerce-3.4.0-beta.1-ffecf8.zip",
+                    "reference": "tags/3.4.0-beta.1",
+                    "shasum": "eb389e02e178490f34c37c63ea94f2ee5f14a300"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/woocommerce/",
+                "uid": 663
+            },
+            "3.4.1": {
+                "name": "wpackagist-plugin/woocommerce",
+                "version": "3.4.1",
+                "version_normalized": "3.4.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/woocommerce/",
+                    "reference": "tags/3.4.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/woocommerce/wpackagist-plugin-woocommerce-3.4.1-5e413f.zip",
+                    "reference": "tags/3.4.1",
+                    "shasum": "83c3b8cdb4bc40436c9e0744ba30155eed03c897"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/woocommerce/",
+                "uid": 664
+            },
+            "3.4.2": {
+                "name": "wpackagist-plugin/woocommerce",
+                "version": "3.4.2",
+                "version_normalized": "3.4.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/woocommerce/",
+                    "reference": "tags/3.4.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/woocommerce/wpackagist-plugin-woocommerce-3.4.2-fa05c8.zip",
+                    "reference": "tags/3.4.2",
+                    "shasum": "f5fc195a8c65cdd1f20b416617aa1656180ac8ae"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/woocommerce/",
+                "uid": 665
+            },
+            "3.4.3": {
+                "name": "wpackagist-plugin/woocommerce",
+                "version": "3.4.3",
+                "version_normalized": "3.4.3.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/woocommerce/",
+                    "reference": "tags/3.4.3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/woocommerce/wpackagist-plugin-woocommerce-3.4.3-321456.zip",
+                    "reference": "tags/3.4.3",
+                    "shasum": "fac9d0c7ef99f70879bdb204cee5f0463fd183bd"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/woocommerce/",
+                "uid": 666
+            },
+            "3.4.4": {
+                "name": "wpackagist-plugin/woocommerce",
+                "version": "3.4.4",
+                "version_normalized": "3.4.4.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/woocommerce/",
+                    "reference": "tags/3.4.4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/woocommerce/wpackagist-plugin-woocommerce-3.4.4-fa39e0.zip",
+                    "reference": "tags/3.4.4",
+                    "shasum": "989054132430c53a04bb20fc9376d522f3c0716f"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/woocommerce/",
+                "uid": 667
+            },
+            "3.4.5": {
+                "name": "wpackagist-plugin/woocommerce",
+                "version": "3.4.5",
+                "version_normalized": "3.4.5.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/woocommerce/",
+                    "reference": "tags/3.4.5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/woocommerce/wpackagist-plugin-woocommerce-3.4.5-bbe58e.zip",
+                    "reference": "tags/3.4.5",
+                    "shasum": "c84d3ca6f2f85fa3542d1e7843114979a2294a5f"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/woocommerce/",
+                "uid": 668
+            },
+            "3.5.0-beta.1": {
+                "name": "wpackagist-plugin/woocommerce",
+                "version": "3.5.0-beta.1",
+                "version_normalized": "3.5.0.0-beta1",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/woocommerce/",
+                    "reference": "tags/3.5.0-beta.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/woocommerce/wpackagist-plugin-woocommerce-3.5.0-beta.1-6a0044.zip",
+                    "reference": "tags/3.5.0-beta.1",
+                    "shasum": "9321ab5720f1a5939122cf87f4ef9cbbe3b963b3"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "homepage": "https://wordpress.org/plugins/woocommerce/",
+                "uid": 669
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/woocommerce",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/woocommerce/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/woocommerce/wpackagist-plugin-woocommerce-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "f287f53dc962484a60c3d5b1e2a795463fc1630e"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2018-09-12T20:02:06+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/woocommerce/",
+                "uid": 670
+            }
+        }
+    }
+}

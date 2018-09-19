@@ -1,0 +1,51 @@
+{
+    "packages": {
+        "wpackagist-plugin/use-google-libraries": {
+            "1.6.2.3": {
+                "name": "wpackagist-plugin/use-google-libraries",
+                "version": "1.6.2.3",
+                "version_normalized": "1.6.2.3",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/use-google-libraries/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/use-google-libraries/wpackagist-plugin-use-google-libraries-1.6.2.3-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "82d7520a88b8814edd4ca798dc328910a2395c6c"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/use-google-libraries/",
+                "uid": 649
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/use-google-libraries",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/use-google-libraries/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/use-google-libraries/wpackagist-plugin-use-google-libraries-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "82d7520a88b8814edd4ca798dc328910a2395c6c"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2017-05-03T23:42:14+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/use-google-libraries/",
+                "uid": 650
+            }
+        }
+    }
+}
