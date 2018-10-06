@@ -1,0 +1,294 @@
+{
+    "packages": {
+        "wpackagist-plugin/coschedule-by-todaymade": {
+            "2.4.18": {
+                "name": "wpackagist-plugin/coschedule-by-todaymade",
+                "version": "2.4.18",
+                "version_normalized": "2.4.18.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/coschedule-by-todaymade/",
+                    "reference": "tags/2.4.18"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/coschedule-by-todaymade/wpackagist-plugin-coschedule-by-todaymade-2.4.18-b722eb.zip",
+                    "reference": "tags/2.4.18",
+                    "shasum": "ebe1914416bfdaede7c058e4990d96c69be00ac4"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/coschedule-by-todaymade/",
+                "uid": 323
+            },
+            "3.0.0": {
+                "name": "wpackagist-plugin/coschedule-by-todaymade",
+                "version": "3.0.0",
+                "version_normalized": "3.0.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/coschedule-by-todaymade/",
+                    "reference": "tags/3.0.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/coschedule-by-todaymade/wpackagist-plugin-coschedule-by-todaymade-3.0.0-9b19a9.zip",
+                    "reference": "tags/3.0.0",
+                    "shasum": "d9bf34632854ce916d4ddb19cc69066faa11db5e"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/coschedule-by-todaymade/",
+                "uid": 324
+            },
+            "3.0.1": {
+                "name": "wpackagist-plugin/coschedule-by-todaymade",
+                "version": "3.0.1",
+                "version_normalized": "3.0.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/coschedule-by-todaymade/",
+                    "reference": "tags/3.0.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/coschedule-by-todaymade/wpackagist-plugin-coschedule-by-todaymade-3.0.1-8b786a.zip",
+                    "reference": "tags/3.0.1",
+                    "shasum": "8170bcbde7ac9420d7e7a65e7d8c22edd656ad3a"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/coschedule-by-todaymade/",
+                "uid": 325
+            },
+            "3.0.2": {
+                "name": "wpackagist-plugin/coschedule-by-todaymade",
+                "version": "3.0.2",
+                "version_normalized": "3.0.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/coschedule-by-todaymade/",
+                    "reference": "tags/3.0.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/coschedule-by-todaymade/wpackagist-plugin-coschedule-by-todaymade-3.0.2-2bbb2d.zip",
+                    "reference": "tags/3.0.2",
+                    "shasum": "b8df3416f8f5dded7e563894381413a07e8b663a"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/coschedule-by-todaymade/",
+                "uid": 326
+            },
+            "3.0.3": {
+                "name": "wpackagist-plugin/coschedule-by-todaymade",
+                "version": "3.0.3",
+                "version_normalized": "3.0.3.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/coschedule-by-todaymade/",
+                    "reference": "tags/3.0.3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/coschedule-by-todaymade/wpackagist-plugin-coschedule-by-todaymade-3.0.3-e4e81c.zip",
+                    "reference": "tags/3.0.3",
+                    "shasum": "c8bb1e0f57a1f9294f9643a744a3c7a16f57c019"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/coschedule-by-todaymade/",
+                "uid": 327
+            },
+            "3.0.4": {
+                "name": "wpackagist-plugin/coschedule-by-todaymade",
+                "version": "3.0.4",
+                "version_normalized": "3.0.4.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/coschedule-by-todaymade/",
+                    "reference": "tags/3.0.4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/coschedule-by-todaymade/wpackagist-plugin-coschedule-by-todaymade-3.0.4-2eac3e.zip",
+                    "reference": "tags/3.0.4",
+                    "shasum": "b6109b22d436e06fff343e384ccbfd8a16f6044e"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/coschedule-by-todaymade/",
+                "uid": 328
+            },
+            "3.0.5": {
+                "name": "wpackagist-plugin/coschedule-by-todaymade",
+                "version": "3.0.5",
+                "version_normalized": "3.0.5.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/coschedule-by-todaymade/",
+                    "reference": "tags/3.0.5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/coschedule-by-todaymade/wpackagist-plugin-coschedule-by-todaymade-3.0.5-09ce85.zip",
+                    "reference": "tags/3.0.5",
+                    "shasum": "2b7b0a0c4c3a01b659115b4cda9f87d66d449e9e"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/coschedule-by-todaymade/",
+                "uid": 329
+            },
+            "3.1.0": {
+                "name": "wpackagist-plugin/coschedule-by-todaymade",
+                "version": "3.1.0",
+                "version_normalized": "3.1.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/coschedule-by-todaymade/",
+                    "reference": "tags/3.1.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/coschedule-by-todaymade/wpackagist-plugin-coschedule-by-todaymade-3.1.0-84f4e3.zip",
+                    "reference": "tags/3.1.0",
+                    "shasum": "834bc97ea145db0c56afd4c96a2779f3c8cb3727"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/coschedule-by-todaymade/",
+                "uid": 330
+            },
+            "3.1.1": {
+                "name": "wpackagist-plugin/coschedule-by-todaymade",
+                "version": "3.1.1",
+                "version_normalized": "3.1.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/coschedule-by-todaymade/",
+                    "reference": "tags/3.1.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/coschedule-by-todaymade/wpackagist-plugin-coschedule-by-todaymade-3.1.1-a67b13.zip",
+                    "reference": "tags/3.1.1",
+                    "shasum": "8c537e597bd845befc84332fbc44d1c404f1d8d8"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/coschedule-by-todaymade/",
+                "uid": 331
+            },
+            "3.2.0": {
+                "name": "wpackagist-plugin/coschedule-by-todaymade",
+                "version": "3.2.0",
+                "version_normalized": "3.2.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/coschedule-by-todaymade/",
+                    "reference": "tags/3.2.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/coschedule-by-todaymade/wpackagist-plugin-coschedule-by-todaymade-3.2.0-fd0d81.zip",
+                    "reference": "tags/3.2.0",
+                    "shasum": "799e5f940a935e2e9e55b228c9eb040dab317b93"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/coschedule-by-todaymade/",
+                "uid": 332
+            },
+            "3.2.1": {
+                "name": "wpackagist-plugin/coschedule-by-todaymade",
+                "version": "3.2.1",
+                "version_normalized": "3.2.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/coschedule-by-todaymade/",
+                    "reference": "tags/3.2.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/coschedule-by-todaymade/wpackagist-plugin-coschedule-by-todaymade-3.2.1-6b66e6.zip",
+                    "reference": "tags/3.2.1",
+                    "shasum": "247f059e25a1cad9e95c5f82d14705daf76033f1"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/coschedule-by-todaymade/",
+                "uid": 333
+            },
+            "3.2.2": {
+                "name": "wpackagist-plugin/coschedule-by-todaymade",
+                "version": "3.2.2",
+                "version_normalized": "3.2.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/coschedule-by-todaymade/",
+                    "reference": "tags/3.2.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/coschedule-by-todaymade/wpackagist-plugin-coschedule-by-todaymade-3.2.2-6802d4.zip",
+                    "reference": "tags/3.2.2",
+                    "shasum": "8b3c5cb1a7c39988adca1695cadf6e6664cacc1f"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "homepage": "https://wordpress.org/plugins/coschedule-by-todaymade/",
+                "uid": 334
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/coschedule-by-todaymade",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/coschedule-by-todaymade/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/coschedule-by-todaymade/wpackagist-plugin-coschedule-by-todaymade-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "41b5218fd38fae6ca8b5b3228cf37a2c633560b0"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2018-09-26T18:02:07+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/coschedule-by-todaymade/",
+                "uid": 335
+            }
+        }
+    }
+}

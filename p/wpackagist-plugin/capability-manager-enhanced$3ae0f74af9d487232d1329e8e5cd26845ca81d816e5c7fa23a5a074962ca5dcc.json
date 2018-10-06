@@ -1,0 +1,119 @@
+{
+    "packages": {
+        "wpackagist-plugin/capability-manager-enhanced": {
+            "1.5.10": {
+                "name": "wpackagist-plugin/capability-manager-enhanced",
+                "version": "1.5.10",
+                "version_normalized": "1.5.10.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/capability-manager-enhanced/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/capability-manager-enhanced/wpackagist-plugin-capability-manager-enhanced-1.5.10-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "8202456e84b6bc7e41b4e749214703f3bbe2616a"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "homepage": "https://wordpress.org/plugins/capability-manager-enhanced/",
+                "uid": 300
+            },
+            "1.5.7": {
+                "name": "wpackagist-plugin/capability-manager-enhanced",
+                "version": "1.5.7",
+                "version_normalized": "1.5.7.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/capability-manager-enhanced/",
+                    "reference": "tags/1.5.7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/capability-manager-enhanced/wpackagist-plugin-capability-manager-enhanced-1.5.7-6a5214.zip",
+                    "reference": "tags/1.5.7",
+                    "shasum": "2a8598c41154031ed56132e7a9719810c2b43def"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/capability-manager-enhanced/",
+                "uid": 301
+            },
+            "1.5.8": {
+                "name": "wpackagist-plugin/capability-manager-enhanced",
+                "version": "1.5.8",
+                "version_normalized": "1.5.8.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/capability-manager-enhanced/",
+                    "reference": "tags/1.5.8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/capability-manager-enhanced/wpackagist-plugin-capability-manager-enhanced-1.5.8-286d87.zip",
+                    "reference": "tags/1.5.8",
+                    "shasum": "1f2410464a8efad00f63953dada27d90bcc98da4"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/capability-manager-enhanced/",
+                "uid": 302
+            },
+            "1.5.9": {
+                "name": "wpackagist-plugin/capability-manager-enhanced",
+                "version": "1.5.9",
+                "version_normalized": "1.5.9.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/capability-manager-enhanced/",
+                    "reference": "tags/1.5.9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/capability-manager-enhanced/wpackagist-plugin-capability-manager-enhanced-1.5.9-fd5225.zip",
+                    "reference": "tags/1.5.9",
+                    "shasum": "b946ec29988be6e09d4dbd6a1b6bdf68da2486df"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "homepage": "https://wordpress.org/plugins/capability-manager-enhanced/",
+                "uid": 303
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/capability-manager-enhanced",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/capability-manager-enhanced/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/capability-manager-enhanced/wpackagist-plugin-capability-manager-enhanced-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "bd620da2b0d260b814b2fbe9b4a5444b9afba621"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2018-09-25T16:19:27+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/capability-manager-enhanced/",
+                "uid": 304
+            }
+        }
+    }
+}
