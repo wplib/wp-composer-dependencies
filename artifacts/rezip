@@ -1,0 +1,33 @@
+#!/usr/bin/env bash
+
+RED=
+YELLOW=
+CYAN=
+GREEN=
+RESET=
+
+function usage() {
+    echo 
+    echo "${RED}ERROR: ${YELLOW}$2${RESET}"
+    echo 
+    echo -e "${CYAN}Usage:" 
+    echo 
+    echo -e "\trezip <${GREEN}artifact_dir${CYAN}> <${GREEN}version${CYAN}>\n${RESET}"
+    exit $1 
+}
+
+
+if [ "" == "$1" ]; then
+    usage 2 "You need to pass a directory."
+fi
+
+if [ ! -d "$1" ]; then
+    usage 2 "[$1] is not a directory."
+fi
+
+if [ "" == "$2" ]; then
+    usage 3 "You need to pass a version."
+fi
+
+rm -f "$1-$2".zip 
+zip -r -X "$1-$2".zip "$1"
