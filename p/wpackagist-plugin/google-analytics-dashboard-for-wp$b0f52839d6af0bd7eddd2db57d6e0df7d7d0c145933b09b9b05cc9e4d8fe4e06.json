@@ -1,0 +1,183 @@
+{
+    "packages": {
+        "wpackagist-plugin/google-analytics-dashboard-for-wp": {
+            "5.3": {
+                "name": "wpackagist-plugin/google-analytics-dashboard-for-wp",
+                "version": "5.3",
+                "version_normalized": "5.3.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/google-analytics-dashboard-for-wp/",
+                    "reference": "tags/5.3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/google-analytics-dashboard-for-wp/wpackagist-plugin-google-analytics-dashboard-for-wp-5.3-1d9639.zip",
+                    "reference": "tags/5.3",
+                    "shasum": "6c1d333dc41c3744b682813161a4d422e9ad23d2"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/google-analytics-dashboard-for-wp/",
+                "uid": 383
+            },
+            "5.3.1": {
+                "name": "wpackagist-plugin/google-analytics-dashboard-for-wp",
+                "version": "5.3.1",
+                "version_normalized": "5.3.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/google-analytics-dashboard-for-wp/",
+                    "reference": "tags/5.3.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/google-analytics-dashboard-for-wp/wpackagist-plugin-google-analytics-dashboard-for-wp-5.3.1-7cbce1.zip",
+                    "reference": "tags/5.3.1",
+                    "shasum": "cdda47e39ed9035759f1321ea3c37efcde185bbd"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/google-analytics-dashboard-for-wp/",
+                "uid": 384
+            },
+            "5.3.1.1": {
+                "name": "wpackagist-plugin/google-analytics-dashboard-for-wp",
+                "version": "5.3.1.1",
+                "version_normalized": "5.3.1.1",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/google-analytics-dashboard-for-wp/",
+                    "reference": "tags/5.3.1.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/google-analytics-dashboard-for-wp/wpackagist-plugin-google-analytics-dashboard-for-wp-5.3.1.1-7cac60.zip",
+                    "reference": "tags/5.3.1.1",
+                    "shasum": "34ffe02c8cc7c6ee0e3318ebac455b143df67f59"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/google-analytics-dashboard-for-wp/",
+                "uid": 385
+            },
+            "5.3.2": {
+                "name": "wpackagist-plugin/google-analytics-dashboard-for-wp",
+                "version": "5.3.2",
+                "version_normalized": "5.3.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/google-analytics-dashboard-for-wp/",
+                    "reference": "tags/5.3.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/google-analytics-dashboard-for-wp/wpackagist-plugin-google-analytics-dashboard-for-wp-5.3.2-a2a77c.zip",
+                    "reference": "tags/5.3.2",
+                    "shasum": "12f2084cd6cddc0cfc4e5062fd54aee4f03239d1"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/google-analytics-dashboard-for-wp/",
+                "uid": 386
+            },
+            "5.3.3": {
+                "name": "wpackagist-plugin/google-analytics-dashboard-for-wp",
+                "version": "5.3.3",
+                "version_normalized": "5.3.3.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/google-analytics-dashboard-for-wp/",
+                    "reference": "tags/5.3.3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/google-analytics-dashboard-for-wp/wpackagist-plugin-google-analytics-dashboard-for-wp-5.3.3-c8919c.zip",
+                    "reference": "tags/5.3.3",
+                    "shasum": "39598fe0ac3df39fe162449075c27372b1cc8ec6"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/google-analytics-dashboard-for-wp/",
+                "uid": 387
+            },
+            "5.3.4": {
+                "name": "wpackagist-plugin/google-analytics-dashboard-for-wp",
+                "version": "5.3.4",
+                "version_normalized": "5.3.4.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/google-analytics-dashboard-for-wp/",
+                    "reference": "tags/5.3.4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/google-analytics-dashboard-for-wp/wpackagist-plugin-google-analytics-dashboard-for-wp-5.3.4-89cadc.zip",
+                    "reference": "tags/5.3.4",
+                    "shasum": "59dcb6ef0a547d03ce510bbabb4d5bac8eebe6df"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/google-analytics-dashboard-for-wp/",
+                "uid": 388
+            },
+            "5.3.5": {
+                "name": "wpackagist-plugin/google-analytics-dashboard-for-wp",
+                "version": "5.3.5",
+                "version_normalized": "5.3.5.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/google-analytics-dashboard-for-wp/",
+                    "reference": "tags/5.3.5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/google-analytics-dashboard-for-wp/wpackagist-plugin-google-analytics-dashboard-for-wp-5.3.5-a531f8.zip",
+                    "reference": "tags/5.3.5",
+                    "shasum": "86e3e292f620460ad1159a61b681a700164c5153"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/google-analytics-dashboard-for-wp/",
+                "uid": 389
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/google-analytics-dashboard-for-wp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/google-analytics-dashboard-for-wp/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/google-analytics-dashboard-for-wp/wpackagist-plugin-google-analytics-dashboard-for-wp-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "3aedffc23cf863680355aae672bc5a1905b131cc"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2018-06-12T15:41:24+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/google-analytics-dashboard-for-wp/",
+                "uid": 390
+            }
+        }
+    }
+}

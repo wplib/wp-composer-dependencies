@@ -1,0 +1,339 @@
+{
+    "packages": {
+        "wpackagist-plugin/dokan-lite": {
+            "2.7.4": {
+                "name": "wpackagist-plugin/dokan-lite",
+                "version": "2.7.4",
+                "version_normalized": "2.7.4.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/dokan-lite/",
+                    "reference": "tags/2.7.4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/dokan-lite/wpackagist-plugin-dokan-lite-2.7.4-e0feb1.zip",
+                    "reference": "tags/2.7.4",
+                    "shasum": "4ad22a95d9f3a7a0de6bd0d6a0cf0e7c7c85cc1f"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/dokan-lite/",
+                "uid": 345
+            },
+            "2.7.5": {
+                "name": "wpackagist-plugin/dokan-lite",
+                "version": "2.7.5",
+                "version_normalized": "2.7.5.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/dokan-lite/",
+                    "reference": "tags/2.7.5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/dokan-lite/wpackagist-plugin-dokan-lite-2.7.5-12fa9f.zip",
+                    "reference": "tags/2.7.5",
+                    "shasum": "7be431c43aded2eeb01fd2deb7af7fa631ce44ba"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/dokan-lite/",
+                "uid": 346
+            },
+            "2.7.6": {
+                "name": "wpackagist-plugin/dokan-lite",
+                "version": "2.7.6",
+                "version_normalized": "2.7.6.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/dokan-lite/",
+                    "reference": "tags/2.7.6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/dokan-lite/wpackagist-plugin-dokan-lite-2.7.6-e2252a.zip",
+                    "reference": "tags/2.7.6",
+                    "shasum": "0c9fb57b1ec3902f3eda8a566d01c13933d7f014"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/dokan-lite/",
+                "uid": 347
+            },
+            "2.7.7": {
+                "name": "wpackagist-plugin/dokan-lite",
+                "version": "2.7.7",
+                "version_normalized": "2.7.7.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/dokan-lite/",
+                    "reference": "tags/2.7.7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/dokan-lite/wpackagist-plugin-dokan-lite-2.7.7-7b319e.zip",
+                    "reference": "tags/2.7.7",
+                    "shasum": "97e8c00da9d8ad56913eae45bad90e6e1ce15e39"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/dokan-lite/",
+                "uid": 348
+            },
+            "2.7.8": {
+                "name": "wpackagist-plugin/dokan-lite",
+                "version": "2.7.8",
+                "version_normalized": "2.7.8.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/dokan-lite/",
+                    "reference": "tags/2.7.8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/dokan-lite/wpackagist-plugin-dokan-lite-2.7.8-dde06e.zip",
+                    "reference": "tags/2.7.8",
+                    "shasum": "bab7bac3a3f06eaf8f8d7ecefc6856d64e2c8f53"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/dokan-lite/",
+                "uid": 349
+            },
+            "2.8.0": {
+                "name": "wpackagist-plugin/dokan-lite",
+                "version": "2.8.0",
+                "version_normalized": "2.8.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/dokan-lite/",
+                    "reference": "tags/2.8.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/dokan-lite/wpackagist-plugin-dokan-lite-2.8.0-ee3aab.zip",
+                    "reference": "tags/2.8.0",
+                    "shasum": "27bb321a14b986d2e0c3389d0e2619427c4a7c63"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/dokan-lite/",
+                "uid": 350
+            },
+            "2.8.1": {
+                "name": "wpackagist-plugin/dokan-lite",
+                "version": "2.8.1",
+                "version_normalized": "2.8.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/dokan-lite/",
+                    "reference": "tags/2.8.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/dokan-lite/wpackagist-plugin-dokan-lite-2.8.1-0ad58f.zip",
+                    "reference": "tags/2.8.1",
+                    "shasum": "ec841a6ede7aea0e11fbbf4da1d8984106bfa8eb"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/dokan-lite/",
+                "uid": 351
+            },
+            "2.8.2": {
+                "name": "wpackagist-plugin/dokan-lite",
+                "version": "2.8.2",
+                "version_normalized": "2.8.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/dokan-lite/",
+                    "reference": "tags/2.8.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/dokan-lite/wpackagist-plugin-dokan-lite-2.8.2-8dd170.zip",
+                    "reference": "tags/2.8.2",
+                    "shasum": "fee1fd213d6b9d401e4f3a9822775a45a8654fa0"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/dokan-lite/",
+                "uid": 352
+            },
+            "2.8.3": {
+                "name": "wpackagist-plugin/dokan-lite",
+                "version": "2.8.3",
+                "version_normalized": "2.8.3.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/dokan-lite/",
+                    "reference": "tags/2.8.3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/dokan-lite/wpackagist-plugin-dokan-lite-2.8.3-50cd6e.zip",
+                    "reference": "tags/2.8.3",
+                    "shasum": "05af864a824bb44db20688d2cde0cd42429622ba"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/dokan-lite/",
+                "uid": 353
+            },
+            "2.8.4": {
+                "name": "wpackagist-plugin/dokan-lite",
+                "version": "2.8.4",
+                "version_normalized": "2.8.4.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/dokan-lite/",
+                    "reference": "tags/2.8.4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/dokan-lite/wpackagist-plugin-dokan-lite-2.8.4-4edaf5.zip",
+                    "reference": "tags/2.8.4",
+                    "shasum": "0ade5e3e674c78ac954c35a77853016b6e942be9"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/dokan-lite/",
+                "uid": 354
+            },
+            "2.8.5": {
+                "name": "wpackagist-plugin/dokan-lite",
+                "version": "2.8.5",
+                "version_normalized": "2.8.5.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/dokan-lite/",
+                    "reference": "tags/2.8.5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/dokan-lite/wpackagist-plugin-dokan-lite-2.8.5-f45e4d.zip",
+                    "reference": "tags/2.8.5",
+                    "shasum": "36b613b2e200cb1bcc44fcb7f0d992e772cd1bfd"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/dokan-lite/",
+                "uid": 355
+            },
+            "2.8.6": {
+                "name": "wpackagist-plugin/dokan-lite",
+                "version": "2.8.6",
+                "version_normalized": "2.8.6.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/dokan-lite/",
+                    "reference": "tags/2.8.6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/dokan-lite/wpackagist-plugin-dokan-lite-2.8.6-7ba036.zip",
+                    "reference": "tags/2.8.6",
+                    "shasum": "b850126d690806620a34006f546bebe88e1bcb51"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/dokan-lite/",
+                "uid": 356
+            },
+            "2.9.0": {
+                "name": "wpackagist-plugin/dokan-lite",
+                "version": "2.9.0",
+                "version_normalized": "2.9.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/dokan-lite/",
+                    "reference": "tags/2.9.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/dokan-lite/wpackagist-plugin-dokan-lite-2.9.0-7a6795.zip",
+                    "reference": "tags/2.9.0",
+                    "shasum": "7a6657856c9301619b799d38ffe219650392f938"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "homepage": "https://wordpress.org/plugins/dokan-lite/",
+                "uid": 357
+            },
+            "2.9.1": {
+                "name": "wpackagist-plugin/dokan-lite",
+                "version": "2.9.1",
+                "version_normalized": "2.9.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/dokan-lite/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/dokan-lite/wpackagist-plugin-dokan-lite-2.9.1-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "3830da0b67fee8bf39c200e9af69281d7512e0ed"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "homepage": "https://wordpress.org/plugins/dokan-lite/",
+                "uid": 358
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/dokan-lite",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/dokan-lite/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/dokan-lite/wpackagist-plugin-dokan-lite-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "e109c8dffb0776a3dce77cac56a84cf8e03cf2b3"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2018-10-11T12:38:31+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/dokan-lite/",
+                "uid": 359
+            }
+        }
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "packages": {
+        "wpackagist-plugin/simple-page-ordering": {
+            "2.2.4": {
+                "name": "wpackagist-plugin/simple-page-ordering",
+                "version": "2.2.4",
+                "version_normalized": "2.2.4.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/simple-page-ordering/",
+                    "reference": "tags/2.2.4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/simple-page-ordering/wpackagist-plugin-simple-page-ordering-2.2.4-fc7d63.zip",
+                    "reference": "tags/2.2.4",
+                    "shasum": "791ee12a5ffa8374b75727d0a12af5327646bca7"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/simple-page-ordering/",
+                "uid": 584
+            },
+            "2.3": {
+                "name": "wpackagist-plugin/simple-page-ordering",
+                "version": "2.3",
+                "version_normalized": "2.3.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/simple-page-ordering/",
+                    "reference": "tags/2.3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/simple-page-ordering/wpackagist-plugin-simple-page-ordering-2.3-0be1d0.zip",
+                    "reference": "tags/2.3",
+                    "shasum": "7aacb27d872e22eef5b780a6c4cb5dd326ccb108"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/simple-page-ordering/",
+                "uid": 585
+            },
+            "2.3.1": {
+                "name": "wpackagist-plugin/simple-page-ordering",
+                "version": "2.3.1",
+                "version_normalized": "2.3.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/simple-page-ordering/",
+                    "reference": "tags/2.3.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/simple-page-ordering/wpackagist-plugin-simple-page-ordering-2.3.1-9d0c29.zip",
+                    "reference": "tags/2.3.1",
+                    "shasum": "2bbf30579968a1b42bffa72b5acc455b047f8ca0"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/simple-page-ordering/",
+                "uid": 586
+            },
+            "2.3.2": {
+                "name": "wpackagist-plugin/simple-page-ordering",
+                "version": "2.3.2",
+                "version_normalized": "2.3.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/simple-page-ordering/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/simple-page-ordering/wpackagist-plugin-simple-page-ordering-2.3.2-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "e581dd4e78db8d1bd5f0bcffac01f654721f7c74"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/simple-page-ordering/",
+                "uid": 587
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/simple-page-ordering",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/simple-page-ordering/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/simple-page-ordering/wpackagist-plugin-simple-page-ordering-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "8b2f3f9ad22d1e7e2b587d55b693ae63dc8c4e6b"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2018-05-08T19:07:13+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/simple-page-ordering/",
+                "uid": 588
+            }
+        }
+    }
+}

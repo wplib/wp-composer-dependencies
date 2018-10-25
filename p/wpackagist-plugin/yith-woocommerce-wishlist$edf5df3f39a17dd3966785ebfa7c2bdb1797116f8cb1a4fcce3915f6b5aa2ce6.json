@@ -1,0 +1,162 @@
+{
+    "packages": {
+        "wpackagist-plugin/yith-woocommerce-wishlist": {
+            "2.2.0": {
+                "name": "wpackagist-plugin/yith-woocommerce-wishlist",
+                "version": "2.2.0",
+                "version_normalized": "2.2.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/yith-woocommerce-wishlist/",
+                    "reference": "tags/2.2.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/yith-woocommerce-wishlist/wpackagist-plugin-yith-woocommerce-wishlist-2.2.0-0a281b.zip",
+                    "reference": "tags/2.2.0",
+                    "shasum": "bcb812312fb3084118cd201840942191e7f3bc85"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/yith-woocommerce-wishlist/",
+                "uid": 819
+            },
+            "2.2.1": {
+                "name": "wpackagist-plugin/yith-woocommerce-wishlist",
+                "version": "2.2.1",
+                "version_normalized": "2.2.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/yith-woocommerce-wishlist/",
+                    "reference": "tags/2.2.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/yith-woocommerce-wishlist/wpackagist-plugin-yith-woocommerce-wishlist-2.2.1-c9d2a1.zip",
+                    "reference": "tags/2.2.1",
+                    "shasum": "55a6b338836a77e9a9b308b9b35d64435bac5dac"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/yith-woocommerce-wishlist/",
+                "uid": 820
+            },
+            "2.2.2": {
+                "name": "wpackagist-plugin/yith-woocommerce-wishlist",
+                "version": "2.2.2",
+                "version_normalized": "2.2.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/yith-woocommerce-wishlist/",
+                    "reference": "tags/2.2.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/yith-woocommerce-wishlist/wpackagist-plugin-yith-woocommerce-wishlist-2.2.2-0f628a.zip",
+                    "reference": "tags/2.2.2",
+                    "shasum": "7600e3ba9cd4860cce84d15d1edde9a8790ec1fe"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/yith-woocommerce-wishlist/",
+                "uid": 821
+            },
+            "2.2.3": {
+                "name": "wpackagist-plugin/yith-woocommerce-wishlist",
+                "version": "2.2.3",
+                "version_normalized": "2.2.3.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/yith-woocommerce-wishlist/",
+                    "reference": "tags/2.2.3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/yith-woocommerce-wishlist/wpackagist-plugin-yith-woocommerce-wishlist-2.2.3-e12e2d.zip",
+                    "reference": "tags/2.2.3",
+                    "shasum": "ee717ba75873b3c63a47d8ef56cc7875880b56b4"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/yith-woocommerce-wishlist/",
+                "uid": 822
+            },
+            "2.2.4": {
+                "name": "wpackagist-plugin/yith-woocommerce-wishlist",
+                "version": "2.2.4",
+                "version_normalized": "2.2.4.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/yith-woocommerce-wishlist/",
+                    "reference": "tags/2.2.4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/yith-woocommerce-wishlist/wpackagist-plugin-yith-woocommerce-wishlist-2.2.4-fc7d63.zip",
+                    "reference": "tags/2.2.4",
+                    "shasum": "a7e44f1d145d8f90c527c8aaa93cc9705e344769"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/yith-woocommerce-wishlist/",
+                "uid": 823
+            },
+            "2.2.5": {
+                "name": "wpackagist-plugin/yith-woocommerce-wishlist",
+                "version": "2.2.5",
+                "version_normalized": "2.2.5.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/yith-woocommerce-wishlist/",
+                    "reference": "tags/2.2.5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/yith-woocommerce-wishlist/wpackagist-plugin-yith-woocommerce-wishlist-2.2.5-1e22ce.zip",
+                    "reference": "tags/2.2.5",
+                    "shasum": "98e89bb13bb4c12d0d6724d4a1ff979c78a4ca35"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "homepage": "https://wordpress.org/plugins/yith-woocommerce-wishlist/",
+                "uid": 824
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/yith-woocommerce-wishlist",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/yith-woocommerce-wishlist/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/yith-woocommerce-wishlist/wpackagist-plugin-yith-woocommerce-wishlist-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "9b62f4da609de5b8f7f5b1cf206659c80382bee4"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2018-10-25T09:53:38+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/yith-woocommerce-wishlist/",
+                "uid": 825
+            }
+        }
+    }
+}

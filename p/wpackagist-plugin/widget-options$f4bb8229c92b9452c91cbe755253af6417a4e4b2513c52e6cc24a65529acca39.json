@@ -1,0 +1,52 @@
+{
+    "packages": {
+        "wpackagist-plugin/widget-options": {
+            "3.7.2": {
+                "name": "wpackagist-plugin/widget-options",
+                "version": "3.7.2",
+                "version_normalized": "3.7.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/widget-options/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/widget-options/wpackagist-plugin-widget-options-3.7.2-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "2787c7fad2403577a29a2905ef4d00ff2cbb863b"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "homepage": "https://wordpress.org/plugins/widget-options/",
+                "uid": 675
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/widget-options",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/widget-options/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/widget-options/wpackagist-plugin-widget-options-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "175a8b5aead38e6704dc6f99e750012fc0efbba3"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2018-10-23T11:34:03+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/widget-options/",
+                "uid": 676
+            }
+        }
+    }
+}
