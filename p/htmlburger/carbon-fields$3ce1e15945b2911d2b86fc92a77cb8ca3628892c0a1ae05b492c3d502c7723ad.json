@@ -5860,13 +5860,13 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/htmlburger/carbon-fields",
-                    "reference": "60521570ccebb352219ac9d7df5eaebd36bf80dc"
+                    "reference": "81dc7f16fd15d1a432cd417fff8fb9e78deda52c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/htmlburger/carbon-fields/htmlburger-carbon-fields-v3.x-dev-6cdda2.zip",
-                    "reference": "60521570ccebb352219ac9d7df5eaebd36bf80dc",
-                    "shasum": "66167a182a39f2e172bd23536d1522d6ce77af7b"
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/htmlburger/carbon-fields/htmlburger-carbon-fields-v3.x-dev-e2d087.zip",
+                    "reference": "81dc7f16fd15d1a432cd417fff8fb9e78deda52c",
+                    "shasum": "7242094debbe7941ef4d99e2288b5f81a02169cf"
                 },
                 "require": {
                     "php": ">=5.3"
@@ -5875,8 +5875,9 @@
                     "mockery/mockery": "^0.9.7",
                     "phpunit/phpunit": "~4.8"
                 },
-                "time": "2018-11-16T12:58:33+00:00",
+                "time": "2018-11-16T13:47:20+00:00",
                 "type": "library",
+                "installation-source": "source",
                 "autoload": {
                     "psr-4": {
                         "Carbon_Fields\\": "core/"
