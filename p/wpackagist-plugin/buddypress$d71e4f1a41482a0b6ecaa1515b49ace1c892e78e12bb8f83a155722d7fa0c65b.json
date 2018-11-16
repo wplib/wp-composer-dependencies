@@ -196,7 +196,6 @@
                     "composer/installers": "~1.0"
                 },
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "homepage": "https://wordpress.org/plugins/buddypress/",
                 "uid": 306
             },
@@ -219,7 +218,6 @@
                     "composer/installers": "~1.0"
                 },
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "homepage": "https://wordpress.org/plugins/buddypress/",
                 "uid": 307
             },

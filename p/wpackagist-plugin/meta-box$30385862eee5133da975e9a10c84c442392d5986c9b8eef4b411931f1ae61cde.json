@@ -108,7 +108,6 @@
                     "composer/installers": "~1.0"
                 },
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "homepage": "https://wordpress.org/plugins/meta-box/",
                 "uid": 454
             },
@@ -131,7 +130,6 @@
                     "composer/installers": "~1.0"
                 },
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "homepage": "https://wordpress.org/plugins/meta-box/",
                 "uid": 455
             },

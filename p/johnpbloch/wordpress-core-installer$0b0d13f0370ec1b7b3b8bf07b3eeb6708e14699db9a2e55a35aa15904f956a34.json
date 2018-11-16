@@ -220,7 +220,6 @@
                 "extra": {
                     "class": "johnpbloch\\Composer\\WordPressCorePlugin"
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "johnpbloch\\Composer\\": "src/"
@@ -284,7 +283,6 @@
                 "extra": {
                     "class": "johnpbloch\\Composer\\WordPressCorePlugin"
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "johnpbloch\\Composer\\": "src/"
@@ -348,7 +346,6 @@
                 "extra": {
                     "class": "johnpbloch\\Composer\\WordPressCorePlugin"
                 },
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "johnpbloch\\Composer\\": "src/"

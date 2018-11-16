@@ -5877,7 +5877,6 @@
                 },
                 "time": "2018-11-16T12:58:33+00:00",
                 "type": "library",
-                "installation-source": "source",
                 "autoload": {
                     "psr-4": {
                         "Carbon_Fields\\": "core/"

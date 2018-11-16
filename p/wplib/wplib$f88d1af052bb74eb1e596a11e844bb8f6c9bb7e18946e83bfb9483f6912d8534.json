@@ -438,7 +438,6 @@
                 },
                 "time": "2018-11-06T18:10:16+00:00",
                 "type": "library",
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "WPLib_": "includes/"
@@ -503,7 +502,6 @@
                 },
                 "time": "2018-11-06T18:10:16+00:00",
                 "type": "library",
-                "installation-source": "source",
                 "autoload": {
                     "psr-0": {
                         "WPLib_": "includes/"
