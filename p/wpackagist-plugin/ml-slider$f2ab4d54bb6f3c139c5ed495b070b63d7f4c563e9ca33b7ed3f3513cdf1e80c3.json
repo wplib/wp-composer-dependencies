@@ -1,0 +1,535 @@
+{
+    "packages": {
+        "wpackagist-plugin/ml-slider": {
+            "3.10.0": {
+                "name": "wpackagist-plugin/ml-slider",
+                "version": "3.10.0",
+                "version_normalized": "3.10.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/ml-slider/",
+                    "reference": "tags/3.10.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/ml-slider/wpackagist-plugin-ml-slider-3.10.0-392dda.zip",
+                    "reference": "tags/3.10.0",
+                    "shasum": "2be826fd09404d93a127148f33eb5a8bbfb57fac"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/ml-slider/",
+                "uid": 460
+            },
+            "3.3.7": {
+                "name": "wpackagist-plugin/ml-slider",
+                "version": "3.3.7",
+                "version_normalized": "3.3.7.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/ml-slider/",
+                    "reference": "tags/3.3.7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/ml-slider/wpackagist-plugin-ml-slider-3.3.7-b6c8b1.zip",
+                    "reference": "tags/3.3.7",
+                    "shasum": "abb9a962d4ee2f361de572e15e41b9d7b24dad45"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/ml-slider/",
+                "uid": 461
+            },
+            "3.4": {
+                "name": "wpackagist-plugin/ml-slider",
+                "version": "3.4",
+                "version_normalized": "3.4.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/ml-slider/",
+                    "reference": "tags/3.4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/ml-slider/wpackagist-plugin-ml-slider-3.4-f25546.zip",
+                    "reference": "tags/3.4",
+                    "shasum": "7c1b48ebd928e509a2ea5602df669ac5f0c88675"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/ml-slider/",
+                "uid": 462
+            },
+            "3.4.1": {
+                "name": "wpackagist-plugin/ml-slider",
+                "version": "3.4.1",
+                "version_normalized": "3.4.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/ml-slider/",
+                    "reference": "tags/3.4.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/ml-slider/wpackagist-plugin-ml-slider-3.4.1-5e413f.zip",
+                    "reference": "tags/3.4.1",
+                    "shasum": "d9b6cc9fc840002df12462af2f0d9bf2a497295e"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/ml-slider/",
+                "uid": 463
+            },
+            "3.4.2": {
+                "name": "wpackagist-plugin/ml-slider",
+                "version": "3.4.2",
+                "version_normalized": "3.4.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/ml-slider/",
+                    "reference": "tags/3.4.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/ml-slider/wpackagist-plugin-ml-slider-3.4.2-fa05c8.zip",
+                    "reference": "tags/3.4.2",
+                    "shasum": "d1ba783ebc6741c4e15381bb9fec958e99311930"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/ml-slider/",
+                "uid": 464
+            },
+            "3.4.3": {
+                "name": "wpackagist-plugin/ml-slider",
+                "version": "3.4.3",
+                "version_normalized": "3.4.3.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/ml-slider/",
+                    "reference": "tags/3.4.3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/ml-slider/wpackagist-plugin-ml-slider-3.4.3-321456.zip",
+                    "reference": "tags/3.4.3",
+                    "shasum": "da4d9bf9ffe127781764a9dfc4f29a821480e76d"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/ml-slider/",
+                "uid": 465
+            },
+            "3.5": {
+                "name": "wpackagist-plugin/ml-slider",
+                "version": "3.5",
+                "version_normalized": "3.5.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/ml-slider/",
+                    "reference": "tags/3.5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/ml-slider/wpackagist-plugin-ml-slider-3.5-290414.zip",
+                    "reference": "tags/3.5",
+                    "shasum": "dc9a8eda59577ea2da68168df9f545afc71d001f"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/ml-slider/",
+                "uid": 466
+            },
+            "3.5.1": {
+                "name": "wpackagist-plugin/ml-slider",
+                "version": "3.5.1",
+                "version_normalized": "3.5.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/ml-slider/",
+                    "reference": "tags/3.5.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/ml-slider/wpackagist-plugin-ml-slider-3.5.1-2833b2.zip",
+                    "reference": "tags/3.5.1",
+                    "shasum": "0af9035c1b9246c6c504ef629261c84192e1fee0"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/ml-slider/",
+                "uid": 467
+            },
+            "3.6.0": {
+                "name": "wpackagist-plugin/ml-slider",
+                "version": "3.6.0",
+                "version_normalized": "3.6.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/ml-slider/",
+                    "reference": "tags/3.6.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/ml-slider/wpackagist-plugin-ml-slider-3.6.0-21e8ad.zip",
+                    "reference": "tags/3.6.0",
+                    "shasum": "f92901de1653024b2abe55f61447fd470107eaef"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/ml-slider/",
+                "uid": 468
+            },
+            "3.6.1": {
+                "name": "wpackagist-plugin/ml-slider",
+                "version": "3.6.1",
+                "version_normalized": "3.6.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/ml-slider/",
+                    "reference": "tags/3.6.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/ml-slider/wpackagist-plugin-ml-slider-3.6.1-73c8b4.zip",
+                    "reference": "tags/3.6.1",
+                    "shasum": "2b68656b50c7386a6df43ab93deab3e487413ab3"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/ml-slider/",
+                "uid": 469
+            },
+            "3.6.2": {
+                "name": "wpackagist-plugin/ml-slider",
+                "version": "3.6.2",
+                "version_normalized": "3.6.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/ml-slider/",
+                    "reference": "tags/3.6.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/ml-slider/wpackagist-plugin-ml-slider-3.6.2-c62cd3.zip",
+                    "reference": "tags/3.6.2",
+                    "shasum": "ee8708a4cae16380b14c02e420580a2bf7615af4"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/ml-slider/",
+                "uid": 470
+            },
+            "3.6.3": {
+                "name": "wpackagist-plugin/ml-slider",
+                "version": "3.6.3",
+                "version_normalized": "3.6.3.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/ml-slider/",
+                    "reference": "tags/3.6.3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/ml-slider/wpackagist-plugin-ml-slider-3.6.3-e325a4.zip",
+                    "reference": "tags/3.6.3",
+                    "shasum": "f19f49297335d4fb29abc05e3a66c876ca9f4bee"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/ml-slider/",
+                "uid": 471
+            },
+            "3.6.5": {
+                "name": "wpackagist-plugin/ml-slider",
+                "version": "3.6.5",
+                "version_normalized": "3.6.5.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/ml-slider/",
+                    "reference": "tags/3.6.5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/ml-slider/wpackagist-plugin-ml-slider-3.6.5-5dbfb6.zip",
+                    "reference": "tags/3.6.5",
+                    "shasum": "7e044f983174719da58ac87364321ea3161278a4"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/ml-slider/",
+                "uid": 472
+            },
+            "3.6.6": {
+                "name": "wpackagist-plugin/ml-slider",
+                "version": "3.6.6",
+                "version_normalized": "3.6.6.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/ml-slider/",
+                    "reference": "tags/3.6.6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/ml-slider/wpackagist-plugin-ml-slider-3.6.6-ab5ba1.zip",
+                    "reference": "tags/3.6.6",
+                    "shasum": "3e24144562b8553961e694df5d051c94c4ae803f"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/ml-slider/",
+                "uid": 473
+            },
+            "3.6.7": {
+                "name": "wpackagist-plugin/ml-slider",
+                "version": "3.6.7",
+                "version_normalized": "3.6.7.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/ml-slider/",
+                    "reference": "tags/3.6.7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/ml-slider/wpackagist-plugin-ml-slider-3.6.7-9a5e4d.zip",
+                    "reference": "tags/3.6.7",
+                    "shasum": "dc667a8758d8527bdb233bc2ea291715ce25bfff"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/ml-slider/",
+                "uid": 474
+            },
+            "3.6.8": {
+                "name": "wpackagist-plugin/ml-slider",
+                "version": "3.6.8",
+                "version_normalized": "3.6.8.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/ml-slider/",
+                    "reference": "tags/3.6.8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/ml-slider/wpackagist-plugin-ml-slider-3.6.8-1f6d87.zip",
+                    "reference": "tags/3.6.8",
+                    "shasum": "65914d08d1a1d445207a7d244707ea21120afcec"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/ml-slider/",
+                "uid": 475
+            },
+            "3.7.0": {
+                "name": "wpackagist-plugin/ml-slider",
+                "version": "3.7.0",
+                "version_normalized": "3.7.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/ml-slider/",
+                    "reference": "tags/3.7.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/ml-slider/wpackagist-plugin-ml-slider-3.7.0-8e508a.zip",
+                    "reference": "tags/3.7.0",
+                    "shasum": "5b746ec56af027a46c9b99a03186d912c8b52e1d"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/ml-slider/",
+                "uid": 476
+            },
+            "3.7.1": {
+                "name": "wpackagist-plugin/ml-slider",
+                "version": "3.7.1",
+                "version_normalized": "3.7.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/ml-slider/",
+                    "reference": "tags/3.7.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/ml-slider/wpackagist-plugin-ml-slider-3.7.1-f4870d.zip",
+                    "reference": "tags/3.7.1",
+                    "shasum": "1a390847fdd1152e7c1f2ff088a830c5a7abac30"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/ml-slider/",
+                "uid": 477
+            },
+            "3.7.2": {
+                "name": "wpackagist-plugin/ml-slider",
+                "version": "3.7.2",
+                "version_normalized": "3.7.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/ml-slider/",
+                    "reference": "tags/3.7.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/ml-slider/wpackagist-plugin-ml-slider-3.7.2-b6d671.zip",
+                    "reference": "tags/3.7.2",
+                    "shasum": "d4d34ab61dbd1bc2730fbd9cec3fa618ec934ee6"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/ml-slider/",
+                "uid": 478
+            },
+            "3.8.0": {
+                "name": "wpackagist-plugin/ml-slider",
+                "version": "3.8.0",
+                "version_normalized": "3.8.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/ml-slider/",
+                    "reference": "tags/3.8.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/ml-slider/wpackagist-plugin-ml-slider-3.8.0-c3b591.zip",
+                    "reference": "tags/3.8.0",
+                    "shasum": "cca7f99cf7b9cb6ebba40a4656d05c64eafad5ae"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/ml-slider/",
+                "uid": 479
+            },
+            "3.8.1": {
+                "name": "wpackagist-plugin/ml-slider",
+                "version": "3.8.1",
+                "version_normalized": "3.8.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/ml-slider/",
+                    "reference": "tags/3.8.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/ml-slider/wpackagist-plugin-ml-slider-3.8.1-124e0a.zip",
+                    "reference": "tags/3.8.1",
+                    "shasum": "1f1786f0fb3a9cc85059926aca9ff8bde7bb9d16"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/ml-slider/",
+                "uid": 480
+            },
+            "3.9.0": {
+                "name": "wpackagist-plugin/ml-slider",
+                "version": "3.9.0",
+                "version_normalized": "3.9.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/ml-slider/",
+                    "reference": "tags/3.9.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/ml-slider/wpackagist-plugin-ml-slider-3.9.0-547f66.zip",
+                    "reference": "tags/3.9.0",
+                    "shasum": "80593dc6fd39a7a4550ce3bc5b2438b7c1b7283f"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/ml-slider/",
+                "uid": 481
+            },
+            "3.9.1": {
+                "name": "wpackagist-plugin/ml-slider",
+                "version": "3.9.1",
+                "version_normalized": "3.9.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/ml-slider/",
+                    "reference": "tags/3.9.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/ml-slider/wpackagist-plugin-ml-slider-3.9.1-6b9186.zip",
+                    "reference": "tags/3.9.1",
+                    "shasum": "80a589e9289fee9e203e8f490ffec8df5a5c0d9e"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/ml-slider/",
+                "uid": 482
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/ml-slider",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/ml-slider/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/ml-slider/wpackagist-plugin-ml-slider-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "c2cac4714b6bb84f00fc3d4749d8565fee55c1cc"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2018-10-25T08:34:16+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/ml-slider/",
+                "uid": 483
+            }
+        }
+    }
+}

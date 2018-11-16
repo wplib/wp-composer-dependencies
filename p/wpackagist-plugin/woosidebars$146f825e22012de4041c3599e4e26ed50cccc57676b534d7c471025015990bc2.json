@@ -1,0 +1,95 @@
+{
+    "packages": {
+        "wpackagist-plugin/woosidebars": {
+            "1.4.3": {
+                "name": "wpackagist-plugin/woosidebars",
+                "version": "1.4.3",
+                "version_normalized": "1.4.3.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/woosidebars/",
+                    "reference": "tags/1.4.3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/woosidebars/wpackagist-plugin-woosidebars-1.4.3-9bc85e.zip",
+                    "reference": "tags/1.4.3",
+                    "shasum": "15df57192ab8dcb2bd65e13d0ee32cb88ae9f398"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/woosidebars/",
+                "uid": 718
+            },
+            "1.4.4": {
+                "name": "wpackagist-plugin/woosidebars",
+                "version": "1.4.4",
+                "version_normalized": "1.4.4.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/woosidebars/",
+                    "reference": "tags/1.4.4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/woosidebars/wpackagist-plugin-woosidebars-1.4.4-715610.zip",
+                    "reference": "tags/1.4.4",
+                    "shasum": "6ba965ad33871de850a01246cd68e6c89c4285af"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/woosidebars/",
+                "uid": 719
+            },
+            "1.4.5": {
+                "name": "wpackagist-plugin/woosidebars",
+                "version": "1.4.5",
+                "version_normalized": "1.4.5.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/woosidebars/",
+                    "reference": "tags/1.4.5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/woosidebars/wpackagist-plugin-woosidebars-1.4.5-f11af9.zip",
+                    "reference": "tags/1.4.5",
+                    "shasum": "eb2b7b942b66ae7c3192cc68e9ac9df50607c13d"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/woosidebars/",
+                "uid": 720
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/woosidebars",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/woosidebars/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/woosidebars/wpackagist-plugin-woosidebars-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "a9ce81f04946c7349da00bf401078a9c58ec3814"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2018-06-19T09:24:31+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/woosidebars/",
+                "uid": 721
+            }
+        }
+    }
+}
