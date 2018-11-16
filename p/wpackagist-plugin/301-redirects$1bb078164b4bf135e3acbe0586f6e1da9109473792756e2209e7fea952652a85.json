@@ -1,0 +1,28 @@
+{
+    "packages": {
+        "wpackagist-plugin/301-redirects": {
+            "0.3": {
+                "name": "wpackagist-plugin/301-redirects",
+                "version": "0.3",
+                "version_normalized": "0.3.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/301-redirects/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/301-redirects/wpackagist-plugin-301-redirects-0.3-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "d9cef1bf6e209a2a08b5ba5275cbd2b291670953"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/301-redirects/",
+                "uid": 202
+            }
+        }
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "packages": {
+        "wpackagist-plugin/really-simple-ssl": {
+            "3.1": {
+                "name": "wpackagist-plugin/really-simple-ssl",
+                "version": "3.1",
+                "version_normalized": "3.1.0.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/really-simple-ssl/",
+                    "reference": "tags/3.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/really-simple-ssl/wpackagist-plugin-really-simple-ssl-3.1-f8b101.zip",
+                    "reference": "tags/3.1",
+                    "shasum": "1fedcf5000562160ac5e721cbd31993c52da0941"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/really-simple-ssl/",
+                "uid": 557
+            },
+            "3.1.1": {
+                "name": "wpackagist-plugin/really-simple-ssl",
+                "version": "3.1.1",
+                "version_normalized": "3.1.1.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/really-simple-ssl/",
+                    "reference": "tags/3.1.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/really-simple-ssl/wpackagist-plugin-really-simple-ssl-3.1.1-a67b13.zip",
+                    "reference": "tags/3.1.1",
+                    "shasum": "751e5e19383f24c146c288b56057ec4877bf34d8"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/really-simple-ssl/",
+                "uid": 558
+            },
+            "3.1.2": {
+                "name": "wpackagist-plugin/really-simple-ssl",
+                "version": "3.1.2",
+                "version_normalized": "3.1.2.0",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/really-simple-ssl/",
+                    "reference": "tags/3.1.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/really-simple-ssl/wpackagist-plugin-really-simple-ssl-3.1.2-a8010a.zip",
+                    "reference": "tags/3.1.2",
+                    "shasum": "c5c7135a125baadd7e01f29e5f8af624131934fc"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "homepage": "https://wordpress.org/plugins/really-simple-ssl/",
+                "uid": 559
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin/really-simple-ssl",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://plugins.svn.wordpress.org/really-simple-ssl/",
+                    "reference": "trunk"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wplib.github.io/wp-composer-dependencies/downloads/wpackagist-plugin/really-simple-ssl/wpackagist-plugin-really-simple-ssl-dev-trunk-488784.zip",
+                    "reference": "trunk",
+                    "shasum": "32b9a2def5e28c2f4e78fc0b5210171fcb91519f"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2018-11-09T09:23:47+00:00",
+                "type": "wordpress-plugin",
+                "homepage": "https://wordpress.org/plugins/really-simple-ssl/",
+                "uid": 560
+            }
+        }
+    }
+}
